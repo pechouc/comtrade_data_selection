@@ -1,0 +1,892 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12371008437,12371008437,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28898,28898,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,383398,383398,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15153313,15153313,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26450562,26450562,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3948985,3948985,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,229939,229939,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5019698,5019698,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15356043,15356043,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1075,1075,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,82158,82158,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5927249,5927249,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,204046,204046,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81677,81677,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5592,5592,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,289775,289775,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1058694,1058694,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116583,116583,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3779226,3779226,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,636963,636963,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49789360,49789360,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4119630,4119630,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,69289,69289,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,761335,761335,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9957,9957,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1152,1152,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51366,51366,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,899830,899830,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,607381,607381,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4550948205,4550948205,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,118490519,118490519,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3200,3200,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,281932,281932,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,248,248,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16070,16070,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,84333,84333,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67310,67310,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23260296,23260296,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64662482,64662482,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1775600,1775600,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34849,34849,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,163141570,163141570,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,301356,301356,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1437831,1437831,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9635,9635,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,516,516,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2645,2645,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10030,10030,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75511,75511,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,516752557,516752557,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,300698,300698,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2651,2651,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,426268363,426268363,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,477534,477534,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5623567,5623567,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2211541,2211541,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39696650,39696650,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,934,934,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12687,12687,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,528269419,528269419,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,257083,257083,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3135,3135,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145844,145844,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,438693953,438693953,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3748,3748,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48,48,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21479212,21479212,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7929,7929,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,232227,232227,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3126,3126,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,232027,232027,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9932615,9932615,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,157276,157276,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10677,10677,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,124101,124101,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6089,6089,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5032,5032,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,606,606,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4951,4951,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5451567,5451567,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,247130434,247130434,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,701508510,701508510,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2316,2316,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,352231,352231,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,111656,111656,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,408634,408634,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2485,2485,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15513,15513,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20876689,20876689,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2837474,2837474,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25713,25713,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65095,65095,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,227181,227181,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,229680,229680,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3324220,3324220,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33022840,33022840,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5216,5216,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,149657,149657,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,69853,69853,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16069944,16069944,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3799774,3799774,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1495489,1495489,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92546,92546,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8468796,8468796,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4174884,4174884,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1871,1871,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5285,5285,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5179,5179,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9476763,9476763,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89280337,89280337,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,564698654,564698654,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,671045,671045,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,746599,746599,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10506982,10506982,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,117377,117377,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1415992835,1415992835,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11561732,11561732,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,573,573,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,139913,139913,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6904744,6904744,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6192818,6192818,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14710558,14710558,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64451,64451,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1910042317,1910042317,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37811,37811,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11278824,11278824,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,157329,157329,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,131680,131680,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1179888,1179888,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19372,19372,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68656,68656,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35034813,35034813,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2029,2029,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7874539,7874539,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,173545300,173545300,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4225,4225,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50328,50328,,0
+H4,2016,2016,2016,5,0,0,M,116,Cambodia,KHM,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1620,1620,,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,103073,,103073,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10069331577,,10069331577,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,340,,340,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,136006,,136006,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,258097,,258097,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,890,,890,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12023172,,12023172,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27166648,,27166648,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42436,,42436,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50981,,50981,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,566467,,566467,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,105460157,,105460157,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24647,,24647,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,396804738,,396804738,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,168159,,168159,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,242407,,242407,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16495203,,16495203,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,342117,,342117,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8002,,8002,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9646153,,9646153,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7369998,,7369998,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1117671,,1117671,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,135361,,135361,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,654750048,,654750048,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7460,,7460,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24376701,,24376701,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5369728,,5369728,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16,,16,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,609277156,,609277156,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6339812,,6339812,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,147385,,147385,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,687938,,687938,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4823048,,4823048,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5999,,5999,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1055582,,1055582,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,71558766,,71558766,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,437617,,437617,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79747450,,79747450,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15013,,15013,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3418,,3418,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,442851,,442851,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,535347,,535347,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44755,,44755,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,507665,,507665,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5209128,,5209128,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1418410,,1418410,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,362697400,,362697400,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73426,,73426,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2784849,,2784849,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9752,,9752,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,903841649,,903841649,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1088313,,1088313,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13173283,,13173283,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24372,,24372,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10763,,10763,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,449070,,449070,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6561,,6561,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,99959,,99959,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16486,,16486,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,213857348,,213857348,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4635146,,4635146,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35922248,,35922248,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18169137,,18169137,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27606,,27606,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,465694,,465694,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12573379,,12573379,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41853,,41853,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,212267972,,212267972,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,827187921,,827187921,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1877939,,1877939,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1492736,,1492736,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,155227,,155227,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,163987688,,163987688,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,929224,,929224,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5701442,,5701442,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1695027,,1695027,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1638795,,1638795,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1793410,,1793410,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14736966,,14736966,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,934636,,934636,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1831,,1831,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1550710,,1550710,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5001,,5001,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,100367872,,100367872,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,98073,,98073,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23247,,23247,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,504738,,504738,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,137715,,137715,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63164,,63164,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60601551,,60601551,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40905710,,40905710,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5084,,5084,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,156220,,156220,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,837371,,837371,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2378,,2378,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28561,,28561,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73333,,73333,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1947,,1947,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,300164232,,300164232,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9163,,9163,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,121217,,121217,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,110475,,110475,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8043103,,8043103,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17899927,,17899927,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,491991,,491991,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10568843,,10568843,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1750998,,1750998,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4411,,4411,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,106456,,106456,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11543417,,11543417,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21866796,,21866796,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,774838,,774838,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,122969868,,122969868,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9440588,,9440588,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47459,,47459,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39677,,39677,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4522581,,4522581,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46722176,,46722176,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,823596,,823596,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,117826,,117826,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1787779,,1787779,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16726,,16726,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22566681,,22566681,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62522050,,62522050,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12089085,,12089085,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,229059270,,229059270,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4289158,,4289158,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16887526,,16887526,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,195827,,195827,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1025661,,1025661,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56548079,,56548079,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21661819,,21661819,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,405051844,,405051844,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70346737,,70346737,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,419153349,,419153349,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11859,,11859,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,88225,,88225,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7720,,7720,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21165379,,21165379,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17961,,17961,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2535003,,2535003,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1021517,,1021517,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,953227889,,953227889,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,626300,,626300,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2253217,,2253217,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,773164,,773164,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24397,,24397,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2147050442,,2147050442,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,101522,,101522,0
+H4,2016,2016,2016,5,0,0,X,116,Cambodia,KHM,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4429962,,4429962,0
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,14283414116,14283414116.2,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32045,32045.62,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18607386,18607386.9,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21235234,21235234.61,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2408865,2408865.2,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,668414,668414.26,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17820987,17820987.95,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5116219,5116219.54,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1374,1374.15,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7904979,7904979.62,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,315567,315567.41,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1044917,1044917.49,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,828263,828263.94,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2252389,2252389.69,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2689004,2689004.04,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29814300,29814300.17,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,111365,111365.53,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57468088,57468088.58,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,122888,122888.83,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4090928,4090928.02,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,473362,473362.89,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1031307,1031307.01,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11264,11264.81,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,693105,693105.16,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,109963,109963.61,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1060087,1060087.93,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5286750411,5286750411.15,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,244798,244798.88,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,116587,116587.24,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,4607,4607.03,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,138,138.19,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33995,33995.43,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,205104896,205104896.38,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,778,778.35,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2426,2426.65,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44174,44174.83,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,814,814.7,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50096801,50096801.22,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68617469,68617469.03,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43299,43299.2,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1908,1908.39,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88858797,88858797.56,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,441161,441161.66,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,2182,2182.06,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4635,4635.55,,0
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,368443,368443.63,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99,99.18,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1535,1535.6,,0
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,190055,190055.14,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23964,23964.48,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,512953106,512953106.48,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2268508,2268508.12,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11821,11821.1,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,536943342,536943342.9,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51356,51356.95,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2913091,2913091.78,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5814661,5814661.85,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9123,9123.33,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1379,1379.83,,0
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56361171,56361171.11,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40349,40349.42,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4892,4892.11,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49209,49209.48,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10443,10443.93,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,583789160,583789160.44,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,358585,358585.23,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1912516,1912516.51,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,490295736,490295736.04,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1940,1940.74,,0
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4493998,4493998.71,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4760,4760.04,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71979,71979.62,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,118157,118157.2,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,174686,174686.18,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,96950,96950.01,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,30,30.1,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13093927,13093927.21,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,285517826,285517826.2,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1301,1301.59,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,154748,154748.95,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27459,27459.09,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,4389,4389.99,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34794,34794.31,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6608208,6608208.81,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451014,451014.49,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3531,3531.82,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,709373988,709373988.83,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28168,28168.68,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50,50.14,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,146192,146192.3,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23,23.26,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15226,15226.83,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25530434,25530434.57,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2385,2385,,0
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7210335,7210335.18,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,549,549.71,,0
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,181945,181945.55,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42166,42166.51,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,423104,423104.47,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14455167,14455167.64,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31462350,31462350.22,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37081,37081.32,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99606,99606.41,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17372189,17372189.91,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,895012,895012.56,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1621723,1621723.68,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1773,1773.24,,0
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5025757,5025757.96,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6537137,6537137.06,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20074317,20074317.62,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7694,7694.09,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16429477,16429477.95,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1935,1935.35,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,227,227.71,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1129,1129.36,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,98286092,98286092.99,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,609910674,609910674.71,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1226858,1226858.56,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8809452,8809452.44,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1682287891,1682287891.21,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1230,1230.98,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,209631,209631.12,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1751376,1751376.83,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13398222,13398222.11,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,885,885.32,,0
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,323893,323893.69,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10076771,10076771.5,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6875697,6875697.53,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19809651,19809651,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2354159633,2354159633.05,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70174,70174.1,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35220,35220.5,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,105219,105219.49,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9090683,9090683,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13642,13642.51,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,48512,48512.01,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,175768,175768.23,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5657,5657.31,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,348173,348173.83,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,115627,115627.33,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30792385,30792385.17,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27029,27029.65,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,196783054,196783054.81,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,170622,170622.36,,4
+H5,2017,2017,2017,5,0,0,M,116,Cambodia,KHM,876,Wallis and Futuna Isds,WLF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12773,12773.59,,4
+H5,2017,2017,2017,5,0,0,RM,116,Cambodia,KHM,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29814300,29814300.17,,4
+H5,2017,2017,2017,5,0,0,RM,116,Cambodia,KHM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29814300,29814300.17,,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13687765,,13687765.37,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,850,,850.65,0
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38915,,38915.46,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,722,,722.62,0
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62867,,62867.44,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,539699,,539699.8,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,11278127964,,11278127964.01,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,105735910,,105735910.45,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27821610,,27821610.51,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13617,,13617.5,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12200,,12200.59,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8361540,,8361540,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,393371805,,393371805.62,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27156,,27156.65,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2073575,,2073575.24,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99327,,99327.93,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16760639,,16760639.29,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3510239,,3510239.65,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25404,,25404.22,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19162272,,19162272.21,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4142,,4142.66,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,387377,,387377.03,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,314548,,314548.34,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,688879583,,688879583.83,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50633,,50633.24,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2100,,2100.72,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29652989,,29652989,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,523464,,523464.25,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,371805,,371805.56,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,753481387,,753481387.07,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8129916,,8129916.77,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,97482,,97482.96,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17667482,,17667482.11,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,334772,,334772.01,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,396920,,396920.55,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,305844,,305844.23,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,797848,,797848.05,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,313520,,313520.67,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100847925,,100847925.69,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30538,,30538.65,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,282431,,282431.25,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,542760,,542760.47,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19705,,19705.85,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79751396,,79751396.62,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6222212,,6222212.89,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,421996707,,421996707.46,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,219614,,219614.84,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9255,,9255.21,0
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22685782,,22685782.34,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1005286495,,1005286495.42,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,917799,,917799.41,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14806559,,14806559.29,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27163,,27163.33,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21989,,21989.76,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48555,,48555.15,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,123367,,123367.12,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48242,,48242.1,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,143653,,143653.06,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57094,,57094.28,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,239661853,,239661853.76,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1824836,,1824836.39,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24657,,24657.1,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15814442,,15814442.06,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90907,,90907.2,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,625067,,625067.52,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41197069,,41197069.31,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13944654,,13944654.45,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,236414464,,236414464.82,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,174449,,174449.42,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,850181013,,850181013.71,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4670803,,4670803.22,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,313494,,313494.87,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,786334,,786334.99,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,169322470,,169322470.46,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1012571,,1012571.88,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,736665,,736665.06,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1777,,1777.5,0
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8007,,8007.56,0
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,698761,,698761.34,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5780930,,5780930.74,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1837755,,1837755.09,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31685,,31685.95,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1674318,,1674318.13,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1217171,,1217171.11,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,638717,,638717.8,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17368364,,17368364.72,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,147301123,,147301123.54,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29964,,29964.9,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65922,,65922.02,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,805654,,805654,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,57588,,57588.62,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102401,,102401.52,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65436484,,65436484.29,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40026978,,40026978.44,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40091,,40091.38,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2359473,,2359473.75,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8491,,8491.52,0
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18621,,18621.69,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,106685,,106685.07,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3777,,3777.35,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,361655181,,361655181.85,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2206,,2206.98,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12103,,12103.47,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,122979,,122979.86,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9248080,,9248080.25,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,289762,,289762.72,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,187438,,187438.09,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15138452,,15138452.52,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,421981,,421981.04,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10639718,,10639718.9,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,386862,,386862.9,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1157111,,1157111.46,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10624722,,10624722.54,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33610688,,33610688.07,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,128914546,,128914546.92,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13314030,,13314030.24,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35867,,35867.45,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53057,,53057.66,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2408374,,2408374.61,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37950922,,37950922.72,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3348,,3348.94,0
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1022016,,1022016.76,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,497914,,497914.18,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35512585,,35512585.8,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1853724,,1853724.99,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17053780,,17053780.48,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,158754582,,158754582.95,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,325830864,,325830864.42,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2891331,,2891331.56,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17726885,,17726885.78,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11254,,11254.13,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,454080500,,454080500.58,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54367,,54367.58,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1693,,1693.1,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,355877,,355877.02,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62906925,,62906925.66,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,429944128,,429944128.43,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1941226,,1941226.7,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15608287,,15608287.82,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,176936,,176936.06,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7576,,7576.48,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61758337,,61758337.31,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51931,,51931.68,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19696198,,19696198.71,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5594,,5594.94,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2532300,,2532300.23,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,802183,,802183.74,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,568954,,568954.78,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1014103832,,1014103832.44,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2408330077,,2408330077.91,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,193108,,193108.62,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3157294,,3157294.89,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,101275,,101275.06,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41699,,41699.22,4
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2790,,2790.99,0
+H5,2017,2017,2017,5,0,0,X,116,Cambodia,KHM,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4848789,,4848789.13,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,17489096677,17489096677.26,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34496,34496.8,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77854,77854.05,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31520,31520.47,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49793,49793.71,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37580650,37580650.66,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40824692,40824692.92,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4683198,4683198.12,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15829535,15829535.18,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,472528,472528.99,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25320,25320.41,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23518613,23518613.17,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,699,699.73,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,243241,243241.56,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5031,5031.6,,0
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28106638,28106638.83,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1285750,1285750.78,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7197671,7197671.59,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,348069,348069.52,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9138532,9138532.29,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18041257,18041257.44,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,98185347,98185347.38,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,82594,82594.75,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2781347,2781347.08,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,836714,836714.68,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6139572685,6139572685.5,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15,15.82,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,193554,193554.43,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48948,48948.46,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,684,684.41,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,154293,154293.93,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,133,133.78,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,943,943.68,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,816081,816081.07,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3315801,3315801.28,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,228493653,228493653.52,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,166251,166251.17,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451691,451691.92,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,156565,156565.55,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30479049,30479049.64,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,85094,85094.47,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5199,5199.91,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37368,37368.06,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,78463,78463.77,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73269597,73269597.12,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2097,2097.57,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,325,325.54,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108736692,108736692.28,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,342542,342542.35,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1872676,1872676.13,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100613,100613.02,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,31779,31779.01,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2048,2048.74,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22259,22259.67,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,66942,66942.45,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,594172517,594172517.31,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,596880,596880,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18844,18844.44,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,605538657,605538657.17,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,126393,126393.01,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2414,2414.62,,0
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4516642,4516642.07,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2839290,2839290.58,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53849084,53849084.61,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15709,15709.51,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,736444184,736444184.69,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,711,711.18,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77872,77872.28,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,791270,791270.02,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32984,32984.24,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,563879188,563879188.13,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5371,5371.04,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1694433,1694433.43,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,863,863.84,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,570522,570522.24,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,923817,923817.97,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8503177,8503177.25,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,204647,204647.59,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,43858,43858.91,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1115700,1115700.37,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32899,32899.63,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4401,4401.53,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,398886,398886.53,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1454,1454.55,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,357073526,357073526.35,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9746600,9746600.62,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,776089958,776089958.04,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86937,86937.3,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,285,285.05,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2432,2432.66,,0
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,257,257.11,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,84094,84094.48,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7730,7730,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18855,18855.68,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,535246,535246.23,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18485,18485.68,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8069044,8069044.15,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47953364,47953364.86,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2134,2134.86,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,158194,158194.34,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7140,7140.59,,0
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29702739,29702739.77,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,771448,771448.76,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9997,9997.17,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,92919,92919.39,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7993883,7993883.8,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32847716,32847716.38,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3459746,3459746.03,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5299,5299.37,,0
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2734814,2734814.63,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2699,2699.55,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16793611,16793611.46,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1126535,1126535.32,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52157976,52157976.2,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1400,1400.1,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14456501,14456501.58,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9704,9704.93,,0
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17864,17864.34,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,155553063,155553063.95,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,573370866,573370866.02,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1175883,1175883.9,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2220967884,2220967884.92,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1199259,1199259.88,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4643152,4643152.38,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,798391,798391.38,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21922538,21922538.13,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3272,3272.75,,0
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1645912,1645912.69,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6912369,6912369.32,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,549,549.81,,0
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,103862581,103862581.27,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10864,10864.93,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3222088592,3222088592.02,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68831,68831.27,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2612,2612.82,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61564,61564.58,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,924607,924607.14,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16696896,16696896.59,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10344080,10344080.59,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41882,41882.51,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,403970,403970.98,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1061673,1061673.74,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60417988,60417988.99,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2698,2698,,0
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,266285441,266285441.72,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2297148,2297148.2,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2603,2603.07,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8,8.6,,4
+H5,2018,2018,2018,5,0,0,M,116,Cambodia,KHM,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2503,2503.63,,0
+H5,2018,2018,2018,5,0,0,RM,116,Cambodia,KHM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9138532,9138532.29,,4
+H5,2018,2018,2018,5,0,0,RM,116,Cambodia,KHM,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9138532,9138532.29,,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1178,,1178.39,0
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50107,,50107.52,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,123060,,123060.86,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43568,,43568.33,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12700279675,,12700279675.74,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14973758,,14973758.9,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,106496500,,106496500.04,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38542078,,38542078.29,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39534,,39534.64,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25292,,25292.19,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1983415,,1983415.45,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,679646,,679646.41,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16994,,16994.27,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6995,,6995.74,0
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2870332,,2870332.75,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,956578,,956578.68,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7373043,,7373043.71,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2505,,2505.52,0
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,129733,,129733.71,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24416593,,24416593,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,335110,,335110.13,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,296356,,296356.39,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,494864760,,494864760.6,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27223443,,27223443.67,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1131658,,1131658.79,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36058,,36058.89,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,777878112,,777878112.6,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30038,,30038.2,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8777625,,8777625.04,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,858735963,,858735963.64,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,422100,,422100.11,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2884412,,2884412.9,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,111809,,111809.59,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,717798,,717798.79,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,89356279,,89356279.11,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,254151,,254151.7,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26916,,26916.91,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48594,,48594.06,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,364708,,364708.81,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,952083,,952083.37,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4329,,4329.11,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,113502260,,113502260.14,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5051,,5051.6,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2018078,,2018078.68,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6154897,,6154897.29,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,424743831,,424743831.36,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36088,,36088.56,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29372328,,29372328.39,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4295767,,4295767.34,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1098283648,,1098283648.91,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,110937,,110937.53,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27528,,27528.82,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16849853,,16849853.09,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,250343,,250343.41,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120756,,120756.34,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,236678,,236678.46,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17174,,17174.15,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21452115,,21452115.03,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33937,,33937,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3689598,,3689598.05,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,310052156,,310052156.15,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,308005,,308005.13,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42442914,,42442914.43,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12378062,,12378062.16,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,156789,,156789.5,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,290454622,,290454622.91,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1076251993,,1076251993.47,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60532,,60532.81,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,626056,,626056.3,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,447498,,447498.71,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,207022,,207022.54,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7370158,,7370158.49,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451151,,451151.24,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16542,,16542.37,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6011,,6011,0
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,227477,,227477.41,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1520156,,1520156.1,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200163441,,200163441.8,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,977440,,977440.48,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,270021,,270021.05,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15325235,,15325235.32,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1657480,,1657480.28,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19898,,19898.59,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,128830323,,128830323.51,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6966,,6966.59,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86520,,86520.78,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73730952,,73730952.63,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48575640,,48575640.21,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,611986,,611986.3,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4139,,4139.73,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1853913,,1853913.36,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,147,,147.53,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4669873,,4669873.13,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,91039,,91039.51,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1539,,1539.48,0
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,134849,,134849.26,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28274,,28274.72,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,639964,,639964.78,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,426274113,,426274113.65,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13892,,13892.18,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3144,,3144.31,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9227375,,9227375.08,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10110283,,10110283.02,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13706038,,13706038.58,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10509529,,10509529.53,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2798217,,2798217.01,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1185740,,1185740.43,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74922,,74922.77,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,596749,,596749.39,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33300218,,33300218.81,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,138920551,,138920551.43,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22231442,,22231442.34,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46674,,46674.96,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,212877,,212877.58,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,103359,,103359.05,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2489929,,2489929.62,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40651384,,40651384.1,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45073,,45073.23,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1393864,,1393864.91,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2052388,,2052388.19,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50120474,,50120474.35,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,78228031,,78228031.68,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11215100,,11215100.97,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,361815539,,361815539.39,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4485923,,4485923.44,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18637635,,18637635.91,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,513204298,,513204298.43,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22497,,22497.95,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6732,,6732.02,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,508548,,508548.53,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63621599,,63621599.15,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,709777,,709777.85,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15051566,,15051566.52,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,313441050,,313441050.07,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,478789,,478789.15,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21989,,21989.49,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52131891,,52131891.11,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,89376,,89376.44,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22885068,,22885068.13,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9907,,9907.37,0
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1322166,,1322166.12,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2669671,,2669671.39,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1015811133,,1015811133.22,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,278987,,278987.51,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3044350603,,3044350603.02,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4207998,,4207998.3,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9002,,9002.1,0
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120580,,120580.04,4
+H5,2018,2018,2018,5,0,0,X,116,Cambodia,KHM,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3835061,,3835061.2,4

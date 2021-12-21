@@ -1,0 +1,1057 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9907873818,,9907873818,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,121267,,121267,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16001,,16001,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,495345,,495345,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7625719,,7625719,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,549368,,549368,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6692706,,6692706,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40868,,40868,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,98150,,98150,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24131666,,24131666,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9044067,,9044067,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,532214175,,532214175,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,335673,,335673,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2231916,,2231916,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13747,,13747,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34430925,,34430925,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10840560,,10840560,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2176,,2176,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,184606,,184606,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,123336,,123336,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3,,3,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3400419,,3400419,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,85472277,,85472277,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,520593,,520593,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,267803,,267803,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34574082,,34574082,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45501509,,45501509,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70226654,,70226654,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,331224,,331224,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32397216,,32397216,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,84880,,84880,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29688,,29688,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4450212,,4450212,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1043843,,1043843,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,258907565,,258907565,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36152117,,36152117,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,274153745,,274153745,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3300,,3300,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61983,,61983,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,105483,,105483,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38076720,,38076720,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,82691259,,82691259,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10392,,10392,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,124139,,124139,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,71371,,71371,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,909523,,909523,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11778405,,11778405,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1077985,,1077985,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27666,,27666,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130848070,,130848070,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,516339788,,516339788,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1650,,1650,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16346516,,16346516,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,334,Heard Island and McDonald Islands,HMD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5987,,5987,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14979374,,14979374,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,334816183,,334816183,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32103718,,32103718,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,85269,,85269,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4912505,,4912505,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,88707,,88707,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4464542,,4464542,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8218166,,8218166,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,87218776,,87218776,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,207836033,,207836033,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,296629,,296629,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51131184,,51131184,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,112861956,,112861956,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2,,2,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29279,,29279,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11260,,11260,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89911,,89911,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33572477,,33572477,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,330129,,330129,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,620267,,620267,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15411,,15411,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11363181,,11363181,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3740,,3740,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14025,,14025,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1000,,1000,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6470,,6470,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,480,,480,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1923389,,1923389,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,584113,,584113,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,285589,,285589,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1007762,,1007762,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,434389,,434389,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,257203621,,257203621,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16851631,,16851631,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1798589,,1798589,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2634019,,2634019,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7950,,7950,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,71662,,71662,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3154197,,3154197,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,575437869,,575437869,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19426234,,19426234,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11516,,11516,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70758,,70758,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18874468,,18874468,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,517296834,,517296834,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,363515,,363515,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20463271,,20463271,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9103,,9103,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,305915,,305915,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,561017178,,561017178,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1725814,,1725814,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19438242,,19438242,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3311120,,3311120,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6073414,,6073414,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24643611,,24643611,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39308,,39308,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,558630,,558630,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23482540,,23482540,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2648,,2648,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,204839,,204839,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3600,,3600,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2070396,,2070396,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1167275,,1167275,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2138,,2138,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19693327,,19693327,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6373282,,6373282,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,542,,542,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17454546,,17454546,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,285277,,285277,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6212674,,6212674,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5784252,,5784252,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1986181,,1986181,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,153625597,,153625597,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8049189,,8049189,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21758955,,21758955,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5485740,,5485740,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23840,,23840,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15411,,15411,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2700259,,2700259,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38135,,38135,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,59390724,,59390724,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,795324,,795324,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53415104,,53415104,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13002,,13002,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62287,,62287,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6238340,,6238340,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,636710,,636710,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2297226,,2297226,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,180904418,,180904418,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,369151,,369151,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1239113,,1239113,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4058038120,,4058038120,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104783,,104783,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32540557,,32540557,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43112,,43112,0
+H4,2016,2016,2016,5,0,0,X,188,Costa Rica,CRI,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,84484,,84484,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39604,39604,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,84,84,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,193,193,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41787,41787,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46958,46958,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12106,12106,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13619,13619,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15321512292,15321512292,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2923,2923,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62233560,62233560,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8465781,8465781,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21966623,21966623,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8879721,8879721,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,59014,59014,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,80693,80693,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11793642,11793642,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92100,92100,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66388337,66388337,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7433,7433,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1111275,1111275,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81642,81642,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1481,1481,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,74,Bouvet Island,BVT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1171,1171,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,330051746,330051746,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,223239,223239,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7580,7580,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,479860,479860,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5,5,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1908431,1908431,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1962473,1962473,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,209841,209841,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5193,5193,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10225,10225,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3901476,3901476,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,154103624,154103624,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1912605,1912605,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1781,1781,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3714642,3714642,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2984,2984,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,282376334,282376334,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2082231063,2082231063,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,866,866,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,292704329,292704329,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79572,79572,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,464,464,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2864493,2864493,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48566,48566,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,318844,318844,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130208,130208,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5683080,5683080,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2637,2637,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37445061,37445061,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49904,49904,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37906053,37906053,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27843618,27843618,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,236078685,236078685,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1142,1142,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1137443,1137443,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,181094,181094,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10936445,10936445,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,113777811,113777811,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28879,28879,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,682,682,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,72012,72012,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,756,756,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,988672,988672,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3683,3683,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19405,19405,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,388285759,388285759,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,127,127,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4232,4232,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1837,1837,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1878303,1878303,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,399,399,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,174,174,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39968,39968,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,334,Heard Island and McDonald Islands,HMD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2486,2486,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6786,6786,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,416693417,416693417,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,94,94,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,178322,178322,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,319583,319583,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,106064670,106064670,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,186732757,186732757,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41439153,41439153,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65356,65356,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,69659687,69659687,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3226,3226,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,668,668,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54599620,54599620,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36657549,36657549,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,198979980,198979980,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12143,12143,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1379932,1379932,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,415049859,415049859,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9222,9222,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,546620,546620,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1421106,1421106,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65797,65797,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,256938899,256938899,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7146,7146,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,418,418,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36500,36500,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5262794,5262794,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,202,202,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1613376,1613376,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29875,29875,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17947,17947,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9904679,9904679,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,142991,142991,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,108341,108341,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,134419,134419,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36767844,36767844,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,548,548,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,101,101,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,222805,222805,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3878,3878,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50261,50261,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1067139860,1067139860,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,110632078,110632078,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,679,679,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5411662,5411662,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,288036,288036,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5,5,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,736,736,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8708,8708,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1607,1607,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7697,7697,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,90152,90152,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,96605203,96605203,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,556643,556643,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1589,1589,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1301,1301,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4835,4835,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9392498,9392498,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,141682638,141682638,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2939,2939,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61,61,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,567,567,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4517,4517,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,237,237,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7784484,7784484,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,368,368,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8457053,8457053,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,290874521,290874521,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23032301,23032301,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61111003,61111003,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9675367,9675367,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8098,8098,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12402335,12402335,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13483657,13483657,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,986,986,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6974842,6974842,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2512736,2512736,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48838550,48838550,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,120,120,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,93,93,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29762,29762,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,344,344,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4003949,4003949,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28845,28845,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1262130,1262130,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18715,18715,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,110,110,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,179396192,179396192,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32212553,32212553,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7119369,7119369,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,71687078,71687078,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2291336,2291336,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1854,1854,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6528413,6528413,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1075,1075,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,222736740,222736740,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4390,4390,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1568,1568,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,465,465,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39158214,39158214,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145244634,145244634,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1998,1998,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17444,17444,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,184056633,184056633,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23,23,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15889637,15889637,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3595682,3595682,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,977599,977599,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56348235,56348235,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1552,1552,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6061,6061,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41429,41429,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1922536,1922536,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14840686,14840686,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62370,62370,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,124463353,124463353,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21904,21904,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5711167765,5711167765,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,59,59,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30841024,30841024,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18942356,18942356,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,876,Wallis and Futuna Isds,WLF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3523,3523,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,383963,383963,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40528,40528,,0
+H4,2016,2016,2016,5,0,0,M,188,Costa Rica,CRI,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,485098323,485098323,,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89952,,89952.851,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,650797,,650797.147,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31968,,31968.834,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22298,,22298.262,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,568719,,568719.19,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,485002,,485002.297,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17199,,17199.872,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58293,,58293.677,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9791448,,9791448.519,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13320,,13320.348,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8596,,8596.803,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,316860,,316860.294,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,265403,,265403.877,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157363,,157363.145,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72119,,72119.346,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,938729,,938729.632,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,761,,761.924,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124891,,124891.579,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140533,,140533.184,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94076,,94076.394,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,339748,,339748.787,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10912,,10912.029,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52056,,52056.451,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40644085,,40644085.591,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,327764,,327764.949,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,345005,,345005.859,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27504,,27504.919,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,334,Heard Island and McDonald Islands,HMD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8969,,8969.816,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20232118,,20232118.837,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13116243,,13116243.221,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,744200,,744200.309,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10339962,,10339962.043,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38629,,38629.029,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4007,,4007.826,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117395,,117395.058,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16639,,16639.778,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98088,,98088.109,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46488,,46488.333,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,671334,,671334.906,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1525,,1525.681,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1356948,,1356948.448,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6018143,,6018143.383,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,575,,575.439,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10379,,10379.215,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6905,,6905.268,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,505445,,505445.002,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31386,,31386.181,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25575,,25575.067,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4705,,4705.013,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1475066,,1475066.609,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2949836,,2949836.942,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195,,195.01,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141141,,141141.189,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82417,,82417.019,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2185,,2185.134,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18689969,,18689969.498,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,251488,,251488.163,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,782611,,782611.13,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16607,,16607.543,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47207559,,47207559.86,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1620459,,1620459.866,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30638672,,30638672.028,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7672,,7672.52,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2581,,2581.164,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3465365,,3465365.394,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3464,,3464.356,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5,,5.328,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149614,,149614.145,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11498,,11498.124,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,327899,,327899.953,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7468098,,7468098.217,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1721063,,1721063.848,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26423,,26423.733,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7929776,,7929776.861,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3891853,,3891853.31,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1238091,,1238091.977,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42199874,,42199874.551,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45951,,45951.683,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21671037,,21671037.179,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,306752,,306752.591,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72576,,72576.745,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62707,,62707.721,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11296640428,,11296640428.739,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,272134,,272134.413,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16824692,,16824692.712,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35261451,,35261451.376,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,231578,,231578.538,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9356936,,9356936.233,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9274350,,9274350.204,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,728923066,,728923066.238,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1277337,,1277337.759,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44640284,,44640284.524,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82212303,,82212303.537,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36485550,,36485550.718,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119116429,,119116429.611,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61154039,,61154039.109,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33922657,,33922657.772,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4235622,,4235622.306,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1090637,,1090637.913,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,245493338,,245493338.854,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38135443,,38135443.788,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71073598,,71073598.158,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,305258099,,305258099.005,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134845917,,134845917.853,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14111982,,14111982.737,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1709395,,1709395.564,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,560374798,,560374798.1,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11599111,,11599111.315,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,389995853,,389995853.52,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41163446,,41163446.784,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135802,,135802.958,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82111011,,82111011.827,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13970218,,13970218.112,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,167430642,,167430642.42,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90794052,,90794052.934,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,183219993,,183219993.927,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40202518,,40202518.421,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,988103,,988103.973,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6116846,,6116846.22,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,292367175,,292367175.857,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15513714,,15513714.17,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,633855823,,633855823.409,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3055566,,3055566.069,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21752033,,21752033.862,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,572925799,,572925799.291,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22634684,,22634684.162,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21779,,21779.162,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,611417919,,611417919.754,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1439441,,1439441.487,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23012845,,23012845.384,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5136830,,5136830.842,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8297556,,8297556.871,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2113497,,2113497.539,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,279679,,279679.059,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2652549,,2652549.992,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,978164,,978164.553,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42532927,,42532927.379,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7146885,,7146885.641,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21738173,,21738173.563,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169107675,,169107675.545,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7979807,,7979807.832,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25250839,,25250839.672,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4430230,,4430230.101,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64234745,,64234745.956,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,632963,,632963.972,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,219288744,,219288744.868,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5984,,5984.353,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1432364,,1432364.866,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4616173282,,4616173282.101,0
+H5,2017,2017,2017,5,0,0,X,188,Costa Rica,CRI,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12769890,,12769890.882,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16352350364,16352350364.383,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12295,12295.815,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26479,26479.733,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120463634,120463634.752,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7024592,7024592.239,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24459044,24459044.558,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,331956,331956.88,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28470,28470.571,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14391935,14391935.645,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190121,190121.891,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66936,66936.248,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56700948,56700948.392,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1173227,1173227.485,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59274,59274.119,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8222,8222.881,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,74,Bouvet Island,BVT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,957,957.416,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,315161030,315161030.223,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196742,196742.729,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3287,3287.793,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,701713,701713.389,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3132657,3132657.418,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,422872,422872.394,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8018,8018.692,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4565812,4565812.236,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,161071359,161071359.843,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37,37.593,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3590,3590.416,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3709,3709.428,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4447144,4447144.733,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287728209,287728209.34,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2142616943,2142616943.166,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11067,11067.578,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,307482875,307482875.862,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29571,29571.49,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5176,5176.409,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6874,6874.872,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,315311,315311.085,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4669777,4669777.861,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38454,38454.082,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113103,113103.689,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8542562,8542562.13,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35967081,35967081.185,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24321,24321.487,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61571047,61571047.092,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31988905,31988905.641,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2,2.957,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5572530,5572530.924,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17722,17722.17,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,257477529,257477529.6,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9347740,9347740.401,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13233,13233.762,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132672312,132672312.557,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11757,11757.673,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6156,6156.641,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30251,30251.533,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,415365876,415365876.098,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,501,501.997,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9760,9760.52,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1665134,1665134.489,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1731,1731.425,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4265,4265.735,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,433341961,433341961.752,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,382040,382040.546,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103776730,103776730.254,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169820283,169820283.614,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2670132,2670132.834,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39273806,39273806.897,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34065115,34065115.563,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17658,17658.649,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2026,2026.152,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60796225,60796225.556,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53201316,53201316.991,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212243883,212243883.769,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11665,11665.944,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1467065,1467065.59,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,397506601,397506601.132,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,393055,393055.989,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82697,82697.849,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1452628,1452628.913,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,238467416,238467416.37,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8182,8182.506,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48715,48715.51,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2718167,2718167.305,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7031421,7031421.155,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26661336,26661336.816,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,431530,431530.94,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,114634,114634.939,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73925027,73925027.525,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,737,737.444,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51612,51612.535,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1183,1183.631,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84949,84949.027,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1152362474,1152362474.527,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108083484,108083484.591,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19516,19516.059,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,92282,92282.676,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5817,5817.523,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6017598,6017598.692,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,867843,867843.013,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,841,841.474,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93045236,93045236.392,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1947413,1947413.044,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,817,817.517,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9363068,9363068.89,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,155832546,155832546.651,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45042,45042.073,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3523396,3523396.344,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8578946,8578946.354,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,275899659,275899659.359,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6544919,6544919.65,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66088595,66088595.41,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11924873,11924873.781,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15509643,15509643.536,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11285993,11285993.108,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4,4.99,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13217952,13217952.438,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4497790,4497790.627,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40510618,40510618.001,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3704,3704.674,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1096066,1096066.787,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190564071,190564071.218,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3119109,3119109.861,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58186721,58186721.823,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87272276,87272276.281,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3182983,3182983.598,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6810462,6810462.117,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,289491369,289491369.261,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37034,37034.389,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26160,26160.27,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47801642,47801642.509,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156966114,156966114.648,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157431090,157431090.078,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10064233,10064233.123,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4079959,4079959.11,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1013712,1013712.118,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70480967,70480967.244,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14180636,14180636.956,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5742,5742.45,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2131970,2131970.012,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108960,108960.005,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42295,42295.492,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,129694699,129694699.215,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6273654592,6273654592.593,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35299265,35299265.801,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26865101,26865101.057,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11392,11392.34,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,509739825,509739825.292,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5259,5259.214,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107,107.624,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46510,46510.614,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,116380,116380.618,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,783,783.313,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36205,36205.463,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,305,305.56,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6723,6723.894,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,227,227.304,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1314,1314.062,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5200790,5200790.343,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58,58.274,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,162,Christmas Isds,CXR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2252,2252.255,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,903,903.147,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,785,785.264,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135,135.452,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11279,11279.438,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,239,South Georgia and the South Sandwich Islands,SGS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106,106.998,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,176,176.957,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1560,1560.331,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7198,7198.084,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1126,1126.271,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,245410,245410.627,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62946,62946.746,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25775,25775.775,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62211,62211.458,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1373,1373.28,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61518,61518.652,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12751,12751.861,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,310,310.869,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28,28.926,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1776,1776.607,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16676,16676.065,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1818,1818.862,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1634,1634.152,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103,103.979,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13692,13692.159,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,137,137.988,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,916,916.023,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28,28.7,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47299,47299.903,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,367,367.428,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3616484,3616484.689,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33,33.157,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1333,1333.418,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2823,2823.348,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,186,186.733,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3225,3225.699,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15079,15079.312,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,732,Western Sahara,ESH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4,4.21,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48802,48802.351,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,235,235.457,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13020,13020.998,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,426,426.913,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6710,6710.956,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2034,2034.665,,0
+H5,2017,2017,2017,5,0,0,M,188,Costa Rica,CRI,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,774,774.236,,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,384929,,384929,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,240305,,240305.89,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9480,,9480,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190142,,190142.22,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6840,,6840,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8056354,,8056354.65,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,475788,,475788.58,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,932004,,932004,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8400,,8400,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9667622,,9667622.98,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10000,,10000,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30787,,30787.88,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24162,,24162.9,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2330,,2330,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,395772,,395772.62,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,243,,243,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5178311,,5178311.4,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6590,,6590,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9688,,9688,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46285,,46285.01,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55117,,55117.18,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44324,,44324.28,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9720,,9720,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1924,,1924,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1476,,1476,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,219005,,219005.48,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,300,,300,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36494,,36494.63,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20603143,,20603143.32,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19989,,19989.78,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,121761,,121761.47,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,365043,,365043.23,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,183592,,183592.86,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,585353,,585353.4,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102756,,102756.68,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12900,,12900,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,112379,,112379.67,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,440,,440,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10212,,10212.38,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,312681,,312681.2,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1228522,,1228522.44,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1740503,,1740503.04,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5202947,,5202947.61,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2928041,,2928041.83,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1641,,1641.4,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27601,,27601.16,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,414205,,414205.22,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42246,,42246.07,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1,,1,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1970072,,1970072.47,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2550880,,2550880.19,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,223694,,223694.61,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,531767,,531767.61,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2185,,2185,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1910,,1910.7,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2864951,,2864951.7,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,146733,,146733,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1111084,,1111084.77,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1120,,1120,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19955747,,19955747.22,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14509,,14509,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,428859,,428859.24,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7322872,,7322872.51,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4624,,4624.02,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,231175,,231175.78,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7420,,7420,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1887763,,1887763.88,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10600,,10600,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4173586,,4173586.93,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151697,,151697.72,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11010,,11010,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,420458,,420458.94,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12565440,,12565440.99,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2182704,,2182704.23,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7891078,,7891078.73,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,297612,,297612,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3860816,,3860816.48,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12398,,12398.2,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19125580,,19125580.19,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10535,,10535,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1734231,,1734231.89,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24243215,,24243215.94,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6427,,6427.5,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23975317,,23975317.93,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38746,,38746.5,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28890,,28890,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,437065,,437065.9,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106747,,106747,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79020,,79020.59,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,495497,,495497.06,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11251781448,,11251781448.19,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11061481,,11061481.47,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27372554,,27372554.56,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,217849,,217849.25,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10160447,,10160447.2,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,675369117,,675369117.51,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41596879,,41596879.91,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117306,,117306.48,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80371161,,80371161.44,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33012782,,33012782.64,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,198687836,,198687836.74,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55754586,,55754586.98,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31481403,,31481403.35,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8237787,,8237787.48,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,657448,,657448.77,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,242284369,,242284369.76,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40344845,,40344845.55,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,295756381,,295756381.55,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34929572,,34929572.32,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64177935,,64177935.16,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128820196,,128820196.6,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2197819,,2197819.54,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,570941866,,570941866.79,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9763039,,9763039.14,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28146041,,28146041.94,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,394184975,,394184975.89,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83255141,,83255141.26,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88799830,,88799830.72,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8402988,,8402988.2,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,178723611,,178723611.28,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59715199,,59715199.57,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,240770435,,240770435.82,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,416808,,416808.8,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36241175,,36241175.6,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,465925,,465925.86,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5232501,,5232501.2,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,284997910,,284997910.57,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29784986,,29784986.31,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4478899,,4478899.11,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,679000695,,679000695.92,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19842029,,19842029.79,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35386,,35386.24,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,481188823,,481188823.49,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12273,,12273.29,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,580683324,,580683324.74,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20662188,,20662188.81,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2837484,,2837484.28,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52549610,,52549610.96,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,729089,,729089.27,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31694435,,31694435.46,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212443,,212443.15,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185726,,185726.82,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36014596,,36014596.69,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20854099,,20854099.06,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14567348,,14567348.28,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,176617922,,176617922.43,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35872353,,35872353.81,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53597046,,53597046.9,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2820668,,2820668.76,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,202205604,,202205604.84,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4624930971,,4624930971.97,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1590876,,1590876.46,0
+H5,2018,2018,2018,5,0,0,X,188,Costa Rica,CRI,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4968929,,4968929.57,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16563019255,16563019255.69,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6563,6563.84,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109103,109103.45,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33189,33189.67,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136738,136738.04,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110626045,110626045.58,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6923691,6923691.72,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25879458,25879458.33,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6418655,6418655.86,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1347472,1347472.43,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49071,49071.8,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,289131,289131.42,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16291432,16291432.64,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66852642,66852642.47,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1048,1048.55,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3345371,3345371.24,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99628,99628.39,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,349801074,349801074.12,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,247171,247171.6,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3237,3237.63,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216,216.06,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12403496,12403496.47,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2806809,2806809.88,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,844766,844766.24,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5314549,5314549.91,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,152353804,152353804.71,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,460,460.05,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,412248,412248.21,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2208,2208.51,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4516947,4516947.82,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,279287083,279287083.55,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2271148007,2271148007.92,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,162,Christmas Isds,CXR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22,22.17,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,307671797,307671797.99,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4234,4234.91,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1814570,1814570.51,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196786,196786.41,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,250999,250999.35,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54672,54672.78,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10352837,10352837.98,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36233249,36233249.74,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97150,97150.91,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36116805,36116805.97,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35115186,35115186.8,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22412,22412.94,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1896996,1896996.27,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,242259429,242259429.33,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14455060,14455060.57,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125215564,125215564.18,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16340,16340.13,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2496,2496.82,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,772296,772296.1,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65,65.91,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12209,12209.95,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,414751836,414751836.67,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3862,3862.64,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2507018,2507018.36,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3,3.04,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,415226096,415226096.54,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1623,1623.49,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,460447,460447.19,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109741750,109741750.91,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,290057017,290057017.45,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33032906,33032906.43,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1208232,1208232.62,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35104001,35104001.28,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57518284,57518284.77,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45386847,45386847.91,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,214566430,214566430.88,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4618,4618.59,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1321462,1321462.7,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,372114334,372114334.29,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134565,134565.72,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,456658,456658.12,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113449,113449.45,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1243390,1243390.51,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26953,26953.7,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2013816,2013816.19,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40576,40576.46,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,189182932,189182932.55,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7563478,7563478.67,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14207363,14207363.82,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,821049,821049.7,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90369,90369.67,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,359761,359761.64,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,283,283.44,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144,144.14,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67948014,67948014.58,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21878237,21878237.28,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1166907275,1166907275.26,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4643746,4643746.16,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14409,14409.07,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110933072,110933072.02,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68142,68142.98,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2434379,2434379.44,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1163,1163.23,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7586,7586.29,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144148,144148.64,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89875551,89875551.3,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11276,11276.73,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5898,5898,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12043411,12043411.28,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149060099,149060099.87,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,101421,101421.81,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4753366,4753366.3,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8040880,8040880.52,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,219765719,219765719.99,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7687422,7687422.74,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66008383,66008383.1,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12604398,12604398.69,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16585369,16585369.97,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18188204,18188204.39,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11752073,11752073.31,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3245848,3245848.48,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78668769,78668769.83,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2935,2935.96,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14,14.89,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5418755,5418755.48,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2238,2238.97,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1152038,1152038.94,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1024046,1024046.67,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177250254,177250254.11,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2734392,2734392.03,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65236064,65236064.03,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65149405,65149405.92,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3780071,3780071.13,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3149,3149.05,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5830574,5830574.92,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78,78.01,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,259688957,259688957.29,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46524,46524.29,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47292083,47292083.76,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156041935,156041935.99,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15936,15936.63,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3256,3256.35,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107956957,107956957.66,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9170507,9170507.46,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40581947,40581947.47,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,657895,657895.28,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84804746,84804746.47,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134,134.5,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31970561,31970561.38,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2137320,2137320.19,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125192338,125192338.89,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32713,32713.61,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6476089799,6476089799.56,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38960906,38960906.44,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17136443,17136443.69,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12071,12071.45,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,412006858,412006858.64,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160,160.32,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1311633,1311633.16,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,245,245.19,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10554,10554.63,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14702,14702.8,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49697,49697.85,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7194461,7194461.87,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7473,7473.94,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32779,32779.86,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17722,17722.71,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1611,1611.38,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52197,52197.03,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60825,60825.37,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,405,405.14,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,199810,199810.07,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58839,58839.12,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25000,25000,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21486,21486.39,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,376,376.43,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,891,891.91,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2957100,2957100.82,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,334,Heard Island and McDonald Islands,HMD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3905,3905.7,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1134,1134.27,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151068,151068.63,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55846,55846.47,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,379,379.63,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6995,6995.46,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35924,35924.78,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244609,244609.03,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69712,69712.23,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,658,658.04,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,643,643.67,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1845,1845.55,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2267,2267.87,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25663,25663.6,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69,69.22,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42,42.96,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75948,75948.75,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4974,4974.39,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34029,34029.34,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1355,1355.85,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3386,3386.2,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1040,1040.56,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1452,1452.24,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1018,1018.64,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141005,141005.7,,0
+H5,2018,2018,2018,5,0,0,M,188,Costa Rica,CRI,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27,27.18,,0

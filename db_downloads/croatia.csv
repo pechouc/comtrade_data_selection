@@ -1,0 +1,1050 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13647534058,,13647534058,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,86840,,86840,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51732750,,51732750,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50564,,50564,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10970,,10970,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1629270,,1629270,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2516183,,2516183,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42935031,,42935031,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26258834,,26258834,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,873564267,,873564267,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,333126,,333126,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4847470,,4847470,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5387618,,5387618,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19530729,,19530729,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,144861670,,144861670,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11544,,11544,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5670,,5670,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45148,,45148,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1249798399,,1249798399,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4404083,,4404083,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38145,,38145,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13699,,13699,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1899221,,1899221,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1889,,1889,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76978300,,76978300,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,366826,,366826,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30479,,30479,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21166445,,21166445,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,134770,,134770,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41310180,,41310180,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,561270,,561270,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5672,,5672,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,82395,,82395,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1711,,1711,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,442642,,442642,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1719090,,1719090,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83844599,,83844599,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2270067,,2270067,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,242813,,242813,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14875,,14875,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2623310,,2623310,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,600417,,600417,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15809398,,15809398,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,195843134,,195843134,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,78557,,78557,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40991344,,40991344,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9297,,9297,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61184,,61184,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,225318,,225318,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,140134,,140134,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11627,,11627,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8055850,,8055850,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,997295,,997295,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12002310,,12002310,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4501,,4501,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23724676,,23724676,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,320070711,,320070711,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9257,,9257,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1421482,,1421482,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,237480,,237480,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1725438,,1725438,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,257336,,257336,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1608276765,,1608276765,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,251394,,251394,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,118478759,,118478759,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58349238,,58349238,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,78915,,78915,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65419,,65419,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,129636,,129636,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35875427,,35875427,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,523075391,,523075391,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3140509,,3140509,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15448959,,15448959,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4415398,,4415398,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3962732,,3962732,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37288481,,37288481,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,55708729,,55708729,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1864302257,,1864302257,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,556684,,556684,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68124,,68124,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9243865,,9243865,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35550272,,35550272,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2699190,,2699190,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6539373,,6539373,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17788186,,17788186,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13449123,,13449123,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10175551,,10175551,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,243830,,243830,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27570,,27570,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15984714,,15984714,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28981731,,28981731,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8717908,,8717908,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36003281,,36003281,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7200578,,7200578,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15243562,,15243562,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,560203,,560203,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,324279,,324279,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14745,,14745,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30329222,,30329222,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23527,,23527,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,108072,,108072,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17093528,,17093528,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6491641,,6491641,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,94658,,94658,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4037329,,4037329,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,322996,,322996,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11933406,,11933406,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,155592331,,155592331,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2881811,,2881811,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51704,,51704,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38612,,38612,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,357242126,,357242126,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35924,,35924,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23676,,23676,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,369,,369,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1524570,,1524570,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2722,,2722,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1978785,,1978785,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62220798,,62220798,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44071658,,44071658,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,995121,,995121,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6942647,,6942647,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5289961,,5289961,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22,,22,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6598,,6598,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2062598,,2062598,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,185174030,,185174030,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56281230,,56281230,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56184015,,56184015,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,121703593,,121703593,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,247344,,247344,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4067,,4067,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66854,,66854,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,209945098,,209945098,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83021,,83021,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21504,,21504,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,159580374,,159580374,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35376,,35376,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,651715408,,651715408,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,337809,,337809,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92223,,92223,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12241463,,12241463,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9964197,,9964197,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,194812298,,194812298,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26335317,,26335317,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1703664312,,1703664312,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1373711,,1373711,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9806101,,9806101,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,374696,,374696,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1063031,,1063031,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,657,,657,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,219572460,,219572460,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,139888136,,139888136,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,147528974,,147528974,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,180648,,180648,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11791,,11791,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6839859,,6839859,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,508635,,508635,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1446,,1446,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1216639,,1216639,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47650735,,47650735,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10141801,,10141801,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,120655719,,120655719,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2291423,,2291423,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37823,,37823,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33384703,,33384703,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,135232566,,135232566,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,109881641,,109881641,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,192094641,,192094641,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7356133,,7356133,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8167367,,8167367,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,839,Special Categories,XX ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15135,,15135,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,505813585,,505813585,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,435780,,435780,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56115,,56115,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,435024,,435024,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1929856,,1929856,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,463032,,463032,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2561534,,2561534,0
+H4,2016,2016,2016,5,0,0,X,191,Croatia,HRV,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18420628,,18420628,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21829864971,21829864971,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2468,2468,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5439375,5439375,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4434150,4434150,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1978,1978,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4512,4512,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8906,8906,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,242271545,242271545,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23498436,23498436,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1585347,1585347,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1739048664,1739048664,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18281,18281,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,201775,201775,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14588778,14588778,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,125593,125593,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40,40,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,410508863,410508863,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6563,6563,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83644,83644,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,636945703,636945703,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,74,Bouvet Island,BVT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104,104,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,80139998,80139998,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,942,942,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13789486,13789486,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,186219316,186219316,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1310396,1310396,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4092859,4092859,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6399173,6399173,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,276414,276414,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13358394,13358394,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,390,390,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2897,2897,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1740883,1740883,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,360,360,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1471578,1471578,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,645480536,645480536,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,856,856,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22212608,22212608,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,711,711,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,153773,153773,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9875453,9875453,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9782128,9782128,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60049,60049,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,458807059,458807059,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,146926786,146926786,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,111934,111934,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17585690,17585690,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,712,712,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,386758,386758,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10,10,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4559741,4559741,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39578,39578,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37776210,37776210,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37,37,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65170,65170,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,724,724,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,529453511,529453511,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3517263800,3517263800,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,95624,95624,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,330,330,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2684,2684,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,107891255,107891255,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,867,867,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,369,369,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79463,79463,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,101,101,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1464955,1464955,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12847,12847,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,284236,284236,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6334817,6334817,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1551403967,1551403967,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,629989,629989,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28166261,28166261,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,595980,595980,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,177422429,177422429,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63773158,63773158,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18390615,18390615,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2754215102,2754215102,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,195623,195623,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36008220,36008220,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92398945,92398945,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4367137,4367137,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54847,54847,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4023,4023,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,455017823,455017823,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5937,5937,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,123124,123124,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15655,15655,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8167012,8167012,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,168,168,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,88023876,88023876,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,123795,123795,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25983152,25983152,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13648989,13648989,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,308176,308176,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28321,28321,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,265,265,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10792402,10792402,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4871,4871,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1100,1100,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8025709,8025709,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25447,25447,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,509646,509646,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18616384,18616384,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28383769,28383769,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3399,3399,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2344688,2344688,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8836002,8836002,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5272438,5272438,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1129140,1129140,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,820747,820747,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,351957,351957,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,119353,119353,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,856217109,856217109,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,532,532,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4549905,4549905,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28832,28832,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,135245,135245,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,568,"Other Europe, nes",E19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,175854,175854,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22677784,22677784,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11388627,11388627,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6447,6447,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,341139,341139,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,276078,276078,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,369,369,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2025419,2025419,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,667099971,667099971,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5618476,5618476,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26790874,26790874,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,166738822,166738822,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,334198396,334198396,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10330,10330,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,199041,199041,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,465407,465407,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75697789,75697789,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16378,16378,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,554921503,554921503,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,111832532,111832532,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6117959,6117959,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,357632196,357632196,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27535907,27535907,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2384344844,2384344844,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4891619,4891619,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76153,76153,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,112,112,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54,54,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,440955455,440955455,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15592467,15592467,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145023413,145023413,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,185723366,185723366,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3741,3741,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20229514,20229514,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,780,780,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,380,380,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,787,787,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3557584,3557584,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3038207,3038207,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,265985853,265985853,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13985,13985,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42709092,42709092,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91046435,91046435,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49152580,49152580,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,234742133,234742133,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15816,15816,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,208873429,208873429,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4479,4479,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70307,70307,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1663381,1663381,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7100,7100,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3708,3708,,0
+H4,2016,2016,2016,5,0,0,M,191,Croatia,HRV,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,190840442,190840442,,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,280142,,280142,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32554359,,32554359,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3533,,3533,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298519,,298519,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,787018,,787018,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1183389,,1183389,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55782,,55782,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7391692,,7391692,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3999276,,3999276,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2655613,,2655613,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33378,,33378,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88882,,88882,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2450,,2450,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22239,,22239,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1799,,1799,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45659928,,45659928,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9902,,9902,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1204262,,1204262,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,344,,344,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9665674,,9665674,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7017,,7017,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44614,,44614,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233,,233,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62951369,,62951369,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,376532,,376532,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,360816,,360816,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125953206,,125953206,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,202427,,202427,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182157,,182157,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20259,,20259,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2880551,,2880551,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55587891,,55587891,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120203,,120203,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80399,,80399,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,231215,,231215,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10297678,,10297678,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14275159,,14275159,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5685,,5685,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16113523,,16113523,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13834,,13834,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82144,,82144,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2406859,,2406859,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,429842,,429842,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,589338,,589338,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6000728,,6000728,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1382111,,1382111,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124244587,,124244587,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3294,,3294,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,220925,,220925,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79445,,79445,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71395,,71395,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41074509,,41074509,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16785232,,16785232,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5935026,,5935026,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2487143,,2487143,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7950660,,7950660,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,814994,,814994,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15043,,15043,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15878209,,15878209,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13367041,,13367041,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64088615,,64088615,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11171435,,11171435,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,341162,,341162,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203130,,203130,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6798873,,6798873,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15707649,,15707649,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,860180,,860180,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3346541,,3346541,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30227848,,30227848,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37843863,,37843863,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13733,,13733,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1761,,1761,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11293389,,11293389,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,931757,,931757,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89188,,89188,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80656789,,80656789,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,176545,,176545,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80736,,80736,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14935613,,14935613,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4851682,,4851682,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,228982,,228982,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2355739,,2355739,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8291,,8291,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90869532,,90869532,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55194,,55194,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19187,,19187,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8054976,,8054976,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14264,,14264,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1902226,,1902226,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,188815,,188815,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,272490,,272490,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68539,,68539,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,367483,,367483,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3161,,3161,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14034,,14034,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16606,,16606,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67170,,67170,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1036660,,1036660,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6958213,,6958213,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82,,82,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14980977,,14980977,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75792680,,75792680,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,427962,,427962,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9733592,,9733592,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62852182,,62852182,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200930488,,200930488,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,741031,,741031,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5435,,5435,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23531,,23531,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3583,,3583,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7259,,7259,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87922651,,87922651,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,300833,,300833,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187062,,187062,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190527,,190527,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17001182,,17001182,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10686406,,10686406,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27457787,,27457787,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,272269,,272269,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16427806,,16427806,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105108,,105108,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244386112,,244386112,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7046,,7046,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1073971,,1073971,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2413952,,2413952,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14251,,14251,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6075548,,6075548,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83461,,83461,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,721255,,721255,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34412549,,34412549,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,123547,,123547,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1173844,,1173844,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32614929,,32614929,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153483157,,153483157,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1399050,,1399050,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7523753,,7523753,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,278513,,278513,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,161711,,161711,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1428064,,1428064,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4037,,4037,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41001,,41001,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15770990558,,15770990558,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61724878,,61724878,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21568922,,21568922,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,988057115,,988057115,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,275580421,,275580421,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1537023499,,1537023499,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8147338,,8147338,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84801924,,84801924,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56373760,,56373760,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1308300,,1308300,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282339,,282339,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,278191546,,278191546,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52950534,,52950534,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37275455,,37275455,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,391689380,,391689380,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1943565223,,1943565223,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71851419,,71851419,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,530472159,,530472159,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50276906,,50276906,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57503633,,57503633,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55280545,,55280545,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2155242201,,2155242201,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14167406,,14167406,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,188349853,,188349853,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185090813,,185090813,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2101651,,2101651,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,224699428,,224699428,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65435852,,65435852,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169473288,,169473288,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,833568900,,833568900,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185253346,,185253346,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1694802507,,1694802507,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133240582,,133240582,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,178634389,,178634389,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29155063,,29155063,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,171621574,,171621574,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135375559,,135375559,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,237477453,,237477453,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,839,Special Categories,XX ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111562,,111562,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,606108121,,606108121,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1268630,,1268630,0
+H5,2017,2017,2017,5,0,0,X,191,Croatia,HRV,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10873375,,10873375,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7834,7834,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6946231,6946231,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4359590,4359590,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15990,15990,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,250591118,250591118,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4503153,4503153,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38567,38567,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14923300,14923300,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,131113,131113,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55758,55758,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81,81,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1779503,1779503,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2144921,2144921,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9037508,9037508,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20304067,20304067,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,449662,449662,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1640411,1640411,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110,110,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2003842,2003842,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,162,Christmas Isds,CXR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,631,631,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6858252,6858252,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26499691,26499691,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,375276,375276,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2027,2027,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49478,49478,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20922,20922,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13,13,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7970252,7970252,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14,14,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65,65,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,176243,176243,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,677951,677951,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10711,10711,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13661228,13661228,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,239,South Georgia and the South Sandwich Islands,SGS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,198,198,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4710784,4710784,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182764,182764,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4940,4940,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104913,104913,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,158333,158333,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1340,1340,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,466,466,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18567,18567,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,615304,615304,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1410109,1410109,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62009886,62009886,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246006838,246006838,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,508110,508110,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,163262756,163262756,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7280275,7280275,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134808,134808,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132,132,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5475,5475,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76118,76118,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12045,12045,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,480083,480083,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31108,31108,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,131615906,131615906,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29119057,29119057,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,528650,528650,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42905,42905,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96006,96006,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,987,987,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,291148,291148,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160408,160408,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,392989,392989,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3421272,3421272,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16442580,16442580,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5722042,5722042,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17190,17190,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90,90,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37713,37713,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111339,111339,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,568,"Other Europe, nes",E19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38506,38506,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14536155,14536155,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,247872,247872,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,239,239,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,243144,243144,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49709,49709,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14138660,14138660,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2328020,2328020,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33204773,33204773,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1037830,1037830,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126162,126162,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117,117,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1017,1017,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1585,1585,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4244,4244,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,889198,889198,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87446431,87446431,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4882,4882,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34515398,34515398,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,553,553,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1557970,1557970,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5720,5720,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34985241,34985241,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,461,461,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,338,338,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1010096,1010096,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3752232,3752232,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21,21,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15251,15251,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26620826,26620826,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84813859,84813859,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12095401,12095401,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26876,26876,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33883,33883,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4862603,4862603,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,876,Wallis and Futuna Isds,WLF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162,162,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11,11,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,316,316,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,241161885,241161885,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24608731979,24608731979,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8811856,8811856,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1857419809,1857419809,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,527408492,527408492,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,767279161,767279161,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43536070,43536070,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,152932011,152932011,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18166650,18166650,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,777747942,777747942,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,604959890,604959890,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,223711694,223711694,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37226233,37226233,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,604188030,604188030,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3780177095,3780177095,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96684930,96684930,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13261657,13261657,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1866128120,1866128120,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26326947,26326947,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69182076,69182076,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15838949,15838949,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3159917700,3159917700,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30561031,30561031,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,214362857,214362857,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10358114,10358114,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15291118,15291118,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11277147,11277147,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5658242,5658242,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6957139,6957139,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34488114,34488114,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2443998,2443998,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,373296,373296,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,955246398,955246398,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2622982,2622982,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23387576,23387576,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,876776336,876776336,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,199744578,199744578,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,338522241,338522241,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,668091361,668091361,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140630354,140630354,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5439497,5439497,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,462598214,462598214,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2645041081,2645041081,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9027411,9027411,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,538279411,538279411,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,143183175,143183175,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,192818885,192818885,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,315222470,315222470,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,300605244,300605244,,0
+H5,2017,2017,2017,5,0,0,M,191,Croatia,HRV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,158809603,158809603,,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,309713,,309713,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73591013,,73591013,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56485,,56485,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31148,,31148,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14831548,,14831548,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,979787,,979787,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21460043,,21460043,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,177332,,177332,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1173347,,1173347,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4145519,,4145519,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9101,,9101,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8195982,,8195982,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125975,,125975,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9412,,9412,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63473,,63473,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12035363,,12035363,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,957906,,957906,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1367444,,1367444,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,633469,,633469,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12045,,12045,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10467387,,10467387,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,290526,,290526,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27338,,27338,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,609,,609,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70359,,70359,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10975,,10975,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20815,,20815,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3698274,,3698274,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,616899,,616899,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,158419657,,158419657,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,511664,,511664,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1315453,,1315453,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2725588,,2725588,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55538,,55538,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1873732,,1873732,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200772,,200772,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1700563,,1700563,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2131726,,2131726,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,144859,,144859,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,962838,,962838,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47763,,47763,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3676878,,3676878,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10926522,,10926522,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21378,,21378,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,183,,183,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65130587,,65130587,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,159210,,159210,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,589,,589,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2140984,,2140984,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,371758,,371758,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,118503,,118503,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20184,,20184,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,752481,,752481,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,174762067,,174762067,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100709,,100709,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90078,,90078,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,207033,,207033,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,258101,,258101,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32824,,32824,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75583,,75583,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10807427,,10807427,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44176233,,44176233,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7611997,,7611997,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31571935,,31571935,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2078688,,2078688,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,392016,,392016,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11428908,,11428908,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12819881,,12819881,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1999397,,1999397,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102038126,,102038126,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9372314,,9372314,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,294027,,294027,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40102013,,40102013,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,801774,,801774,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3082936,,3082936,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56142282,,56142282,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,274362,,274362,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,396817,,396817,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2633074,,2633074,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,185497,,185497,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,240170,,240170,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42393,,42393,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,585225,,585225,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,113437957,,113437957,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,111989,,111989,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14365228,,14365228,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3010861,,3010861,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,166075,,166075,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1987004,,1987004,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1508658,,1508658,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8711,,8711,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12605366,,12605366,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11861,,11861,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,122498,,122498,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1790515,,1790515,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3494,,3494,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5095045,,5095045,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3468,,3468,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11937,,11937,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,724781,,724781,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16928,,16928,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,78302,,78302,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15961,,15961,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,568,"Other Europe, nes",E19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,663083,,663083,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,87297864,,87297864,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1349,,1349,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,161380,,161380,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5859095,,5859095,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1518803,,1518803,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65978,,65978,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2430792,,2430792,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12911114,,12911114,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,599302,,599302,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52319,,52319,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36319208,,36319208,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,284734524,,284734524,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,134059,,134059,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2666,,2666,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,85968,,85968,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43951,,43951,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,243667,,243667,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77271882,,77271882,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1337332,,1337332,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,189571,,189571,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,363080,,363080,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8984106,,8984106,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33019586,,33019586,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,272179,,272179,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13714475,,13714475,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,450392,,450392,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,127694,,127694,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,95333,,95333,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1108994,,1108994,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3334675,,3334675,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35929,,35929,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35529,,35529,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14937167,,14937167,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2961435,,2961435,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28132473,,28132473,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42439708,,42439708,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,116247,,116247,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,123075490,,123075490,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,123946,,123946,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75270612,,75270612,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2091188,,2091188,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8100023,,8100023,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,839,Special Categories,XX ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,292037,,292037,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28477,,28477,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,177470,,177470,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,226878,,226878,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10261,,10261,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54406,,54406,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2336056,,2336056,0
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17210469290,,17210469290,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71219905,,71219905,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1110628167,,1110628167,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,308420587,,308420587,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1612954417,,1612954417,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,122992825,,122992825,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,87670163,,87670163,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10066123,,10066123,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,290676788,,290676788,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62156330,,62156330,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,446108733,,446108733,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10219369,,10219369,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2279042523,,2279042523,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72237959,,72237959,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41085998,,41085998,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,588334126,,588334126,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3220794,,3220794,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33886743,,33886743,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2510893604,,2510893604,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64648965,,64648965,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12215567,,12215567,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,156289186,,156289186,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,223710591,,223710591,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200264552,,200264552,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,261540758,,261540758,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64324882,,64324882,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,174791676,,174791676,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,842448229,,842448229,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13055732,,13055732,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,188086445,,188086445,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1903938160,,1903938160,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,281078733,,281078733,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125269264,,125269264,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,214680051,,214680051,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42744760,,42744760,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,151929062,,151929062,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,258321594,,258321594,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,403917637,,403917637,4
+H5,2018,2018,2018,5,0,0,X,191,Croatia,HRV,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13099316,,13099316,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3626436,3626436,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,665,665,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8336220,8336220,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,527,527,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,405645932,405645932,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16655428,16655428,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,124110,124110,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,782146,782146,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32,32,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,160891,160891,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34706866,34706866,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20459,20459,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26773,26773,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17291,17291,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4534508,4534508,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1440,1440,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3856219,3856219,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,278944,278944,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13341626,13341626,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2023883,2023883,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,666,666,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2015739,2015739,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6825471,6825471,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9336,9336,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3137839,3137839,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60082,60082,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17957,17957,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,129250,129250,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14543922,14543922,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14822,14822,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,664543,664543,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4983932,4983932,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,172,172,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31779,31779,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7435403,7435403,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2043028,2043028,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1252928,1252928,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,436227,436227,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19713,19713,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,379729,379729,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18208193,18208193,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,581591,581591,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23835567,23835567,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74438980,74438980,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,468441753,468441753,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64388,64388,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1066,1066,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79310451,79310451,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,519497,519497,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2745823,2745823,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19473,19473,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7533,7533,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,129369,129369,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10023,10023,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,118785,118785,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44010,44010,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,85206752,85206752,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,680992,680992,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12226159,12226159,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,222,222,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,584902,584902,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24345,24345,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7118727,7118727,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,291284,291284,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6130857,6130857,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2633837,2633837,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,132,132,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6010132,6010132,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14395839,14395839,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4265754,4265754,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,308322,308322,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,356456,356456,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,104063,104063,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22354,22354,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2196338,2196338,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,188191,188191,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,743851,743851,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,568,"Other Europe, nes",E19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11997,11997,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22567,22567,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8430,8430,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13955340,13955340,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15794,15794,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,91748,91748,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,162474,162474,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4352288,4352288,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,344838,344838,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,175851,175851,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8,8,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,582326,582326,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52326,52326,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52597049,52597049,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2985,2985,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33,33,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34200491,34200491,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,744,744,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6047831,6047831,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1920295,1920295,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33121,33121,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31687,31687,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2440,2440,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1447363,1447363,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4998324,4998324,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24560942,24560942,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17462,17462,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,380584933,380584933,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1918,1918,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,631,631,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29720,29720,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31812228,31812228,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102403158,102403158,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15415874,15415874,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25399,25399,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1571,1571,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65946,65946,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,857,857,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26361,26361,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,269521,269521,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,213827,213827,,0
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28113089203,28113089203,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8237213,8237213,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2777682,2777682,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1938140651,1938140651,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,461261438,461261438,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,868094370,868094370,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,221543146,221543146,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67691327,67691327,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,952397644,952397644,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11538,11538,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7655071,7655071,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,770186937,770186937,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,153280128,153280128,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35734211,35734211,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,729925876,729925876,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4288523819,4288523819,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,156176305,156176305,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2151824865,2151824865,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,84042417,84042417,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29330991,29330991,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3708627824,3708627824,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44351750,44351750,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,231463414,231463414,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9135229,9135229,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32265141,32265141,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17016359,17016359,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49591945,49591945,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1045025026,1045025026,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72306266,72306266,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1049086058,1049086058,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43122618,43122618,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,270169527,270169527,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,450266191,450266191,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,714773116,714773116,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,149669515,149669515,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21420701,21420701,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,518681460,518681460,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3140292150,3140292150,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,597716971,597716971,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,158999941,158999941,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,206110260,206110260,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,349253733,349253733,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,213830832,213830832,,4
+H5,2018,2018,2018,5,0,0,M,191,Croatia,HRV,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,66479904,66479904,,4

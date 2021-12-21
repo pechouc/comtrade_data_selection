@@ -1,0 +1,739 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3342727115,3342727115,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18808,18808,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37297,37297,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,671418,671418,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3644,3644,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9127399,9127399,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,453120,453120,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34275568,34275568,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2402919,2402919,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47632,47632,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,131229,131229,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,110,110,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58924438,58924438,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4020,4020,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,157,157,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83729,83729,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8987,8987,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3696016,3696016,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,243380,243380,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4291258,4291258,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16784488,16784488,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29703766,29703766,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9604,9604,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,844,844,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,866665,866665,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34840,34840,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4073953,4073953,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,483080869,483080869,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18767517,18767517,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17207,17207,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,238494,238494,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,185430,185430,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2468619,2468619,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51702,51702,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1216175,1216175,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6620668,6620668,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1925160,1925160,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13919282,13919282,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,700,700,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10037,10037,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10713680,10713680,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138508,138508,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24990,24990,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2044608,2044608,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,239,South Georgia and the South Sandwich Islands,SGS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30023,30023,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16278200,16278200,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,269278580,269278580,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6245,6245,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,124529,124529,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3023,3023,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20659,20659,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,100062072,100062072,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,161428465,161428465,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,212982,212982,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,552106,552106,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19248392,19248392,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1319,1319,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,646593,646593,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2904092,2904092,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25857,25857,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10548302,10548302,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,536341,536341,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8957003,8957003,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10354645,10354645,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56124604,56124604,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,287197884,287197884,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4922,4922,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,82543015,82543015,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5233,5233,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89069,89069,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,182710,182710,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7590434,7590434,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45896774,45896774,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5633452,5633452,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6583,6583,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17549540,17549540,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53,53,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1173897,1173897,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,955678,955678,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21787758,21787758,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7446207,7446207,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7258,7258,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70047107,70047107,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3324603,3324603,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3094166,3094166,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,211447,211447,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4342189,4342189,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8488409,8488409,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,778,778,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45568370,45568370,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25929,25929,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,285,285,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2077544,2077544,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1622704,1622704,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,149563857,149563857,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30686296,30686296,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12417648,12417648,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1683847,1683847,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2987143,2987143,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1737327,1737327,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3376,3376,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15768,15768,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2079,2079,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,251650,251650,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3632409,3632409,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8029014,8029014,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2660,2660,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,831993,831993,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35,35,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12232174,12232174,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1977902,1977902,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75828767,75828767,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2532,2532,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40811488,40811488,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39379,39379,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38368,38368,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,117035,117035,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15487963,15487963,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5248155,5248155,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,173392633,173392633,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44511529,44511529,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,295470,295470,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58367042,58367042,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14675,14675,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,69209324,69209324,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31223,31223,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,888887,888887,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35604569,35604569,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5085594,5085594,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8946,8946,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29725,29725,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,72241237,72241237,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116375503,116375503,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6380,6380,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4937906,4937906,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11402238,11402238,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13018164,13018164,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,55443892,55443892,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34476,34476,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,542,542,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8103331,8103331,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10134,10134,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12152916,12152916,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41728462,41728462,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1545957,1545957,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,266853614,266853614,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,71242,71242,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6153358,6153358,,0
+H4,2016,2016,2016,5,0,0,M,854,Burkina Faso,BFA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42321,42321,,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2520012338,,2520012338,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,237705,,237705,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2915,,2915,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1037,,1037,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,114561,,114561,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,97629,,97629,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3635998,,3635998,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,165,,165,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16911,,16911,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,715056,,715056,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17864079,,17864079,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27042,,27042,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6751,,6751,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104141,,104141,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4210,,4210,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41921296,,41921296,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25916,,25916,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,87044,,87044,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,69915,,69915,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1678169,,1678169,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25836484,,25836484,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1578042,,1578042,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33267,,33267,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29007,,29007,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10685032,,10685032,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65890915,,65890915,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,121841,,121841,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,183310,,183310,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58978640,,58978640,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43120535,,43120535,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1757781,,1757781,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17357,,17357,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19521,,19521,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21188,,21188,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34172,,34172,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2876,,2876,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2228854,,2228854,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,107801551,,107801551,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16050786,,16050786,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,699,,699,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,182,,182,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24441,,24441,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,722461,,722461,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6221581,,6221581,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,651302,,651302,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13027,,13027,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6498,,6498,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31155,,31155,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3208026,,3208026,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21515854,,21515854,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1070510,,1070510,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34932,,34932,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,903099,,903099,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9963340,,9963340,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,277,,277,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44448,,44448,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27844270,,27844270,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3476840,,3476840,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14257409,,14257409,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,294895,,294895,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5364,,5364,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21848,,21848,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1655,,1655,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29198,,29198,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2263,,2263,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,100146,,100146,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7264703,,7264703,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,127870,,127870,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,129978768,,129978768,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,230074234,,230074234,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,90930702,,90930702,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,974,,974,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,190899,,190899,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28701,,28701,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9889,,9889,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1010,,1010,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1859980,,1859980,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48963,,48963,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,233963,,233963,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1495688218,,1495688218,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28863258,,28863258,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1924127,,1924127,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,149610,,149610,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1163936,,1163936,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5303,,5303,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46431,,46431,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37549751,,37549751,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,263826,,263826,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2140860,,2140860,0
+H4,2016,2016,2016,5,0,0,X,854,Burkina Faso,BFA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18943,,18943,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4673,4673.727,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3717113992,3717113992.503,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,277886,277886.839,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2868388,2868388.784,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40293,40293.668,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2700655,2700655.583,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105,105.938,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9359,9359.903,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50515924,50515924.94,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4465710,4465710.612,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1772,1772.869,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244123,244123.1,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,391,391.196,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27,27.788,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9196,9196.891,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97412,97412.006,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,423,423.153,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71873950,71873950.356,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19661514,19661514.773,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86,86.128,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,236611,236611.309,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,291334,291334.707,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,565673,565673.785,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13594528,13594528.279,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37265,37265.945,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3392114,3392114.125,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2785267,2785267.357,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1252,1252.308,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,682515,682515.951,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100195,100195.764,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27994214,27994214.385,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6639,6639.386,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,518734261,518734261.537,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58009,58009.706,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1070,1070.248,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195496,195496.898,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1808,1808.698,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1033055,1033055.837,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,768947,768947.513,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30548,30548.263,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8361072,8361072.227,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1990074,1990074.755,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9891293,9891293.405,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4055,4055.464,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8092,8092.167,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17661,17661.217,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,379497,379497.728,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,332380,332380.442,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8205968,8205968.764,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4707,4707.432,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2236,2236.881,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22145529,22145529.641,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,318645394,318645394.092,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104734,104734.746,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25591,25591.08,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,138757073,138757073.195,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177921819,177921819.071,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12197,12197.16,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,437,437.51,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5053670,5053670.054,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7490788,7490788.425,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,181702,181702.869,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1925519,1925519.617,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,718826,718826.711,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5264691,5264691.387,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10282,10282.053,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16792257,16792257.454,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,585314,585314.981,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3231,3231.262,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6747256,6747256.24,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10063555,10063555.141,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56794813,56794813.223,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,400577153,400577153.839,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18519,18519.427,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23429,23429.019,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54760945,54760945.366,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117198424,117198424.164,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,183365,183365.097,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,130061,130061.056,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7646677,7646677.285,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9226,9226.025,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48206,48206.186,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7834401,7834401.405,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,230768,230768.704,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5650377,5650377.839,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2145952,2145952.172,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1933445,1933445.206,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111771,111771.31,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11401204,11401204.586,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59207158,59207158.694,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23648,23648.72,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9120,9120.512,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252125,252125.802,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8062183,8062183.321,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8677223,8677223.982,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106449,106449.848,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39011171,39011171.009,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7726,7726.272,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,333,333.052,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57948,57948.174,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,262360597,262360597.318,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18705,18705.096,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1350415,1350415.908,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2266798,2266798.742,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27375778,27375778.968,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10933144,10933144.249,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6669746,6669746.947,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1421699,1421699.685,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8828,8828.171,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6798067,6798067.16,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1708792,1708792.003,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8327393,8327393.956,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10150963,10150963.36,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2067,2067.084,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,654668,654668.444,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2977223,2977223.137,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86240721,86240721.079,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128823,128823.588,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,344,344.514,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4540921,4540921.927,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35769149,35769149.147,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99855,99855.484,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27136,27136.398,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69713,69713.892,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168244972,168244972.87,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2665364,2665364.381,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1451340,1451340.246,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4332998,4332998.93,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162330,162330.042,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2492,2492.175,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67546101,67546101.27,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78327302,78327302.089,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18871,18871.099,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,570,570.414,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,509264,509264.002,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33886213,33886213.878,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44405768,44405768.348,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3875,3875.782,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,303,303.842,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55403764,55403764.475,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,122468025,122468025.794,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136178,136178.042,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,481000,481000.117,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7886380,7886380.829,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14491347,14491347.94,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60567028,60567028.933,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141011,141011.386,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3191,3191.25,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17597508,17597508.181,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41923,41923.266,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16981577,16981577.526,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39116631,39116631.405,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8098,8098.354,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,259178295,259178295.288,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2350925,2350925.624,,0
+H4,2017,2017,2017,5,0,0,M,854,Burkina Faso,BFA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1758323,1758323.748,,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,337845,,337845.663,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11946,,11946.797,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,262195,,262195.285,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16262,,16262.391,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,861587,,861587.323,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1946,,1946.027,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7146485,,7146485.427,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9148,,9148.014,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60522,,60522.771,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4070,,4070.639,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,232030,,232030.395,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2790162435,,2790162435.712,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24339,,24339.578,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9702903,,9702903.84,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73602,,73602.355,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298407,,298407.592,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23404,,23404.673,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1084567,,1084567.325,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18008690,,18008690.554,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2285921,,2285921.852,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4381,,4381.072,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99314,,99314.358,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76689762,,76689762.707,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44274894,,44274894.903,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,137674,,137674.815,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8051109,,8051109.847,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,118412,,118412.294,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11657,,11657.749,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,166822,,166822.91,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2792,,2792.491,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1213783,,1213783.845,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8766209,,8766209.733,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40547,,40547.97,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,122527,,122527.516,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,118939,,118939.331,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15541,,15541.924,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,417507,,417507.33,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6094,,6094.399,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,184810359,,184810359.948,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28363866,,28363866.514,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3788,,3788.846,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6561,,6561.969,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17798,,17798.043,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20608,,20608.763,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3950,,3950.612,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97313,,97313.83,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2111259,,2111259.456,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38374,,38374.062,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11850,,11850.106,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,996679,,996679.654,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27971288,,27971288.819,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3556,,3556.231,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10661697,,10661697.412,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19363698,,19363698.558,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28219951,,28219951.393,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60761,,60761.713,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8426,,8426.757,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2966,,2966.071,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,211433,,211433.985,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29232154,,29232154.014,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6615,,6615.244,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2070387,,2070387.731,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1763,,1763.776,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18935,,18935.826,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,276984061,,276984061.779,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,260856680,,260856680.657,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32332274,,32332274.475,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1603019,,1603019.345,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1639728798,,1639728798.962,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16602,,16602.785,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2012,,2012.768,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32522979,,32522979.388,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1504,,1504.55,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1695782,,1695782.292,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151823,,151823.506,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12104775,,12104775.157,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19482,,19482.475,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,309313,,309313.1,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14955,,14955.127,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3269,,3269.472,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8946,,8946.221,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3804,,3804.487,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1473,,1473.714,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2122,,2122.427,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151645,,151645.696,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,181089,,181089.454,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3295009,,3295009.56,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26869,,26869.017,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12067062,,12067062.868,0
+H4,2017,2017,2017,5,0,0,X,854,Burkina Faso,BFA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1057173,,1057173.404,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4295841213,4295841213.377,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13627,13627.986,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2155,2155.632,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45903,45903.087,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10057271,10057271.452,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15622,15622.535,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1128284,1128284.326,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51744,51744.046,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9368832,9368832.523,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52706708,52706708.997,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2458655,2458655.447,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23,23.857,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,186,186.814,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,829775,829775.831,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73298119,73298119.936,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45574,45574.574,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25913622,25913622.875,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,568769,568769.263,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23113243,23113243.682,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9063998,9063998.995,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,230012,230012.817,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,866160,866160.078,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5368948,5368948.49,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29338,29338.331,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,639368,639368.684,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14290,14290.852,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,213,213.562,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27934232,27934232.091,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,820343,820343.621,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,543395300,543395300.531,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29395,29395.893,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53158,53158.968,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16369,16369.919,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5958,5958.526,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,503,503.583,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,684837,684837.923,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13107,13107.559,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,589,589.723,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10197789,10197789.271,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3214829,3214829.2,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22286891,22286891.303,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11824,11824.554,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73562,73562.525,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51143,51143.935,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5907,5907.157,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,357142,357142.527,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216567,216567.015,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12973584,12973584.546,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23730480,23730480.644,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,309172222,309172222.974,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13622,13622.689,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16239,16239.432,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16866,16866.8,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,176,176.174,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144274117,144274117.837,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15776402,15776402.061,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,863641,863641.185,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,198754265,198754265.405,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1532762,1532762.728,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,344,344.35,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8756,8756.315,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144805,144805.818,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,266862,266862.057,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9676805,9676805.523,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20591219,20591219.17,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5350445,5350445.154,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12944904,12944904.169,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3685810,3685810.882,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67739839,67739839.57,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24492,24492.784,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,494505324,494505324.067,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,116584286,116584286.871,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2874,2874.176,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182332,182332.083,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91530,91530.148,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4473692,4473692.88,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,184988342,184988342.386,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18906,18906.529,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68420,68420.869,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4622577,4622577.191,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79307,79307.06,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12084845,12084845.708,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1938380,1938380.536,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2437037,2437037.304,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1618622,1618622.614,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79471,79471.502,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17155387,17155387.81,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8754,8754.126,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37643137,37643137.217,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2087,2087.695,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180715,180715.115,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,676319,676319.27,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9594758,9594758.29,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5512686,5512686.332,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28643,28643.922,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68783829,68783829.871,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3148,3148.166,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87327,87327.227,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32225,32225.183,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1869,1869.075,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136212930,136212930.648,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41874,41874.044,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83,83.092,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3723986,3723986.486,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10340,10340.279,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16753715,16753715.827,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12700783,12700783.292,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49438790,49438790.209,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,266,266.916,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2629577,2629577.972,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23329,23329.767,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,116179,116179.581,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,245570,245570.642,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,989808,989808.057,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5442835,5442835.131,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,498304,498304.287,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18369622,18369622.023,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13312155,13312155.962,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4148372,4148372.345,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,236855405,236855405.606,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3941,3941.596,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9063,9063.798,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6034,6034.018,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31151596,31151596.145,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6047486,6047486.772,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4129,4129.082,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,234871291,234871291.555,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4841698,4841698.041,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1006070,1006070.742,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13056819,13056819.733,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,506585,506585.226,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,912,912.055,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77070440,77070440.698,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65777,65777.492,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84048420,84048420.4,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16073,16073.807,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42292,42292.364,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32133258,32133258.542,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19018390,19018390.381,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71481967,71481967.943,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,130286962,130286962.776,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1393621,1393621.948,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1180492,1180492.176,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32641947,32641947.899,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29942767,29942767.102,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54016204,54016204.813,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19262,19262.368,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,393279,393279.872,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6405,6405.956,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21713319,21713319.4,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28047,28047.705,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21097751,21097751.113,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53110026,53110026.638,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66683,66683.999,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246263948,246263948.71,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8279,8279.423,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10293154,10293154.359,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4276,4276.808,,0
+H4,2018,2018,2018,5,0,0,M,854,Burkina Faso,BFA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233177,233177.772,,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3283185327,,3283185327.445,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,300091,,300091.369,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31506,,31506.831,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124760,,124760.41,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84762,,84762.762,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11237634,,11237634.151,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,161,,161.352,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4346,,4346.291,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1161401,,1161401.704,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33798,,33798.693,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14775695,,14775695.407,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12971,,12971.935,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5336,,5336.042,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9065,,9065.081,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103965,,103965.907,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20020,,20020.563,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13185776,,13185776.986,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,633,,633.031,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72829,,72829.858,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22529,,22529.148,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1085,,1085.196,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2418258,,2418258.359,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21820310,,21820310.767,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44268,,44268.969,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6556434,,6556434.893,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38474,,38474.997,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,137494064,,137494064.725,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,221520,,221520.173,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252671,,252671.337,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13079204,,13079204.01,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100928988,,100928988.867,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1018,,1018.789,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5230462,,5230462.261,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16368,,16368.528,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9395,,9395.625,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5064,,5064.248,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28357,,28357.979,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72394,,72394.572,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20.389,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2557,,2557.581,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1210420,,1210420.869,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,208284030,,208284030.029,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4081737,,4081737.392,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115996,,115996.116,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30359,,30359.974,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1800,,1800.476,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60724,,60724.821,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1086160,,1086160.815,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2957,,2957.939,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,452,,452.165,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9279,,9279.469,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3195028,,3195028.322,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17836325,,17836325.577,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29426,,29426.4,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2856181,,2856181.426,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41253,,41253.519,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,476208,,476208.124,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2420889,,2420889.226,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28900535,,28900535.906,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9694,,9694.417,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18328894,,18328894.421,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47565,,47565.785,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1808,,1808.66,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18683,,18683.457,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1867,,1867.349,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55296,,55296.249,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40292,,40292.787,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4945,,4945.068,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17579,,17579.312,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2516,,2516.197,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,337751,,337751.415,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11513259,,11513259.97,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25099,,25099.176,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,504196661,,504196661.696,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252695711,,252695711.855,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1862,,1862.097,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41452197,,41452197.352,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15152,,15152.049,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,889703,,889703.714,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15656,,15656.773,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1041423,,1041423.951,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1731,,1731.068,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,817391,,817391.833,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1730951619,,1730951619.649,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61697046,,61697046.098,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10370823,,10370823.55,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,710611,,710611.572,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7984878,,7984878.3,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,112629,,112629.927,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282838,,282838.605,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109668,,109668.268,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31462237,,31462237.678,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72526,,72526.004,0
+H4,2018,2018,2018,5,0,0,X,854,Burkina Faso,BFA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7849722,,7849722.788,0

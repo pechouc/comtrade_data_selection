@@ -1,0 +1,879 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8924463347,8924463347,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,362689,362689,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6295701,6295701,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5052737,5052737,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61430,61430,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,109079258,109079258,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43060,43060,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43,43,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48613029,48613029,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9662,9662,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1211,1211,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16570740,16570740,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,881,881,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7503,7503,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13093,13093,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3604848,3604848,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1745086,1745086,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,415432,415432,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3516031,3516031,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1680270,1680270,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32060,32060,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36895791,36895791,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1257210,1257210,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3237832,3237832,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3132426220,3132426220,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,477132,477132,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27477,27477,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10938,10938,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,322370,322370,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2248762,2248762,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,310571,310571,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20397,20397,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2514719,2514719,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11420560,11420560,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,507355,507355,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,702961,702961,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2773843,2773843,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,401568,401568,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,402,402,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20537,20537,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,713544378,713544378,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8171,8171,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8573,8573,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,198877409,198877409,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1261,1261,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70,70,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1500723,1500723,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,99819,99819,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35477,35477,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42743,42743,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,792045907,792045907,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1857748,1857748,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,93232,93232,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32302946,32302946,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47133,47133,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79159916,79159916,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2638248,2638248,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,703549466,703549466,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,110421,110421,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,565657601,565657601,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7419,7419,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1123300,1123300,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2189,2189,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,182372539,182372539,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,199884,199884,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22712,22712,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7262,7262,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,141946,141946,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4993,4993,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,406235,406235,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,90657,90657,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7806,7806,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70185462,70185462,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26,26,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116324,116324,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,59120,59120,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,163748,163748,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4461649,4461649,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,157652299,157652299,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,349310,349310,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1271234,1271234,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,97987,97987,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23865,23865,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12225,12225,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,168577158,168577158,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8684,8684,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36383248,36383248,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27917,27917,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,856382,856382,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9039654,9039654,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,923974,923974,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51978,51978,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,798262,798262,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21456839,21456839,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6932747,6932747,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,375,375,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34860870,34860870,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2922,2922,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7409169,7409169,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2033858,2033858,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41466075,41466075,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12472,12472,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,561837,561837,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10491930,10491930,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,133247982,133247982,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,437320,437320,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48331815,48331815,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3904284,3904284,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15667649,15667649,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1157,1157,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45349833,45349833,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19041610,19041610,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,702104279,702104279,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1472,1472,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104584913,104584913,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,235,235,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,518318,518318,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2859985,2859985,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,137757,137757,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33023,33023,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,621629,621629,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14142641,14142641,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4831,4831,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,398958,398958,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152149858,152149858,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1599951,1599951,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,1,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,433811297,433811297,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,561674,561674,,0
+H4,2016,2016,2016,5,0,0,M,446,"China, Macao SAR",MAC,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11679,11679,,0
+H4,2016,2016,2016,5,0,0,RM,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,406235,,,0
+H4,2016,2016,2016,5,0,0,RM,446,"China, Macao SAR",MAC,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,406235,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25250,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,256480,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,169712,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,489693586,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,186619,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13652,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79777143,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3353154,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,380838802,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152870,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116159,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19745430,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,489792,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,931272,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,72878,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9276,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,193900,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4271,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6786,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1747455,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,167041,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56659,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21628,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,258482,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45697,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1053179,,,0
+H4,2016,2016,2016,5,0,0,RX,446,"China, Macao SAR",MAC,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,,,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1256603099,,1256603099,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,186619,,186619,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,195821,,195821,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70995,,70995,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13652,,13652,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152870,,152870,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,86005166,,86005166,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,256480,,256480,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,169712,,169712,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9276,,9276,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,397326736,,397326736,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116159,,116159,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3657689,,3657689,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,72878,,72878,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24350909,,24350909,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,489792,,489792,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,954938,,954938,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1053179,,1053179,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,737325309,,737325309,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,543621,,543621,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4271,,4271,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6786,,6786,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1973199,,1973199,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1234937,,1234937,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56659,,56659,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21628,,21628,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,308121,,308121,0
+H4,2016,2016,2016,5,0,0,X,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45697,,45697,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3358692,,3358692.434,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3358692,,3358692.434,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,157146,,157146.156,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,157146,,157146.156,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,117513,,117513.628,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,634,,634.499,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,542520,,542520.197,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10756944,,10756944.918,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,982462,,982462.764,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8322,,8322.442,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12290250,,12290250.322,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,589707,,589707.129,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,589707,,589707.129,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22919,,22919.264,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22919,,22919.264,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,112,Belarus,BLR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2195,,2195.723,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2195,,2195.723,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,104,Myanmar,MMR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31041,,31041.273,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31041,,31041.273,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23691,,23691.391,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23691,,23691.391,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,542520,,542520.197,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10756944,,10756944.918,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48447149,,48447149.013,4
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,93486,,93486.902,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59840101,,59840101.031,4
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40333039,,40333039.301,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40333039,,40333039.301,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37381,,37381.308,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1051,,1051.222,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36330,,36330.086,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75668,,75668.406,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17439,,17439.556,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,58228,,58228.849,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,528,,528.708,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,528,,528.708,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,211131,,211131.84,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5954,,5954.653,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,205177,,205177.187,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,152,,152.245,4
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,152,,152.245,4
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451448,,451448.777,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451448,,451448.777,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,117513,,117513.628,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,634,,634.499,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,855393,,855393.745,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,855393,,855393.745,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21493,,21493.066,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21493,,21493.066,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,275270,,275270.995,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,275270,,275270.995,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,356,,356.766,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,356,,356.766,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,984444,,984444.056,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38697,,38697.255,0
+H5,2018,2018,2018,5,0,0,DX,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,945746,,945746.801,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12068649824,12068649824.358,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,336843184,336843184.877,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10391258316,10391258316.599,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,808731068,808731068.737,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4816276,4816276.536,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,9900,Other,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,527000977,527000977.609,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,432208,432208.666,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,8,Albania,ALB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,283,283.555,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,8,Albania,ALB,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,431925,431925.111,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7247,7247.559,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,24,Angola,AGO,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7247,7247.559,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5178799,5178799.818,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,32,Argentina,ARG,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4268,4268.808,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,32,Argentina,ARG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5174531,5174531.009,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125071860,125071860.939,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7034193,7034193.374,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,118017041,118017041.64,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16215,16215.525,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4410,4410.4,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11019174,11019174.989,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,40,Austria,AUT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,739622,739622.821,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,40,Austria,AUT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10279449,10279449.597,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,40,Austria,AUT,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102,102.57,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13581,13581.648,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,44,Bahamas,BHS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13581,13581.648,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9887479,9887479.467,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,69694,69694.428,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9817785,9817785.04,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,92652,92652.589,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,51,Armenia,ARM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,92652,92652.589,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7490,7490.978,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,52,Barbados,BRB,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7490,7490.978,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23771998,23771998.136,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1582255,1582255.851,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22187091,22187091.809,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1441,1441.435,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1209,1209.041,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,803,803.839,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,60,Bermuda,BMU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,803,803.839,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4574,4574.166,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,64,Bhutan,BTN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4574,4574.166,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18666,18666.931,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17518,17518.59,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1148,1148.342,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27280,27280.98,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,351,351.811,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26929,26929.169,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64595884,64595884.243,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,76,Brazil,BRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50917,50917.122,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,76,Brazil,BRA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64478177,64478177.985,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,76,Brazil,BRA,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,66789,66789.136,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22272,22272.006,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22134,22134.874,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,137,137.132,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2511697,2511697.811,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73281,73281.54,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2397291,2397291.023,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41125,41125.248,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3400421,3400421.46,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,104,Myanmar,MMR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,184982,184982.106,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,104,Myanmar,MMR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3215439,3215439.353,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,184189,184189.292,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,112,Belarus,BLR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2578,2578.504,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,112,Belarus,BLR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,181610,181610.788,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7720076,7720076.159,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17806,17806.109,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7671264,7671264.826,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31005,31005.224,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,120,Cameroon,CMR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20463,20463.275,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,120,Cameroon,CMR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1043,1043.789,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21507,21507.064,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40000101,40000101.983,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4394186,4394186.78,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35457103,35457103.629,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,143248,143248.497,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5563,5563.077,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2572184,2572184.323,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,265,265.097,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2571919,2571919.225,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4564147,4564147.413,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,152,Chile,CHL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33268,33268.956,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,152,Chile,CHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4506485,4506485.054,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,152,Chile,CHL,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24393,24393.403,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1365862,1365862.946,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,196,Cyprus,CYP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11722,11722.004,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,196,Cyprus,CYP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1354140,1354140.942,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,192,Cuba,CUB,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20670,20670.15,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,192,Cuba,CUB,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4461380,4461380.003,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,192,Cuba,CUB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12464,12464.276,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4494514,4494514.429,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,191,Croatia,HRV,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,413157,413157.715,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,191,Croatia,HRV,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1840240,1840240.773,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2253398,2253398.488,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79915,79915.04,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1659,1659.459,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,81574,81574.499,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,170,Colombia,COL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1098358,1098358.928,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,170,Colombia,COL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14301,14301.375,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1112660,1112660.303,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,9900,Other,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,527000977,527000977.609,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2068530,2068530.721,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,802750696,802750696.473,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2785772879,2785772879.641,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20588619,20588619.193,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4138181703,4138181703.637,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2311069,2311069.023,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,203,Czechia,CZE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,180564,180564.15,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,203,Czechia,CZE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2130504,2130504.873,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,437292,437292.214,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83686,83686.233,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,353605,353605.981,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32681,32681.283,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,233,Estonia,EST,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,891,891.42,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,233,Estonia,EST,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31789,31789.863,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15290628,15290628.822,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,208,Denmark,DNK,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,305441,305441.287,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,208,Denmark,DNK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14911688,14911688.591,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,208,Denmark,DNK,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73498,73498.944,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43,43.976,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,212,Dominica,DMA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43,43.976,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,831723,831723.165,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,218,Ecuador,ECU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31983,31983.978,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,218,Ecuador,ECU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,799739,799739.187,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,460,460.575,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,222,El Salvador,SLV,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,460,460.575,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,110945,110945.164,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14655,14655.664,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,96289,96289.5,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5357,5357.937,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5357,5357.937,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3369,3369.708,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3369,3369.708,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1606051,1606051.918,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,242,Fiji,FJI,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1606051,1606051.918,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1337080,1337080.698,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,246,Finland,FIN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,154716,154716.305,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,246,Finland,FIN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1182364,1182364.393,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25092,25092.318,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1000356754,1000356754.508,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55766449,55766449.727,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,944292099,944292099.162,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,238283,238283.864,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59921,59921.755,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,268,Georgia,GEO,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25092,25092.318,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11545,11545.355,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11545,11545.355,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,923499,923499.199,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,300,Greece,GRC,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18,18.582,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,300,Greece,GRC,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,923221,923221.467,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,300,Greece,GRC,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,239,239.95,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,233087848,233087848.655,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6805464,6805464.53,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,225607390,225607390.394,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,671277,671277.416,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3716,3716.316,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,537,537.627,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,288,Ghana,GHA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,430,430.597,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,288,Ghana,GHA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,107,107.03,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,300,Greece,GRC,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19,19.201,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,352023,352023.697,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,304,Greenland,GRL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,352023,352023.697,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74335,74335.859,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,320,Guatemala,GTM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,291,291.607,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,320,Guatemala,GTM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74044,74044.252,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,734,734.468,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,328,Guyana,GUY,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,734,734.468,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21843,21843.391,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,340,Honduras,HND,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21843,21843.391,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1244245906,1244245906.277,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7050,7050.966,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1243734577,1243734577.492,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,504277,504277.819,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6361690,6361690.069,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,348,Hungary,HUN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28086,28086.925,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,348,Hungary,HUN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6326963,6326963.326,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,348,Hungary,HUN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6639,6639.818,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,225670,225670.812,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,352,Iceland,ISL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,225670,225670.812,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45623112,45623112.804,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,517029,517029.119,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44950881,44950881.906,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88803,88803.601,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,66398,66398.179,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,128448,128448.393,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,364,Iran,IRN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2477,2477.544,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,364,Iran,IRN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125970,125970.849,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,222,222.979,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,368,Iraq,IRQ,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,222,222.979,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49688129,49688129,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,372,Ireland,IRL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54417,54417.272,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,372,Ireland,IRL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49605191,49605191.729,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,372,Ireland,IRL,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,586,586.682,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,372,Ireland,IRL,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27933,27933.318,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6145282,6145282.547,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,376,Israel,ISR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3070011,3070011.608,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,376,Israel,ISR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3075242,3075242.942,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,376,Israel,ISR,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27,27.996,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1002150656,1002150656.042,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11750620,11750620.056,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,989788888,989788888.811,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,502270,502270.018,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108877,108877.158,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,388,Jamaica,JAM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26165,26165.218,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,388,Jamaica,JAM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3184,3184.759,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29349,29349.977,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,548,548.776,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,548,548.776,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,884743517,884743517.354,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63362929,63362929.764,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,818681092,818681092.316,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,539390,539390.068,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2160105,2160105.206,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5680,5680.761,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5680,5680.761,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,103509,103509.93,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,400,Jordan,JOR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,103509,103509.93,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1017115,1017115.925,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,404,Kenya,KEN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,81817,81817.794,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,404,Kenya,KEN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,935298,935298.131,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,255194685,255194685.877,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19381628,19381628.88,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,235401800,235401800.92,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,390225,390225.815,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21030,21030.261,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4465,4465.773,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,414,Kuwait,KWT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4465,4465.773,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1097002,1097002.968,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,69265,69265.317,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1027737,1027737.651,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24006,24006.534,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,422,Lebanon,LBN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24006,24006.534,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,227339,227339.685,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,428,Latvia,LVA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,227339,227339.685,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,787326,787326.692,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,440,Lithuania,LTU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,89,89.192,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,440,Lithuania,LTU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,787237,787237.5,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19521,19521.56,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19521,19521.56,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,855793,855793.496,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,855793,855793.496,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,89820,89820.632,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,450,Madagascar,MDG,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56,56.984,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,450,Madagascar,MDG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,89763,89763.649,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1080,1080.457,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,454,Malawi,MWI,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1080,1080.457,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88966813,88966813.9,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3132429,3132429.861,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,85409052,85409052.168,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,425331,425331.871,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18866,18866.745,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,462,Maldives,MDV,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18866,18866.745,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7132,7132.23,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,470,Malta,MLT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7132,7132.23,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,902,902.322,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,478,Mauritania,MRT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,902,902.322,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1196704,1196704.17,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,480,Mauritius,MUS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1196704,1196704.17,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16102323,16102323.522,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,484,Mexico,MEX,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3055375,3055375.517,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,484,Mexico,MEX,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13046948,13046948.004,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,189415789,189415789.735,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18822352,18822352.557,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,169943954,169943954.84,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,625185,625185.311,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24297,24297.026,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,338988,338988.719,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,323801,323801.746,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15186,15186.973,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3166535,3166535.855,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,504,Morocco,MAR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3125,3125.422,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,504,Morocco,MAR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3163410,3163410.434,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,193476,193476.118,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4533,4533.906,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,188942,188942.213,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9290,9290.79,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,516,Namibia,NAM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9290,9290.79,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22979,22979.716,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,524,Nepal,NPL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22979,22979.716,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,212845118,212845118.017,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4389397,4389397.563,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,208418595,208418595.82,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30504,30504.637,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6619,6619.998,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15021,15021.721,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49,49.551,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14972,14972.17,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45010555,45010555.535,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1563920,1563920.663,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43445249,43445249.925,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,962,962.526,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,422,422.421,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43331,43331.254,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29856,29856.263,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13474,13474.99,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,193127,193127.28,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,562,Niger,NER,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28742,28742.607,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,562,Niger,NER,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,164384,164384.673,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,892014,892014.942,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,566,Nigeria,NGA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,892014,892014.942,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,233618,233618.649,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,586,Pakistan,PAK,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21778,21778.479,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,586,Pakistan,PAK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,211840,211840.17,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60639,60639.748,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,591,Panama,PAN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,129,129.823,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,591,Panama,PAN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60509,60509.924,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8175,8175.895,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8175,8175.895,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10582823,10582823.498,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,579,Norway,NOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,181492,181492.362,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,579,Norway,NOR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10401331,10401331.136,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1449447,1449447.724,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,604,Peru,PER,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13833,13833.491,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,604,Peru,PER,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1435614,1435614.233,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25720823,25720823.469,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5580640,5580640.359,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20140183,20140183.11,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7337323,7337323.484,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,616,Poland,POL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29787,29787.759,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,616,Poland,POL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7307484,7307484.687,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,616,Poland,POL,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51,51.037,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42663578,42663578.104,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1474236,1474236.791,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41057426,41057426.837,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,98132,98132.049,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33782,33782.427,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,882479,882479.247,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,634,Qatar,QAT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4459,4459.579,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,634,Qatar,QAT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,878019,878019.667,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,642,Romania,ROU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5841579,5841579.134,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,642,Romania,ROU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6697,6697.421,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5848276,5848276.554,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5117211,5117211.047,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12477,12477.655,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5129688,5129688.702,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60014040,60014040.228,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60014040,60014040.228,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10318,10318.351,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,686,Senegal,SEN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65,65.159,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,686,Senegal,SEN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10253,10253.192,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1006800,1006800.175,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,688,Serbia,SRB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12608,12608.841,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,688,Serbia,SRB,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,994191,994191.334,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,260976,260976.185,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,690,Seychelles,SYC,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,249833,249833.803,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,690,Seychelles,SYC,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11142,11142.383,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22626043,22626043.11,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7525805,7525805.617,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15091138,15091138.218,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9099,9099.276,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,143185287,143185287.818,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3805766,3805766.983,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,139374316,139374316.506,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5204,5204.329,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3682293,3682293.251,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,703,Slovakia,SVK,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2621,2621.242,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,703,Slovakia,SVK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3679672,3679672.009,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,705,Slovenia,SVN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77341,77341.367,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,705,Slovenia,SVN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4971828,4971828.393,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73759225,73759225.291,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2939761,2939761.917,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70641307,70641307.645,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,119917,119917.341,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,58238,58238.388,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5049169,5049169.76,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23630623,23630623.529,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,710,South Africa,ZAF,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14785,14785.859,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,710,South Africa,ZAF,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23547901,23547901.68,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,710,South Africa,ZAF,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67935,67935.991,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7477,7477.476,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7477,7477.476,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70128992,70128992.053,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,962340,962340.4,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,69111983,69111983.778,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52057,52057.783,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2610,2610.093,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,740,Suriname,SUR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,227,227.934,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,227,227.934,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16563794,16563794.088,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,752,Sweden,SWE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,797046,797046.097,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,752,Sweden,SWE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15766376,15766376.359,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,752,Sweden,SWE,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,371,371.632,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,886271114,886271114.001,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3006519,3006519.836,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,883242784,883242784.345,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18298,18298.892,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3510,3510.928,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,147519439,147519439.618,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3772596,3772596.013,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,143182479,143182479.522,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,535674,535674.124,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28689,28689.96,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7062,7062.611,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,776,Tonga,TON,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7062,7062.611,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1603,1603.343,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1603,1603.343,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,990576,990576.845,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14572,14572.418,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,975968,975968.378,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36,36.048,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,788,Tunisia,TUN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1711124,1711124.311,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,788,Tunisia,TUN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24,24.775,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1711149,1711149.087,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,792,Turkey,TUR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9510,9510.424,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,792,Turkey,TUR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14088011,14088011.002,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,792,Turkey,TUR,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57741,57741.393,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1354833,1354833.911,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,800,Uganda,UGA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1354833,1354833.911,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14155262,14155262.819,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,650782,650782.057,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,804,Ukraine,UKR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,168,168.225,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,804,Ukraine,UKR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,650539,650539.505,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,804,Ukraine,UKR,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74,74.326,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16605,16605.986,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16605,16605.986,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,999799,999799.626,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,818,Egypt,EGY,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,999799,999799.626,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,212101027,212101027.937,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11246951,11246951.465,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200758680,200758680.994,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45993,45993.375,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49402,49402.103,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1215798,1215798.849,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3404,3404.022,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1212394,1212394.828,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,518665935,518665935.264,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65648908,65648908.823,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,452423937,452423937.713,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,539512,539512.707,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53576,53576.022,,4
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,464546,464546.809,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,858,Uruguay,URY,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,464546,464546.809,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6705,6705.225,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,862,Venezuela,VEN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6705,6705.225,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4542,4542.949,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,887,Yemen,YEM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4542,4542.949,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25098,25098.883,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,894,Zambia,ZMB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,185,185.816,,0
+H5,2018,2018,2018,5,0,0,M,446,"China, Macao SAR",MAC,894,Zambia,ZMB,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24913,24913.068,,0
+H5,2018,2018,2018,5,0,0,RM,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,855793,855793.496,,0
+H5,2018,2018,2018,5,0,0,RM,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,855793,855793.496,,0
+H5,2018,2018,2018,5,0,0,RM,446,"China, Macao SAR",MAC,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,855793,855793.496,,0
+H5,2018,2018,2018,5,0,0,RM,446,"China, Macao SAR",MAC,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,855793,855793.496,,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1101163982,,1101163982.834,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9418742,,9418742.14,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,921132258,,921132258.791,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,170612981,,170612981.903,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,898571,,898571.514,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28162,,28162.986,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,870408,,870408.528,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,112806,,112806.914,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6333,,6333.47,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6333,,6333.47,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1188163,,1188163.58,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8393,,8393.424,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1196557,,1196557.004,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26567,,26567.943,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86238,,86238.971,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,176436528,,176436528.976,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,739950,,739950.352,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5148541,,5148541.82,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,170548036,,170548036.803,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,340534,,340534.087,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,203,Czechia,CZE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,340534,,340534.087,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2852712,,2852712.046,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,401528,,401528.867,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2451183,,2451183.18,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1093496,,1093496.5,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200051,,200051.025,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,893445,,893445.476,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,999,,999.07,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,324,Guinea,GIN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,999,,999.07,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,203794,,203794.594,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,203794,,203794.594,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,286202,,286202.786,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,286202,,286202.786,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64945,,64945.1,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,880634057,,880634057.487,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,880699002,,880699002.587,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3265392,,3265392.586,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37881,,37881.772,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3303274,,3303274.358,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1002598,,1002598.632,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,311404,,311404.735,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,691193,,691193.897,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1257605,,1257605.298,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,859205,,859205.941,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,398399,,398399.357,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1536776,,1536776.938,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,484,Mexico,MEX,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1536776,,1536776.938,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1694226,,1694226.346,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,985884,,985884.872,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,708341,,708341.474,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,412384,,412384.721,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67,,67.761,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,412316,,412316.96,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5911,,5911.048,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5911,,5911.048,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7393,,7393.858,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7393,,7393.858,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,333086,,333086.961,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,289078,,289078.1,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44008,,44008.862,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56928,,56928.511,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56309,,56309.125,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,619,,619.386,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20023,,20023.511,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20023,,20023.511,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9910,,9910.176,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,686,Senegal,SEN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9910,,9910.176,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,389,,389.098,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,389,,389.098,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9642576,,9642576.844,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,654112,,654112.991,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8988463,,8988463.853,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14591112,,14591112.484,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,934313,,934313.183,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13656799,,13656799.3,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28944,,28944.279,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28944,,28944.279,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19095,,19095.051,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,752,Sweden,SWE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19095,,19095.051,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,839479,,839479.984,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24061,,24061.536,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,815418,,815418.448,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,729095,,729095.117,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,725145,,725145.788,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3949,,3949.329,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30898,,30898.071,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23000,,23000.032,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7898,,7898.039,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1514732,,1514732,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1211486,,1211486.808,0
+H5,2018,2018,2018,5,0,0,RX,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,303245,,303245.192,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1161004083,,1161004083.865,4
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9512229,,9512229.043,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,969579407,,969579407.804,4
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,181369926,,181369926.821,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,0,World,W00,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,542520,,542520.197,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,104,Myanmar,MMR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31041,,31041.273,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,596040,,596040.598,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,596040,,596040.598,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1211082,,1211082.844,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8393,,8393.424,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1219476,,1219476.268,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,112,Belarus,BLR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2195,,2195.723,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2195,,2195.723,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31041,,31041.273,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26567,,26567.943,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86238,,86238.971,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,112806,,112806.914,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,894099,,894099.919,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28162,,28162.986,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,922262,,922262.905,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,188726779,,188726779.298,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,748272,,748272.794,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6131004,,6131004.585,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,181304981,,181304981.722,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,156,China,CHN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,542520,,542520.197,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,340534,,340534.087,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,203,Czechia,CZE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,340534,,340534.087,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3009858,,3009858.203,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,401528,,401528.867,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,251,France,FRA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2608329,,2608329.336,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,324,Guinea,GIN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,999,,999.07,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,999,,999.07,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4252137,,4252137.909,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200051,,200051.025,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4452188,,4452188.934,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,921032041,,921032041.888,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,920967096,,920967096.788,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64945,,64945.1,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,286202,,286202.786,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,360,Indonesia,IDN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,286202,,286202.786,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,203794,,203794.594,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,380,Italy,ITA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,203794,,203794.594,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3340655,,3340655.666,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38932,,38932.994,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,392,Japan,JPN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3301722,,3301722.672,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,412384,,412384.721,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67,,67.761,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,528,Netherlands,NLD,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,412316,,412316.96,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,484,Mexico,MEX,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1536776,,1536776.938,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1536776,,1536776.938,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,398399,,398399.357,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,859734,,859734.649,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1258134,,1258134.006,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56928,,56928.511,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56309,,56309.125,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,117902,,117902.727,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,389,,389.098,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,699,India,IND,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,117513,,117513.628,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,749422,,749422.746,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,328844,,328844.291,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1078267,,1078267.037,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1905358,,1905358.186,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,991839,,991839.525,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,913518,,913518.661,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5911,,5911.048,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,554,New Zealand,NZL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5911,,5911.048,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7393,,7393.858,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7393,,7393.858,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,152,,152.245,4
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,152,,152.245,4
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,784535,,784535.738,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,289078,,289078.1,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,608,Philippines,PHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,495457,,495457.639,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,620,Portugal,PRT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,619,,619.386,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20023,,20023.511,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20023,,20023.511,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9910,,9910.176,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,686,Senegal,SEN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9910,,9910.176,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9643211,,9643211.343,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,654112,,654112.991,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,702,Singapore,SGP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8989098,,8989098.352,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15446506,,15446506.228,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,934313,,934313.183,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14512193,,14512193.045,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28944,,28944.279,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,724,Spain,ESP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28944,,28944.279,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19095,,19095.051,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,752,Sweden,SWE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19095,,19095.051,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,839479,,839479.984,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24061,,24061.536,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,757,Switzerland,CHE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,815418,,815418.448,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,750588,,750588.183,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,746638,,746638.854,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,764,Thailand,THA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3949,,3949.329,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,275270,,275270.995,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,275270,,275270.995,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31254,,31254.837,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23000,,23000.032,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8254,,8254.805,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1248991,,1248991.993,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1250184,,1250184.063,0
+H5,2018,2018,2018,5,0,0,X,446,"China, Macao SAR",MAC,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2499176,,2499176.056,0

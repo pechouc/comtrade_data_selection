@@ -1,0 +1,537 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2929680,2929680,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92359,92359,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8376636,8376636,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1008152,1008152,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5554109,5554109,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79799,79799,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14688487,14688487,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6534140413,6534140413,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6702967,6702967,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,910629,910629,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2177939,2177939,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1092707519,1092707519,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6187,6187,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,181537,181537,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1028242,1028242,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4881,4881,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42300,42300,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29431042,29431042,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3305,3305,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,391661,391661,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1278763,1278763,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,461879,461879,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49578,49578,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,105739,105739,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,225488,225488,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5401786,5401786,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18870,18870,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36756177,36756177,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1265139067,1265139067,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6817689,6817689,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,251,251,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5421330,5421330,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,621624666,621624666,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,920428,920428,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47257432,47257432,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41151951,41151951,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,84290,84290,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1516701,1516701,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1426863,1426863,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,264863333,264863333,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,106212,106212,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1126732,1126732,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,248690628,248690628,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5064012,5064012,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5070599,5070599,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,767294,767294,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65440,65440,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138792029,138792029,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9820457,9820457,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15673,15673,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5559442,5559442,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,399272,399272,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,57734429,57734429,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,680311,680311,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1852642,1852642,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,80281,80281,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1198759334,1198759334,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,314221,314221,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3379764,3379764,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,282616,282616,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37491,37491,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152876873,152876873,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3395513,3395513,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5398693,5398693,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79680632,79680632,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,200385452,200385452,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18528893,18528893,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,78319073,78319073,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,355401308,355401308,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73432839,73432839,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18558,18558,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,399144420,399144420,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7878569,7878569,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,1,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5634849,5634849,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,609340,609340,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7995003,7995003,,0
+H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1807,1807,,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,596455337,,596455337,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,455832,,455832,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,177188,,177188,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1231243,,1231243,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19538,,19538,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,609003,,609003,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4754161,,4754161,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5495,,5495,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,488068,,488068,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1408046,,1408046,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18822947,,18822947,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11184770,,11184770,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104030,,104030,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53128,,53128,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39057,,39057,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1029,,1029,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,283316886,,283316886,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4511,,4511,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13410,,13410,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116409,,116409,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3486361,,3486361,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1138002,,1138002,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4405604,,4405604,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5432,,5432,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,136779,,136779,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83282,,83282,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3988416,,3988416,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1367950,,1367950,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,469702,,469702,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27000,,27000,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,893702,,893702,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12565,,12565,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9368012,,9368012,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,230037526,,230037526,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75276,,75276,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43068,,43068,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,607844,,607844,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70677,,70677,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46083,,46083,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43348,,43348,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26433,,26433,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12147012,,12147012,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1754656,,1754656,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,478,,478,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1312089,,1312089,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,411764,,411764,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,,1,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1721,,1721,0
+H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1689800,,1689800,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32620,0,32620.63,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,142292,0,142292.75,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,870069,0,870069,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2489035,0,2489035.78,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1011406,0,1011406.88,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1200,0,1200.69,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4027,0,4027.23,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,76379,0,76379,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68184,0,68184.93,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18112758,0,18112758.66,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,513064,0,513064.72,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,165,0,165.23,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64546,0,64546.26,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1433204,0,1433204.12,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88675,0,88675.48,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67507,0,67507,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,84516747,84516747.66,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60648758,60648758.83,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,560528301,560528301.99,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,192777108,192777108,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,220475,220475.61,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77009,77009.42,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,111577376,111577376.46,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,983645,983645.64,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,76929512,76929512.11,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2227811,2227811.48,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3266810,3266810.77,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4845,4845.54,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,789,789.48,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57642,57642.71,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1823,1823.66,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1965898,1965898.31,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19740,19740.48,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1667999,1667999.79,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,364,364.89,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61249290,61249290.33,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,123630,123630.93,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,276824,276824.92,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1212563808,1212563808.43,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6238783,6238783.88,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3400,3400.39,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12224606,12224606.8,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14092179,14092179.61,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20033975,20033975.46,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,553813,553813.32,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,166793,166793.69,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11992,11992.63,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4797,4797.94,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,258838561,258838561.59,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61092972,61092972.44,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3676561,3676561.87,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,273117,273117.96,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,995,995.8,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,381,381.99,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2631439,2631439.48,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52644,52644.23,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3938192,3938192.01,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22154920,22154920.9,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,148927239,148927239.78,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,413179649,413179649.19,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6688661,6688661.11,0,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,831926771,0,831926771.77,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83957030,83957030.09,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7743618,7743618.49,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4449650,4449650.02,0,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,600415,0,600415.16,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,239523,0,239523.89,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1689237,1689237.36,0,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,58650,0,58650.26,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1717902,0,1717902.25,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,80465,80465.91,0,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11711475,0,11711475.65,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72898,72898.03,0,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,236790,0,236790.75,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,117958,0,117958.76,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4865421,0,4865421.87,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14563223,0,14563223.43,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10108,0,10108.01,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13436,0,13436.09,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3784261,0,3784261.77,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21713,0,21713.16,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,416641,0,416641.6,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79370,0,79370.96,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3411029,0,3411029.15,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3100187,0,3100187.37,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54029,0,54029.2,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7199,0,7199.01,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,357201296,0,357201296.92,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,217129,0,217129.75,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,210273,0,210273.9,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1034801,0,1034801.9,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6016,0,6016.14,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38127,0,38127.72,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145860,0,145860.38,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40680,0,40680.63,0
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108836,0,108836.04,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1492940,0,1492940.61,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,356139528,0,356139528.05,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5904179,0,5904179.83,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2876046,0,2876046.69,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90351,0,90351.67,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86752,0,86752.43,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12962004,0,12962004.3,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22006682,0,22006682.62,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1377122,0,1377122.08,4
+H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3663,0,3663.41,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36131410,36131410.2,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,437414935,437414935.84,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,866770014,866770014.13,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,955819,955819.14,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37837,37837.37,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7618139,7618139.01,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1005469,1005469.27,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108901759,108901759.72,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,494011,494011.58,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,266702,266702.02,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,133531,133531.83,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90501,90501.77,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6824,6824,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,354037193,354037193.67,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20184,20184.96,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1282510,1282510.41,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7222774,7222774.07,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1293224713,1293224713.83,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136932,136932.1,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,918080,918080.04,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1688,1688.75,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1720064,1720064.58,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1620,1620.96,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4713488,4713488.54,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,686912,686912.36,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,203931,203931.79,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53040,53040.15,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4158594,4158594.48,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3884593,3884593.08,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3367953,3367953.65,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4252799,4252799.13,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,265893,265893.05,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4252778,4252778.63,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5582549,5582549.59,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1179297873,1179297873.12,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,936989,936989.5,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6664274,6664274.31,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50,50.46,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,322799,322799.04,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8897,8897.41,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4814,4814.87,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,941017,941017.2,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7792600111,7792600111.74,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6688295,6688295.97,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,682,682.55,0,0
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3286729,3286729.87,0,4
+H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,167634,167634.33,0,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,764751,,764751.79,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34055,,34055.31,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,374221,,374221.99,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25717,,25717.45,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25862,,25862.1,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104412,,104412.52,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13719,,13719.93,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,875241399,,875241399.13,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1321612,,1321612.62,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28407583,,28407583.58,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7327,,7327.18,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5581,,5581.16,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1228017,,1228017.36,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,534920,,534920.69,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5340072,,5340072.48,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,941724,,941724.2,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10143,,10143.58,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54029,,54029.2,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19508634,,19508634.35,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13190079,,13190079.73,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,279918,,279918.22,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162888,,162888.95,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4442887,,4442887,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2796480,,2796480.73,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87852,,87852.98,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15111,,15111.29,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1396108,,1396108.77,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,511762,,511762.2,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1256,,1256.28,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,255374,,255374.95,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,378244208,,378244208.32,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6604192,,6604192.14,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1665685,,1665685.22,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298841,,298841.96,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10765,,10765.09,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13304,,13304.68,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,414888,,414888.85,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,334,,334.58,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141134,,141134.4,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104,,104.82,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51170,,51170.19,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,899942,,899942.27,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60309,,60309.88,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,359437858,,359437858.13,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106232,,106232.68,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4412,,4412.45,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3449016,,3449016.56,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32620,,32620.63,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14265354,,14265354.08,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4027,,4027.23,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21007467,,21007467,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1540376,,1540376.84,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1752132,,1752132.26,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2218408,,2218408.98,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26415,,26415.25,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60365,,60365.37,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,893430,,893430.25,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17388,,17388.12,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177837,,177837.28,0
+H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1065,,1065.03,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7406590324,7406590324.75,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,536,536.86,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2103594,2103594.85,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,889,889.86,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3247735,3247735.24,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212325,212325.76,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10984774,10984774.56,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4577343,4577343.12,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212173,212173.97,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6278789,6278789.38,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11181046,11181046.63,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2071047,2071047.8,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,362322,362322.87,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4260922,4260922.13,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10182011,10182011.21,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,460615,460615.91,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1165931751,1165931751.97,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7599,7599.7,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173936,173936.28,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1117,1117.67,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1335105,1335105.52,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1233395,1233395.14,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1627039,1627039.01,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,304722,304722.64,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7406892,7406892.76,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65545243,65545243.85,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216866,216866.66,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,330101,330101.83,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9337,9337.5,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,676766,676766.84,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,877012,877012.08,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43014438,43014438.7,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1264167476,1264167476.21,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10189,10189.47,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5360011,5360011.16,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5332,5332.33,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9167960,9167960.3,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182,182.18,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82231431,82231431.66,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,512422,512422.37,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,790753847,790753847.33,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,414024682,414024682.39,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,482933,482933.19,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,435729,435729.24,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70295698,70295698.04,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1062991,1062991.19,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7273,7273.61,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3632652,3632652.7,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12,12.91,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8276,8276.98,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5922505,5922505.14,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3466,3466.92,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10264,10264.28,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282337211,282337211.03,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,466,466.47,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124885,124885.45,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,706247,706247.94,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5124803,5124803.19,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44489,44489.03,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6819826,6819826.24,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46658,46658.28,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1695814,1695814.56,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2062,2062.38,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1955,1955.79,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56960,56960.63,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4446773,4446773.82,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11340,11340.03,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1919,1919.21,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5259515,5259515.89,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139,139.08,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1086851107,1086851107.92,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,402,402.36,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5620,5620.9,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133502,133502.28,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4131775,4131775.61,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41458,41458.21,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246,246.86,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,360491,360491.44,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157697023,157697023.6,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64908881,64908881.44,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32,32.75,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2728141,2728141.74,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,354282140,354282140.22,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3438004,3438004,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,361716,361716.66,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16840042,16840042.42,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,657,657.29,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,382728,382728.73,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301207,301207.45,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4892893,4892893.83,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5327859,5327859.74,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95767331,95767331.08,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99847,99847.52,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124299466,124299466.23,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41688,41688.79,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78832638,78832638.24,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,385417082,385417082.44,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5024134,5024134.32,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2414,2414.32,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1477608,1477608.37,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4654858,4654858.64,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5985,5985.14,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55027632,55027632.97,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,553948708,553948708.71,,0
+H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99701125,99701125.61,,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2501,,2501.1,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,564,,564.82,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7499,,7499.91,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,221,,221.53,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1239,,1239.56,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5541,,5541.4,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,580,,580.01,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104543,,104543.78,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94357,,94357.11,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62342,,62342.47,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31791,,31791.8,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2488,,2488.37,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,864744,,864744.96,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,413,,413.47,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,245715,,245715.63,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,760581,,760581.01,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244646,,244646.1,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3471,,3471.94,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,369,,369.36,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9263097,,9263097.24,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3941986,,3941986.83,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1500559,,1500559.14,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1013141,,1013141.41,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89136,,89136.42,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5382,,5382.54,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153596,,153596.29,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25331,,25331.95,0
+H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100348,,100348.33,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,884504496,,884504496.37,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13719,,13719.93,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,764751,,764751.79,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104412,,104412.52,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25862,,25862.1,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25717,,25717.45,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,374221,,374221.99,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34055,,34055.31,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1321981,,1321981.98,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28410084,,28410084.68,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,564,,564.82,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7327,,7327.18,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5581,,5581.16,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1228017,,1228017.36,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,538392,,538392.63,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5584718,,5584718.58,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,941724,,941724.2,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10143,,10143.58,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54029,,54029.2,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20269215,,20269215.36,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13190079,,13190079.73,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,279918,,279918.22,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162888,,162888.95,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4450386,,4450386.91,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2796480,,2796480.73,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87852,,87852.98,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,260826,,260826.92,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1396108,,1396108.77,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,511762,,511762.2,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1256,,1256.28,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,255374,,255374.95,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141134,,141134.4,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,748,,748.05,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,379108953,,379108953.28,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,414888,,414888.85,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13304,,13304.68,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13253,,13253.46,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298841,,298841.96,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1665685,,1665685.22,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6604192,,6604192.14,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,359469649,,359469649.93,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60309,,60309.88,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62342,,62342.47,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,994299,,994299.38,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104543,,104543.78,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51750,,51750.2,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5646,,5646.22,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107472,,107472.24,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4633,,4633.98,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7391003,,7391003.39,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32620,,32620.63,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15765913,,15765913.22,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4027,,4027.23,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22020608,,22020608.41,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,982566,,982566.67,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17388,,17388.12,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,183219,,183219.82,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1065,,1065.03,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1693973,,1693973.13,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1777464,,1777464.21,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2318757,,2318757.31,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26415,,26415.25,0
+H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60365,,60365.37,0

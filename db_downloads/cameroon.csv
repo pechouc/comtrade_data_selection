@@ -1,0 +1,929 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1539100,1539100,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4898887030,4898887030,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1139,1139,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27714,27714,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41598,41598,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7115997,7115997,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17742461,17742461,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1188,1188,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,467297,467297,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33408432,33408432,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8721011,8721011,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7745492,7745492,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79731,79731,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26827,26827,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2394478,2394478,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31208,31208,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,738,738,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,95580626,95580626,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,257,257,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2079818,2079818,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,192882,192882,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,139869,139869,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62459717,62459717,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8694570,8694570,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2544,2544,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6313218,6313218,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7136217,7136217,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,122,122,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,150276,150276,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51925835,51925835,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42966,42966,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,422480,422480,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,580613,580613,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1068831,1068831,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,111174,111174,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1046767353,1046767353,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2182770,2182770,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18987392,18987392,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,214,214,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5954864,5954864,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,633373,633373,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30205,30205,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,706342,706342,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10124206,10124206,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,608999,608999,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7227519,7227519,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3044,3044,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,817960,817960,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1004640,1004640,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6159,6159,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52359045,52359045,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9957,9957,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5085,5085,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6756779,6756779,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4708,4708,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16902134,16902134,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,589052866,589052866,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,78,78,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23600,23600,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1152876,1152876,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5114,5114,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54016,54016,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,197214091,197214091,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3730616,3730616,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18554040,18554040,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83,83,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4614434,4614434,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6014,6014,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22198,22198,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7338512,7338512,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20944078,20944078,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,59210,59210,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30040861,30040861,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1027037,1027037,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23082564,23082564,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2315335,2315335,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,117893125,117893125,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27056544,27056544,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18268157,18268157,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,156492642,156492642,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,921767,921767,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,219042,219042,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,191801,191801,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30875161,30875161,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,500665,500665,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5958834,5958834,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12382,12382,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,149098,149098,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2227176,2227176,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1485850,1485850,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12179,12179,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,294623,294623,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39857695,39857695,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14068,14068,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12363,12363,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4820051,4820051,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116068333,116068333,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,817889,817889,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4385574,4385574,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34252036,34252036,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,118075,118075,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39360,39360,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81822462,81822462,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,165838,165838,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,971356,971356,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5261976,5261976,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17093,17093,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,527,"Oceania, nes",O19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2529,2529,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91609157,91609157,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16962199,16962199,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14328,14328,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37254,37254,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44292,44292,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,222973791,222973791,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8193861,8193861,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37379,37379,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2903964,2903964,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2976970,2976970,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8047850,8047850,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11875,11875,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38779358,38779358,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27047567,27047567,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1211777,1211777,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,337,337,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3086554,3086554,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7626621,7626621,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75895976,75895976,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3837,3837,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2526055,2526055,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,666,Saint Pierre and Miquelon,SPM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11800,11800,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1779,1779,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9186302,9186302,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,390098,390098,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61480953,61480953,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15392,15392,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28202,28202,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,158651759,158651759,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2028547,2028547,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5937347,5937347,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1478263,1478263,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19780843,19780843,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,74117885,74117885,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2331,2331,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,192324651,192324651,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,268,268,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16171,16171,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,102956,102956,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18266319,18266319,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23430,23430,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24685058,24685058,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1724,1724,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,222479928,222479928,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130076286,130076286,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,86149,86149,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46064912,46064912,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16853438,16853438,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83458548,83458548,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1469,1469,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,77006,77006,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2927438,2927438,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29337545,29337545,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,69081576,69081576,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51513,51513,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,162732,162732,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3344461,3344461,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,441,441,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10507,10507,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2199,2199,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,488042,488042,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,175387503,175387503,,0
+H4,2016,2016,2016,5,0,0,M,120,Cameroon,CMR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2544517,2544517,,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2130449501,,2130449501,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,142768,,142768,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4444883,,4444883,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,757825,,757825,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,456610,,456610,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,164775,,164775,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,292153,,292153,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60164,,60164,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6827,,6827,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49287900,,49287900,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,198609214,,198609214,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2248061,,2248061,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,299980,,299980,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,654616,,654616,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5019,,5019,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,254832,,254832,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37642024,,37642024,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68508,,68508,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91836312,,91836312,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,150646359,,150646359,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33372,,33372,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,74473,,74473,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36759538,,36759538,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5928142,,5928142,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,534598,,534598,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130043,,130043,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11572,,11572,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1517251,,1517251,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,249313,,249313,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91287,,91287,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2056768,,2056768,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14966589,,14966589,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11302,,11302,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,82120,,82120,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1330417,,1330417,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3211,,3211,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,164135004,,164135004,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,143,,143,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43067482,,43067482,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3471330,,3471330,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2787068,,2787068,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,123033,,123033,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37616234,,37616234,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48605,,48605,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,316209,,316209,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4645573,,4645573,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,403186,,403186,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41261031,,41261031,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,166416151,,166416151,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6715484,,6715484,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19378,,19378,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1268584,,1268584,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,499427,,499427,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3506,,3506,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23511,,23511,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,451227,,451227,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,335398,,335398,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2529923,,2529923,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63658,,63658,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,103702280,,103702280,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,605593,,605593,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12200733,,12200733,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91954,,91954,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,529872,,529872,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,151157,,151157,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1540803,,1540803,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1357648,,1357648,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,443036,,443036,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1623341,,1623341,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4587,,4587,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,454878201,,454878201,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,280884,,280884,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,77427,,77427,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138593,,138593,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,669679,,669679,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1718385,,1718385,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,101,,101,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22810,,22810,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2453932,,2453932,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12520493,,12520493,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,166598,,166598,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40808387,,40808387,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32291,,32291,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2325777,,2325777,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,78268,,78268,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,98024,,98024,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5408387,,5408387,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23231513,,23231513,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27954,,27954,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,617955,,617955,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1181450,,1181450,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67451963,,67451963,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2,,2,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30619,,30619,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92058,,92058,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1597019,,1597019,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24037926,,24037926,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1084878,,1084878,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83036289,,83036289,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1060896,,1060896,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41309431,,41309431,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10805,,10805,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6972088,,6972088,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1469390,,1469390,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27806483,,27806483,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3774,,3774,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58792,,58792,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1306729,,1306729,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24096751,,24096751,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,331511,,331511,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,96680403,,96680403,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,101754,,101754,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5048953,,5048953,0
+H4,2016,2016,2016,5,0,0,X,120,Cameroon,CMR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12908,,12908,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5183629302,5183629302.428,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9111,9111.125,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32045,32045.47,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4202829,4202829.582,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,123448,123448.013,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47206,47206.472,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13699426,13699426.238,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59178462,59178462.118,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,171743,171743.833,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52799727,52799727.918,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4113592,4113592.175,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8492537,8492537.323,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88805,88805.853,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135973,135973.613,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4069796,4069796.457,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,137871,137871.315,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99755,99755.595,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128004528,128004528.702,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88805,88805.853,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185046,185046.144,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252548,252548.593,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88805,88805.853,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98331994,98331994.448,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133624,133624.133,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,474,474.131,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37987,37987.666,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5279546,5279546.361,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7958852,7958852.497,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88805,88805.853,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,239124,239124.308,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45729693,45729693.5,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,121557,121557.673,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67,67.786,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,369199,369199.869,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,227035,227035.802,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4602050,4602050.728,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,899291,899291.91,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88805,88805.853,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97425,97425.87,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,892751066,892751066.692,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2662884,2662884.543,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8618,8618.9,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23297149,23297149.211,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,369096,369096.401,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,564451,564451.065,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,354604,354604.5,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35461,35461.104,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88805,88805.853,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10294553,10294553.974,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1085464,1085464.156,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15684279,15684279.542,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104968,104968.606,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106675,106675.941,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,975319,975319.697,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,496,496.811,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115968,115968.651,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8618,8618.9,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8618,8618.9,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3419546,3419546.296,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98758,98758.837,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,178511,178511.719,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23563441,23563441.555,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22523219,22523219.469,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88805,88805.853,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8931,8931.759,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,508092145,508092145.268,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125611,125611.487,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5001196,5001196.688,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149203,149203.384,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196945703,196945703.369,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8618,8618.9,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98379,98379.038,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3914242,3914242.586,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6189315,6189315.19,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97424,97424.753,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97424,97424.753,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97424,97424.753,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10675626,10675626.897,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119062,119062.315,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97424,97424.753,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,409035,409035.939,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102169,102169.268,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7433333,7433333.904,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23973522,23973522.044,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,628484,628484.493,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4700019,4700019.015,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,101734,101734.203,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20243530,20243530.926,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33857233,33857233.62,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3666625,3666625.314,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135086228,135086228.138,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41741244,41741244.556,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13329152,13329152.686,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,122988308,122988308.039,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1028255,1028255.447,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,121065,121065.138,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,232461,232461.043,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27021027,27021027.172,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,827041,827041.967,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27162,27162.798,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6694,6694.565,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19653,19653.009,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6318936,6318936.865,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8612769,8612769.525,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4991494,4991494.399,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102433,102433.689,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3733423,3733423.06,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6376932,6376932.967,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100496,100496.11,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115707,115707.191,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7082,7082.972,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67128007,67128007.406,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9480,9480.79,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100430,100430.591,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1990845,1990845.496,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46675908,46675908.747,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3674533,3674533.417,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7703908,7703908.405,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20322837,20322837.865,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97862,97862.761,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106179,106179.225,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74256656,74256656.141,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,861,861.89,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1438817,1438817.103,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6623113,6623113.463,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133,133.703,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,527,"Oceania, nes",O19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1322,1322.572,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120179171,120179171.211,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91337,91337.867,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8618,8618.9,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,313945,313945.96,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15517474,15517474.186,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20244,20244.881,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1481,1481.68,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,254582935,254582935.557,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18543,18543.898,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18888,18888.654,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10971780,10971780.98,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42147,42147.955,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8660,8660.183,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8618,8618.9,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8195177,8195177.738,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3439929,3439929.181,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1835,1835.693,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86681,86681.801,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3539874,3539874.564,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4689712,4689712.219,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18543,18543.898,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51611289,51611289.944,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58956697,58956697.438,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1549483,1549483.71,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3056219,3056219.145,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6610687,6610687.54,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132986421,132986421.424,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9803,9803.483,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11422795,11422795.061,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,424,424.422,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157854,157854.407,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8618,8618.9,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1636,1636.198,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11504042,11504042.318,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30359235,30359235.509,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1594905,1594905.884,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34533,34533.71,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1548128,1548128.621,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187677484,187677484.147,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2829793,2829793.959,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24720693,24720693.241,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22788288,22788288.846,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1615728,1615728.853,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17221,17221.16,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68174832,68174832.075,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49640,49640.884,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,215499149,215499149.46,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1240805,1240805.969,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,732,Western Sahara,ESH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88805,88805.853,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2094,2094.589,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156229,156229.415,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17973286,17973286.33,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27273980,27273980.125,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43641,43641.211,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,297629362,297629362.806,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,264689552,264689552.246,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16108,16108.722,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12279,12279.099,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60717812,60717812.498,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19260318,19260318.121,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84223914,84223914.183,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,606229,606229.731,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90961,90961.873,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110122,110122.56,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33992051,33992051.506,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,228924,228924.041,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60460748,60460748.091,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3166903,3166903.744,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,248782,248782.744,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4800,4800.514,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76,76.062,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5423804,5423804.093,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,446368,446368.956,,0
+H4,2017,2017,2017,5,0,0,M,120,Cameroon,CMR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180611231,180611231.762,,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,314,,314.263,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244792,,244792.975,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169183,,169183.621,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34287,,34287.418,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8618,,8618.947,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2161435,,2161435.818,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1611,,1611.108,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7916814,,7916814.992,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72498,,72498.973,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3264185171,,3264185171.662,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,706,,706.606,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80080826,,80080826.762,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175272972,,175272972.166,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20154,,20154.117,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1013798,,1013798.204,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1916,,1916.888,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,332132,,332132.33,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4318,,4318.645,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2119755,,2119755.84,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,197436,,197436.078,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43665826,,43665826.678,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,274398,,274398.336,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68296775,,68296775.485,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47486,,47486.643,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,394518801,,394518801.713,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93833,,93833.742,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32960,,32960.739,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35357692,,35357692.689,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17699212,,17699212.235,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,394882,,394882.199,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17252,,17252.8,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,337953,,337953.2,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282,,282.929,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,515089,,515089.649,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,758518,,758518.193,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,662745,,662745.904,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24530036,,24530036.901,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1884,,1884.92,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55516,,55516.379,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1136729,,1136729.949,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,343156132,,343156132.588,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54507306,,54507306.194,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44928,,44928.437,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37795150,,37795150.068,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4059953,,4059953.424,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2247874,,2247874.827,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,674373,,674373.328,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,914276,,914276.64,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99147,,99147.254,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51,,51.758,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50070391,,50070391.12,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1753676,,1753676.842,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,286963,,286963.762,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8331875,,8331875.64,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,138228,,138228.938,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,453181165,,453181165.966,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5854198,,5854198.658,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1035977,,1035977.981,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,326150,,326150.43,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,798,,798.799,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2113098,,2113098.404,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1999478,,1999478.226,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1912255,,1912255.179,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169634,,169634.636,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34505,,34505.6,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90538,,90538.307,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8281,,8281.344,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,158,,158.726,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105144,,105144.969,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77715951,,77715951.883,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,827604,,827604.235,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16637111,,16637111.029,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67261,,67261.06,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1091680,,1091680.519,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39061,,39061.297,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,962093,,962093.027,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1124250,,1124250.549,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27726,,27726.676,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81068,,81068.081,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3277149,,3277149.519,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,312626440,,312626440.074,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,347116,,347116.062,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,707542,,707542.335,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,455818,,455818.351,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,300463,,300463.088,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37849546,,37849546.999,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70752,,70752.622,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,809826,,809826.595,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1545332,,1545332.775,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22391,,22391.978,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,431923,,431923.153,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,198989,,198989.532,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2815272,,2815272.466,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,112790481,,112790481.191,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216775,,216775.594,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,883187,,883187.412,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2097300,,2097300.142,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66009,,66009.218,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2432156,,2432156.723,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32938292,,32938292.777,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23614,,23614.884,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185230,,185230.747,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,224702329,,224702329.188,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2797358,,2797358.628,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99994421,,99994421.216,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1041359,,1041359.074,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5885646,,5885646.016,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,295046354,,295046354.205,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,322572,,322572.55,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,256678,,256678.456,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1198845,,1198845.455,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31300268,,31300268.461,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9957089,,9957089.041,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,727795,,727795.988,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45164403,,45164403.996,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1418659,,1418659.037,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24853732,,24853732.237,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,702272,,702272.348,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72789576,,72789576.921,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4933941,,4933941.818,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,288,,288.905,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,448503,,448503.663,0
+H4,2017,2017,2017,5,0,0,X,120,Cameroon,CMR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14476,,14476.788,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27474,0,27474.547,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31670943,0,31670943.579,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17878,17878.892,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75295079,75295079.391,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13146455,13146455.675,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,173932535,173932535.265,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,216741,216741.718,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1257199,1257199.321,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7425228,7425228.914,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19386,19386.023,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25139,25139.23,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86573,86573.479,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2046,2046.868,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,261,261.208,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12,12.621,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,875472,0,875472.051,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41463451,41463451.613,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5512258,5512258.103,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19841,19841.192,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25217,25217.5,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1710,1710.31,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1586573,1586573.435,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33412,33412.314,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23859345,23859345.464,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,342202129,342202129.92,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1860376,1860376.235,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,382180,382180.203,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12812822,0,12812822.226,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4277,0,4277.969,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,261856,0,261856.083,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59647,0,59647.295,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1232,0,1232.055,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16174841,0,16174841.395,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,76224607,0,76224607.114,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,191670190,191670190.404,0,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1475316,0,1475316.421,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1132492010,1132492010.661,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30717374,30717374.914,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,359,359.614,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,157385561,157385561.416,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1245,1245.116,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,649293,649293.262,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,801245,801245.369,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,96781895,96781895.393,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,207460406,207460406.757,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7299,7299.198,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,208488274,208488274.19,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,131813371,131813371.552,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1092162,1092162.54,0,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21277,0,21277.033,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,516205,0,516205.13,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13474655,0,13474655.669,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,224172119,0,224172119.858,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,384631,0,384631.623,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2068006,0,2068006.452,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1236021,0,1236021.581,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,531064,0,531064.544,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,334,Heard Island and McDonald Islands,HMD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,115896,0,115896.604,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30881734,0,30881734.561,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17557,0,17557.978,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,369533314,0,369533314.433,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24265,0,24265.114,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7239982,7239982.672,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21667727,21667727.564,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,296294585,296294585.462,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1395,1395.398,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21507597,21507597.903,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6924512,6924512.778,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21781,21781.164,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,183658996,183658996.478,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,326789,326789.895,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6351111,6351111.931,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2166388,2166388.735,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10485803,10485803.787,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,547941,547941.311,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14839,14839.427,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2015698,2015698.566,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86587,86587.883,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,359383,359383.368,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20032202,20032202.225,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,283928,283928.409,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2705271,0,2705271.833,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32702,0,32702.884,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44470,0,44470.065,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64484,0,64484.804,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,931790,0,931790.056,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,826,826.356,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1369,1369.37,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1983,1983.628,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5,5.404,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,212332,212332.139,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1180348,1180348.851,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,252633,252633.82,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2221183,2221183.581,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1921978,1921978.437,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,774168,774168.793,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6876778,6876778.259,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,156023597,156023597.094,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,131577340,131577340.302,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,312417,312417.34,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9925,9925.194,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,248867,0,248867.514,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8511765,0,8511765.484,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136508,0,136508.781,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,573508,0,573508.079,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,217613,0,217613.368,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,273227,0,273227.599,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,303810,0,303810.616,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,926157,0,926157.312,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,981458,0,981458.266,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90,0,90.063,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,601170,0,601170.732,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26156194,0,26156194.525,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99681,0,99681.584,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,844133,0,844133.207,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43855,0,43855.52,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65310,0,65310.738,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2367352,0,2367352.338,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1979530,0,1979530.437,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7321638,0,7321638.103,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99927829,0,99927829.736,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63893,0,63893.931,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2107462,2107462.115,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4803,4803.737,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17543151,17543151.022,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,506894430,506894430.485,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9345,9345.202,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55656,55656.247,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51007600,51007600.872,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,207167,207167.773,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18350067,18350067.039,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51021391,51021391.114,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,94930,94930.077,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2966595,2966595.238,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6133556703,6133556703.244,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5754472,5754472.45,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23416,23416.25,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,948,948.884,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1218767,1218767.46,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1451265,1451265.192,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2401,2401.924,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,461,461.633,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2310152,2310152.751,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3730125,3730125.216,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23786778,23786778.716,0,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17027,0,17027.076,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1119702,0,1119702.501,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102429,0,102429.266,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2737894,0,2737894.137,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1389913,0,1389913.605,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2197937,0,2197937.484,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42848401,0,42848401.745,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,454168,0,454168.854,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1260,0,1260.875,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27639,0,27639.191,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11330,0,11330.696,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1285401,0,1285401.924,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26326723,0,26326723.553,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,253083,0,253083.329,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,115899312,0,115899312.605,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8000,0,8000.85,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32822796,0,32822796.509,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,800113,0,800113.342,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4972,4972.401,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3804792058,0,3804792058.905,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,634783,634783.787,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42163,42163.696,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,286,286.001,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8418142,8418142.583,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1359,1359.583,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16049051,16049051.705,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23253114,23253114.534,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24667,24667.994,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6063357,6063357.737,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14800,14800.142,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,861934,861934.546,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83597,83597.009,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24667,24667.994,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3048641,3048641.696,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42855,42855.34,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27316497,27316497.54,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200,200.128,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13393161,13393161.713,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1753,1753.942,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24976516,24976516.921,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3168456,3168456.48,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,78239,78239.446,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,273234,273234.676,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,677,677.681,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86633,0,86633.374,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55699857,0,55699857.621,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2531868,0,2531868.172,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21267,0,21267.766,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,89761,0,89761.662,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5,0,5.404,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102423633,102423633.62,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28220817,28220817.865,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30842,30842.312,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9561647,9561647.791,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39969797,39969797.275,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2938619,2938619.531,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4127051,4127051.5,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11748,11748.79,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19021296,19021296.99,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79851004,79851004.218,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,394,394.517,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,961931,961931.587,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,172484,0,172484.261,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1410180,0,1410180.463,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,126357053,0,126357053.032,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,230480,0,230480.819,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13495988,0,13495988.314,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2487,2487.53,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16742,16742.32,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8154613,8154613.393,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61242,61242.5,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5994566,5994566.845,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3442084,3442084.681,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,702,702.823,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2083,2083.992,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31946,31946.795,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56793383,56793383.311,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3985,3985.554,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,177160,0,177160.276,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7872247,0,7872247.843,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,135883,0,135883.978,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,552819,0,552819.245,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,944105048,0,944105048.059,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49430,0,49430.122,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8278888,0,8278888.931,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1159493,0,1159493.573,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6687585,6687585.339,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,116963829,116963829.396,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7108023,7108023.562,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9265131,9265131.648,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,571006,571006.523,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,80858820,80858820.2,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8670,8670.992,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1998,0,1998.487,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27,27.019,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3019,3019.826,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15101867,15101867.615,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21488954,21488954.363,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,89441,89441.207,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59129564,59129564.078,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33877,33877.723,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,588520,0,588520.516,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,104680,0,104680.249,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50530,0,50530.061,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3370689,0,3370689.226,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1456,0,1456.395,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,265307239,0,265307239.764,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5198,5198.123,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1436228,1436228.685,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15987180,15987180.976,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64940649,64940649.908,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1690643,1690643.498,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5327334,0,5327334.845,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83762,0,83762.909,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,209866196,0,209866196.891,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83219,0,83219.694,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1195324,0,1195324.884,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49775,0,49775.86,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12510257,12510257.115,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29913,29913.51,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1232,1232.803,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1954000,1954000.71,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,219478,219478.978,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11473,11473.456,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,425162,425162.293,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28988335,28988335.965,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,258806201,258806201.768,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,660007,660007.213,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18067,0,18067.64,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7908,0,7908.824,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,135516084,0,135516084.826,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,131032,0,131032.083,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,570987,0,570987.078,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,244,244.3,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,116493862,0,116493862.583,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32932281,0,32932281.329,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2449564,0,2449564.052,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,324892,324892.866,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3315749,3315749.016,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11852550,11852550.634,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17542862,17542862.667,0,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,84513558,84513558.671,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,101163282,101163282.823,0,4
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63810770,63810770.107,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5072242,0,5072242.708,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,107073504,0,107073504.68,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2831766,0,2831766.855,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3243906,0,3243906.482,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12554533,0,12554533.427,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,863646,0,863646.144,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,238998406,238998406.069,0,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,392071,0,392071.308,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1581211,0,1581211.454,0
+H4,2018,2018,2018,5,0,0,M,120,Cameroon,CMR,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31580,31580.381,0,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,521520098,0,521520098.365,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108260,0,108260.777,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62427,0,62427.443,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,163808,0,163808.752,0
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46240895,0,46240895.582,4
+H4,2018,2018,2018,5,0,0,X,120,Cameroon,CMR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,215917,0,215917.378,0

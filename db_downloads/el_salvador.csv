@@ -1,0 +1,926 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9825783205,9825783205.81,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5148,5148.26,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16800,16800.76,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,160,160.03,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,66913,66913.12,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,103,103.13,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27181577,27181577.73,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24355971,24355971.57,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11970982,11970982.1,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4809,4809.71,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19692,19692.54,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8255931,8255931.61,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21603,21603.5,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26913,26913.76,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20748210,20748210.75,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3,3.97,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3056455,3056455.13,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,152134,152134.84,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,175256515,175256515.89,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,538,538.37,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1783023,1783023.87,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2933,2933.53,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11180,11180.88,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,547264,547264.26,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73657,73657.78,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25937,25937.71,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4421864,4421864.81,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19797,19797.97,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2989,2989.81,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3407780,3407780.83,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,81476133,81476133.61,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1483,1483.39,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2525,2525.76,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71007782,71007782.3,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1401918438,1401918438.31,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1729,1729.48,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,122613564,122613564.56,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2069,2069.37,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,242844235,242844235.27,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,149155,149155.13,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,413172,413172.23,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,684,684.55,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18353652,18353652.05,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14871804,14871804.52,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,467,467.43,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10186651,10186651.32,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42000792,42000792.86,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4380838,4380838.25,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1057177,1057177.59,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1011782,1011782.33,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19534,19534.25,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8423768,8423768.1,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20983,20983.7,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56785395,56785395.88,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27,27.94,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,926,926.79,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,175084129,175084129.51,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1788899,1788899.72,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4612,4612.44,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1498,1498.13,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,994196747,994196747.65,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17237,17237.59,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37693,37693.96,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,496765863,496765863.65,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21522264,21522264.72,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3024078,3024078.94,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19846,19846.35,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31196578,31196578.11,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56750,56750.48,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21801072,21801072.85,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14096931,14096931.66,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,92997127,92997127.58,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2939,2939.16,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59918,59918.51,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,226235679,226235679.98,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27029,27029.42,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,320342,320342.73,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5888,5888.61,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,586742,586742.54,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,172520083,172520083.77,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,641,641.68,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50771,50771.55,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,131107,131107.25,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18547,18547.49,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,311328,311328.02,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,121166,121166.95,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,395599,395599.4,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,342,342.86,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13075,13075.76,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,672,672.46,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25569092,25569092.39,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,147,147.83,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4341,4341.64,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,110,110.18,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,157650,157650.17,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29014,29014.33,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,738772472,738772472.91,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3206943,3206943.43,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,293,293.19,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1609930,1609930.94,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2312,2312.34,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1617,1617.62,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,359995,359995.68,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,527,"Oceania, nes",O19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90,90.57,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136735127,136735127.74,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102,102.07,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1515,1515.53,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23388536,23388536.97,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57780287,57780287.54,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2517289,2517289.11,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5679,5679.24,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16827274,16827274.38,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,254295679,254295679.83,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1806,1806.42,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,430058,430058.2,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,884819,884819.05,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5708,5708.26,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45,45,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5200189,5200189,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39680552,39680552.14,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,272645,272645.2,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2559946,2559946.62,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50554940,50554940.35,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16578,16578.69,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6178956,6178956.95,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7741748,7741748.1,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14663537,14663537.67,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,269,269.2,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451208,451208.7,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1241876,1241876.3,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14634761,14634761.29,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1510,1510.74,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,362,362.3,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,886,886.15,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71,71.09,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10026,10026.45,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,566,566.45,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6576502,6576502.81,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36176,36176.37,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35037,35037.97,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11138,11138.42,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2056,2056.09,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,109674416,109674416.79,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7905730,7905730.4,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1500298,1500298.29,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1919083,1919083.44,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3440,3440.46,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,863383,863383.8,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,755,755.1,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59046593,59046593.67,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,98555359,98555359.24,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59994,59994.05,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5,5.3,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2327569,2327569.62,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20039357,20039357.29,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38013650,38013650.76,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,179,179.61,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10974995,10974995.68,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,98908494,98908494.76,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19304,19304,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11110841,11110841.04,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,213827,213827.84,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13616910,13616910.36,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31922,31922.83,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,484,484.24,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,530678,530678.45,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7530,7530.86,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,471667,471667.88,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46588166,46588166.87,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55,55.72,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3177294398,3177294398.37,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30439666,30439666.54,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13822,13822.72,,0
+H4,2016,2016,2016,5,0,0,M,222,El Salvador,SLV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70796245,70796245.55,,0
+H4,2016,2016,2016,5,0,0,RM,222,El Salvador,SLV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4380838,4380838.25,,0
+H4,2016,2016,2016,5,0,0,RM,222,El Salvador,SLV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4380838,4380838.25,,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5910652,,5910652.02,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,269218,,269218.29,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1209,,1209.6,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,740726,,740726.88,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5420132897,,5420132897.28,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,178225,,178225.2,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22174,,22174,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,244692,,244692.34,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,282288,,282288.98,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,467472,,467472.7,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7553844,,7553844.98,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4856211,,4856211.81,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,418497,,418497.32,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11378601,,11378601.98,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3685,,3685,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35971,,35971.28,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1009,,1009.9,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3906359,,3906359.08,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22509129,,22509129.42,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29370,,29370,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54039,,54039.33,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7083919,,7083919.18,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6084566,,6084566.75,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13208279,,13208279.49,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,248252979,,248252979.27,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10875587,,10875587.15,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5134,,5134.92,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,247794,,247794.87,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,181218,,181218.08,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49730,,49730.2,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,82224722,,82224722.72,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5514549,,5514549,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17118,,17118.56,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4957,,4957.32,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1959859,,1959859.32,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7376031,,7376031.77,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33975,,33975.51,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,835,,835,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,800,,800,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,113791,,113791.81,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22856134,,22856134.87,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10865,,10865.56,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,328401,,328401.14,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25304,,25304.89,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,743626462,,743626462.42,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2852457,,2852457.75,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6523150,,6523150.12,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,766301628,,766301628.23,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4056772,,4056772.18,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28232,,28232,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23260735,,23260735.95,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2941,,2941.2,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59302,,59302.22,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28926072,,28926072.3,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3745826,,3745826.16,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,281024,,281024.26,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15703435,,15703435.4,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2869303,,2869303.55,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32023,,32023,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9028,,9028.5,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9966278,,9966278.35,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25210,,25210,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,179881,,179881.79,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4793,,4793,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,540,,540,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,80126,,80126.72,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17698,,17698.27,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23444,,23444.4,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11180,,11180.62,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1356873,,1356873.45,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19998274,,19998274.35,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,275006,,275006.15,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7764,,7764.72,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,69061580,,69061580.03,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36354164,,36354164.06,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,353,,353.4,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,240537,,240537.43,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41626,,41626.3,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,711,,711,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24202041,,24202041.26,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,532530,,532530.45,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,673746,,673746.02,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,796597,,796597.1,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,388939634,,388939634.69,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3696,,3696,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1140509,,1140509,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,103271,,103271.53,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79562,,79562.84,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125409439,,125409439.26,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,287455,,287455.92,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5362306,,5362306.5,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1636454,,1636454.55,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22523,,22523.84,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5894,,5894,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52597,,52597.43,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5720,,5720.4,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,124566,,124566.19,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145476,,145476,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,189428,,189428.06,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4450,,4450,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4217878,,4217878.78,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,325127,,325127.05,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,184330,,184330.23,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3088099,,3088099.1,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16216,,16216.71,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,111195,,111195.88,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44313,,44313.17,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2292748,,2292748.84,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10350,,10350.34,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40464729,,40464729.3,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,221424,,221424.14,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1000,,1000,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,175970,,175970.34,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,509635,,509635.14,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26073,,26073.81,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,185454,,185454.63,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,887724,,887724.84,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4486390,,4486390.83,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200026,,200026.96,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,122586,,122586.3,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3780,,3780,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8332,,8332.38,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27307822,,27307822.79,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4693,,4693.5,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64292,,64292.72,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,409917,,409917.24,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,352,,352,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2572181310,,2572181310.86,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,194494,,194494.38,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11369722,,11369722.21,0
+H4,2016,2016,2016,5,0,0,X,222,El Salvador,SLV,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54625,,54625,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1110,1110.97,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12643,12643.03,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10940,10940.26,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10571509382,10571509382.68,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,658,658.24,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,81465,81465.5,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5794,5794.55,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,474,474.59,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47921211,47921211.25,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18594779,18594779.74,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14636394,14636394.91,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,163,163.64,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2833,2833.83,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10440757,10440757.97,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38472,38472.01,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16903,16903.02,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27420682,27420682.03,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,510,510.73,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11789,11789.08,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1997969,1997969.35,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73551,73551.24,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,167759737,167759737.25,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3923274,3923274.11,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68,68.15,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1297441,1297441.34,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,272956,272956.75,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31137,31137.7,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3354488,3354488.44,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49805,49805.55,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,81018004,81018004.07,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1569,1569.37,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26328,26328.93,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3810107,3810107.71,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,94304494,94304494.39,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1443800775,1443800775.63,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,162,Christmas Isds,CXR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49,49.27,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27,27.3,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136230880,136230880.8,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,747,747.07,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,600,600.22,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25590,25590.85,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,250005481,250005481.1,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,416355,416355.92,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10281,10281.73,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28353136,28353136.93,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3920,3920,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19743058,19743058.51,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1420,1420.2,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14047931,14047931.11,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,583737,583737.63,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55943377,55943377.21,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11038104,11038104.38,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7843217,7843217.5,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1394035,1394035.17,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8624,8624.3,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61555808,61555808.21,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2,2.78,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37086,37086.7,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,562,562.01,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,183179993,183179993.71,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9322,9322.84,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2045673,2045673.4,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,317,317.4,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3190,3190.68,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1920,1920.19,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35,35.33,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,98516,98516.44,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1045855791,1045855791.58,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145,145.39,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,583358192,583358192.18,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15950945,15950945.59,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4943487,4943487.37,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23549,23549.03,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37560460,37560460.28,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,195855,195855.63,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17661516,17661516.91,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10776743,10776743.12,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,91532471,91532471.64,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,688,688.71,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61235,61235.96,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,236626730,236626730.99,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,195758,195758.48,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,131413,131413.76,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21430,21430.7,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,731079,731079.31,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23830,23830.73,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71772,71772.16,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,234978269,234978269.85,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4241,4241.32,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3925,3925.85,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,571341,571341.92,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2892,2892,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,188347,188347.6,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,669164,669164.73,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2714,2714.4,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21960,21960.89,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,89746,89746.09,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26364269,26364269.84,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5763,5763.26,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38398,38398.21,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2393,2393.34,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,877126835,877126835.53,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,149847650,149847650.68,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3882,3882.27,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1801,1801.29,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1691444,1691444.35,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1498975,1498975.92,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2258,2258.02,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1370,1370.19,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72265,72265.61,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25125826,25125826.06,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11871290,11871290.67,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12245870,12245870.74,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2406,2406.37,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12929583,12929583.28,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,269236724,269236724.88,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14384,14384.85,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,421551,421551.16,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1164517,1164517.45,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2707,2707.1,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,587,587.89,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4653411,4653411.88,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,76397756,76397756.18,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2445134,2445134.12,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39865377,39865377.06,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8912365,8912365.21,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,649,649.02,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13927976,13927976.18,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1143520,1143520.86,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18094765,18094765.62,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,583,583.55,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,239,239.44,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3148,3148.05,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2350,2350.48,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,379,379.99,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31106668,31106668.25,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,940,940.79,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3260,3260.9,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1426,1426.63,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5,5.07,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,0,0.52,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,666,Saint Pierre and Miquelon,SPM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,810,810.65,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9637521,9637521.41,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1439830,1439830.59,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,172930,172930.01,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,362620,362620.93,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12892,12892.71,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108406157,108406157.33,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6424033,6424033.99,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1298851,1298851.42,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2296712,2296712.39,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1695601,1695601.29,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43,43.48,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72854440,72854440.49,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,126526271,126526271.96,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30229,30229.41,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4891,4891.05,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1122839,1122839.02,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19135151,19135151.88,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34328589,34328589.01,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67,67.58,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,189,189.01,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,382077,382077,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,113736247,113736247.68,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,422,422.98,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4293,4293.25,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9539322,9539322.74,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,188492,188492.71,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30152937,30152937.37,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32175,32175.6,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2047,2047.42,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,683575,683575.33,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11142,11142.75,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,388243,388243.69,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44320874,44320874.65,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1049,1049.71,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3359698608,3359698608.67,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26999250,26999250.55,,0
+H5,2017,2017,2017,5,0,0,M,222,El Salvador,SLV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37627219,37627219.82,,0
+H5,2017,2017,2017,5,0,0,RM,222,El Salvador,SLV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7843217,7843217.5,,0
+H5,2017,2017,2017,5,0,0,RM,222,El Salvador,SLV,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7843217,7843217.5,,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,839118,,839118,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8099022,,8099022.14,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5760015207,,5760015207.29,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,574021,,574021.7,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14300,,14300.5,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1120,,1120.8,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,590071,,590071.92,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5705489,,5705489.77,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,112927,,112927.73,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1685,,1685,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14782,,14782.44,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,241350,,241350.73,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,579628,,579628.05,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4207,,4207.68,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2934027,,2934027.2,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4289195,,4289195.03,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16013379,,16013379.7,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9279,,9279.2,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1130,,1130.6,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,167633,,167633.24,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1350,,1350,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42291429,,42291429.42,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51685,,51685.71,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,724444,,724444.13,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8162880,,8162880.71,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13088145,,13088145.28,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47193832,,47193832.49,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,261837037,,261837037.51,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13510866,,13510866.86,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1879524,,1879524.48,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70359,,70359.55,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40285,,40285.73,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83458547,,83458547.33,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1421,,1421.19,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71465,,71465.68,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,181329,,181329.8,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7731316,,7731316.5,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59986,,59986.12,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1630,,1630.1,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1610820,,1610820.21,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7584947,,7584947.43,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24026196,,24026196.56,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41693,,41693.38,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,485080,,485080.14,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1868,,1868,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,792228287,,792228287.53,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1575949,,1575949.04,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7524356,,7524356.37,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,796858281,,796858281.3,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5606889,,5606889.08,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44555,,44555.08,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33231203,,33231203.18,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102191,,102191,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60314,,60314.79,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13211744,,13211744.06,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10283,,10283,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32278305,,32278305.96,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47181,,47181.2,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17188136,,17188136.7,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14429997,,14429997.22,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2415376,,2415376.69,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,146080,,146080.94,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71,,71,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1800,,1800,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1656,,1656.97,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,106569,,106569,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11647,,11647.42,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3116,,3116.75,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3,,3.75,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1820657,,1820657.1,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48221,,48221.77,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12258,,12258.66,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3680,,3680.64,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16480851,,16480851.69,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,112639712,,112639712.08,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53416090,,53416090.62,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125760,,125760.2,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,225,,225,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,180860,,180860.73,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,436648,,436648.68,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,179711,,179711.2,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1022852,,1022852.14,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,430853219,,430853219.51,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1491,,1491.4,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2507449,,2507449.6,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57077,,57077.1,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,121764374,,121764374.46,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37642,,37642.8,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,391153,,391153.9,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,747,,747.2,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,197358,,197358.08,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10051,,10051,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6150762,,6150762.47,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50916,,50916.92,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9,,9.12,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,488734,,488734.39,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1872881,,1872881.4,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14494720,,14494720.55,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24096,,24096.51,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,92458,,92458.4,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,813348,,813348.37,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4970,,4970,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3059307,,3059307.37,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,634622,,634622.74,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,207590,,207590.95,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33555915,,33555915.54,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,185112,,185112.87,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9323085,,9323085.44,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41120,,41120.5,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48301706,,48301706.43,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88902,,88902,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,394184,,394184.2,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40,,40.68,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,614975,,614975.3,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1194334,,1194334.91,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3520361,,3520361.58,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,576464,,576464,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56297,,56297.83,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1382539,,1382539.49,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12520542,,12520542.98,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,273588,,273588.48,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,134473,,134473.25,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2588431126,,2588431126.61,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,176682,,176682.72,0
+H5,2017,2017,2017,5,0,0,X,222,El Salvador,SLV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17776723,,17776723.96,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30361,30361.18,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9471094,9471094.3,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38046,38046.59,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2067535,2067535.3,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33411864,33411864.43,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,312,312.3,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88853405,88853405.34,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1029439,1029439.2,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16560740,16560740.65,0,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1546110,0,1546110.4,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,847898082,0,847898082.37,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20425282,0,20425282.52,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23403,0,23403.25,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20379,0,20379.36,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3668101,0,3668101.9,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11844,0,11844,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3840285,0,3840285.53,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48412735,0,48412735.47,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12435687,0,12435687.86,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3884363,0,3884363.65,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,731142688,731142688,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4034074,4034074.76,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1154313377,1154313377.82,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4341181,4341181.15,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1426740,1426740.16,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,921935593,921935593.18,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7543825,7543825.38,0,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,95702,0,95702.7,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38475,0,38475.8,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38652,0,38652.18,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1307,0,1307.52,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5835,0,5835,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,708131,0,708131,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1204,0,1204.56,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19939022,19939022.11,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,754,754.52,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11464322435,11464322435.44,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,463127,463127.46,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3371866,3371866.83,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16605986,16605986.7,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,162,Christmas Isds,CXR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26,26.71,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,966253,966253.92,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5905411210,0,5905411210.93,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,460,0,460,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37130,0,37130,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,227,227.3,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1092662,0,1092662.42,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53951,0,53951.72,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29189782,0,29189782.62,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2121217,0,2121217.68,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79893,79893.65,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19830120,19830120.12,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,146473769,146473769.81,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18307,18307.36,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,198,198.34,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,698996,698996.01,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10341781,10341781.48,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56426696,56426696.51,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,93268154,93268154.31,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,131,131.17,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14963009,14963009.41,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3706160,3706160.51,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100423,100423.1,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35796413,35796413.05,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3750,3750.83,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56,56.09,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1175813,1175813.49,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53584,0,53584.79,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,85631739,0,85631739.75,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23164,0,23164.75,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34027,34027.99,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33732733,33732733.51,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7383376,0,7383376.51,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,905727512,0,905727512.85,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,123179445,0,123179445.31,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2634372,0,2634372.1,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,224591,0,224591.2,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3801705,0,3801705.58,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1616376812,1616376812.47,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,0,0.02,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1068,1068.71,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,413496,413496.24,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5563,5563.1,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,237,237.91,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1216321,1216321.32,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2101474,2101474.03,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,662,0,662,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10197,0,10197.3,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1853960,0,1853960.82,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,248,0,248.43,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,374452,0,374452.81,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5439,0,5439.84,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47415,0,47415.27,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,153579,0,153579.05,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75347134,75347134.67,0,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,259235485,0,259235485.42,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,185452,0,185452.74,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2852,0,2852.12,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,976167,0,976167.23,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,85462,0,85462,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,159309,0,159309.02,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8933723,0,8933723.62,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,170265,0,170265.9,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,252910249,252910249.71,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,115356625,115356625.37,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,443802,443802.55,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1355352,1355352.05,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33149,33149.98,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1916,1916.97,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,457,457.26,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23619877,23619877.49,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1275307,1275307.84,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13300,13300.75,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23406,23406.24,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,166,166.82,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,461613,461613.45,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,95579,95579.87,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11528,11528.83,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24605,24605.3,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,114316953,114316953.33,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31369541,31369541.75,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2219,2219.96,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9000,0,9000,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1469,0,1469.51,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,158103,0,158103.59,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,480772,0,480772.16,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200,0,200,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13860765,0,13860765.67,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,499475,499475.13,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53991,53991.18,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,115,115.38,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10350,0,10350,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3840,3840.79,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,272,272.58,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1449,1449.06,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49669,49669.65,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17079,17079.85,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42555338,42555338.12,0,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13300,0,13300,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,307175,0,307175.32,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5843408,0,5843408.81,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,874,0,874,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140277,0,140277.45,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200,0,200,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29837,0,29837.36,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37651,0,37651.09,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44964,44964.79,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,284882,284882.43,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12534120,12534120.68,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47784,47784,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,126433,0,126433.32,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63202,0,63202.71,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,832047,0,832047.25,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12475584,0,12475584.18,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,405218,0,405218.08,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4326661,0,4326661.62,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6423,0,6423,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2624677076,0,2624677076.41,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13540678,13540678.04,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,106,106.62,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3467,3467.01,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,306983,306983.27,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,180474,180474.98,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36279,36279.29,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,117935,117935.13,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4995,4995.3,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6793992,6793992.5,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40,40.28,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,144049186,0,144049186.89,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16690513,0,16690513.65,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11814671,0,11814671.79,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,392020,0,392020.09,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9742329,0,9742329.58,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,456509,0,456509.58,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,371033,0,371033.88,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4058,0,4058.56,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11479752,11479752.51,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10748531,10748531.64,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56497453,56497453.72,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32467405,32467405.99,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25635,25635.54,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57,57.09,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2329,2329.25,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16434791,16434791.45,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,658,658.36,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71872198,71872198.24,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,230196885,230196885.06,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13513,13513.63,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,97595478,0,97595478.4,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21963731,0,21963731.85,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7070,0,7070,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,300723,0,300723.96,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1506251,0,1506251.94,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45937,0,45937.68,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19865495,0,19865495.3,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6898282,6898282.27,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1304234,0,1304234.13,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,447599,0,447599.02,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,617,0,617.9,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,271037280,271037280.51,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53789239,53789239.88,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,386846,386846.97,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,228125,0,228125,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51870,0,51870.8,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4890,0,4890.58,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36944,0,36944.4,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,312122,0,312122.27,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9421,0,9421.92,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1190154,1190154.47,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12709909,12709909.34,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26476,26476.86,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13498,13498.87,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,482525,482525.32,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,181276788,181276788.54,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,178067,178067.63,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42599,42599.93,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36301,36301.8,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,112005,112005.94,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,141,141.35,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1045,1045.7,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,186003,186003.9,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32466274,0,32466274.14,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14965,0,14965,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,893785,0,893785.73,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6131,0,6131.53,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,221,0,221.5,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12480,0,12480,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1861339,0,1861339.95,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2869,0,2869.7,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,660878,0,660878.98,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,240368,240368.77,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13509,13509.99,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5419,5419.96,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,363,363.69,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,670386,670386.52,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23573,23573.11,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145,145.23,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,467598,467598.94,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3838,3838.33,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39492570,39492570.33,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10629,10629.48,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,845,845.42,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3162,3162.48,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4092,4092.74,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17122245,17122245.31,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21520879,21520879.13,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6279,6279.31,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39978590,39978590.34,0,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16700193,0,16700193.53,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,405940602,0,405940602.35,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,244954,0,244954.85,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145606,0,145606.4,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21390217,0,21390217.38,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23730,0,23730.63,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12592,12592.66,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,179,179.34,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,994,994.4,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11763,11763.53,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,231112116,231112116.54,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29,29.41,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,609786,609786.76,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61228071,61228071.87,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12016275,12016275.79,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2757,2757.74,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,690682,690682.3,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4,4.1,0,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10255865,0,10255865.53,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7000,0,7000.99,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4950,0,4950,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3059925,0,3059925.81,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3563897,0,3563897.26,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67996,0,67996.07,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31662,0,31662.43,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23522376,0,23522376.96,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,350202,350202.82,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63789,63789.56,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1255,1255.08,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,91275453,91275453.55,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26742,26742.73,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,135027435,135027435.01,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4,4.92,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24,24.77,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48208,48208.64,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,174,174.22,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28410467,28410467.56,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140752623,140752623.64,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145,145.68,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6126,6126.3,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17885019,17885019.9,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,803700,803700.65,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1673265,1673265.14,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2219185,2219185.13,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3607297443,3607297443.1,0,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5282417,0,5282417.92,4
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1500,0,1500,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3655,0,3655.01,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,675447,0,675447.63,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6285301,0,6285301.58,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4191031,0,4191031.08,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,309314,0,309314.55,0
+H5,2018,2018,2018,5,0,0,X,222,El Salvador,SLV,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,372789,0,372789.82,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15430496,15430496.83,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12618,12618.47,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63941,63941.17,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3108,3108.39,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23688006,23688006.38,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,220,220.13,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,264144582,264144582.54,0,4
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3660264,3660264.58,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1283,1283.14,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,192,192.49,0,0
+H5,2018,2018,2018,5,0,0,M,222,El Salvador,SLV,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,66635,66635.56,0,0

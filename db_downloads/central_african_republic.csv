@@ -1,0 +1,412 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7132353,7132353,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,401319710,401319710,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1958736,1958736,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,582440,582440,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7106,7106,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,297623,297623,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1159292,1159292,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,556484,556484,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7245,7245,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6999,6999,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7486416,7486416,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9700,9700,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45469,45469,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15804,15804,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,568764,568764,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,266221,266221,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,127717,127717,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19842542,19842542,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35239619,35239619,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,331576,331576,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,302019,302019,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5223,5223,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13935,13935,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,511993,511993,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1925341,1925341,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7888619,7888619,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37703,37703,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,90461,90461,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,84821865,84821865,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5000911,5000911,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,155745,155745,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,240798,240798,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35713,35713,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,536599,536599,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,87958,87958,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,799833,799833,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10689,10689,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1406002,1406002,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31987,31987,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3622163,3622163,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3753,3753,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28327251,28327251,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1088666,1088666,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45170066,45170066,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29383,29383,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1109709,1109709,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,635907,635907,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66406,66406,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1059678,1059678,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26636,26636,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,119,119,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,348598,348598,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3790045,3790045,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20517,20517,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3960559,3960559,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,449722,449722,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,203662,203662,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,161577,161577,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,874973,874973,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6068115,6068115,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20471,20471,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5015,5015,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,245964,245964,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19032267,19032267,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16571,16571,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,57916,57916,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34592,34592,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3524238,3524238,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81254,81254,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,300911,300911,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81039,81039,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33344,33344,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3290,3290,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,286467,286467,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5932,5932,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1566742,1566742,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14374017,14374017,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61673,61673,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,93084,93084,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38874,38874,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7106534,7106534,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3744323,3744323,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9607,9607,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138273,138273,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4684265,4684265,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,715501,715501,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,254949,254949,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1523196,1523196,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,77783,77783,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5516862,5516862,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1543229,1543229,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5546684,5546684,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1658832,1658832,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,189133,189133,,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1795428,,1795428,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1158379,,1158379,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39649853,39649853,,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,187213,187213,,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3070065,,3070065,0
+H4,2016,2016,2016,5,0,0,M,140,Central African Rep.,CAF,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12346809,12346809,,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9161,,9161,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12603887,,12603887,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7469194,,7469194,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,779225,,779225,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8995900,,8995900,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66433,,66433,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,243037,,243037,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25190,,25190,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20416,,20416,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10733,,10733,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,696326,,696326,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9055,,9055,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33041,,33041,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42976527,,42976527,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3277105,,3277105,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,778429,,778429,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,735717,,735717,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10292,,10292,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47255,,47255,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61101,,61101,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10297,,10297,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10686,,10686,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8053,,8053,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1655,,1655,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,156940,,156940,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,516460,,516460,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8553,,8553,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,88451252,,88451252,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1882051,,1882051,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1284,,1284,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,703828,,703828,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28531,,28531,0
+H4,2016,2016,2016,5,0,0,X,140,Central African Rep.,CAF,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,251018,,251018,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,418721339,418721339.431,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72261,72261.91,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,230329,230329.451,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117526,117526.177,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,164316,164316.948,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1565902,1565902.936,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34063854,34063854.774,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2491,2491.454,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8053170,8053170.978,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,207878,207878.685,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6536,6536.228,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50864987,50864987.273,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,329835,329835.868,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,314909,314909.665,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156248,156248.243,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27713512,27713512.97,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3629658,3629658.211,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111477,111477.095,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,170500,170500.733,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9435,9435.614,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3300242,3300242.751,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36671,36671.625,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15808,15808.251,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1015324,1015324.302,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47454,47454.292,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109426015,109426015.391,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22740,22740.588,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10754221,10754221.755,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169876,169876.371,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,379950,379950.984,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23819,23819.737,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,611550,611550.557,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1299127,1299127.957,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103918,103918.55,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11563696,11563696.872,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2199724,2199724.411,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25408895,25408895.86,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,701238,701238.851,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34860,34860.739,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132993,132993.769,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,163981,163981.926,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,415423,415423.96,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1749984,1749984.918,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25969,25969.057,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,457,457.607,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15937,15937.737,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1486806,1486806.356,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6692910,6692910.597,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1508266,1508266.642,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,976076,976076.344,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,445340,445340.589,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3626717,3626717.023,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5616546,5616546.632,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,260109,260109.009,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9471,9471.689,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124025,124025.446,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,568,"Other Europe, nes",E19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,101116,101116.88,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2721,2721.802,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2778826,2778826.752,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3701,3701.104,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14073,14073.674,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,259687,259687.113,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17180,17180.639,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,373504,373504.033,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9154114,9154114.478,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50155,50155.385,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,680955,680955.206,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2515300,2515300.682,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3998513,3998513.83,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11881,11881.366,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8452946,8452946.709,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,311037,311037.71,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4585800,4585800.293,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5477395,5477395.989,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25130,25130.888,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10454330,10454330.659,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115050,115050.042,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44643,44643.18,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,835576,835576.459,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5902263,5902263.552,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1915488,1915488.141,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62760,62760.665,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8474183,8474183.688,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,630655,630655.475,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,452431,452431.459,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2901315,2901315.663,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1506336,1506336.569,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,714926,714926.574,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,384441,384441.376,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13180453,13180453.34,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14178965,14178965.355,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,784,784.047,,0
+H4,2017,2017,2017,5,0,0,M,140,Central African Rep.,CAF,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1694,1694.303,,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196990937,,196990937.214,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,689315,,689315.312,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7125414,,7125414.323,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2203843,,2203843.486,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11923,,11923.057,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1338051,,1338051.396,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8954743,,8954743.132,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13707113,,13707113.036,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,600436,,600436.214,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30896,,30896.192,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11450,,11450.285,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19506427,,19506427.897,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115859,,115859.907,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120426386,,120426386.499,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2370500,,2370500.897,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40091,,40091.386,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,519162,,519162.349,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,859374,,859374.985,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85568,,85568.682,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96842,,96842.913,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42713,,42713.025,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7959,,7959.051,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,331961,,331961.487,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40905,,40905.54,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49628,,49628.959,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7752792,,7752792.662,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7257,,7257.579,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,201350,,201350.153,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40905,,40905.54,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,234013,,234013.438,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103686,,103686.403,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3959868,,3959868.984,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4148,,4148.679,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51157,,51157.146,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,220328,,220328.255,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21836,,21836.185,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4574224,,4574224.953,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41186,,41186.164,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,576264,,576264.255,0
+H4,2017,2017,2017,5,0,0,X,140,Central African Rep.,CAF,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35346,,35346.81,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7491,7491,,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10890,,10890,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2557,,2557,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,256113,,256113,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,232362,,232362,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2309624,,2309624,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9006,,9006,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1436652,1436652,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,250128,250128,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,521948,521948,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,653018,653018,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5811576,5811576,,4
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7188160,,7188160,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42400,42400,,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12435,,12435,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13509,,13509,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60875,,60875,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22344,,22344,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,767708,,767708,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2310215,2310215,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3147556,3147556,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6883297,6883297,,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54264098,,54264098,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1338985,1338985,,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11570,,11570,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,568,"Other Europe, nes",E19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3613049,3613049,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21306,21306,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,218425,218425,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2448603,2448603,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19650,19650,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12193034,12193034,,4
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,87101,,87101,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11834,,11834,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4006,,4006,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1776341,,1776341,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8357,,8357,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90310,,90310,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29771,,29771,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50795,,50795,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,126,,126,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10973,,10973,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1941418,,1941418,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35580,,35580,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4743511,4743511,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1153,1153,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,517887,517887,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,78142,78142,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8231,8231,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12157,12157,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27257412,27257412,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6386727,6386727,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4324085,4324085,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,154324,154324,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41667,41667,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17531,17531,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68455,68455,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,303608,303608,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,630156,630156,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,446912,446912,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,641383,641383,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,305192,305192,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,485994,485994,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9391293,9391293,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13300730,13300730,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1435,1435,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,572929,572929,,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15715,,15715,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,500203,,500203,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59776,,59776,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6841007,,6841007,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18105633,,18105633,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,182032,,182032,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51848,,51848,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15222,,15222,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,499098,,499098,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,257558,,257558,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,142673,,142673,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,222210,,222210,4
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2467220,,2467220,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,191024,,191024,0
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8931207,,8931207,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,292803,292803,,4
+H4,2018,2018,2018,5,0,0,X,140,Central African Rep.,CAF,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,837907,,837907,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8045913,8045913,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,133153,133153,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5389,5389,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19516054,19516054,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100051,100051,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75685,75685,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,305023,305023,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1062899,1062899,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,397751,397751,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,243,243,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29988421,29988421,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8797756,8797756,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,747681,747681,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,372303,372303,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,211,211,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1937233,1937233,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,337922,337922,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2403925,2403925,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10681650,10681650,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3260464,3260464,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,253,253,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9509,9509,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451664,451664,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2519425,2519425,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63577,63577,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75120,75120,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,116917,116917,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108997,108997,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3951,3951,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,178805,178805,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9343,9343,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,277585,277585,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75423,75423,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,92167,92167,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40564,40564,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86533,86533,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1173276,1173276,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,114561,114561,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,151,151,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,189458,189458,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13871006,13871006,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6345535,6345535,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,958366,958366,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65973263,65973263,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45423663,45423663,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,224,224,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,282908,282908,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5883,5883,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54443,54443,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2953574,2953574,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,466046,466046,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,384386438,384386438,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1311615,1311615,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19738,19738,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,835334,835334,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1192932,1192932,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8365867,8365867,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30986665,30986665,,4
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1801,1801,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,98672,98672,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,564564,564564,,0
+H4,2018,2018,2018,5,0,0,M,140,Central African Rep.,CAF,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16283,16283,,0

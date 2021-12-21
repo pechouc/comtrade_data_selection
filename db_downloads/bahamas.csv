@@ -1,0 +1,523 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,195810,,195810,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1500,,1500,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,118976,,118976,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27625839,,27625839,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4000,,4000,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33223,,33223,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99192,,99192,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,790488,790488,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70,70,,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16141223,16141223,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,130593,130593,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,148125,148125,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3299244,3299244,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,513602,513602,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2308,2308,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24015,24015,,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8335974,8335974,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,805,805,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22296046,22296046,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8117979,8117979,,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5000,,5000,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,334307886,,334307886,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18266,,18266,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,97888,,97888,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6314,6314,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1257472,1257472,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22706353,22706353,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10285,10285,,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6247901,6247901,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,353981,353981,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29751,29751,,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,78792,,78792,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9673,,9673,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2091061,,2091061,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3055,,3055,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,87640,,87640,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1134004,,1134004,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,338490,,338490,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,573671,,573671,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13434367,,13434367,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,500,,500,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14112,,14112,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,171097,,171097,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47363,,47363,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67120,,67120,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59900,,59900,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,81416211,81416211,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4207327,4207327,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6087075,6087075,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19,19,,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22456639,22456639,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4157,4157,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1332,1332,,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51364068,51364068,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6418,6418,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,133127,133127,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,885374,885374,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2191411,2191411,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,105655,105655,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20354971,20354971,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18072,18072,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2239361,2239361,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5306,5306,,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16353,16353,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,389656,389656,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,978321,978321,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,174474,174474,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,189689,189689,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6499,6499,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15176,15176,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5786656,5786656,,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4420,,4420,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,100,,100,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53509,,53509,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13081,13081,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77921,77921,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35836,35836,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,770,770,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,724175,724175,,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200,,200,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46312,,46312,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1800,,1800,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,569825,,569825,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,26026,,26026,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,421952,,421952,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1293710,,1293710,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120000,,120000,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120359,,120359,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,147432,,147432,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2049484,,2049484,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,203684,,203684,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35252,,35252,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,403819,403819,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1426300,1426300,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,87528,87528,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1325811,1325811,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13422,13422,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,359485,359485,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,556323,556323,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3840,3840,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7953397,7953397,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9736,9736,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,231553,231553,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9356115,9356115,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2930861462,2930861462,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,805081,805081,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,174201,174201,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25515,25515,,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5587,,5587,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,315199,,315199,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6650,,6650,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1069253,,1069253,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,134231,,134231,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136314,,136314,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2958725,,2958725,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1145742,,1145742,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,78419,78419,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24787416,24787416,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15098224,15098224,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,898162,898162,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,763601,763601,,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3466375,3466375,,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,505412,,505412,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,403493,,403493,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50,,50,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,600024,,600024,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70678,,70678,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6455,,6455,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,189175,,189175,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1100,,1100,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10600,,10600,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,194482,,194482,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5605,,5605,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,515685,,515685,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4500,,4500,0
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,402712422,,402712422,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5608974,5608974,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45944,45944,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40119,40119,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3046,3046,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18511,18511,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,414,414,,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13410726,13410726,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2566921,2566921,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28781,28781,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7491085,7491085,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1832452,1832452,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8094217,8094217,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4551493,4551493,,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7333062,,7333062,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,418745,,418745,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,400,,400,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,146097,146097,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38859,38859,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2916120,2916120,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7367400,7367400,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,229,229,,0
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1025230,1025230,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,330,330,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2454145215,2454145215,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,119,119,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15727142,15727142,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1976784,1976784,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7565348,7565348,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65889,65889,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34104155,34104155,,4
+H4,2016,2016,2016,5,0,0,M,44,Bahamas,BHS,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3967880,3967880,,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19027,,19027,4
+H4,2016,2016,2016,5,0,0,X,44,Bahamas,BHS,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,949738,,949738,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26770747,26770747.67,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2180,2180,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1872396,1872396.56,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2740104,2740104.56,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5163337,5163337.42,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,290651,290651.85,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1114,1114,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13194479,13194479.22,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31111266,31111266.5,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,119650,119650.39,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,178757,178757.52,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23015479,23015479.77,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3500,3500.01,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5556571,5556571.77,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3477450224,3477450224.06,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,877877,877877.57,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1512342,1512342.31,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,69658,69658.28,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19482740,19482740.44,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42436,42436.17,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1098973,1098973.24,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2302,2302,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6670146,6670146.43,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3793,3793.01,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,104827,104827.43,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10547996,10547996.79,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,112984,112984.45,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,148698,148698.6,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33373,33373.12,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8635567,8635567.63,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37865,37865.14,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3254789,3254789.51,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2570,2570,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6046381,6046381.34,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,949215,949215.95,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,550764,550764.2,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,824,824,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10982,10982.02,,0
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,732762,732762.12,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,109575,109575.41,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6998068,6998068.49,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54203811,54203811.49,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3073,3073,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3224965,3224965.6,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2191962,2191962.1,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74927,74927.28,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7195,7195.02,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2206982,2206982.37,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1564540,1564540.13,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4906,4906,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,288,288,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27323095,27323095.26,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8142,8142,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,333429,333429.49,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13676,13676.02,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100,100,,0
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,883717,883717.57,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10376233,10376233.89,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6531108,6531108.38,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4568673,4568673.24,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1953,1953,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,166871,166871.53,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20682774,20682774.98,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,605262,605262.49,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34164,34164.12,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26470,26470.11,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17442,17442.05,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140041,140041.55,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,310633,310633.26,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2726466,2726466.95,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21487480,21487480.51,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,195,195,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,346,346,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,408100,408100.54,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31965570,31965570.07,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2951,2951,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6506,6506.01,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1036129,1036129.39,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,158663,158663.61,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67,67,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18465475,18465475.84,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,203827,203827.74,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26897726,26897726.43,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8684,8684,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1023337,1023337.2,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,805,805,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2831,2831.01,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5301,5301.02,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21157396,21157396.79,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,247837,247837,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,416,416,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1020,1020,,0
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17337,17337.05,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12059,12059.04,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1090807,1090807.55,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34379,34379.13,,0
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2298,2298,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12166,12166.04,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6599,6599.01,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2275,2275,,0
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3603003,3603003.73,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6399325,6399325.59,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4834808,4834808.68,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,507819,507819.78,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,253328,253328,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32720,32720.13,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29184546,29184546.75,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,164287,164287.64,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2955,2955.01,,0
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2883847922,2883847922.32,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5592,5592.02,,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6366864,6366864.8,,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,376021104,,376021104.17,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,270916,,270916.35,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,991763,,991763.13,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11481708,,11481708.24,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,400,,400,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,366325,,366325.81,4
+H4,2017,2017,2017,5,0,0,M,44,Bahamas,BHS,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,101697801,101697801.86,,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6750,,6750.03,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,476018,,476018.2,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79900,,79900.36,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,560588,,560588.9,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2507476,,2507476.66,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,158529,,158529.73,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,195049,,195049,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4680,,4680.02,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,473322277,,473322277.13,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,450629,,450629.2,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2560423,,2560423.11,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4107353,,4107353.21,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,266840,,266840.32,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,992386,,992386.07,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,492612,,492612.34,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2017,,2017,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2543,,2543.01,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15891,,15891.07,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,188832,,188832.76,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1500,,1500,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50,,50,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38875,,38875.2,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63311,,63311.25,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3683955,,3683955.08,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,550692,,550692.83,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,790704,,790704.08,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1692982,,1692982.76,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31496,,31496.14,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,96386,,96386.49,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,60,,60,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31129456,,31129456.17,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10000,,10000.05,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1148185,,1148185.89,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2962883,,2962883.3,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2540207,,2540207.8,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9375193,,9375193.25,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,807696,,807696.12,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,173686,,173686.83,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,355846,,355846.79,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,146847,,146847.76,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55145,,55145.28,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,333793,,333793.67,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18156,,18156.07,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5834,,5834.03,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6929756,,6929756.77,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,955,,955,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20345,,20345.1,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65342,,65342.32,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1900784,,1900784.81,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,155421,,155421.75,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,94628,,94628.48,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,400,,400,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,167109,,167109.84,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,22218,,22218.11,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1015,,1015,0
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3388075,,3388075.37,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23632,,23632.09,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32369,,32369.13,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2301287,,2301287.81,4
+H4,2017,2017,2017,5,0,0,X,44,Bahamas,BHS,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5250,,5250.02,0
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1153,1153.88,,0
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1378596,1378596.24,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4258512,4258512.54,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1765740,1765740.11,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,3523973184,3523973184.13,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56528,56528.8,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2547727,2547727.57,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6885285,6885285.72,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48200,48200.77,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,154691,154691.56,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3379555,3379555.7,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3340388,3340388.52,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18757564,18757564.67,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4122315,4122315.63,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25991610,25991610.85,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9441633,9441633.98,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3111,3111.96,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2775296,2775296.6,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12276791,12276791.32,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41609,41609.87,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29586,29586.91,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1466658,1466658.72,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,105,105.96,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9256789,9256789.75,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6519683,6519683.8,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15455,15455.78,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1532408,1532408.64,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1290220,1290220.8,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,172323,172323.11,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6552,6552.83,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,390883,390883.76,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10006022,10006022.83,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53826930,53826930.47,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1471911,1471911.46,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25653398,25653398.81,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1096209,1096209.07,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5220,5220.89,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3021,3021.99,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2608271,2608271.09,,0
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5218585,5218585.29,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1014174,1014174.69,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3169,3169.94,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46291,46291.9,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3363,3363.94,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5889911,5889911.85,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,493699,493699.14,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36609759,36609759.33,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1190,1190.97,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2299,2299.99,,0
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4431934,4431934.06,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43339,43339.79,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10407,10407.88,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45802,45802.83,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3062292,3062292.88,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,318,318.99,,0
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,109317,109317.26,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,195116,195116.53,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10114278,10114278.55,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1124740,1124740.58,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120500,120500.8,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1039678,1039678.3,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12644499,12644499.71,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21460,21460.82,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1459543,1459543.69,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4213002,4213002.49,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12977,12977.93,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,512134,512134.59,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,724484,724484.61,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25164,25164.74,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54,54.99,,0
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,685,685.93,,0
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10028,10028.95,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86312,86312.62,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4611,4611.68,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27520432,27520432.36,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,113,113.99,,0
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,179,179.98,,0
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,474,474.97,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64059,64059.87,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19539,19539.96,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,289662,289662.19,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3382565,3382565,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31919,31919.41,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1059436,1059436.81,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,696595,696595.52,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59307,59307.74,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,445,445.97,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1723,1723.79,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14453870,14453870.06,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19249,19249.74,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6057095,6057095.21,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44656,44656.91,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5009,5009.99,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,805132,805132.42,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64,64.99,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2973199,2973199.46,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,702,702.94,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4905351,4905351.46,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2454183,2454183.76,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23604,23604.8,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50609310,50609310.23,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,282097,282097.06,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1057,1057.99,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26590097,26590097.01,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,562454,562454.99,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2954961554,2954961554.81,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,122837161,122837161.93,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1383175,1383175.82,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2798,2798.8,,4
+H4,2018,2018,2018,5,0,0,M,44,Bahamas,BHS,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1784,1784.99,,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,544419,,544419.1,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,333939,,333939.32,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6353,,6353.98,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12581,,12581.87,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1441669,,1441669.55,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38092,,38092.94,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47999,,47999.92,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,717526,,717526.77,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16433,,16433.84,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15749,,15749.97,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1092210,,1092210.78,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1328173,,1328173.83,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6396,,6396.71,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3474444,,3474444.71,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24999,,24999.95,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102212,,102212.73,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1669564,,1669564.65,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,512503,,512503.64,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44095,,44095.93,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1886383,,1886383.06,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,527334,,527334.16,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11383782,,11383782.66,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4023190,,4023190.82,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,426395,,426395.21,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28953721,,28953721.9,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1846,,1846.99,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,259164,,259164.54,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29484,,29484.85,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12279,,12279.87,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28095737,,28095737.3,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64621,,64621.75,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53439,,53439.88,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,699810,,699810.82,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,335,,335.99,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1999,,1999.99,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,424,,424.99,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,107146,,107146.31,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9353922,,9353922.55,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6184,,6184.99,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,524192922,,524192922.24,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,113943,,113943.66,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24533,,24533.96,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35990,,35990.93,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,161847,,161847.41,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,275309,,275309.37,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17694,,17694.83,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,329215,,329215.41,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1039255,,1039255.02,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,329,,329.89,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22482,,22482.96,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1881717,,1881717.11,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18801128,,18801128.07,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1305626,,1305626.77,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5912876,,5912876.82,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24999,,24999.96,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,428879,,428879.23,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19999,,19999.96,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1699,,1699.99,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1209,,1209.98,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36476,,36476.91,0
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,4999,,4999.99,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4777642,,4777642.46,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,391657482,,391657482.74,4
+H4,2018,2018,2018,5,0,0,X,44,Bahamas,BHS,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,999,,999.99,0
