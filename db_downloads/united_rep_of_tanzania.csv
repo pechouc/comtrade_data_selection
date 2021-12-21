@@ -1,0 +1,998 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4741924583,,4741924583,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,514571,,514571,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,978903,,978903,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,134311,,134311,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4561488,,4561488,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3435,,3435,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,97,,97,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1005785,,1005785,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,401,,401,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,484,,484,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7579890,,7579890,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,378943,,378943,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1941199,,1941199,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9079,,9079,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2696336,,2696336,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,146803,,146803,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,348873,,348873,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7999,,7999,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,283115573,,283115573,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,368,,368,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31542,,31542,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7190202,,7190202,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,126717,,126717,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52132434,,52132434,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,540558,,540558,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58890,,58890,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4662089,,4662089,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,929490,,929490,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,774393,,774393,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3510084,,3510084,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,330684,,330684,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,354226346,,354226346,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,725918,,725918,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,172389874,,172389874,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,227282,,227282,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2043486,,2043486,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4009,,4009,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36820,,36820,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,761047,,761047,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,129956,,129956,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,291711584,,291711584,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3904530,,3904530,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,82566,,82566,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,71674,,71674,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,822166,,822166,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5573,,5573,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2862392,,2862392,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65957,,65957,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7086,,7086,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25755057,,25755057,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,276,,276,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2944506,,2944506,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54191,,54191,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29186,,29186,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1296,,1296,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,115273832,,115273832,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1330188,,1330188,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,101643,,101643,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6094734,,6094734,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5698,,5698,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,146637,,146637,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,99,,99,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30015710,,30015710,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17194142,,17194142,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6090,,6090,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2465611,,2465611,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1177114,,1177114,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13191847,,13191847,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,269747,,269747,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,80,,80,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42145584,,42145584,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138528259,,138528259,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,106362,,106362,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,442081,,442081,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,466110,,466110,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,300,,300,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38912922,,38912922,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,313885916,,313885916,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,636387,,636387,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,751418,,751418,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4535,,4535,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,217079,,217079,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12640,,12640,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,657022,,657022,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22227,,22227,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,972106,,972106,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,210465,,210465,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,77747,,77747,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30788083,,30788083,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13083184,,13083184,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28253,,28253,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152364,,152364,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6829,,6829,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1649759,,1649759,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1218905,,1218905,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2948247,,2948247,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2127790,,2127790,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62947,,62947,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12338495,,12338495,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4179909,,4179909,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,284347,,284347,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,442,,442,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63889477,,63889477,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73504,,73504,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5599076,,5599076,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2558,,2558,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1891,,1891,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9227436,,9227436,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,797451,,797451,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14858354,,14858354,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20219,,20219,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17520,,17520,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2739290,,2739290,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138,,138,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11346698,,11346698,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8388905,,8388905,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11084393,,11084393,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2287087,,2287087,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18840175,,18840175,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1178500,,1178500,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6519124,,6519124,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13464011,,13464011,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,355670,,355670,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16967,,16967,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,219104,,219104,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,113139,,113139,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,702992107,,702992107,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10492355,,10492355,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36100,,36100,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,149244615,,149244615,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2745,,2745,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,388597,,388597,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6350527,,6350527,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,631420829,,631420829,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15672419,,15672419,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4817403,,4817403,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,732,Western Sahara,ESH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,898,,898,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1494,,1494,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,113633,,113633,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5566930,,5566930,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,172008,,172008,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10938,,10938,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36514,,36514,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,767936942,,767936942,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9006873,,9006873,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2798746,,2798746,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63479595,,63479595,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,151,,151,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1324611,,1324611,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1034554,,1034554,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58235224,,58235224,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22826827,,22826827,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56877269,,56877269,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32162,,32162,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36704,,36704,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54398,,54398,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,349,,349,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32537585,,32537585,0
+H4,2016,2016,2016,5,0,0,X,834,United Rep. of Tanzania,TZA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,615506,,615506,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7876086602,7876086602,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2139,2139,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7823991,7823991,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,159940,159940,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17679,17679,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26245,26245,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1322199,1322199,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18628,18628,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,223380,223380,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5437,5437,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7072618,7072618,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64515119,64515119,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36955257,36955257,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1704528,1704528,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16672,16672,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14254560,14254560,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,806,806,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,124,124,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64947455,64947455,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46209,46209,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11579,11579,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16508,16508,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,304322,304322,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27850669,27850669,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,241,241,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,127572,127572,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13749,13749,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10345983,10345983,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9841,9841,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,774451,774451,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,298775,298775,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,189321,189321,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,147441,147441,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,100870079,100870079,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145566,145566,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3234934,3234934,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8640,8640,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,641590,641590,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1638488109,1638488109,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5,5,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4664158,4664158,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,101468,101468,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,357296,357296,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,665297,665297,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9359455,9359455,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10611,10611,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,295525,295525,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3030122,3030122,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16127675,16127675,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3913,3913,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40639843,40639843,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,802,802,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17131,17131,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17249,17249,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16569,16569,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3109,3109,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130101,130101,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29548,29548,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8145895,8145895,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23,23,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34703637,34703637,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,134869,134869,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,208768,208768,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1674456,1674456,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67932645,67932645,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,698,698,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,191675198,191675198,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1255401,1255401,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75530,75530,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1513785,1513785,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,680,680,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10399,10399,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35060,35060,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9163,9163,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33122,33122,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51588988,51588988,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3080912,3080912,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6101,6101,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64642973,64642973,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10545483,10545483,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35954,35954,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22741623,22741623,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7774686,7774686,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,87661846,87661846,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1044911,1044911,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,241800,241800,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,371008242,371008242,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1820310,1820310,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24545,24545,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,267744424,267744424,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1071261,1071261,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1718919,1718919,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,165313964,165313964,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4377449,4377449,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,458578,458578,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,946524,946524,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6748120,6748120,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6956717,6956717,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1706539,1706539,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5608801,5608801,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26566965,26566965,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,260466372,260466372,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,918,918,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,77863,77863,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61513,61513,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,686821,686821,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15112971,15112971,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4811667,4811667,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54762,54762,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9373734,9373734,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26491366,26491366,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11955732,11955732,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17514151,17514151,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6083198,6083198,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,186966,186966,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8736,8736,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,105461947,105461947,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,824762,824762,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,611,611,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1363,1363,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3601829,3601829,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17717,17717,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,895054,895054,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1032223,1032223,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7022013,7022013,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15509,15509,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4842987,4842987,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32218783,32218783,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4514770,4514770,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12990,12990,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3609891,3609891,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24373882,24373882,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3157519,3157519,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20578377,20578377,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1664439,1664439,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,107386378,107386378,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1122686,1122686,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,157,157,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,388,388,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,223,223,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,220352043,220352043,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,345117,345117,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104326,104326,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63656,63656,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48941,48941,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1428794513,1428794513,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52639471,52639471,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,557417,557417,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19061865,19061865,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,928860,928860,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,472210118,472210118,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2076534,2076534,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31507822,31507822,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25381,25381,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4893,4893,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41204461,41204461,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68986630,68986630,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,129784706,129784706,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25400,25400,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14326,14326,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23523,23523,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32803,32803,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3949,3949,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,78586365,78586365,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,592311767,592311767,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,538025,538025,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65380528,65380528,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26271,26271,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28628,28628,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30707529,30707529,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11633706,11633706,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,96487,96487,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34841254,34841254,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,155043584,155043584,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,252022651,252022651,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18014,18014,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33,33,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2647,2647,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27726,27726,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,373492,373492,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33499674,33499674,,0
+H4,2016,2016,2016,5,0,0,M,834,United Rep. of Tanzania,TZA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,1,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7765411242,7765411242,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76962,76962,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1436,1436,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85853,85853,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3959,3959,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8547,8547,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24042265,24042265,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6181397,6181397,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17892,17892,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65383,65383,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65134006,65134006,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10343185,10343185,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1216406,1216406,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2541628,2541628,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21923,21923,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5051,5051,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26900259,26900259,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,426674,426674,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55,55,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1448282,1448282,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64806458,64806458,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,241436,241436,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52487493,52487493,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13171,13171,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,471,471,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11,11,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,232148,232148,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9759413,9759413,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,640850,640850,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97081,97081,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38266,38266,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39681369,39681369,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67,67,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3420253,3420253,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,671,671,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,958298,958298,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1504301257,1504301257,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,290,290,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,446205,446205,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17859,17859,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11826,11826,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,965588,965588,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126330,126330,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2912111,2912111,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8323,8323,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3595740,3595740,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9980233,9980233,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20810,20810,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,547742,547742,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4,4,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5064,5064,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1668,1668,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42750960,42750960,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,193052,193052,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3362196,3362196,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,532,532,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73968944,73968944,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67653772,67653772,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,717,717,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,167260,167260,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2024,2024,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2061267,2061267,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58423,58423,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,231745378,231745378,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,249904,249904,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64732,64732,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2543581,2543581,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,415,415,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31448,31448,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2885,2885,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1200,1200,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7137,7137,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,210620,210620,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51882018,51882018,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5257243,5257243,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6050,6050,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18288198,18288198,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56,56,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144010982,144010982,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13630012,13630012,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43546312,43546312,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90018157,90018157,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60680,60680,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22223,22223,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1370,1370,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,412381076,412381076,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,903795,903795,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,641590,641590,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,201322358,201322358,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140692979,140692979,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2174041,2174041,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1378,1378,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3415857,3415857,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,271646,271646,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,880814,880814,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3257433,3257433,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,328,328,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,847350,847350,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2623121,2623121,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7767,7767,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10935793,10935793,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16479242,16479242,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185886472,185886472,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4871,4871,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68065,68065,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,400193,400193,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7902053,7902053,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6143437,6143437,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28507897,28507897,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47599,47599,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13187998,13187998,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9234128,9234128,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15347747,15347747,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7442721,7442721,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2741,2741,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1360142,1360142,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85013306,85013306,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,248271,248271,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,778751,778751,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2845367,2845367,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19121,19121,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,413487,413487,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11772957,11772957,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33982,33982,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4381176,4381176,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4686505,4686505,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23916271,23916271,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4541180,4541180,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21782,21782,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50208198,50208198,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7918801,7918801,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15233698,15233698,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3313257,3313257,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128368432,128368432,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1298699,1298699,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,127,127,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62,62,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2403,2403,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,469105224,469105224,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103045,103045,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,375725,375725,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2380675,2380675,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74049,74049,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1167465267,1167465267,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62395039,62395039,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1898413,1898413,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29062025,29062025,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,608717,608717,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5,5,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,415152253,415152253,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1124727,1124727,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,210,210,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21495,21495,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,834,834,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34971053,34971053,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37220944,37220944,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35473895,35473895,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,205372402,205372402,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62721,62721,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141638,141638,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91796936,91796936,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33231,33231,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5223,5223,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,596045597,596045597,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5041808,5041808,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8363,8363,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77852054,77852054,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34146091,34146091,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6957973,6957973,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28347307,28347307,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160352764,160352764,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,202892780,202892780,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,601437,601437,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,578850,578850,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18109,18109,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,980531,980531,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100,100,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53709749,53709749,,0
+H5,2017,2017,2017,5,0,0,M,834,United Rep. of Tanzania,TZA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4101,4101,,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,514,,514,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4178109062,,4178109062.771,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,324,,324,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,601583,,601583.25,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,296983,,296983.12,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10244825,,10244825.32,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17524,,17524.4,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,250333,,250333,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4643584,,4643584.73,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,727660,,727660.8,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1049160,,1049160,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14393183,,14393183.91,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,214776,,214776.63,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,193526518,,193526518.63,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59064,,59064,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49898,,49898.62,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,418858,,418858.87,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9963,,9963,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2217668,,2217668.15,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1087846,,1087846.15,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25313,,25313,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,325,,325.8,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,729940,,729940.22,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,403394,,403394.64,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50786507,,50786507.34,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,561766,,561766.57,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,404082,,404082.57,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,243938,,243938.88,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3664624,,3664624.231,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1543134,,1543134.04,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142213954,,142213954.89,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,273985,,273985.97,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87821895,,87821895.56,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1146432,,1146432.74,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153627461,,153627461.35,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4000,,4000,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119217,,119217.68,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3479446,,3479446.04,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,981282,,981282,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64440,,64440,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3825720,,3825720.05,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110700,,110700,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136800,,136800,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1991,,1991.4,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2575288,,2575288.26,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68358,,68358.36,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2557396,,2557396.92,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14337005,,14337005.2,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,407942,,407942.42,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16270,,16270.96,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244112,,244112.28,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180936,,180936.62,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48840505,,48840505.37,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3256210,,3256210.81,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200,,200,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39288,,39288.24,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3874171,,3874171.88,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,268940,,268940,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43347853,,43347853.36,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105796,,105796.32,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8275,,8275.2,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14520241,,14520241.93,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2320132,,2320132.3,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3791566,,3791566.74,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,598731,,598731.95,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14193517,,14193517.83,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36462871,,36462871.53,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,655556,,655556.21,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8110,,8110,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74691171,,74691171.33,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60050,,60050.42,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,215111,,215111.46,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,291540870,,291540870.57,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2251202,,2251202.48,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23879114,,23879114,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185633,,185633.73,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1911,,1911.81,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,634021,,634021.59,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28986,,28986.28,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29892,,29892,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,399500,,399500,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,257013,,257013.2,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4643262,,4643262.69,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69142066,,69142066.48,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9794608,,9794608.94,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6487,,6487,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298817,,298817.47,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,350704,,350704,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28391,,28391.67,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2403928,,2403928.42,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,507055,,507055,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1091228,,1091228.17,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15222,,15222.43,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3662534,,3662534.36,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12880061,,12880061.83,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4789009,,4789009.02,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,199778,,199778,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,150440,,150440,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71960525,,71960525.02,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2975967,,2975967.03,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2201779,,2201779.44,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3712349,,3712349.54,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,472263,,472263.38,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29123808,,29123808.28,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76120,,76120,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,990659,,990659.2,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11046624,,11046624.01,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19718470,,19718470.51,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9828449,,9828449.1,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4534177,,4534177.8,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11409186,,11409186.94,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60490266,,60490266.35,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7984027,,7984027.33,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,581748,,581748.85,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2566490,,2566490.66,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,213807,,213807.37,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,344313,,344313.28,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,982927454,,982927454.88,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5436203,,5436203.3,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120,,120,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,314808485,,314808485.28,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80319,,80319,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1187726,,1187726.67,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,699790512,,699790512.02,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8308227,,8308227.89,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20202631,,20202631.59,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173018,,173018.44,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,257433,,257433.42,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,556044,,556044.75,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5753759,,5753759.69,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,262393295,,262393295.49,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40000,,40000,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9238691,,9238691.01,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,247698,,247698.5,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23133,,23133.11,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87878973,,87878973.96,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,273834,,273834,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3613154,,3613154.68,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27516021,,27516021.12,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,408501,,408501.2,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43200,,43200,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1395155,,1395155.41,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18176576,,18176576.12,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62138682,,62138682.03,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5179,,5179.9,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35270,,35270.7,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4016,,4016,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1800,,1800,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73768,,73768.74,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46014003,,46014003.1,0
+H5,2017,2017,2017,5,0,0,X,834,United Rep. of Tanzania,TZA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77136,,77136.09,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58567,,58567.489,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69,,69.686,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28386,,28386.921,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52423,,52423.937,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3125,,3125.577,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,221601,,221601.154,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15860,,15860.613,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,694537,,694537.189,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1682695,,1682695.532,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1495,,1495.375,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50197,,50197.863,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,460281,,460281.264,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8550,,8550.166,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,265324,,265324.16,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,613235,,613235.897,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44330,,44330.57,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,476856,,476856.076,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,786570,,786570.541,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,198,,198.89,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27256,,27256.071,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3285,,3285.234,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13968,,13968.694,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45047,,45047.074,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,174363,,174363.934,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35212,,35212.25,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11042,,11042.25,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,224712,,224712.553,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38348,,38348.626,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,223283,,223283.02,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1081288,,1081288.374,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69,,69.701,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,348908,,348908.425,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3669212438,,3669212438.537,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48822,,48822.048,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,793,,793.251,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73,,73.474,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4021700,,4021700.834,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36460,,36460.442,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76381568,,76381568.761,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1405073,,1405073.916,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,310681,,310681.288,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,435933,,435933.262,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99396306,,99396306.649,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,408,,408.461,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2167020,,2167020.511,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,365735,,365735.677,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6967743,,6967743.168,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1001375,,1001375.81,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3834833,,3834833.356,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34502468,,34502468.883,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24091806,,24091806.613,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2017629,,2017629.845,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8053181,,8053181.167,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2165940,,2165940.809,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9076649,,9076649.039,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144590275,,144590275.862,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142426,,142426.352,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48228815,,48228815.051,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3961018,,3961018.614,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,310996039,,310996039.317,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75631,,75631.43,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1863172,,1863172.466,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5300373,,5300373.378,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15862,,15862.19,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65361436,,65361436.766,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,478964,,478964.324,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5433,,5433.717,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1933795,,1933795.425,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,510277,,510277.852,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25682372,,25682372.69,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,520602,,520602.346,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144370,,144370.408,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39196396,,39196396.127,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16378789,,16378789.267,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1913136,,1913136.807,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1653879,,1653879.356,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1332275,,1332275.554,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70861342,,70861342.64,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,466587,,466587.627,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136495716,,136495716.619,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6222009,,6222009.083,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,886144,,886144.317,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,364060,,364060.576,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3849515,,3849515.395,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15016094,,15016094.141,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2617304,,2617304.943,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11707378,,11707378.289,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11842023,,11842023.632,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,338826549,,338826549.352,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12749,,12749.733,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7314876,,7314876.42,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,266772,,266772.186,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,289637,,289637.542,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3757261,,3757261.051,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1837257,,1837257.721,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117641111,,117641111.951,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2689433,,2689433.656,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95,,95.023,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3785819,,3785819.699,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1618222,,1618222.39,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4827977,,4827977.364,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,433046,,433046.221,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2507666,,2507666.863,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59346979,,59346979.755,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10414137,,10414137.714,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12214677,,12214677.624,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,535564,,535564.94,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61755924,,61755924.185,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1098353,,1098353.923,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,556628,,556628.557,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5209878,,5209878.716,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28130561,,28130561.52,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7581586,,7581586.649,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4824,,4824.538,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1038419,,1038419.751,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1447852,,1447852.945,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3071356,,3071356.861,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5674046,,5674046.811,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,399258,,399258.711,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2729822,,2729822.742,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,685629218,,685629218.382,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2655601,,2655601.636,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3879443,,3879443.385,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,517163,,517163.298,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16888,,16888.542,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2529905,,2529905.892,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48935642,,48935642.051,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22073452,,22073452.973,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68304543,,68304543.756,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,746761,,746761.07,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,92749400,,92749400.144,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10431102,,10431102.112,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27044709,,27044709.766,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,220657,,220657.419,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1618189,,1618189.31,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,261748,,261748.065,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16094357,,16094357.929,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13616731,,13616731.738,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6526131,,6526131.344,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48625758,,48625758.759,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1649720,,1649720.288,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,194424687,,194424687.18,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41477590,,41477590.112,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60074545,,60074545.301,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149972833,,149972833.03,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59337,,59337.52,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,576707,,576707.501,0
+H5,2018,2018,2018,5,0,0,X,834,United Rep. of Tanzania,TZA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,266894431,,266894431.991,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8553677024,8553677024.139,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3269812,3269812.01,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63194000,63194000.734,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9611317,9611317.259,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4288878,4288878.165,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,968661,968661.964,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64450720,64450720.336,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20026602,20026602.889,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7553698,7553698.013,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34855249,34855249.184,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5439920,5439920.734,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1770516491,1770516491.12,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27,27.872,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11770483,11770483.016,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36034397,36034397.137,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1289553,1289553.648,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43555608,43555608.367,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103361375,103361375.846,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11403,11403.319,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,221220273,221220273.739,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,239453,239453.753,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4000910,4000910.872,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60325604,60325604.183,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7843855,7843855.112,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133536401,133536401.321,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25150948,25150948.273,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23433374,23433374.311,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10283816,10283816.128,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96544031,96544031.145,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,257039,257039.695,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,399904139,399904139.021,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,248670132,248670132.569,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,692916,692916.788,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108155713,108155713.294,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2323485,2323485.529,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3634197,3634197.384,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,676847,676847.067,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1756423,1756423.417,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,965617,965617.259,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2187480,2187480.488,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18397315,18397315.817,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149689237,149689237.985,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,773149,773149.472,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7437191,7437191.77,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8114549,8114549.628,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24365767,24365767.801,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31488226,31488226.915,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24113176,24113176.852,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48511112,48511112.171,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9281183,9281183.788,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21906,21906.118,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85577488,85577488.276,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3373340,3373340.535,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83589402,83589402.44,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4996,4996.786,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39643689,39643689.091,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4899890,4899890.357,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27777077,27777077.943,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8926324,8926324.286,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3459485,3459485.997,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61892412,61892412.844,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,570798479,570798479.628,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117202,117202.363,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,656419,656419.74,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1921318,1921318.452,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1223169573,1223169573.811,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30380393,30380393.141,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2881731,2881731.113,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39364467,39364467.408,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,439336858,439336858.695,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1238105,1238105.17,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36943170,36943170.198,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38651793,38651793.517,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55390294,55390294.086,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124643607,124643607.654,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,118517551,118517551.975,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,875816342,875816342.621,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2486723,2486723.928,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,171642953,171642953.623,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52972283,52972283.235,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42446587,42446587.714,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,170467889,170467889.206,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,238930879,238930879.413,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51243754,51243754.224,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1358,1358.287,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14998,14998.561,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128617,128617.988,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1490618,1490618.359,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,220299,220299.857,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,329,329.293,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31935,31935.695,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267939,267939.513,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1762,1762.38,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,810939,810939.522,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,555914,555914.804,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82144,82144.397,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3877,3877.234,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,291095,291095.524,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1298,1298.666,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1032666,1032666.104,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2163257,2163257.326,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,155189,155189.217,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8212,8212.683,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,723,723.454,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149,149.493,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,241630,241630.543,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,162,Christmas Isds,CXR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1,1.895,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,242748,242748.673,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29630,29630.071,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25630,25630.333,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,561171,561171.013,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1212,1212.546,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43929,43929.237,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4885317,4885317.589,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34767,34767.583,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2681842,2681842.806,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43524,43524.628,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55028,55028.486,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2379911,2379911.193,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,131707,131707.991,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23774,23774.348,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,470,470.737,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,242527,242527.256,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14,14.35,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19614,19614.269,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142534,142534.491,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1895,1895.971,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2167899,2167899.14,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32434,32434.452,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,900,900.264,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,556628,556628.315,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,607,607.189,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1685,1685.922,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6180,6180.129,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23682,23682.103,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15413,15413.853,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119,119.059,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1652218,1652218.853,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,549,549.325,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1872591,1872591.548,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2025869,2025869.894,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3695,3695.06,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13716901,13716901.27,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44456,44456.793,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1818224,1818224.477,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3690,3690.605,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39190,39190.632,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2168,2168.451,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6794,6794.259,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27726,27726.41,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,201282,201282.859,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20821,20821.905,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,531055,531055.119,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10214601,10214601.135,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1810912,1810912.806,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111,111.238,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8074,8074.427,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,167289,167289.229,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22011379,22011379.954,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1368708,1368708.225,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,517,517.531,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2,2.145,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115679,115679.555,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,522248,522248.581,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1,1.29,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203582,203582.518,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,419700,419700.501,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11247,11247.73,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35282,35282.912,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68853,68853.466,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2546,2546.663,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62862,62862.488,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9107607,9107607.389,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12898,12898.722,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82499,82499.798,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81,81.848,,0
+H5,2018,2018,2018,5,0,0,M,834,United Rep. of Tanzania,TZA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,269160,269160.987,,0

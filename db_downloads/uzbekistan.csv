@@ -1,0 +1,1019 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4655,,4655,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,409340,,409340,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1794,,1794,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50542029,,50542029,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287090,,287090,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50231858,,50231858,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,624859,,624859,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,679805,,679805,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56100,,56100,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62809,,62809,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1400,,1400,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,909810,,909810,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,742544,,742544,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,236802,,236802,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89,,89,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90016,,90016,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,101457,,101457,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32459,,32459,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2768,,2768,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2195961,,2195961,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31350,,31350,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9530,,9530,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,400660,,400660,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4562329,,4562329,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,642064,,642064,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6270,,6270,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,915767,,915767,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,296809,,296809,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,274546,,274546,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2101028,,2101028,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98509,,98509,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1340731,,1340731,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168291,,168291,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3645205703,,3645205703,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10079471003,,10079471003.21,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24980630,,24980630.2,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,508241424,,508241424.58,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,576704,,576704.1,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1232252,,1232252,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4319624,,4319624,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4041199,,4041199,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26240984,,26240984,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43113,,43113,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1313427552,,1313427552.04,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1639596,,1639596,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1616573,,1616573,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5440703,,5440703,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2892853,,2892853.4,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61915979,,61915979,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1057,,1057,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9768813,,9768813,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19180178,,19180178,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26301546,,26301546,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13315468,,13315468,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6022,,6022,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3214283,,3214283.6,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11220598,,11220598,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,659297,,659297,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,258295567,,258295567.4,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,977255719,,977255719.08,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53225,,53225,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70652,,70652,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63840,,63840,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45857163,,45857163.7,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76511,,76511,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,167801165,,167801165.29,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,492786,,492786,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,402710,,402710,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73623614,,73623614,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5294394,,5294394,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68586,,68586,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2105773,,2105773,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7789,,7789,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,339200,,339200,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,319770,,319770,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7607964,,7607964,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,241997,,241997,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13723136,,13723136,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7452059,,7452059,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,604997,,604997,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35333146,,35333146,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2653610,,2653610,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,900520,,900520,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,946402,,946402,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3562878,,3562878,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1453672277,,1453672277.99,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19602183,,19602183,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56273054,,56273054,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21431724,,21431724,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,638826,,638826,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,638468,,638468,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75273866,,75273866,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98013,,98013,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27016471,,27016471.4,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,833514484,,833514484.89,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53177287,,53177287,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99748378,,99748378.99,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21714041,,21714041.55,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7954296,,7954296,0
+H4,2017,2017,2017,5,0,0,X,860,Uzbekistan,UZB,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18775,,18775,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9757825466,,9757825466.89,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,393144374,,393144374.58,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24831272,,24831272.2,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26033064,,26033064,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,564993,,564993.1,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1308342719,,1308342719.04,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43113,,43113,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5440703,,5440703,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1639596,,1639596,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,590545,,590545,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1232252,,1232252,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4319624,,4319624,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4041199,,4041199,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2797491,,2797491.4,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61700937,,61700937,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1057,,1057,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3214283,,3214283.6,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,257335653,,257335653.4,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13315468,,13315468,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6022,,6022,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8203733,,8203733,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11220598,,11220598,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,659297,,659297,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19180178,,19180178,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26301546,,26301546,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,930174072,,930174072.08,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53225,,53225,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7172,,7172,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63840,,63840,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45547988,,45547988.7,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1389,,1389,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,339200,,339200,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7487317,,7487317,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,402710,,402710,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,492786,,492786,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,165275559,,165275559.96,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,604997,,604997,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73470906,,73470906,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5294394,,5294394,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68586,,68586,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2105773,,2105773,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7789,,7789,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,319770,,319770,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,241997,,241997,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13723136,,13723136,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7452059,,7452059,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35333146,,35333146,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2653610,,2653610,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,899914,,899914,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18696308,,18696308,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56273054,,56273054,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,638468,,638468,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,946402,,946402,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1427625940,,1427625940.99,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19711471,,19711471,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,638826,,638826,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3562878,,3562878,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75200584,,75200584,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98013,,98013,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27016471,,27016471.4,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,738099593,,738099593.9,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52281273,,52281273,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82474982,,82474982.99,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21709573,,21709573.55,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18775,,18775,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7938447,,7938447,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,409340,,409340,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4655,,4655,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1794,,1794,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50542029,,50542029,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56100,,56100,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,679805,,679805,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,236802,,236802,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62809,,62809,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1400,,1400,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,624859,,624859,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,742544,,742544,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287090,,287090,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50231858,,50231858,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,909810,,909810,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89,,89,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90016,,90016,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,101457,,101457,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32459,,32459,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2768,,2768,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2195961,,2195961,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31350,,31350,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9530,,9530,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,400660,,400660,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,296809,,296809,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,274546,,274546,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8446,,8446,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,642064,,642064,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6270,,6270,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,915767,,915767,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2101028,,2101028,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98509,,98509,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1340731,,1340731,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3645205703,,3645205703,0
+H4,2017,2017,2017,5,0,0,DX,860,Uzbekistan,UZB,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168291,,168291,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,321645536,,321645536.32,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115097050,,115097050,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149358,,149358,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11711,,11711,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,207920,,207920,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73282,,73282,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4553883,,4553883,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1720253,,1720253,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,905875,,905875,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26046337,,26046337,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,606,,606,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120647,,120647,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,152708,,152708,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2525605,,2525605.33,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75122,,75122,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,309175,,309175,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63480,,63480,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47081647,,47081647,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,959914,,959914,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1565080,,1565080,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,215042,,215042,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1026028,,1026028,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95362,,95362,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5084833,,5084833,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17273396,,17273396,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,896014,,896014,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95414890,,95414890.99,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4468,,4468,0
+H4,2017,2017,2017,5,0,0,RX,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15849,,15849,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71300,71300,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9203,9203,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7869,7869,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113247,113247,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9296,9296,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,525790,525790,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117390,117390,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47622,47622,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50258,50258,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,471390,471390,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6357172,6357172,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,800684,800684,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30790,30790,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97685,97685,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7894,7894,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2308715,2308715,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,338237,338237,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,631413,631413,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,166,166,,0
+H4,2017,2017,2017,5,0,0,RM,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,718223,718223,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12028590971,12028590971.34,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,442323,442323,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5447,5447,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3018024,3018024,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17851642,17851642,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,495494,495494,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52975090,52975090,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11342123,11342123.99,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2160392,2160392,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46422334,46422334,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4429,4429,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12956456,12956456,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,320923329,320923329,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10879,10879,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24479,24479,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,152125361,152125361,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12479062,12479062,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3971,3971,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1157734,1157734,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,354705,354705,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2703982129,2703982129.71,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38824,38824,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18794,18794,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43527,43527,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,461426,461426,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,573,573,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20452539,20452539,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78926148,78926148,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17306981,17306981,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10505431,10505431,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91611,91611,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13382,13382,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31552301,31552301,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25826387,25826387,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26217600,26217600,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102739205,102739205,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11247,11247,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24035540,24035540,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,574130056,574130056,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22478,22478,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17835717,17835717,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53884789,53884789,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10328,10328,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7512252,7512252.99,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57042513,57042513.42,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21157552,21157552,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25877658,25877658,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,147841058,147841058.98,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145,145,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29866,29866,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140891818,140891818,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,972958080,972958080.99,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,749884,749884,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4571444,4571444,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1154762182,1154762182.98,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72491711,72491711,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203000308,203000308,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1345,1345,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,369463,369463,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2604,2604,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,257824528,257824528.25,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57677082,57677082,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,245007,245007,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4080047,4080047,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7953046,7953046,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,643090,643090,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,265,265,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79665,79665,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11856517,11856517,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71559051,71559051.96,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1990246,1990246,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1618132,1618132,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24705273,24705273,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69735,69735,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,378457,378457,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68669739,68669739,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,365,365,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7653807,7653807,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17773232,17773232,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1832187,1832187,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2563404133,2563404133.97,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1593734,1593734,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,275527795,275527795.96,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2959817,2959817,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9611416,9611416,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12210675,12210675,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24806232,24806232,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,966334,966334,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80049279,80049279,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35610410,35610410,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,130389541,130389541,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49089364,49089364,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6874339,6874339,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1581,1581,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145559,145559,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55316457,55316457.99,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,594343221,594343221.16,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105375589,105375589,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64051,64051,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8213801,8213801,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182933511,182933511.99,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83751,83751,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65653008,65653008,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,147912268,147912268,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17261,17261,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2480,2480,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10,10,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1220,1220,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,261,261,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54686,54686,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1600,1600,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59,59,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41037,41037,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37,37,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,205444,205444,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40245,40245,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1478561,1478561,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44647,44647,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1580,1580,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1650,1650,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4,4,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13918,13918,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2497368,2497368,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1217,1217,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3645,3645,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96,96,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1417852,1417852,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,210192,210192,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71806,71806,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252,252,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144,144,,0
+H4,2017,2017,2017,5,0,0,FM,860,Uzbekistan,UZB,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,618181,618181,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3018024,3018024,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12034948143,12034948143.34,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1243007,1243007,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5447,5447,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17851642,17851642,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,495494,495494,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53005880,53005880,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11342123,11342123.99,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2231692,2231692,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46422334,46422334,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4429,4429,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,320923329,320923329,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12956456,12956456,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10879,10879,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,152125361,152125361,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24479,24479,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12479062,12479062,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3971,3971,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1157734,1157734,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,354705,354705,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2703982129,2703982129.71,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38824,38824,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18794,18794,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43527,43527,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,461426,461426,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,573,573,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20452539,20452539,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78926148,78926148,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91611,91611,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17306981,17306981,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10505431,10505431,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13382,13382,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31552301,31552301,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25826387,25826387,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102748408,102748408,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11247,11247,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26217600,26217600,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,574130056,574130056,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22478,22478,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24035540,24035540,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17835717,17835717,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53884789,53884789,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10328,10328,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7512252,7512252.99,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57050382,57050382.42,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21157552,21157552,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25877658,25877658,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145,145,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29866,29866,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,147848952,147848952.98,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140891818,140891818,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,975266795,975266795.99,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,749884,749884,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4571444,4571444,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72604958,72604958,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1155100419,1155100419.98,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203000308,203000308,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,257824528,257824528.25,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1345,1345,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57677082,57677082,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,369463,369463,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,245007,245007,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2604,2604,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4080047,4080047,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7953046,7953046,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,643090,643090,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11856517,11856517,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,265,265,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79665,79665,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71568347,71568347.96,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1990246,1990246,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1618132,1618132,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24705273,24705273,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,378457,378457,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69735,69735,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7653807,7653807,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,365,365,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17773232,17773232,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68669739,68669739,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1832187,1832187,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2563929923,2563929923.97,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1593734,1593734,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,275527795,275527795.96,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2959817,2959817,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9611416,9611416,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12210675,12210675,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24806232,24806232,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,966334,966334,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35610410,35610410,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80680692,80680692,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,130389541,130389541,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49089530,49089530,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6874339,6874339,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1581,1581,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145559,145559,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55316457,55316457.99,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,594460611,594460611.16,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64051,64051,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105423211,105423211,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83751,83751,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182983769,182983769.99,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8213801,8213801,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66124398,66124398,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,148630491,148630491,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17261,17261,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2480,2480,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10,10,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1220,1220,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,261,261,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1600,1600,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54686,54686,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97685,97685,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59,59,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37,37,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41037,41037,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,205444,205444,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44647,44647,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40245,40245,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1478561,1478561,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1580,1580,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1650,1650,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4,4,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13918,13918,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2497368,2497368,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1217,1217,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3645,3645,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96,96,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1417852,1417852,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,210192,210192,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71806,71806,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252,252,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144,144,,0
+H4,2017,2017,2017,5,0,0,M,860,Uzbekistan,UZB,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,618181,618181,,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2610,,2610,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233590,,233590,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,539,,539,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19798,,19798,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37828412,,37828412.99,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,694680,,694680,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22959,,22959,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1106077,,1106077,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35221,,35221,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,191840,,191840,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1028183,,1028183,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,341977,,341977,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,285,,285.7,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,101421,,101421,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6300,,6300,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,264213,,264213,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,463493,,463493,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46971,,46971,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77430,,77430,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1728895,,1728895,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5220,,5220,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1182256,,1182256,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,226086,,226086,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71097,,71097,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9257,,9257,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,377168,,377168,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99541,,99541,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11199,,11199,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3237880349,,3237880349.99,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,122390,,122390,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4562248,,4562248,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10919011727,,10919011727.15,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,467085673,,467085673.59,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30151672,,30151672,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3620254,,3620254.2,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2441147,,2441147,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3896454,,3896454,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3212824,,3212824.8,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37466820,,37466820.2,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2846938,,2846938,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,416710,,416710,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,406704,,406704,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2120926851,,2120926851.89,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6470,,6470,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4350067,,4350067,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1146,,1146,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15707644,,15707644,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1516072,,1516072.9,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8748421,,8748421,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,594,,594.1,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12850312,,12850312.1,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4692418,,4692418.2,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38196784,,38196784.6,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,164372861,,164372861.6,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13126278,,13126278,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2209648,,2209648.68,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11557437,,11557437.1,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2172192,,2172192.8,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1219612436,,1219612436.57,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33619889,,33619889.7,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1312,,1312.4,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,251157055,,251157055.9,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1881907,,1881907,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1384253,,1384253,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4515339,,4515339,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10760663,,10760663,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34651616,,34651616.1,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7485,,7485,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29336620,,29336620,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36359151,,36359151.7,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1151046,,1151046,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1860003,,1860003,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1313604,,1313604,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9151924,,9151924,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15617,,15617.2,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3905724,,3905724,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1636425446,,1636425446.7,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8373895,,8373895,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54707968,,54707968.68,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28693828,,28693828.6,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,118869,,118869,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23378,,23378,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1240482,,1240482,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3220942,,3220942.6,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,137027134,,137027134,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,574028,,574028,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29525023,,29525023.8,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1314801,,1314801,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,865828314,,865828314.08,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35230827,,35230827.89,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,92674399,,92674399.89,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3541929,,3541929,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134265160,,134265160.8,0
+H5,2018,2018,2018,5,0,0,X,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4817545,,4817545.1,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10643718393,,10643718393.15,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,383308952,,383308952.59,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2441147,,2441147,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3212824,,3212824.8,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29660321,,29660321,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3149503,,3149503.2,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,406704,,406704,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3880954,,3880954,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37453367,,37453367.2,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2846938,,2846938,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,416710,,416710,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2117861596,,2117861596.89,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6470,,6470,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,296606,,296606.9,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15707644,,15707644,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1146,,1146,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4341530,,4341530,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,594,,594.1,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8525684,,8525684,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,164370741,,164370741.6,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11306819,,11306819.1,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4692418,,4692418.2,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38196784,,38196784.6,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13126278,,13126278,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2166936,,2166936.8,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11557437,,11557437.1,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2209648,,2209648.68,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1207114036,,1207114036.57,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33564777,,33564777.7,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1312,,1312.4,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246131182,,246131182.9,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34605236,,34605236.1,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10760663,,10760663,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4515339,,4515339,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1881907,,1881907,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1384253,,1384253,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3905724,,3905724,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15617,,15617.2,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9151924,,9151924,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7485,,7485,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29336620,,29336620,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1278604,,1278604,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36249826,,36249826.7,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1860003,,1860003,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1151046,,1151046,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1627163643,,1627163643.7,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7805720,,7805720,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54707968,,54707968.68,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28492667,,28492667.6,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,118869,,118869,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23378,,23378,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1240482,,1240482,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3220942,,3220942.6,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29439044,,29439044.8,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,574028,,574028,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134056019,,134056019,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1314801,,1314801,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,734075818,,734075818.08,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34149989,,34149989.89,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3541929,,3541929,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76684627,,76684627.89,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134264090,,134264090.8,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4772959,,4772959.1,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233590,,233590,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2610,,2610,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19798,,19798,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1106077,,1106077,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,539,,539,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37828412,,37828412.99,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35221,,35221,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,694680,,694680,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22959,,22959,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,191840,,191840,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1028183,,1028183,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,341977,,341977,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,285,,285.7,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6300,,6300,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,101421,,101421,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,264213,,264213,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5220,,5220,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1728895,,1728895,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77430,,77430,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,463493,,463493,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1182256,,1182256,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,226086,,226086,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71097,,71097,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9257,,9257,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,377168,,377168,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99541,,99541,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11199,,11199,0
+H5,2018,2018,2018,5,0,0,DX,860,Uzbekistan,UZB,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3237880349,,3237880349.99,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,275293334,,275293334,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83776721,,83776721,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,491351,,491351,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,470751,,470751,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15500,,15500,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13453,,13453,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3065255,,3065255,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8537,,8537,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1219466,,1219466,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,222737,,222737,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1543493,,1543493,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2120,,2120,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5256,,5256,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12498400,,12498400,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55112,,55112,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1070,,1070,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15989772,,15989772,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1080838,,1080838,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,131752496,,131752496,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85979,,85979,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2971115,,2971115,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,201161,,201161,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,568175,,568175,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9261803,,9261803,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109325,,109325,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35000,,35000,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46971,,46971,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46380,,46380,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5025873,,5025873,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,122390,,122390,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4562248,,4562248,0
+H5,2018,2018,2018,5,0,0,RX,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44586,,44586,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10422846,10422846,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31602,31602,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27266,27266,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44369,44369,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10560,10560,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298847,298847,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36219,36219,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104160,104160,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117364,117364,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4690943,4690943,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200565,200565,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,260152,260152,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1654559,1654559,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44800,44800,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,367524,367524,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19973,19973,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,311097,311097,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23131,23131,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1834056,1834056,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95823,95823,,0
+H5,2018,2018,2018,5,0,0,RM,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,249836,249836,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,856575,856575,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11456,11456,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17303528804,17303528804.57,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28,28,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8743990,8743990,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14147385,14147385,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,351577,351577,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100109980,100109980,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14468516,14468516,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2471058,2471058,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56867250,56867250,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14023,14023,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50725053,50725053,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11250,11250,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17549057,17549057,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3800979,3800979,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,373451317,373451317.98,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50723,50723,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,880431,880431,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3539487743,3539487743.79,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6436,6436,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8150,8150,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,535187,535187,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169207,169207,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6187,6187,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,879624,879624,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63921826,63921826.99,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15611512,15611512,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13440543,13440543,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6034,6034,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24046081,24046081,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29777822,29777822,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15685,15685,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110452256,110452256.99,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47881548,47881548,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54254,54254,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,698828862,698828862.98,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4452355,4452355,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,353323,353323,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19496110,19496110,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47783876,47783876,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32489,32489,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10769274,10769274,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133033386,133033386,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21297063,21297063,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32591543,32591543,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15558,15558,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267339581,267339581,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,683480628,683480628,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1360421,1360421,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1533116339,1533116339.03,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1935976264,1935976264.98,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,170276,170276,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126690336,126690336,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,382475966,382475966,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,276546216,276546216.99,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3300692,3300692,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4249,4249,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67648484,67648484,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,524522,524522,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,836,836,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1114,1114,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7304716,7304716,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22486578,22486578,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3001971,3001971,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,793742,793742,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133320200,133320200.99,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68,68,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3615,3615,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1248446,1248446,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1728051,1728051,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1395827,1395827,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64062,64062,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30000,30000,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63645485,63645485.99,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120885779,120885779.99,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1682344,1682344,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21008259,21008259,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3380957443,3380957443.9,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2119196,2119196,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6802126,6802126,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7548462,7548462,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252025936,252025936,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9303110,9303110,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25787329,25787329.99,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34562267,34562267,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15,15,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3805236,3805236,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51961678,51961678,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16674198,16674198,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145337237,145337237,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2000,2000,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,143981382,143981382,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15549204,15549204,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56031088,56031088,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195109,195109,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1098323148,1098323148.98,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153833,153833,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,235964217,235964217,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,326149953,326149953,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1779,1779,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4865498,4865498,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36513161,36513161,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,314019975,314019975,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,876,Wallis and Futuna Isds,WLF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,215,215,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3564,3564,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24768,24768,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81336,81336,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267379,267379,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,342,342,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35906,35906,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180192,180192,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82,82,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,690,690,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33626,33626,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2817279,2817279,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,112738,112738,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21424,21424,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,371273,371273,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182436,182436,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,837882,837882,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27,27,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,234,234,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3864,3864,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2030,2030,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9101,9101,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1041200,1041200,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9,9,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83956,83956,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62988,62988,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48909,48909,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11971097,11971097,,0
+H5,2018,2018,2018,5,0,0,FM,860,Uzbekistan,UZB,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16,16,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11456,11456,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17313951650,17313951650.57,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,888177,888177,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28,28,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,351577,351577,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8771256,8771256,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14147385,14147385,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14468516,14468516,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100154349,100154349,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2471058,2471058,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14023,14023,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56867250,56867250,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50725053,50725053,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11250,11250,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17549057,17549057,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,373451317,373451317.98,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50723,50723,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3800979,3800979,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,880431,880431,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3539487743,3539487743.79,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6436,6436,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8150,8150,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,535187,535187,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169207,169207,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6187,6187,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,879624,879624,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63921826,63921826.99,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15611512,15611512,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13440543,13440543,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6034,6034,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24056641,24056641,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29777822,29777822,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110452256,110452256.99,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15685,15685,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47881548,47881548,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,699127709,699127709.98,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54254,54254,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4452355,4452355,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,353323,353323,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19496110,19496110,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47783876,47783876,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32489,32489,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10769274,10769274,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133069605,133069605,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21297063,21297063,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32591543,32591543,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267443741,267443741,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15558,15558,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,683597992,683597992,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1537807282,1537807282.03,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1360421,1360421,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1936176829,1936176829.98,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,170276,170276,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126950488,126950488,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,382475966,382475966,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,276546216,276546216.99,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3300692,3300692,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4249,4249,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67648484,67648484,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,524522,524522,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,836,836,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1114,1114,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7304716,7304716,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22486578,22486578,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,793742,793742,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3001971,3001971,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133320200,133320200.99,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68,68,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3615,3615,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1248446,1248446,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1728051,1728051,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63645485,63645485.99,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30000,30000,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64062,64062,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1395827,1395827,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120885779,120885779.99,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21008259,21008259,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1682344,1682344,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3382612002,3382612002.9,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6846926,6846926,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2119196,2119196,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252025936,252025936,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7548462,7548462,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9303110,9303110,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25787329,25787329.99,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34562267,34562267,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15,15,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3805236,3805236,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51961678,51961678,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16674198,16674198,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145337237,145337237,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2000,2000,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144348906,144348906,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15569177,15569177,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56342185,56342185,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195109,195109,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1098346279,1098346279.98,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,237798273,237798273,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153833,153833,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,326245776,326245776,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1779,1779,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4865498,4865498,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36762997,36762997,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,314019975,314019975,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,876,Wallis and Futuna Isds,WLF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,215,215,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3564,3564,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24768,24768,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81336,81336,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267379,267379,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,342,342,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35906,35906,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82,82,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180192,180192,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,690,690,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33626,33626,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2817279,2817279,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,112738,112738,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21424,21424,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,371273,371273,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182436,182436,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,837882,837882,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,234,234,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27,27,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3864,3864,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2030,2030,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9101,9101,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1041200,1041200,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83956,83956,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9,9,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62988,62988,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48909,48909,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16,16,,0
+H5,2018,2018,2018,5,0,0,M,860,Uzbekistan,UZB,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11971097,11971097,,0

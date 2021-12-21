@@ -1,0 +1,571 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,668503690,668503690,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,581,581,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1088124,1088124,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,798717,798717,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1116646,1116646,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,140022,140022,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,407211,407211,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19475,19475,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2201311,2201311,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24930,24930,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20308760,20308760,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2137465,2137465,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,143839,143839,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,969153,969153,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1574,1574,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9960050,9960050,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67374,67374,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,59974,59974,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,533210,533210,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13112602,13112602,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3052950,3052950,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67702,67702,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,87959,87959,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20232,20232,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23403,23403,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1006757,1006757,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1009570,1009570,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50469,50469,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2427217,2427217,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4800127,4800127,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11243,11243,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3514,3514,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8740621,8740621,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,234,234,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4744458,4744458,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25504,25504,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58459,58459,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3986523,3986523,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,562712,562712,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5245427,5245427,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23042,23042,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2998607,2998607,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2163100,2163100,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,582948,582948,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,550,550,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,345001,345001,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,398828,398828,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,794455,794455,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2844053,2844053,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10703248,10703248,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21120608,21120608,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4629,4629,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2849680,2849680,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13034,13034,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1209,1209,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130,130,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,126151,126151,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6717875,6717875,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24029,24029,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9789,9789,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,617077,617077,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9030,9030,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14370265,14370265,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56590,56590,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,420,420,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3048319,3048319,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29371,29371,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26821,26821,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,224,224,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,333730,333730,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7288854,7288854,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2765050,2765050,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,191,191,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53417,53417,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,176294,176294,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,126852,126852,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2438,2438,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1513,1513,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,921833,921833,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1325147,1325147,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62295,62295,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7767475,7767475,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3262054,3262054,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1326234,1326234,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34656,34656,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,208331,208331,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13525,13525,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1363190,1363190,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13405793,13405793,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22460,22460,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,396137,396137,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22493,22493,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1312241,1312241,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1212416,1212416,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1004,1004,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4824572,4824572,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,85076958,85076958,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89385,89385,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12938,12938,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,684701,684701,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8901,8901,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60089,60089,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1309,1309,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18861,18861,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27998301,27998301,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,313669734,313669734,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,135565,135565,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1016,1016,,0
+H4,2016,2016,2016,5,0,0,M,662,Saint Lucia,LCA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33620556,33620556,,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,119806601,,119806601,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1799911,,1799911,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28628,,28628,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,430005,,430005,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39192,,39192,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6645253,,6645253,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,372265,,372265,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,123699,,123699,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12791,,12791,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2314,,2314,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,951472,,951472,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66702,,66702,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,516848,,516848,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8777,,8777,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1172838,,1172838,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23298,,23298,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73859,,73859,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5504355,,5504355,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31102,,31102,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2064862,,2064862,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,262457,,262457,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23106,,23106,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89428,,89428,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,741,,741,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3187,,3187,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,333,,333,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1401692,,1401692,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2223741,,2223741,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,101,,101,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81047,,81047,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,280549,,280549,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21406,,21406,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3522,,3522,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,852,,852,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2741340,,2741340,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,139360,,139360,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,282,,282,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5313,,5313,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12990,,12990,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,551275,,551275,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8311,,8311,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,793,,793,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48148,,48148,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1518274,,1518274,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,962132,,962132,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7107,,7107,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21890,,21890,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5922,,5922,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4256,,4256,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60375,,60375,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1973088,,1973088,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40239,,40239,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,504597,,504597,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73956,,73956,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89903,,89903,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,169882,,169882,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116419,,116419,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2328,,2328,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10098700,,10098700,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,156409,,156409,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,586180,,586180,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66115,,66115,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9000644,,9000644,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51734675,,51734675,0
+H4,2016,2016,2016,5,0,0,X,662,Saint Lucia,LCA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14845364,,14845364,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,165944,165944.978,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5226,5226.532,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1063950,1063950.118,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,225964,225964.393,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,663692157,663692157.611,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1020863,1020863.035,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,899641,899641.771,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18690371,18690371.869,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2272356,2272356.324,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,848,848.055,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3512,3512.841,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86022,86022.429,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2115277,2115277.625,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,375577,375577.998,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1049822,1049822.413,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16745,16745.109,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9564745,9564745.613,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56492,56492.847,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87595,87595.075,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,535109,535109.28,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14760946,14760946.646,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6665179,6665179.25,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8327,8327.021,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2687424,2687424.813,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151434,151434.515,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84671,84671.804,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,829405,829405.134,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1316563,1316563.558,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4895672,4895672.03,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79496,79496.35,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36129,36129.775,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,263419,263419.4,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11640,11640.318,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9464667,9464667.998,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3397410,3397410.477,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72330,72330.017,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3478268,3478268.537,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1938605,1938605.069,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6437582,6437582.211,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8982,8982.628,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2059427,2059427.566,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2196180,2196180.363,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,317164,317164.235,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,408937,408937.428,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26812,26812.907,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,558116,558116.234,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9967,9967.99,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4954253,4954253.668,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9557366,9557366.18,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14002139,14002139.046,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5584,5584.731,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,220029,220029.361,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,789422,789422.596,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21011,21011.664,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72589,72589.309,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233380,233380.996,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8146561,8146561.931,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,759094,759094.6,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55309,55309.089,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29424,29424.9,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,207459,207459.952,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23111,23111.74,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55,55.559,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28371,28371.449,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3489518,3489518.588,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8933,8933.891,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18675697,18675697.172,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,380,380.185,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,553,553.429,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7195510,7195510.63,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2638625,2638625.495,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60252,60252.973,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17927,17927.134,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,221802,221802.008,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1003,1003.992,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6319204,6319204.492,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,765924,765924.09,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,439618,439618.094,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3413,3413.926,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2696111,2696111.063,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,530542,530542.684,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99574,99574.934,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,461076,461076.009,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32504,32504.501,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1712481,1712481.699,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8431832,8431832.924,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1624834,1624834.975,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65304,65304.516,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,557711,557711.613,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,932042,932042.838,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3194401,3194401.32,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99663102,99663102.126,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17203,17203.998,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22605,22605.796,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,138971,138971.768,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3376414,3376414.605,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244498,244498.818,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29381831,29381831.57,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,290867895,290867895.106,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,344239,344239.467,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85510,85510.24,,0
+H4,2017,2017,2017,5,0,0,M,662,Saint Lucia,LCA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39867099,39867099.592,,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141655244,,141655244.437,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,271,,271.948,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2201782,,2201782.802,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,350327,,350327.224,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103704,,103704.796,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42386,,42386.543,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187373,,187373.987,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6559951,,6559951.914,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53143,,53143.406,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39640,,39640.786,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31084,,31084.743,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107,,107.863,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,911125,,911125.841,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125331,,125331.075,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1105664,,1105664.95,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15522,,15522.222,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10822,,10822.197,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,285972,,285972.899,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61092,,61092.069,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,704,,704.384,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3018,,3018.764,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49138,,49138.303,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31391,,31391.539,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1829800,,1829800.841,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4978361,,4978361.925,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,647872,,647872.982,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3924462,,3924462.379,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1791899,,1791899.09,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50312,,50312.99,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1118780,,1118780.911,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41,,41.296,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3359054,,3359054.041,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,284824,,284824.986,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1499111,,1499111.534,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,254948,,254948.96,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60469,,60469.217,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3711,,3711.081,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162422,,162422.515,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4045664,,4045664.373,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7342647,,7342647.839,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1405,,1405.865,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2014158,,2014158.138,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7043,,7043.815,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6154,,6154.379,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2453561,,2453561.883,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24630,,24630.92,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,824,,824.758,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15701,,15701.029,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5089,,5089.125,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3520984,,3520984.342,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23196,,23196.288,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,174912,,174912.525,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,880998,,880998.252,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4,,4.696,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,830124,,830124.907,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45134,,45134.577,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2647,,2647.779,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1622225,,1622225.226,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2688,,2688.882,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60494,,60494.228,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2068534,,2068534.309,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117,,117.526,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,161866,,161866.797,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6002,,6002.242,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,127006,,127006.051,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1206507,,1206507.531,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25673,,25673.315,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,980205,,980205.442,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,324424,,324424.505,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1739010,,1739010.691,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11260016,,11260016.199,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,231474,,231474.25,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,998,,998.925,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,155158,,155158.756,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11218348,,11218348.626,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45678789,,45678789.151,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1209,,1209.521,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34414,,34414.084,0
+H4,2017,2017,2017,5,0,0,X,662,Saint Lucia,LCA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11219557,,11219557.688,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10203,10203.69,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8793,8793.42,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9262,9262.71,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3271963,3271963.07,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,365720,365720.19,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,793,793.81,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1664303,1664303.56,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43025,43025.49,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,308542694,308542694.92,,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,78336,,78336.07,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,709254,709254.6,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,919,919.28,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2132,2132.48,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20876939,20876939.62,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,159,159.44,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,80,80.89,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145,145.08,,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32449,,32449.74,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7501709,,7501709.92,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1004676,1004676.89,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,461955,461955.13,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60527,60527.21,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200264,200264.68,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6827,6827.74,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1350135,1350135.04,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,164450,164450.61,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,321,321.37,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4684340,4684340.56,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1881789,1881789.8,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4897028,4897028.14,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9386168,9386168.1,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1352844,1352844.32,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4616977,4616977.28,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,194,194.72,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1205,1205.3,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,376076,376076.27,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1104,1104.77,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68631,68631.42,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40729,40729.48,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11376,11376.69,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52695,52695.65,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,210,210.35,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136371,136371.2,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,501015,501015.41,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,104501827,104501827.32,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,150,150.59,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1231086,1231086.02,,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,116813983,,116813983.63,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7314238,7314238.52,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21,21.21,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,316749,316749.94,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68,68.03,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2655001,2655001.48,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3111,3111.6,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,394,394.94,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,448352,448352.77,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33376,33376.32,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,0,0.48,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3001013,3001013.55,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2264532,2264532.06,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1553,1553.1,,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,617287,,617287.17,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15842,15842.38,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3241644,3241644.29,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,219,219.36,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1047851,1047851.9,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,182471,182471.7,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,175776,175776.59,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37936,37936.18,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7621336,7621336.8,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13389236,13389236.17,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,270934,270934.88,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6427896,6427896.78,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4563412,4563412.02,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45317,45317.2,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38,38.54,,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3605824,,3605824.5,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,167382,,167382.38,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,104770,104770.66,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1772611,1772611.63,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,698,698.03,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2938,2938.35,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6388136,6388136.8,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2307244,2307244.08,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1031,1031.48,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4471248,4471248.67,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6826113,6826113.83,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3709,3709.93,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83963,83963.15,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,558517,558517.35,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16129,16129.98,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,954,954.76,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,251,251.56,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1953,1953.37,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5890,5890.65,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,396,396.82,,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1291561,,1291561.11,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,177115,177115.44,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11222,11222,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,173,173.81,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29013,29013.76,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19419,19419.34,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11990,11990.22,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,74,Bouvet Island,BVT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140,140.87,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,520,520.82,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,270875,270875.16,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62725,62725.08,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1277696,1277696.89,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1045045,1045045.32,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62,62.95,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1070613,1070613.59,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,444816,444816.44,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,243266,243266.41,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,169069,169069.57,,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,302266,,302266.22,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,141459,141459.83,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4063,4063.29,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8792433,8792433.84,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3506460,3506460.19,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,160,160.99,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10113444,10113444.64,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,342981,342981.56,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9401114,9401114.95,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1232,1232.98,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5357,5357.11,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,534808,534808.2,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7833,7833.71,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,225,225.46,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3265,3265.79,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13564,13564.38,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47,47.46,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,377052,377052.07,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7008,7008.87,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35205559,35205559.98,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3647421,3647421.97,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4092936,4092936.38,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4663587,4663587.44,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1478277,1478277.46,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3155,3155.52,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44,44.21,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7855,7855.03,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,930033,930033.45,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22975,22975.93,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3724366,3724366.99,,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30526,,30526.99,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30317318,30317318.09,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,423,423.58,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,672941162,672941162.65,,4
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2975,2975.68,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1249594,1249594.64,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15957,15957.95,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57770,57770,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,59372,59372.64,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1971,1971.3,,0
+H4,2018,2018,2018,5,0,0,M,662,Saint Lucia,LCA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1271017,1271017.22,,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6143,,6143.75,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17926,,17926.67,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120613,,120613.55,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,731377,,731377.06,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,950927,,950927.71,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,92,,92.59,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,382621,,382621.96,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,76072,,76072.95,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,185,,185.18,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12016,,12016.54,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,397,,397.08,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36239,,36239.54,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2359317,,2359317.25,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20225,,20225.64,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44402,,44402.78,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,87040,,87040.65,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15571,,15571.32,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,111332,,111332.55,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,94844,,94844.59,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10503348,,10503348.57,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,385798,,385798.63,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1656,,1656.1,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54474,,54474.57,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5188332,,5188332.79,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,281538,,281538.44,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53750,,53750.09,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21528,,21528.41,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47196284,,47196284.91,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,239004,,239004.19,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,528739,,528739.17,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9155,,9155.52,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10117018,,10117018.11,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2943775,,2943775.29,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5534,,5534.4,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1422082,,1422082.29,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,244910,,244910.22,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,415933,,415933.39,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3299496,,3299496.58,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7432555,,7432555.18,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,349,,349.44,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,537184,,537184.25,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1153,,1153.12,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,305679,,305679.57,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29898,,29898.09,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7743,,7743.14,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3637,,3637.84,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45090,,45090.9,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30187,,30187.68,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70354,,70354.06,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,312215,,312215.13,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5631270,,5631270.77,4
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63173,,63173.93,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,227521,,227521.56,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,119692,,119692.29,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49323,,49323.96,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74062,,74062.24,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108640,,108640.36,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20,,20.12,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37784,,37784.51,0
+H4,2018,2018,2018,5,0,0,X,662,Saint Lucia,LCA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,119390,,119390.36,0

@@ -1,0 +1,756 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39066027,,39066027.115,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6283360,,6283360.606,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1595,,1595.01,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7184818,,7184818.634,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185,,185.185,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2,,2.011,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1361319,,1361319.031,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1478941,,1478941.721,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106,,106.3,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,209875,,209875.927,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26,,26.156,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3466161,,3466161.697,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4729,,4729.588,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38750,,38750.702,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,393865,,393865.806,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1056,,1056.517,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56404,,56404.158,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63072,,63072.581,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9852,,9852.468,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6364906,,6364906.58,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,258597,,258597.382,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,311494,,311494.855,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25,,25.611,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1106,,1106.925,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67727,,67727.392,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,555,,555.555,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,471179,,471179.707,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2916815,,2916815.331,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3883,,3883.522,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7389109,,7389109.585,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2407,,2407.405,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,150933,,150933.538,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,473758,,473758.737,0
+H3,2016,2016,2016,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99400,,99400.893,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3096,3096.245,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1038,1038.195,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,880,880.162,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,334767433,334767433.147,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,192472,192472.652,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160032,160032.599,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,769665,769665.816,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107032,107032.808,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3147,3147.693,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6269,6269.934,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84,84.655,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9855666,9855666.392,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1246284,1246284.22,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,437,437.596,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2074,2074.679,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,74,Bouvet Island,BVT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,370,370.366,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2663046,2663046.789,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,438482,438482.202,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134465,134465.428,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3859,3859.037,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29,29.63,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44,44.444,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1861,1861.498,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3416,3416.226,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5708966,5708966.369,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,596,596.296,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38535,38535.524,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,918245,918245.563,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5,5.337,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,162,Christmas Isds,CXR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30,30.2,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18890683,18890683.683,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58277,58277.134,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29949,29949.759,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15396,15396.618,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1715,1715.558,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3344051,3344051.856,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2586248,2586248.588,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,295620,295620.178,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1823,1823.517,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1465437,1465437.005,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7904,7904.892,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2782566,2782566.962,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,330625,330625.706,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82593,82593.825,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95,95.748,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,746831,746831.549,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44631,44631.244,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4060811,4060811.247,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,474,474.9,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136,136.604,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,333,333.355,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3347088,3347088.69,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59460,59460.589,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1103742,1103742.5,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,654,654.922,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,650903,650903.623,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2330,2330.361,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6246976,6246976.153,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27576,27576.565,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28610,28610.645,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,430700,430700.847,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119947,119947.828,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1844,1844.92,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,581258,581258.585,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77637,77637.074,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,976435,976435.62,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151168,151168.756,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5704359,5704359.396,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24379,24379.842,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4051626,4051626.226,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1168,1168.932,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6663,6663.116,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41494,41494.614,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1154707,1154707.064,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12289,12289.706,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1056,1056.743,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12066263,12066263.889,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,306194,306194.123,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3727891,3727891.142,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,677550,677550.541,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,848,848.329,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23228,23228.466,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2559918,2559918.14,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301622,301622.754,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,555,555.555,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108619,108619.888,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2653,2653.701,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,309,309.385,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1752191,1752191.692,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2502,2502.679,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1207,1207.573,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,166,166.866,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11210,11210.607,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2521,2521.057,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175566,175566.347,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1355592,1355592.981,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1468013,1468013.932,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39871,39871.449,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136443,136443.615,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74638,74638.851,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,277,277.011,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23,23.093,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134678,134678.191,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3716,3716.119,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120353,120353.806,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2711,2711.52,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2040365,2040365.949,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1068,1068.429,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9636,9636.676,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1072,1072.777,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,777,777.044,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3197,3197.763,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1124382,1124382.59,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102361,102361.098,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5124,5124.984,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,263745,263745.014,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4864,4864.125,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12585,12585.632,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,388,388.392,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,936990,936990.089,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,261252,261252.646,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17266,17266.164,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,315878,315878.873,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,277977,277977.174,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19320,19320.221,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,966423,966423.4,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49267,49267.584,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54223056,54223056.162,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86148,86148.01,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,507,507.422,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1090566,1090566.002,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4037,4037.129,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,116388,116388.413,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267189,267189.355,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21573,21573.008,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21114688,21114688.27,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136772543,136772543.846,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,581092,581092.634,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7207646,7207646.822,,0
+H3,2016,2016,2016,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,876,Wallis and Futuna Isds,WLF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,274,274.344,,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14198,,14198.827,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21912,,21912.541,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3946841,,3946841.605,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63809,,63809.314,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60235,,60235.503,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,258036,,258036.612,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18408,,18408.27,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59072,,59072.859,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4025,,4025.181,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38689,,38689.458,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1817,,1817.757,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180020,,180020.876,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23159,,23159.103,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,545,,545.074,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,503,,503.148,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1120,,1120.269,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41451,,41451.922,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,747,,747.518,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301,,301.889,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1870,,1870.146,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47023,,47023.475,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25689,,25689.03,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90,,90.567,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22138,,22138.493,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35622,,35622.705,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111,,111.111,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1125998,,1125998.533,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,395670,,395670.99,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298518,,298518.22,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4276,,4276.755,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185,,185.185,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113563,,113563.849,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1087656,,1087656.057,0
+H3,2016,2016,2016,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,370,,370.37,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43012868,,43012868.72,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6305273,,6305273.147,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1595,,1595.01,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14198,,14198.827,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7442855,,7442855.246,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185,,185.185,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2,,2.011,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1361319,,1361319.031,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,412274,,412274.077,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97823,,97823.561,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8754,,8754.769,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3529971,,3529971.011,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60261,,60261.658,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,248565,,248565.385,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1924,,1924.057,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1658962,,1658962.597,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90886,,90886.494,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,545,,545.074,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1106,,1106.925,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,503,,503.148,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25,,25.611,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1120,,1120.269,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,352946,,352946.777,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,747,,747.518,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301,,301.889,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,260467,,260467.528,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56875,,56875.943,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88761,,88761.611,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56494,,56494.725,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23195,,23195.01,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,555,,555.555,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2952438,,2952438.036,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3994,,3994.633,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7502673,,7502673.434,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2407,,2407.405,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151118,,151118.723,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4276,,4276.755,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298518,,298518.22,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6760577,,6760577.569,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1597178,,1597178.24,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1561414,,1561414.794,0
+H3,2016,2016,2016,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99771,,99771.263,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36466037,,36466037.619,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1020088,,1020088.447,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1713516,,1713516.935,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5364373,,5364373.573,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28389,,28389.175,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6165155,,6165155.083,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,782296,,782296.473,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22557,,22557.755,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6,,6.037,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5407949,,5407949.433,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46002,,46002.973,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,107728,,107728.729,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,201403,,201403.728,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8,,8.052,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,332263,,332263.723,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,261695,,261695.423,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,326598,,326598.818,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,776929,,776929.445,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3184269,,3184269.197,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10032,,10032.149,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6239405,,6239405.794,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2106,,2106.479,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67519,,67519.429,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,328796,,328796.723,0
+H3,2017,2017,2017,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4076944,,4076944.045,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,329952436,329952436.688,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1864,1864.083,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,122077,122077.8,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,209,209.337,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,276984,276984.986,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1076353,1076353.653,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,259152,259152.093,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4392,4392.151,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5503,5503.161,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,709195,709195.128,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37,37.037,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12340,12340.099,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,820,820.929,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,74,Bouvet Island,BVT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16098,16098.399,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9062234,9062234.541,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2802644,2802644.116,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,336464,336464.697,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120719,120719.327,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10113,10113.779,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,285,285.129,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2634,2634.386,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44031,44031.945,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,832678,832678.253,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5061963,5061963.034,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,155,155.555,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9430,9430.605,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1047,1047.766,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37089,37089.496,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19179617,19179617.12,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1111,1111.51,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2959812,2959812.525,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44,44.444,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2823,2823.182,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64101,64101.869,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125752,125752.704,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20083,20083.65,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,165277,165277.442,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1546190,1546190.024,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,295589,295589.778,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1329843,1329843.948,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1142,1142.195,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3090756,3090756.646,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,212653,212653.613,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,95473,95473.097,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18104,18104.523,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5209386,5209386.331,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12345,12345.658,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7571,7571.978,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22846,22846.496,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12003,12003.821,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3744451,3744451.519,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,803264,803264.8,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68,68.074,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8164387,8164387.124,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17219,17219.372,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,263380,263380.44,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1882640,1882640.31,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,303,303.703,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,280243,280243.123,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102732,102732.231,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54802,54802.504,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1394201,1394201.795,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5899,5899.257,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,908633,908633.165,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,190092,190092.136,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14626812,14626812.166,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,114,114.815,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2386180,2386180.329,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,659065,659065.471,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,194,194.666,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1220729,1220729.435,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6393,6393.579,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1660,1660.454,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1855,1855.283,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8812027,8812027.588,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4254,4254.325,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,304,304.318,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,205,205.063,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60000,60000.344,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2514992,2514992.163,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3391,3391.348,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,652519,652519.899,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6003896,6003896.8,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,91654,91654.66,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,303040,303040.456,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44879,44879.9,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1739668,1739668.605,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4582,4582.647,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,994,994.78,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9430,9430.891,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,66,66.567,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,93694,93694.021,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33977,33977.107,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1152870,1152870.614,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1344400,1344400.674,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28490,28490.668,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,184168,184168.664,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28972,28972.782,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,172,172.092,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5728,5728.587,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,114263,114263.171,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1424,1424.017,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7030,7030.3,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1577647,1577647.922,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,844,844.499,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7116,7116.226,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,299,299.174,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2614853,2614853.515,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,526,526.429,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,499820,499820.789,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8101,8101.492,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,610034,610034.934,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18662,18662.444,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32087,32087.009,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,406,406.085,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451232,451232.667,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,284687,284687.652,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34712,34712.432,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,317289,317289.705,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25362,25362.023,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,208074,208074.507,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1067933,1067933.414,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62,62.13,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140,140.341,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,51907959,51907959.488,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120612,120612.461,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2687675,2687675.412,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5772,5772.991,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2003,2003.476,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25770,25770.178,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,356,356.844,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24348724,24348724.296,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,884,884.332,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,124954310,124954310.112,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,230823,230823.825,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2771820,2771820.576,,0
+H3,2017,2017,2017,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,344,344.463,,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5833371,,5833371.237,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20378,,20378.85,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1856,,1856.617,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13605,,13605.912,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1662309,,1662309.193,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,528355,,528355.716,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1851,,1851.85,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62397,,62397.834,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,350,,350.3,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21370,,21370.042,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2851,,2851.849,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12,,12.074,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1610,,1610.072,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35861,,35861.994,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38589,,38589.987,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6571,,6571.845,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39735,,39735.457,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,503,,503.148,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,309,,309.155,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,603,,603.777,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7044,,7044.067,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1423,,1423.902,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50,,50.315,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35723,,35723.946,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40251,,40251.812,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,392016,,392016.408,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,285,,285.811,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451,,451.829,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90239,,90239.31,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1881,,1881.772,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,788910,,788910.07,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,628355,,628355.475,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5049,,5049.995,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,222,,222.222,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1335488,,1335488.142,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1509,,1509.443,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2592,,2592.59,0
+H3,2017,2017,2017,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62748,,62748.456,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42299408,,42299408.856,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5384752,,5384752.423,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1856,,1856.617,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13605,,13605.912,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7827464,,7827464.276,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,782296,,782296.473,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1082486,,1082486.28,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,350,,350.3,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43927,,43927.797,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2851,,2851.849,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12,,12.074,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1610,,1610.072,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6,,6.037,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5799965,,5799965.841,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,81864,,81864.966,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2241872,,2241872.651,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1851,,1851.85,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,241139,,241139.185,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8,,8.052,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,503,,503.148,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,332572,,332572.879,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,603,,603.777,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7044,,7044.067,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,146318,,146318.717,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6571,,6571.845,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1423,,1423.902,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50,,50.315,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,362322,,362322.764,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40251,,40251.812,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28611,,28611.397,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,285,,285.811,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,451,,451.829,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3274508,,3274508.507,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11913,,11913.921,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,261695,,261695.423,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6867761,,6867761.269,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2106,,2106.479,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67519,,67519.429,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5049,,5049.995,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4865854,,4865854.116,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2112417,,2112417.588,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1509,,1509.443,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,391545,,391545.179,0
+H3,2017,2017,2017,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2592,,2592.59,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38916420,,38916420.543,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5356591,,5356591.21,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6044650,,6044650.837,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,862168,,862168.253,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1852306,,1852306.207,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18,,18.518,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6,,6.037,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7455612,,7455612.537,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82060,,82060.288,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1435432,,1435432.279,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108868,,108868.065,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73099,,73099.101,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67,,67.922,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,341452,,341452.725,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42561,,42561.298,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7407,,7407.4,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,305401,,305401.446,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58215,,58215.586,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,460703,,460703.51,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,579,,579.625,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42245,,42245.698,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4483556,,4483556.113,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22492,,22492.57,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4150609,,4150609.723,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139673,,139673.312,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,758,,758.518,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78109,,78109.622,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3211859,,3211859.496,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,377950,,377950.081,0
+H3,2018,2018,2018,5,0,0,DX,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1921962,,1921962.563,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,353627074,353627074.298,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1457,1457.824,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,201562,201562.832,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,296546,296546.778,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2382092,2382092.107,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,543028,543028.479,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104,104.526,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,338,338.807,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41643,41643.41,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,74,Bouvet Island,BVT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1577,1577.587,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,800,800.581,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,603,603.944,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,985923,985923.97,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8418497,8418497.319,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3459520,3459520.833,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,257694,257694.965,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,263635,263635.151,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5443,5443.335,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8077,8077.851,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2539,2539.594,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31730,31730.713,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4922537,4922537.152,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,511,511.933,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4738,4738.684,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36700,36700.252,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,800434,800434.14,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39093,39093.224,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2644968,2644968.296,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,473860,473860.741,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246,246.37,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2211,2211.45,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16576,16576.139,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,162,Christmas Isds,CXR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,820,820.677,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23949139,23949139.277,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4292,4292.155,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75441,75441.01,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75300,75300.821,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,404279,404279.981,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,181240,181240.13,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177404,177404.874,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33610,33610.115,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3538565,3538565.058,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1535790,1535790.223,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3010850,3010850.619,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7225,7225.596,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18822,18822.992,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177,177.059,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3661758,3661758.131,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180,180.392,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8427,8427.38,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2509449,2509449.005,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,323,323.374,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,847200,847200.082,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162,162.326,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5816419,5816419.058,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21629,21629.223,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,170,170.352,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233974,233974.492,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246903,246903.816,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64172,64172.832,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3122,3122.589,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1042254,1042254.843,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203685,203685.678,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1388350,1388350.364,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115815,115815.788,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10120192,10120192.791,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3201185,3201185.784,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10509852,10509852.668,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,146,146.022,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1089,1089.025,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59617,59617.681,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1595194,1595194.931,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,634,634.718,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42471,42471.765,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,191,191.4,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6632,6632.801,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103518,103518.056,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25181,25181.416,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102,102.47,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1148,1148.999,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,616030,616030.995,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7028,7028.934,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3494,3494.474,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3097385,3097385.588,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,293261,293261.433,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,888,888.888,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,311359,311359.603,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6850,6850.652,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7654,7654.526,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1443,1443.143,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3509433,3509433.694,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,292740,292740.426,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,218,218.103,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21625,21625.749,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1456,1456.743,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2282591,2282591.391,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4156,4156.125,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23921,23921.609,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3521,3521.974,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63692,63692.925,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169,169.622,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,159460,159460.585,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42372,42372.88,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,899347,899347.612,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103,103.704,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1553603,1553603.298,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,174180,174180.096,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106744,106744.015,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10175,10175.094,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,697,697.222,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,459609,459609.007,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1600,1600.784,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2378270,2378270.666,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1138,1138.888,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18,18.518,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4698,4698.647,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119,119.892,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16517,16517.017,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1475920,1475920.165,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200516,200516.151,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8704,8704.702,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2133874,2133874.018,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4678,4678.218,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22732,22732.307,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,268,268.674,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1383569,1383569.887,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63,63.267,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,235973,235973.627,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59383,59383.211,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,286852,286852.009,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,409311,409311.735,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11262,11262.978,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1207248,1207248.289,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,754,754.255,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63167455,63167455.395,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,130082,130082.907,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,531,531.418,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3189551,3189551.344,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2464,2464.716,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2791,2791.886,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52726,52726.266,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57,57.811,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22730,22730.848,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,494,494.418,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25733129,25733129.378,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136620514,136620514.761,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,816,816.355,,0
+H3,2018,2018,2018,5,0,0,M,670,Saint Vincent and the Grenadines,VCT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216208,216208.958,,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4749465,,4749465.251,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99165,,99165.449,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5134,,5134.447,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,322,,322.014,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,353,,353.703,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,491923,,491923.093,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3703,,3703.7,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70909,,70909.018,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,333,,333.333,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27778,,27778.117,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6640,,6640.734,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,340035,,340035.416,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301,,301.889,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78825,,78825.584,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20527,,20527.042,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,791325,,791325.986,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,493,,493.085,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,510,,510.518,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8553,,8553.51,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,447,,447.659,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74,,74.074,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20740,,20740.72,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2432,,2432.368,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32987,,32987.363,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74,,74.074,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74,,74.074,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,127762,,127762.439,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1006,,1006.295,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,951236,,951236.56,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,242,,242.437,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60669,,60669.543,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21048,,21048.494,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,625090,,625090.205,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10062,,10062.953,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,557,,557.796,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34912,,34912.68,0
+H3,2018,2018,2018,5,0,0,RX,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,913208,,913208.879,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43665885,,43665885.793,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5455756,,5455756.659,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5134,,5134.447,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,322,,322.014,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,353,,353.703,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6536573,,6536573.93,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,865871,,865871.953,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1923215,,1923215.225,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,333,,333.333,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27796,,27796.635,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6640,,6640.734,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6,,6.037,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7795647,,7795647.952,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301,,301.889,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160885,,160885.872,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20527,,20527.042,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2226758,,2226758.266,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,493,,493.085,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109378,,109378.583,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73099,,73099.101,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67,,67.922,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8553,,8553.51,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,341900,,341900.384,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42561,,42561.298,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74,,74.074,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28148,,28148.12,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,307833,,307833.814,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58215,,58215.586,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,493690,,493690.873,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,579,,579.625,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42245,,42245.698,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74,,74.074,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74,,74.074,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4611318,,4611318.552,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23498,,23498.865,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5101846,,5101846.283,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139673,,139673.312,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,758,,758.518,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,242,,242.437,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,138779,,138779.165,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21048,,21048.494,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3836949,,3836949.7,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10062,,10062.953,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,557,,557.796,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,412862,,412862.761,0
+H3,2018,2018,2018,5,0,0,X,670,Saint Vincent and the Grenadines,VCT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2835171,,2835171.443,0
