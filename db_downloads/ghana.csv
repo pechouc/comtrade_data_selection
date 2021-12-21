@@ -1,0 +1,981 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,RM,288,Ghana,GHA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,94551856,,,0
+H4,2016,2016,2016,5,0,0,RM,288,Ghana,GHA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,94551856,,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11361004402,11361004402,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32145,32145,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50450,50450,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2740628,2740628,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8008013,8008013,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1699,1699,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16267822,16267822,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1224523,1224523,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17745,17745,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28101637,28101637,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91188815,91188815,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12123624,12123624,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1505659,1505659,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,280805,280805,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,745516,745516,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13312,13312,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,109925,109925,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,577366142,577366142,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2690,2690,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,502,502,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3287,3287,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9821,9821,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,273431119,273431119,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68710,68710,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1593859,1593859,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18325222,18325222,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9269,9269,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,544,544,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79783,79783,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,257926,257926,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,169732651,169732651,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1236,1236,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,674694,674694,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,236689073,236689073,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4385,4385,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,97742,97742,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53671,53671,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4227002,4227002,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75959,75959,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6862285,6862285,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1964589969,1964589969,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2709,2709,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1888027,1888027,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2118328,2118328,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,102244,102244,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,129136,129136,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,274658,274658,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1610,1610,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,776409,776409,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,850090,850090,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7048421,7048421,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40897368,40897368,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2702,2702,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,290771,290771,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,523953,523953,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,309164,309164,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,93931,93931,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1170981,1170981,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10641372,10641372,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12475701,12475701,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,239,South Georgia and the South Sandwich Islands,SGS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2352,2352,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26021841,26021841,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,382154913,382154913,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,114302,114302,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,93709,93709,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,938466,938466,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1694506,1694506,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,165517,165517,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,440715477,440715477,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,94551856,94551856,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,115593,115593,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21968582,21968582,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32590227,32590227,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,361143,361143,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,549168,549168,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11822,11822,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,146814443,146814443,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8493065,8493065,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1654886,1654886,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1842530,1842530,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,510869,510869,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67167282,67167282,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,57474202,57474202,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51484705,51484705,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,205343146,205343146,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65993057,65993057,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,131873,131873,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152628144,152628144,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7921,7921,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11918531,11918531,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4093037,4093037,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5009549,5009549,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,278238661,278238661,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3033420,3033420,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8470,8470,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1469,1469,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29815139,29815139,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43888,43888,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,632014,632014,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45431207,45431207,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,281812,281812,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11201861,11201861,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2006704,2006704,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2586,2586,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,184773,184773,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33712,33712,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,141139290,141139290,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4997077,4997077,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73653073,73653073,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7714115,7714115,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16215603,16215603,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18286094,18286094,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22135350,22135350,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2058,2058,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21635,21635,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89243349,89243349,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,585738,585738,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1205463,1205463,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2195931,2195931,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3060,3060,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,268491984,268491984,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,667255,667255,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52533,52533,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7952781,7952781,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31023678,31023678,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3813848,3813848,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48884097,48884097,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54421,54421,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44397442,44397442,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,107280,107280,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2154410,2154410,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8677889,8677889,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,290958,290958,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,299090,299090,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4704872,4704872,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20103739,20103739,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40535805,40535805,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10029935,10029935,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,740,740,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10593408,10593408,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2548620,2548620,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,69249527,69249527,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92350,92350,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1071,1071,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8611,8611,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,161,161,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51723706,51723706,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10792252,10792252,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8662563,8662563,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,183992,183992,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5266853,5266853,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,527622097,527622097,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1057209,1057209,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54394905,54394905,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,219281235,219281235,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6812929,6812929,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,332993119,332993119,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22651,22651,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,167090544,167090544,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,72922,72922,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,840909,840909,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,111211056,111211056,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48226639,48226639,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,82803,82803,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,147811823,147811823,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,85924421,85924421,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42158,42158,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3382,3382,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,212286,212286,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,288771439,288771439,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14842320,14842320,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,287915050,287915050,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16712,16712,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,419932,419932,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25870653,25870653,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63995985,63995985,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1106716966,1106716966,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1406286,1406286,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,881810050,881810050,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1319253,1319253,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,199604,199604,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3519,3519,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,169658,169658,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,209341,209341,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12229561,12229561,,0
+H4,2016,2016,2016,5,0,0,M,288,Ghana,GHA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,292941420,292941420,,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10655796413,,10655796413,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19863,,19863,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,193075,,193075,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1347,,1347,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1710826,,1710826,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,108291,,108291,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1437386,,1437386,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58426,,58426,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73988,,73988,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,99511143,,99511143,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,432,,432,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,200974423,,200974423,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1555,,1555,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4625,,4625,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1746,,1746,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2972174,,2972174,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33525842,,33525842,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26408,,26408,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49,,49,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64800,,64800,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,131053,,131053,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45868,,45868,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,941809716,,941809716,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10933,,10933,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6179226,,6179226,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10843651,,10843651,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34121917,,34121917,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,866866,,866866,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,99653,,99653,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,253377,,253377,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,830721,,830721,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,566878,,566878,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,71302142,,71302142,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1078,,1078,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35543,,35543,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11297,,11297,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,139589449,,139589449,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68191,,68191,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2407550,,2407550,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1623046,,1623046,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,147506965,,147506965,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,337919,,337919,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3577,,3577,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5726356,,5726356,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1849,,1849,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3742784,,3742784,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,377277,,377277,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4812503,,4812503,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10485446,,10485446,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,443669,,443669,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,282421,,282421,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2221651,,2221651,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,188722849,,188722849,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33403357,,33403357,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4687,,4687,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,150870742,,150870742,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19221,,19221,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,102492,,102492,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15848476,,15848476,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46048,,46048,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,105694,,105694,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31452673,,31452673,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8061534,,8061534,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,957,,957,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62802,,62802,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24198,,24198,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,215020809,,215020809,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,299600191,,299600191,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21421,,21421,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,149447,,149447,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,272126,,272126,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,188530,,188530,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,118747582,,118747582,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3927457,,3927457,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,443038805,,443038805,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1530,,1530,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3221641,,3221641,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61925064,,61925064,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3110040,,3110040,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,121958,,121958,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51866300,,51866300,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,410863,,410863,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,340165,,340165,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89837,,89837,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19496,,19496,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44864,,44864,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,605121,,605121,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60890543,,60890543,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,95890,,95890,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41318,,41318,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63512,,63512,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,122584,,122584,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30542,,30542,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,953224,,953224,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2008434,,2008434,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130797268,,130797268,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,160902,,160902,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2817,,2817,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3471691,,3471691,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1557740787,,1557740787,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47198104,,47198104,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,549265154,,549265154,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,350763476,,350763476,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2533,,2533,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,149081160,,149081160,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58603,,58603,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,277,,277,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,90175,,90175,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4833476,,4833476,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,55893,,55893,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,316990,,316990,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1868671702,,1868671702,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,289491731,,289491731,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,378407,,378407,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1427346994,,1427346994,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10928713,,10928713,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,100210076,,100210076,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,383289,,383289,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20542435,,20542435,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,790710,,790710,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,95175566,,95175566,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,468305,,468305,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,196985200,,196985200,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,427310251,,427310251,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,777,,777,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16561,,16561,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,106442,,106442,0
+H4,2016,2016,2016,5,0,0,X,288,Ghana,GHA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67957,,67957,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,539252,,539252.841,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,541,,541.16,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,179293,,179293.921,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3539724,,3539724.143,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30889,,30889.371,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,343763,,343763.071,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104721,,104721.459,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8524,,8524.582,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79756,,79756.814,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145,,145.388,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27123,,27123.971,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,732278,,732278.879,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,193883193,,193883193.44,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33483,,33483.762,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173,,173.592,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22697877,,22697877.309,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48,,48.606,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,942215,,942215.295,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1521,,1521.859,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128167,,128167.713,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,155413,,155413.372,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1622,,1622.802,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1360638,,1360638.504,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,913428,,913428.436,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1240304,,1240304.694,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140937,,140937.012,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,611430,,611430.283,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8912,,8912.651,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,508776,,508776.433,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,92,,92.627,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,465977,,465977.981,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,188473,,188473.483,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,131050943,,131050943.007,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11175082,,11175082.952,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4957,,4957.024,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,319053,,319053.667,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,491264,,491264.078,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,412859,,412859.717,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,261795325,,261795325.204,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97664,,97664.497,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2750585,,2750585.027,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1684380,,1684380.386,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,327,,327.992,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2650821,,2650821.16,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17546823,,17546823.658,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5633,,5633.698,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1708684,,1708684.207,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10355714,,10355714.329,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40129917,,40129917.158,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,178577,,178577.572,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3426120,,3426120.914,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4005829,,4005829.544,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180347023,,180347023.97,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27422,,27422.393,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32,,32.039,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,532129,,532129.373,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,807411,,807411.635,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19210344,,19210344.832,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33238,,33238.359,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,331,,331.07,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3908,,3908.934,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80,,80.933,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19712,,19712.804,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12472,,12472.533,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,454298025,,454298025.454,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,873,,873.239,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115035,,115035.578,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37783,,37783.854,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59360,,59360.527,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,399924,,399924.295,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,828340,,828340.474,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1308,,1308.846,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3019825,,3019825.571,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,723170,,723170.061,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4692,,4692.483,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3068,,3068.451,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41,,41.596,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,884608500,,884608500.995,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34381,,34381.076,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20.29,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14062,,14062.07,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6326824,,6326824.219,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,520352,,520352.346,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113682259,,113682259.824,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6767,,6767.456,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,817497,,817497.449,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16843201,,16843201.503,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58717705,,58717705.821,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103345,,103345.186,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38078,,38078.071,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,213779,,213779.212,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4734100,,4734100.972,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6104,,6104.091,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,123,,123.611,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1826,,1826.891,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175779,,175779.697,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2689424006,,2689424006.223,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27458792,,27458792.64,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2501,,2501.095,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,223705821,,223705821.705,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,237480,,237480.747,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126,,126.08,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,213181192,,213181192.571,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3773,,3773.522,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78981,,78981.194,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2158965,,2158965.817,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1660098199,,1660098199.152,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,491231,,491231.388,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12934850,,12934850.648,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80965,,80965.388,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12883155,,12883155.477,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100554754,,100554754.075,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282981,,282981.627,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37353513,,37353513.939,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11097092,,11097092.846,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,446739,,446739.629,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,434289,,434289.432,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18287,,18287.49,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11630,,11630.846,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1727475,,1727475.2,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14358509951,,14358509951.987,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56725338,,56725338.661,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,155800407,,155800407.488,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4125921,,4125921.576,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287370539,,287370539.958,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2381361084,,2381361084.992,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27231260,,27231260.017,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233065967,,233065967.176,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107239975,,107239975.579,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50800673,,50800673.611,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,123106682,,123106682.254,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28658823,,28658823.375,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7593424,,7593424.305,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28870,,28870.127,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45170626,,45170626.951,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104315067,,104315067.347,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63218573,,63218573.791,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6924641,,6924641.771,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96,,96.024,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2575539,,2575539.09,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75625730,,75625730.393,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2859156,,2859156.418,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,910266139,,910266139.472,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14146,,14146.547,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35753,,35753.065,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,194451377,,194451377.961,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,800769245,,800769245.545,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,329469633,,329469633.004,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,407970072,,407970072.967,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,422186,,422186.648,0
+H4,2017,2017,2017,5,0,0,X,288,Ghana,GHA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,490656645,,490656645.812,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12718141844,12718141844.093,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109479074,109479074.807,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8008814,8008814.729,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,718810376,718810376.727,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,382879,382879.653,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,363511976,363511976.764,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2134176113,2134176113.58,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,794546,794546.66,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81639295,81639295.914,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,928503,928503.182,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,766632,766632,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37058642,37058642.521,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,192901205,192901205.355,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30095,30095.677,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,341512263,341512263.53,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78711665,78711665.108,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67372184,67372184.707,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168589,168589.889,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60985800,60985800.727,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41909714,41909714.448,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,289756205,289756205.42,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102016505,102016505.884,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200585578,200585578.936,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,307171229,307171229.456,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4112236,4112236.798,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18963760,18963760.391,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,316573,316573.546,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,303467257,303467257.716,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5406527,5406527.306,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21212005,21212005.508,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,123836642,123836642.071,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,236995193,236995193.909,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149008992,149008992.517,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16286186,16286186.918,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135108244,135108244.16,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,633288855,633288855.803,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,818146,818146.323,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,291961587,291961587.515,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,410863909,410863909.453,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,754551583,754551583.586,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46441418,46441418.541,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,248086424,248086424.284,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87368621,87368621.882,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,307515376,307515376.378,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63379957,63379957.224,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1099103121,1099103121.562,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1200057698,1200057698.568,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14389407,14389407.438,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19617,19617.571,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10170,10170.003,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8274373,8274373.622,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3607293,3607293.713,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20004956,20004956.585,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1965613,1965613.358,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,397,397.784,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34539381,34539381.529,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102257,102257.71,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,429,429.705,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13464,13464.684,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,911019,911019.924,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282848,282848.151,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68198,68198.832,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16705,16705.81,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7203,7203.311,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,217791044,217791044.483,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1308944,1308944.496,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134879,134879.574,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5064,5064.875,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24261075,24261075.262,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19129,19129.196,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,676,676.199,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,235055,235055.239,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1348070,1348070.059,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,400,400.65,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4406492,4406492.727,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108450,108450.432,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,281406,281406.674,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19174,19174.775,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6335109,6335109.152,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99689,99689.934,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2963150,2963150.144,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2857707,2857707.551,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21455,21455.01,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1701984,1701984.398,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4303528,4303528.411,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1895107,1895107.818,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144712,144712.325,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,131019,131019.021,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14217331,14217331.645,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2072418,2072418.421,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37180,37180.128,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2107,2107.044,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168028,168028.785,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7392284,7392284.119,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,855591,855591.1,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,580146,580146.549,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108,108.09,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10414900,10414900.681,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5044,5044.51,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2209,2209.746,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44880307,44880307.294,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5179196,5179196.263,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38494,38494.433,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1571706,1571706.695,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1696852,1696852.715,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2850261,2850261.706,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,380796,380796.002,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85885,85885.762,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9437984,9437984.109,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4526308,4526308.893,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11657943,11657943.391,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5142,5142.833,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9328,9328.696,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17317514,17317514.136,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8248672,8248672.498,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5782519,5782519.127,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8150393,8150393.978,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2019565,2019565.578,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,597,597.565,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88658,88658.939,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3740846,3740846.004,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,815708,815708.166,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59168355,59168355.483,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9573590,9573590.193,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29463,29463.668,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,368,368.032,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,171464,171464.71,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1818157,1818157.746,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,474956,474956.205,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9178,9178.444,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13766,13766.675,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55712,55712.619,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73604,73604.17,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23304980,23304980.149,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,207247,207247.308,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6809050,6809050.071,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195925,195925.665,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28638042,28638042.725,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,342495,342495.017,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14501242,14501242.616,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6022971,6022971.475,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,520,520.076,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,291743,291743.032,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,719449,719449.01,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5204238,5204238.463,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11838,11838.975,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31696130,31696130.775,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4922727,4922727.532,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11791260,11791260.264,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4637294,4637294.035,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1108032,1108032.044,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14254,14254.346,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17658,17658.5,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81372767,81372767.737,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11371324,11371324.828,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1886672,1886672.066,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,477874,477874.159,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21953582,21953582.149,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63315779,63315779.358,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9729914,9729914.476,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6970,6970.974,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57492,57492.995,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3165543,3165543.719,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,563087,563087.339,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65500777,65500777.28,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128934,128934.715,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38728,38728.964,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18322,18322.023,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14576734,14576734.187,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24838,24838.528,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,325148230,325148230.816,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2930,2930.914,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115775,115775.145,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76785558,76785558.789,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1108958,1108958.741,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,129932,129932.078,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,594874,594874.225,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,818988,818988.828,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5173,5173.328,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106862,106862.09,,0
+H4,2017,2017,2017,5,0,0,M,288,Ghana,GHA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11662572,11662572.252,,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190682,,190682.775,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142,,142.934,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,368494,,368494.496,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7789487,,7789487.422,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,483,,483.793,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,445033,,445033.486,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55652,,55652.345,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1011,,1011.689,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141038,,141038.574,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5594,,5594.64,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,447,,447.02,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1166,,1166.358,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2090,,2090.405,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,150839664,,150839664.914,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,387,,387.669,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2860234,,2860234.859,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109,,109.87,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47082,,47082.603,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5234394,,5234394.73,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,897228,,897228.879,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14125,,14125.466,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,788469,,788469.171,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,795030,,795030.765,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15358,,15358.504,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4999681,,4999681.032,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,623320,,623320.81,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37490,,37490.209,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1060,,1060.211,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3350,,3350.101,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33752349,,33752349.976,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18405,,18405.979,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,539435,,539435.895,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1931,,1931.594,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,154,,154.009,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,358763,,358763.722,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97445,,97445.683,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103078052,,103078052.434,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,664771,,664771.777,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,188567,,188567.032,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1581801,,1581801.801,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53018,,53018.351,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4507037,,4507037.083,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,804617,,804617.757,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11323,,11323.142,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25805764,,25805764.106,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6137870,,6137870.744,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19461,,19461.671,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1578125,,1578125.438,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4906789,,4906789.364,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,672522,,672522.494,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,206,,206.283,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2809,,2809.984,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4781,,4781.101,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72892,,72892.142,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15766,,15766.672,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,735878,,735878.012,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51,,51.794,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1250,,1250.212,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3331,,3331.485,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1109464430,,1109464430.924,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,870,,870.6,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71642318,,71642318.418,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25201,,25201.537,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109977,,109977.045,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2594188,,2594188.205,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22717,,22717.338,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,154478,,154478.74,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99204,,99204.874,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35166,,35166.754,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6662263,,6662263.459,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2154,,2154.008,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1423805,,1423805.66,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8067748,,8067748.239,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41387473,,41387473.637,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23153,,23153.785,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1088993,,1088993.879,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133788,,133788.182,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82950348,,82950348.382,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82332,,82332.668,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9037881,,9037881.594,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10442,,10442.511,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,199,,199.807,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2957488,,2957488.538,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,359,,359.784,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108404,,108404.654,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3670383680,,3670383680.245,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3793,,3793.5,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,197711788,,197711788.571,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1150599,,1150599.079,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,410,,410.721,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135885,,135885.445,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,584463975,,584463975.346,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22948,,22948.856,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,385,,385.422,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38103,,38103.15,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,480633,,480633.876,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5224778,,5224778.052,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12230816,,12230816.954,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76011617,,76011617.25,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50899964,,50899964.383,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10577117,,10577117.156,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,482379,,482379.429,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1376432,,1376432.731,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11163,,11163.317,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38869,,38869.222,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100603,,100603.515,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,347583,,347583.674,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17099588399,,17099588399.661,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2966370,,2966370.281,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162182930,,162182930.657,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7613,,7613.058,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,121215615,,121215615.288,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2032273328,,2032273328.723,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,963150,,963150.025,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30280026,,30280026.656,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,358014892,,358014892.661,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1744748,,1744748.085,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,213500551,,213500551.469,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6432724,,6432724.736,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105698424,,105698424.965,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,652971,,652971.102,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,304242269,,304242269.804,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55640208,,55640208.716,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,166268714,,166268714.545,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103046,,103046.039,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18009867,,18009867.165,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,300547,,300547.55,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106898305,,106898305.564,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15295823,,15295823.768,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56243642,,56243642.586,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,949765,,949765.424,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6361825,,6361825.512,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1228615726,,1228615726.83,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58206592,,58206592.813,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80962279,,80962279.556,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37513182,,37513182.081,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,319569,,319569.867,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,501050,,501050.198,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45100859,,45100859.914,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4659921,,4659921.298,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81496983,,81496983.037,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1742478265,,1742478265.871,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1723303,,1723303.929,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1631724043,,1631724043.871,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139401914,,139401914.083,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15478,,15478.086,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,590729857,,590729857.962,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187582,,187582.013,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,491543992,,491543992.912,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,613839135,,613839135.161,0
+H5,2018,2018,2018,5,0,0,X,288,Ghana,GHA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,272768879,,272768879.217,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11880470763,11880470763.49,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45548437,45548437.127,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95846751,95846751.873,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1064479,1064479.941,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,691150300,691150300.393,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,158039739,158039739.263,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1399575,1399575.701,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1251312,1251312.371,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15541570,15541570.103,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,332963912,332963912.242,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2272599778,2272599778.988,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1237319,1237319.309,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1820672,1820672.803,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10173,10173.227,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5417535,5417535.828,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51120806,51120806.476,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2773576,2773576.82,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67964708,67964708.733,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282552676,282552676.999,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8077252,8077252.438,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,305788145,305788145.693,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77684511,77684511.816,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49846,49846.596,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71328299,71328299.488,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,494264,494264.976,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95338091,95338091.139,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8247926,8247926.425,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63772643,63772643.128,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46484948,46484948.03,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,302044960,302044960.481,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119226045,119226045.055,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,202908937,202908937.522,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6152337,6152337.29,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,302839221,302839221.131,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24818452,24818452.245,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13410155,13410155.909,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,230815574,230815574.309,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4265231,4265231.19,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1770336,1770336.046,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19575467,19575467.487,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1064271,1064271.379,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,259588587,259588587.439,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21682448,21682448.164,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,159383954,159383954.733,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21101651,21101651.702,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32308552,32308552.107,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2826956,2826956.08,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34591980,34591980.845,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38988462,38988462.274,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3377683,3377683.586,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6434081,6434081.209,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177857631,177857631.446,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113494302,113494302.932,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,673817512,673817512.511,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62339677,62339677.245,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,342560900,342560900.75,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,406244043,406244043.544,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,199244491,199244491.055,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104136866,104136866.626,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66933281,66933281.559,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212360201,212360201.483,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60954835,60954835.956,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,303175823,303175823.281,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,332245646,332245646.846,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,604136342,604136342.769,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4502494,4502494.804,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50726432,50726432.592,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,953709977,953709977.207,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110988,110988.15,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13766,13766.859,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12790637,12790637.003,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,396718,396718.783,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27710,27710.818,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,205227,205227.565,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71761432,71761432.021,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16128313,16128313.447,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,295616,295616.765,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,888398,888398.252,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1092,1092.852,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77399,77399.652,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37051,37051.606,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59421,59421.347,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,178502,178502.295,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2045169,2045169.422,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107054,107054.858,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21584,21584.818,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,328,328.989,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,494257,494257.896,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2159311,2159311.545,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12845,12845.068,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136447,136447.279,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4494267,4494267.463,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2362,2362.244,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5950827,5950827.334,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65994,65994.355,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6417,6417.987,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91793,91793.378,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,652836,652836.211,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1286716,1286716.858,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1984269,1984269.437,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,875746,875746.849,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252010,252010.092,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1294442,1294442.229,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4664622,4664622.222,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,239,South Georgia and the South Sandwich Islands,SGS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13803,13803.913,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,865064,865064.25,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14180,14180.761,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35709,35709.851,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,778468,778468.189,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,493505,493505.907,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157809,157809.222,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212950,212950.095,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81680,81680.021,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25032,25032.666,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7452293,7452293.566,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1561058,1561058.016,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14768,14768.04,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2009294,2009294.561,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24905,24905.814,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106289,106289.468,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1219790,1219790.32,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301948,301948.171,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9183158,9183158.861,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7087558,7087558.509,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51222,51222.352,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1267,1267.177,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1344666,1344666.189,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4101548,4101548.852,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5001886,5001886.112,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7549070,7549070.576,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3109018,3109018.542,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,154342,154342.33,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76442052,76442052.901,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10124479,10124479.168,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13464453,13464453.378,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35053,35053.182,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173999,173999.491,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86913511,86913511.088,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1004089,1004089.525,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5457056,5457056.329,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11043,11043.982,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19066,19066.579,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119800,119800.664,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53113,53113.289,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,410318,410318.611,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9252650,9252650.366,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34375,34375.138,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48074,48074.253,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,442815,442815.285,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,865664,865664.156,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4102229,4102229.655,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1209,1209.653,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14543918,14543918.175,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39684,39684.313,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,240021,240021.287,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,397684,397684.232,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,296400,296400.276,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8964216,8964216.561,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19829339,19829339.763,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,756477,756477.734,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10733134,10733134.52,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13366,13366.519,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4439418,4439418.802,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15295,15295.877,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27385,27385.491,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21329,21329.096,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246,246.085,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16627,16627.733,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49383,49383.334,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145231,145231.435,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21540005,21540005.047,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157626,157626.594,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,116162,116162.503,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75019596,75019596.188,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90672784,90672784.297,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5806021,5806021.376,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3833,3833.368,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,876,Wallis and Futuna Isds,WLF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16032,16032.783,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,231747,231747.43,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,161591,161591.858,,0
+H5,2018,2018,2018,5,0,0,M,288,Ghana,GHA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51532199,51532199.128,,0

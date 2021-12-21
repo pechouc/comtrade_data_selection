@@ -1,0 +1,563 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52144,52144,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2455,2455,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11899,11899,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16836,16836,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4858439,4858439,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5444204,5444204,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5363768017,5363768017,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6584896,6584896,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1234416,1234416,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145457,145457,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,869,869,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25333512,25333512,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81470,81470,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23591,23591,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26627774,26627774,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5232924,5232924,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21292,21292,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10895,10895,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63446,63446,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3232693,3232693,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3892058,3892058,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,939312,939312,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2666127,2666127,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48251,48251,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,410173,410173,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,595932,595932,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,382679222,382679222,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1786612,1786612,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26098157,26098157,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7053588,7053588,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33294,33294,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8371557,8371557,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1098183,1098183,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2529030,2529030,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68163479,68163479,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,121687,121687,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104053,104053,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,185947260,185947260,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138751,138751,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2462505,2462505,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5313,5313,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5047713,5047713,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,526542,526542,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8868039,8868039,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2211229,2211229,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6198,6198,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4843172,4843172,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31304424,31304424,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3123190340,3123190340,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76439277,76439277,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76936,76936,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21433231,21433231,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,131525281,131525281,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50180,50180,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37054768,37054768,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,680796,680796,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,306,306,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,426093,426093,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,775636,775636,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,551234,551234,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16437,16437,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,466653,466653,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4705,4705,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5651778,5651778,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4810074,4810074,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,175,175,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9204633,9204633,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2618130,2618130,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,117119,117119,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2984366,2984366,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35185510,35185510,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1395620,1395620,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,736613,736613,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,498274,498274,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6278,6278,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1325213,1325213,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,141234,141234,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,253005,253005,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29989,29989,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1199827,1199827,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46308479,46308479,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,231333,231333,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8395234,8395234,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48713,48713,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9296155,9296155,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5514139,5514139,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7356608,7356608,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,911485,911485,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70167736,70167736,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,107025,107025,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,340,340,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38984666,38984666,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6593533,6593533,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8524662,8524662,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8918552,8918552,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2474688,2474688,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1585988,1585988,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4970,4970,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,195377,195377,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68366368,68366368,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15467179,15467179,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26370924,26370924,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25183041,25183041,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35951387,35951387,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,383594,383594,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,476686635,476686635,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41918,41918,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60225343,60225343,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,205356,205356,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65191151,65191151,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,986206,986206,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30141211,30141211,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56159299,56159299,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,551487,551487,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,390644,390644,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24566,24566,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22896,22896,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4722,4722,,0
+H4,2016,2016,2016,5,0,0,M,275,State of Palestine,PSE,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13621,13621,,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,253744,,253744,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,106317,,106317,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,926498977,,926498977,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1625391,,1625391,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60197,,60197,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,308516,,308516,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41537,,41537,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68800,,68800,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,228196,,228196,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152956,,152956,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,909471,,909471,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22440,,22440,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3875,,3875,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60890,,60890,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5031,,5031,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53386,,53386,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6105,,6105,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75988,,75988,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40540,,40540,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4942,,4942,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1208574,,1208574,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,669122,,669122,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,87067,,87067,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,591080,,591080,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1993,,1993,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1493339,,1493339,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,770811892,,770811892,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,468285,,468285,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51479356,,51479356,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10906470,,10906470,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,154058,,154058,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,681005,,681005,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,126136,,126136,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,94591,,94591,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,172619,,172619,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,441371,,441371,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,55440,,55440,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,981875,,981875,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5189498,,5189498,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,284909,,284909,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28256,,28256,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1667520,,1667520,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,178,,178,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,833142,,833142,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4718,,4718,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1540,,1540,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18336362,,18336362,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83105,,83105,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,71749,,71749,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,496,,496,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2005,,2005,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,143923,,143923,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,309764,,309764,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19500,,19500,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9958611,,9958611,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,407401,,407401,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23268109,,23268109,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3467605,,3467605,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64692,,64692,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6175053,,6175053,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10426040,,10426040,0
+H4,2016,2016,2016,5,0,0,X,275,State of Palestine,PSE,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1302207,,1302207,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5853849921,5853849921.214,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16698,16698.053,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21590,21590.835,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7092,7092.246,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4068915,4068915.673,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6170257,6170257.962,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13068514,13068514.878,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2963493,2963493.543,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,229708,229708.058,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20721230,20721230.367,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23770,23770.714,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17387,17387.198,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24391547,24391547.551,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6106626,6106626.591,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1690,1690.229,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43677,43677.749,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,633481,633481.377,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,405462,405462.916,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31881,31881.51,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3097201,3097201.906,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3998699,3998699.392,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,625406,625406.143,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,428679504,428679504.831,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30545,30545.51,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2302062,2302062.203,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,379709,379709.524,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39365784,39365784.44,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6134175,6134175.148,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1335820,1335820.859,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10494,10494.234,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6915149,6915149.145,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11426,11426.548,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,416,416.632,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6616419,6616419.179,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,453312,453312.957,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1832991,1832991.951,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79369434,79369434.107,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187068,187068.855,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94493,94493.212,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,214644585,214644585.236,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185159,185159.848,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6368563,6368563.527,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1316784,1316784.968,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,170418,170418.298,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10138802,10138802.365,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3752212,3752212.856,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4531194,4531194.444,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28845701,28845701.907,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3234784258,3234784258.873,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107005975,107005975.205,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,137380,137380.774,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21064626,21064626.62,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2613,2613.568,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153207617,153207617.106,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60029,60029.442,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,689794,689794.323,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,857401,857401.387,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79341,79341.166,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,680001,680001.562,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58494140,58494140.604,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4134,4134.655,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2292700,2292700.757,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7675323,7675323.077,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4959775,4959775.735,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,966057,966057.003,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7825472,7825472.149,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38984,38984.807,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2313960,2313960.044,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3618011,3618011.237,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31756,31756.243,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33628843,33628843.44,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,773088,773088.354,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,309983,309983.568,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60890,60890.481,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1525151,1525151.237,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,161054,161054.004,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,208657,208657.812,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19074,19074.482,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,559094,559094.531,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,286001,286001.444,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2193254,2193254.047,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38291099,38291099.464,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7744455,7744455.671,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10082520,10082520.901,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7239695,7239695.348,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15088081,15088081.747,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80678,80678.832,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77265622,77265622.81,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32145,32145.377,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2080429,2080429.284,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,313939,313939.116,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46053604,46053604.696,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9356946,9356946.228,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12022627,12022627.692,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9132445,9132445.101,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4652328,4652328.339,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1880886,1880886.893,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,714374,714374.158,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70498733,70498733.533,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4205,4205.761,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59917259,59917259.26,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30935208,30935208.452,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25317830,25317830.627,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38450554,38450554.29,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,273671,273671.358,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,579208226,579208226.194,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66359809,66359809.237,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,428762,428762.737,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69468557,69468557.944,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29896039,29896039.916,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1048937,1048937.866,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62473742,62473742.418,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,670967,670967.093,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14132,14132.711,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15710,15710.913,,0
+H4,2017,2017,2017,5,0,0,M,275,State of Palestine,PSE,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4671,4671.833,,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1064884138,,1064884138.762,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1516752,,1516752,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126000,,126000,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71150,,71150,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139999,,139999.6,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,521897,,521897.436,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,327157,,327157.728,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119756,,119756,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,227673,,227673.597,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42422,,42422,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196200,,196200,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12160,,12160,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,744870,,744870.8,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9900,,9900,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18618,,18618,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24466,,24466,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11552,,11552,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,299040,,299040,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5042,,5042.088,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2449734,,2449734.681,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1635215,,1635215.907,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128016,,128016,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45594,,45594.332,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14074,,14074.5,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28832,,28832.28,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,481185,,481185.34,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,411131,,411131,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1123,,1123.4,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,878617489,,878617489.21,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1409825,,1409825.878,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14000,,14000,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,258906,,258906.6,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,155798,,155798,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77197416,,77197416.773,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1062914,,1062914.6,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8828776,,8828776.926,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134384,,134384.4,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47890,,47890.8,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6567,,6567,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,872641,,872641.463,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,268535,,268535.442,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14171,,14171,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,329210,,329210.7,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1215293,,1215293.712,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1414706,,1414706.849,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132791,,132791.74,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10305,,10305,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17564,,17564.4,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,272437,,272437.402,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1100687,,1100687.468,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16170,,16170,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7834101,,7834101.624,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20993,,20993.04,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,781116,,781116.331,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15247323,,15247323.398,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9036,,9036,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153273,,153273.912,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9650,,9650.4,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,147943,,147943.68,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,329106,,329106.12,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83520,,83520,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,608782,,608782.007,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,309211,,309211.379,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38250,,38250,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26701357,,26701357.556,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20062,,20062,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7846465,,7846465.36,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,118852,,118852.65,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6334510,,6334510.887,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13870695,,13870695.387,0
+H4,2017,2017,2017,5,0,0,X,275,State of Palestine,PSE,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1411836,,1411836.98,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4167263,4167263.876,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6539589522,6539589522.19,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17777,17777.19,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,346,346.488,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1303,1303.573,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,649,649.004,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26698,26698.979,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8849990,8849990.944,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9925265,9925265.154,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3658961,3658961.508,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,608178,608178.668,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25683159,25683159.663,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27109,27109.613,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105750,105750.32,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33285615,33285615.872,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26295,26295.781,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3721098,3721098.767,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,604,604.753,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17365,17365.301,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,309986,309986.909,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13405,13405.602,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5224475,5224475.381,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4285236,4285236.068,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,466814,466814.864,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,424917766,424917766.322,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4364260,4364260.809,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2942,2942.205,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11265,11265.446,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2206441,2206441.055,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,764050,764050.267,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7490,7490.816,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1195327,1195327.705,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36331831,36331831.37,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12722216,12722216.066,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91377,91377.88,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,295,295.002,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51,51.147,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10133871,10133871.301,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,528281,528281.223,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3781920,3781920.45,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110246102,110246102.36,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102248,102248.414,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51337,51337.526,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,209319744,209319744.729,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,210294,210294.409,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6344300,6344300.056,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2238164,2238164.093,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169750,169750.64,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12056233,12056233.054,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10481619,10481619.445,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11462,11462.763,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8058420,8058420.196,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50141,50141.1,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35613199,35613199.129,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3616258603,3616258603.772,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110307865,110307865.507,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97842,97842.592,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22065971,22065971.674,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,188607989,188607989.644,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175227,175227.636,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55744221,55744221.26,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,708623,708623.269,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,920,920.906,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,694,694.645,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,594760,594760.319,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1223699,1223699.36,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,453923,453923.3,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8731640,8731640.724,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,457926,457926.147,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6174,6174.441,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6174243,6174243.961,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8720609,8720609.652,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,268984,268984.749,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2275172,2275172.317,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3373963,3373963.893,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6993,6993.766,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12,12.802,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47543809,47543809.048,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25189,25189.246,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,347486,347486.472,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1929175,1929175.838,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,694762,694762.524,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87667,87667.358,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,810909,810909.841,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47347,47347.298,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,265986,265986.029,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,325468,325468.496,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2202225,2202225.637,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43354016,43354016.348,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17850525,17850525.707,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9794819,9794819.451,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12260171,12260171.794,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17102326,17102326.11,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11,11.658,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87646598,87646598.967,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2384138,2384138.061,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104944,104944.618,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212,212.766,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66213959,66213959.924,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11231609,11231609.368,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8765184,8765184.805,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14273610,14273610.687,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4157133,4157133.374,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1748008,1748008.321,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1528160,1528160.03,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15027,15027.858,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58140,58140.376,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81909136,81909136.808,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21333285,21333285.434,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55376406,55376406.688,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3084,3084.716,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27106517,27106517.149,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27027,27027.162,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33853884,33853884.746,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,587125,587125.306,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,657812196,657812196.847,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88594334,88594334.738,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203483,203483.026,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93789387,93789387.326,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36148410,36148410.239,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,944398,944398.998,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24753,24753.178,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1739635,1739635.893,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102557,102557.331,,0
+H4,2018,2018,2018,5,0,0,M,275,State of Palestine,PSE,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68573441,68573441.005,,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1155634049,,1155634049.695,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1561716,,1561716.47,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51030,,51030,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110980,,110980,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66400,,66400,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,220875,,220875.2,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,494754,,494754.747,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203384,,203384.29,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36447,,36447,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,147367,,147367.446,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37135,,37135,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,457283,,457283,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7650,,7650,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,870908,,870908.3,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5436,,5436,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,489148,,489148.54,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7212,,7212.195,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31807,,31807,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81106,,81106.316,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43804,,43804.124,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,877910,,877910.933,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17640,,17640,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2089738,,2089738.666,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49280,,49280,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19640,,19640.876,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70423,,70423.426,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29595,,29595.19,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,871599,,871599.6,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1034256,,1034256.55,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17336,,17336.127,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,358405,,358405.8,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1107510,,1107510.67,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,967461911,,967461911.271,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9115303,,9115303.884,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,360652,,360652,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246396,,246396.85,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,333422,,333422.25,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1167853,,1167853.274,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,347160,,347160,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15744,,15744,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,174704,,174704.4,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70191,,70191.51,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,270448,,270448.15,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1526503,,1526503.758,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1187060,,1187060.45,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73952639,,73952639.725,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13100,,13100,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7258815,,7258815.694,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,410348,,410348.17,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83052,,83052.2,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,199142,,199142.944,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200108,,200108,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,237483,,237483.5,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126644,,126644.599,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14531583,,14531583.154,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6465692,,6465692.114,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21008601,,21008601.968,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,443985,,443985.544,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61610,,61610,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1200,,1200,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,464100,,464100,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23004,,23004,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1121634,,1121634.76,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26412852,,26412852.408,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7759614,,7759614.452,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9496,,9496,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,485981,,485981.885,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,511773,,511773.318,0
+H4,2018,2018,2018,5,0,0,X,275,State of Palestine,PSE,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106450,,106450,0

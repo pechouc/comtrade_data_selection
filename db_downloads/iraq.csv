@@ -1,0 +1,14 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3521367,,3521367,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,333530,,333530,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30000,,30000,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43774017809,,43774017809,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43683759592,,43683759592,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,200000,,200000,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7700,,7700,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5237182,,5237182,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83270,,83270,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79290788,,79290788,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14000,,14000,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1414380,,1414380,0
+H2,2016,2016,2016,5,0,0,X,368,Iraq,IRQ,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,126000,,126000,0

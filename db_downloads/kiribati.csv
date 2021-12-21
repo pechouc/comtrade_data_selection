@@ -1,0 +1,63 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,117408350,117408350,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25623595,25623595,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,99277,99277,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,540065,540065,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11239523,11239523,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2713472,2713472,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25562156,25562156,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,150978,150978,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46080,46080,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2150022,2150022,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5076,5076,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1737053,1737053,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8616976,8616976,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1210003,1210003,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,853210,853210,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58683,58683,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1785072,1785072,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6920,6920,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,237873,237873,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5704747,5704747,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9614738,9614738,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,162924,162924,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138889,138889,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,569286,569286,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8885190,8885190,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3980618,3980618,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,154012,154012,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40824,40824,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,261003,261003,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3540635,3540635,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14980,14980,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66784,66784,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1637685,1637685,,0
+H4,2016,2016,2016,5,0,0,M,296,Kiribati,KIR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,1,,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10512926,,10512926,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54034,,54034,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,169828,,169828,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,827,,827,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5381,,5381,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7457,,7457,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24295,,24295,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1562849,,1562849,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28434,,28434,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3485,,3485,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,139003,,139003,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,447327,,447327,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3488251,,3488251,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13790,,13790,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4364,,4364,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29430,,29430,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,237535,,237535,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1513834,,1513834,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41119,,41119,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,376485,,376485,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7,,7,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30817,,30817,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40941,,40941,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43845,,43845,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16003,,16003,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2226586,,2226586,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6998,,6998,0
+H4,2016,2016,2016,5,0,0,X,296,Kiribati,KIR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,,1,0

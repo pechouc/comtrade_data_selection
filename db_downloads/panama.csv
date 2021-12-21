@@ -1,0 +1,445 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11194931374,,11194931374,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1278123,,1278123,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,252680,,252680,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7188854,,7188854,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9881,,9881,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43964176,,43964176,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6400963,,6400963,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31710,,31710,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34189522,,34189522,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1701,,1701,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3996,,3996,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46487411,,46487411,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5415952,,5415952,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8512058,,8512058,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44619749,,44619749,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64972652,,64972652,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38607074,,38607074,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2000,,2000,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7964,,7964,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3828,,3828,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10993165,,10993165,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27030,,27030,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130852,,130852,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,253703470,,253703470,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36987518,,36987518,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1063778400,,1063778400,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,752971343,,752971343,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,264841276,,264841276,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4910,,4910,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24168,,24168,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,468212,,468212,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13152632,,13152632,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1858581,,1858581,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,541661880,,541661880,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,327578943,,327578943,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,342976791,,342976791,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,422340,,422340,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5850,,5850,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91427,,91427,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,86986,,86986,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13915151,,13915151,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35423,,35423,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60267,,60267,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12750,,12750,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19162799,,19162799,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33595,,33595,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2511449,,2511449,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5189687,,5189687,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,479104901,,479104901,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45341471,,45341471,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,59475104,,59475104,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,392981146,,392981146,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6075065,,6075065,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2149311,,2149311,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3000,,3000,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,717686,,717686,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17405584,,17405584,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,365385,,365385,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5086375,,5086375,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89007760,,89007760,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2883620,,2883620,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1825,,1825,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53205554,,53205554,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,133286216,,133286216,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28341,,28341,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,950,,950,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,262914,,262914,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,115121,,115121,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12603,,12603,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2376,,2376,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14400,,14400,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3069826,,3069826,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,473,"LAIA, nes",A79,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12538053,,12538053,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3276,,3276,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,269753,,269753,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,120939645,,120939645,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,137046,,137046,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27975817,,27975817,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,270284442,,270284442,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66696787,,66696787,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51899288,,51899288,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1261672,,1261672,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,583489,,583489,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,362039965,,362039965,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145452,,145452,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1760431,,1760431,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,115769,,115769,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60590825,,60590825,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,288525126,,288525126,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,167951,,167951,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1425929,,1425929,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9326403,,9326403,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1864,,1864,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,95927,,95927,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,987952,,987952,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,935,,935,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2781955,,2781955,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9372491,,9372491,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4719243,,4719243,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,271003,,271003,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1000,,1000,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65439,,65439,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24332490,,24332490,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9407352,,9407352,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23790240,,23790240,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,185159,,185159,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,946824,,946824,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24713177,,24713177,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26678265,,26678265,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,309675,,309675,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20312091,,20312091,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20078709,,20078709,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,187963331,,187963331,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14861625,,14861625,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6213489,,6213489,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25490,,25490,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,95920,,95920,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14371701,,14371701,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,133549771,,133549771,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,838,Free Zones,X2 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,175944489,,175944489,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2307907929,,2307907929,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68504709,,68504709,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,602271296,,602271296,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,916864,,916864,0
+H4,2016,2016,2016,5,0,0,X,591,Panama,PAN,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,991332127,,991332127,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9238038728,9238038728,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44585808,44585808,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4797039,4797039,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5820881,5820881,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7661,7661,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17175057,17175057,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1092561,1092561,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,224220262,224220262,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2164,2164,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,136791978,136791978,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1419124,1419124,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,429313,429313,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18117625,18117625,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15361017,15361017,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,184027,184027,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7600152,7600152,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23978421,23978421,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2894238038,2894238038,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,98756226,98756226,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23059118,23059118,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18689478,18689478,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,998233,998233,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58724,58724,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39379,39379,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18038426,18038426,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12118790,12118790,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6205,6205,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3726759,3726759,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18431356,18431356,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,210241533,210241533,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,147489628,147489628,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1214360,1214360,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30754788,30754788,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,261838,261838,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2441837,2441837,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,290854738,290854738,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65921,65921,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,86085531,86085531,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2068068,2068068,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9083207,9083207,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,139087304,139087304,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,125056171,125056171,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6460196,6460196,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4951,4951,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91920472,91920472,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,686360,686360,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,989178,989178,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10927837,10927837,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,313534,313534,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,57174733,57174733,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,128100,128100,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,473,"LAIA, nes",A79,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1374,1374,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3050137,3050137,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,481362579,481362579,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,89210230,89210230,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7685,7685,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1117,1117,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19443,19443,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76751876,76751876,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10899382,10899382,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1263266,1263266,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,112628,112628,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8715784,8715784,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2669271,2669271,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,779,779,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1553200,1553200,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20050528,20050528,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11246255,11246255,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8762724,8762724,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3118902,3118902,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16961,16961,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1011967,1011967,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,97553,97553,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2553,2553,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,120506,120506,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,80663371,80663371,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1748889077,1748889077,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,201883,201883,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,314241651,314241651,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3543581,3543581,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7307946,7307946,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,541218,541218,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9433934,9433934,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,107487831,107487831,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,109810981,109810981,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,88629194,88629194,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1313207,1313207,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10874326,10874326,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52183,52183,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27167810,27167810,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42107,42107,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4341040,4341040,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145630565,145630565,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145873,145873,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,838,Free Zones,X2 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33695444,33695444,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,880418203,880418203,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56041784,56041784,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21449736,21449736,,0
+H4,2016,2016,2016,5,0,0,M,591,Panama,PAN,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63014976,63014976,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,412049228,412049228,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,289639,289639,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,262305714,262305714,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,97135,97135,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,838,Free Zones,X2 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2806703453,2806703453,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67016517,67016517,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,425952,425952,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,573757,573757,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12958482,12958482,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5368963,5368963,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,259615056,259615056,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,151037808,151037808,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13345245,13345245,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1388470,1388470,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9712,9712,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,197993916,197993916,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,143974587,143974587,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,391319,391319,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5509177,5509177,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100679821,100679821,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39239244,39239244,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,589991,589991,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1831840,1831840,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,213109437,213109437,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1221313,1221313,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34091393,34091393,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20097363,20097363,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,942340360,942340360,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7034451,7034451,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140127091,140127091,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,143283,143283,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,426432545,426432545,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,291357,291357,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2216390,2216390,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38848336,38848336,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1104583,1104583,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21919848,21919848,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,432626411,432626411,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28696288,28696288,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13567244,13567244,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,750189,750189,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1489666,1489666,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,159896218,159896218,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12912048,12912048,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1044,1044,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23583,23583,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,376244437,376244437,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30602960,30602960,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,316006726,316006726,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,186016,186016,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16005137,16005137,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48088126,48088126,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2308805,2308805,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,414226544,414226544,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1878076,1878076,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3255,3255,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136048527,136048527,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,554,554,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15079573,15079573,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3823609,3823609,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4938033,4938033,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15209437,15209437,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,131273711,131273711,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55028703,55028703,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1374537,1374537,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,316292,316292,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30622642,30622642,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83064954,83064954,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,714102,714102,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8136259,8136259,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34330997,34330997,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,296661513,296661513,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23715,23715,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1163190,1163190,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,256324,256324,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29801392,29801392,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2933823,2933823,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21809,21809,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,494952185,494952185,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,150587691,150587691,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12624057,12624057,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,196381148,196381148,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1793686,1793686,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6981302,6981302,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4845,4845,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11172237,11172237,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,978460,978460,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57000,57000,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16652376,16652376,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140506568,140506568,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44498,44498,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9745712,9745712,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,382535,382535,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77511454,77511454,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9692341,9692341,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11637,11637,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,376752823,376752823,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125049108,125049108,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,188516,188516,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14658704,14658704,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,174,174,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,102197574,102197574,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67154358,67154358,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64761346,64761346,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23154,23154,,0
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4063241040,4063241040,,4
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,439184077,439184077,,4
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21934113569,21934113569,,4
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1521078317,1521078317,,4
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,78389930,78389930,,4
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,561831410,561831410,,4
+H5,2017,2017,2017,5,0,0,M,591,Panama,PAN,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4350814061,4350814061,,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1092091603,,1092091603,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10600819757,,10600819757,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,838,Free Zones,X2 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,204323699,,204323699,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,317833770,,317833770,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,337916315,,337916315,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,523920034,,523920034,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,269058386,,269058386,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,479424173,,479424173,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,132044376,,132044376,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34794857,,34794857,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,354463892,,354463892,4
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6801283,,6801283,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3129,,3129,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18558922,,18558922,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41782,,41782,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1870,,1870,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47340203,,47340203,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,326648,,326648,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,946082350,,946082350,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,650,,650,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,422602522,,422602522,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8649,,8649,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71020777,,71020777,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10243352,,10243352,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10118963,,10118963,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,324759,,324759,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,579978,,579978,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,409635,,409635,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99023226,,99023226,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46440438,,46440438,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,439946,,439946,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5797796,,5797796,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,183341,,183341,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6020583,,6020583,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19168958,,19168958,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10418219,,10418219,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,337987,,337987,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2127787,,2127787,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8316,,8316,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49864809,,49864809,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,264365,,264365,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38900644,,38900644,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,190097586,,190097586,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8302,,8302,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46024699,,46024699,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,103384,,103384,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,143433,,143433,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3424114,,3424114,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10735362,,10735362,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,962533,,962533,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,173300,,173300,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83637897,,83637897,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120224382,,120224382,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1037003,,1037003,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,385242480,,385242480,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48631217,,48631217,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,935865,,935865,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4662,,4662,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8531671,,8531671,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6439170,,6439170,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,471216505,,471216505,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6700,,6700,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,887114,,887114,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86133,,86133,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,663145,,663145,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1989282,,1989282,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3432,,3432,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1837896,,1837896,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,56389,,56389,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,115933,,115933,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,714390418,,714390418,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3104396,,3104396,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11041298,,11041298,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55109177,,55109177,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,485096,,485096,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19091,,19091,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1764191,,1764191,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75244,,75244,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2914,,2914,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,101038,,101038,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77856,,77856,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2145853035,,2145853035,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,314248304,,314248304,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37502769,,37502769,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11297817,,11297817,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,85588,,85588,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4363,,4363,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,89185,,89185,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1937194,,1937194,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,202374,,202374,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12544921,,12544921,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5173405,,5173405,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1554498,,1554498,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,986118,,986118,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,471,,471,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10635080,,10635080,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31689,,31689,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88538,,88538,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,358534,,358534,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44673095,,44673095,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,519025,,519025,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54631802,,54631802,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,162316406,,162316406,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1257806,,1257806,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65589445,,65589445,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,463647,,463647,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39949,,39949,0
+H5,2017,2017,2017,5,0,0,X,591,Panama,PAN,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11399,,11399,0

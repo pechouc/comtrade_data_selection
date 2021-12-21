@@ -1,0 +1,1036 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1000,,1000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,86000,,86000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5460000,,5460000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1133000,,1133000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13912000,,13912000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,129000,,129000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,259879000,,259879000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,107865000,,107865000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67481000,,67481000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1074000,,1074000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,752000,,752000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2805000,,2805000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1042000,,1042000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,243000,,243000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,571000,,571000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1595000,,1595000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51372000,,51372000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2777000,,2777000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,747230000,,747230000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20355000,,20355000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26000,,26000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1374000,,1374000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38666000,,38666000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23917000,,23917000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39000,,39000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,454000,,454000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16460000,,16460000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8710000,,8710000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,615000,,615000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,276000,,276000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1232000,,1232000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,78132000,,78132000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2099000,,2099000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,137255000,,137255000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,88892000,,88892000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5692000,,5692000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,220000,,220000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36960000,,36960000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15375000,,15375000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25877000,,25877000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,311097000,,311097000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130753000,,130753000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4347000,,4347000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76700000,,76700000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1090000,,1090000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25808000,,25808000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9549000,,9549000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20069000,,20069000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19354000,,19354000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8052000,,8052000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9578000,,9578000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,594000,,594000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2513000,,2513000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,85632000,,85632000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16006000,,16006000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,87000,,87000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5177000,,5177000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19667000,,19667000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91000,,91000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49411000,,49411000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22548000,,22548000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,30000,,30000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,185000,,185000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,348561000,,348561000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,836000,,836000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,632000,,632000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29534000,,29534000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,376000,,376000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35342000,,35342000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,120725000,,120725000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,120837000,,120837000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2401000,,2401000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83441000,,83441000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10766000,,10766000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4475000,,4475000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46434000,,46434000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48933000,,48933000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51867000,,51867000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1791000,,1791000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,502000,,502000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56000,,56000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25370000,,25370000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32028000,,32028000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2384000,,2384000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19362000,,19362000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,623000,,623000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3415000,,3415000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,192000,,192000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,583175000,,583175000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13724000,,13724000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,387000,,387000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5884000,,5884000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138397000,,138397000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,473,"LAIA, nes",A79,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1236000,,1236000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,380541000,,380541000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,729984000,,729984000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,527000,,527000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11134000,,11134000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2398000,,2398000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39621000,,39621000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1524000,,1524000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5004000,,5004000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4207000,,4207000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,420000,,420000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,187000,,187000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,248000,,248000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52747000,,52747000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5523000,,5523000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,257000,,257000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81784000,,81784000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,568,"Other Europe, nes",E19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7565000,,7565000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,577,"Other Africa, nes",F19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2444000,,2444000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,55493000,,55493000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,451000,,451000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14274000,,14274000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4962000,,4962000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1564000,,1564000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,74405000,,74405000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,110347000,,110347000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,229034000,,229034000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,107023000,,107023000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,330000,,330000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,637,"North America and Central America, nes",A59,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29000,,29000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116781000,,116781000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,620531000,,620531000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13015000,,13015000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34000,,34000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26000,,26000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,157000,,157000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,782000,,782000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68000,,68000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38359000,,38359000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6965000,,6965000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,811000,,811000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,97000,,97000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15733000,,15733000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1199908000,,1199908000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,251850000,,251850000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,267337000,,267337000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2643000,,2643000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,187000,,187000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1204000,,1204000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145325000,,145325000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1466214000,,1466214000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,181000,,181000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,409392000,,409392000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,87195000,,87195000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50000,,50000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2914000,,2914000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,261000,,261000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2045000,,2045000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,248000,,248000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4564000,,4564000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,160770000,,160770000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11988000,,11988000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79148000,,79148000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10645000,,10645000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17210000,,17210000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,861000,,861000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13283000,,13283000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2754000,,2754000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3287000,,3287000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4036145000,,4036145000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,580064000,,580064000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4435563000,,4435563000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,449969000,,449969000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1297619000,,1297619000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,594581000,,594581000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2507322000,,2507322000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,896090000,,896090000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,759033000,,759033000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,510447000,,510447000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2399407000,,2399407000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,958172000,,958172000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3327625000,,3327625000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1454002000,,1454002000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2139523000,,2139523000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3908937000,,3908937000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1519514000,,1519514000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19000,,19000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23000,,23000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20000,,20000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18000,,18000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15000,,15000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17597523000,,17597523000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11000,,11000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11000,,11000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13000,,13000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60570596000,,60570596000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,334,Heard Island and McDonald Islands,HMD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7000,,7000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6000,,6000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3000,,3000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3000,,3000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2000,,2000,0
+H4,2016,2016,2016,5,0,0,X,376,Israel,ISR,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2000,,2000,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1000,1000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1000,1000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1000,1000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1000,1000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1000,1000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33000,33000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6259000,6259000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,179000,179000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24000,24000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24000,24000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,139382000,139382000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1315000,1315000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45000000,45000000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2446000,2446000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22000,22000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2729000,2729000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3457000,3457000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1348000,1348000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,723000,723000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4656000,4656000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1280000,1280000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,755000,755000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10631000,10631000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,174000,174000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48000,48000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81689000,81689000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,85851000,85851000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15214000,15214000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,176000,176000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4092000,4092000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18424000,18424000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1492000,1492000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25000,25000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4947000,4947000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6360000,6360000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39000,39000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52385000,52385000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16959000,16959000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,57000,57000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67000,67000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,318000,318000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6224000,6224000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,112000,112000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,901000,901000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76000,76000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2574000,2574000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5044000,5044000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23000,23000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,143000,143000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2497000,2497000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43116000,43116000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,302000,302000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,206000,206000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2066000,2066000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7466000,7466000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,308008000,308008000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35000,35000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42005000,42005000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38550000,38550000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152547000,152547000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18650000,18650000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,598000,598000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13962000,13962000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31000,31000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23708000,23708000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,143000,143000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1749000,1749000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3118000,3118000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,546000,546000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,737000,737000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,325000,325000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16532000,16532000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19000,19000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1032000,1032000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12272000,12272000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,217000,217000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3288000,3288000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,177181000,177181000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1815000,1815000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47518000,47518000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,160000,160000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104108000,104108000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6325000,6325000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,74557000,74557000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,433000,433000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13000,13000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32000,32000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14375000,14375000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5645000,5645000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4893000,4893000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,153056000,153056000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,389000,389000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,161000,161000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29000,29000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51000,51000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1226000,1226000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38000,38000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2195000,2195000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3658000,3658000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,57166000,57166000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7495000,7495000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,165059000,165059000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,400000,400000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9886000,9886000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,856000,856000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,154000,154000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3115325000,3115325000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,107780000,107780000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,442365000,442365000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,168806000,168806000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,253533000,253533000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,90886000,90886000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,695063000,695063000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75142000,75142000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,230355000,230355000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,938792000,938792000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,319305000,319305000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152920000,152920000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,184921000,184921000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,267341000,267341000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,260085000,260085000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,372597000,372597000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,621054000,621054000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2066529000,2066529000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,381043000,381043000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,612345000,612345000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1519159000,1519159000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,495331000,495331000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,251337000,251337000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,408549000,408549000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,283167000,283167000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1313200000,1313200000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,819917000,819917000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2354222000,2354222000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15000,15000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2601458000,2601458000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1768896000,1768896000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3913975000,3913975000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1577378000,1577378000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1977437000,1977437000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4288102000,4288102000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2700747000,2700747000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1690584000,1690584000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12000,12000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11000,11000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11000,11000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11000,11000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3669790000,3669790000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2693661000,2693661000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10000,10000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5896145000,5896145000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4069373000,4069373000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8097674000,8097674000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7000,7000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7000,7000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8000,8000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65802693000,65802693000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6000,6000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6000,6000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6000,6000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4000,4000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3000,3000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2000,2000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2000,2000,,0
+H4,2016,2016,2016,5,0,0,M,376,Israel,ISR,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2000,2000,,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,,1000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,,1000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,,1000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2000,,2000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61150141000,,61150141000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,378000,,378000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6197000,,6197000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7000,,7000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98000,,98000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24962000,,24962000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133000,,133000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,199723000,,199723000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140073000,,140073000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,555637000,,555637000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63123000,,63123000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,218000,,218000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,285000,,285000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4274000,,4274000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1256000,,1256000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2704760000,,2704760000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,306000,,306000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,903000,,903000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2818000,,2818000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45212000,,45212000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2403000,,2403000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,905414000,,905414000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,280000,,280000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70000,,70000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173000,,173000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58000,,58000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51816000,,51816000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58397000,,58397000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17000,,17000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24869000,,24869000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,814000,,814000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5772000,,5772000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,663410000,,663410000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7910000,,7910000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153000,,153000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145000,,145000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61175000,,61175000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157000,,157000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125296000,,125296000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3309936000,,3309936000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16000,,16000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83424000,,83424000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2050000,,2050000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64000,,64000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45333000,,45333000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17762000,,17762000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9304000,,9304000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,404453000,,404453000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,143742000,,143742000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3850000,,3850000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102453000,,102453000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,598000,,598000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26249000,,26249000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24905000,,24905000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7317000,,7317000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6481000,,6481000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24168000,,24168000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9230000,,9230000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27000,,27000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2146000,,2146000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65500000,,65500000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1775905000,,1775905000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84000,,84000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24671000,,24671000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,615000,,615000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30470000,,30470000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60000,,60000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1637954000,,1637954000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38521000,,38521000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35880000,,35880000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60000,,60000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,601445000,,601445000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10000,,10000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,341000,,341000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26572000,,26572000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,378000,,378000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,691000,,691000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1713000,,1713000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19108000,,19108000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4216942000,,4216942000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3518000,,3518000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,129618000,,129618000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83533000,,83533000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68257000,,68257000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,935174000,,935174000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9642000,,9642000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4835000,,4835000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,820689000,,820689000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31221000,,31221000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57659000,,57659000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72113000,,72113000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,886164000,,886164000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,980000,,980000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74000,,74000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20000,,20000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29876000,,29876000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2571000,,2571000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39404000,,39404000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,799000,,799000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,397000,,397000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17336000,,17336000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,255000,,255000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6665000,,6665000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,381000,,381000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5761000,,5761000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177774000,,177774000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8000,,8000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5394000,,5394000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,365588000,,365588000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,699236000,,699236000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,528000,,528000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7073000,,7073000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,310000,,310000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21949000,,21949000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2313000,,2313000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4585000,,4585000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6373000,,6373000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2303768000,,2303768000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,123000,,123000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37000,,37000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,229000,,229000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52000,,52000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79014000,,79014000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7144000,,7144000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,585000,,585000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,148677000,,148677000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52637000,,52637000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9000,,9000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34000,,34000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134000,,134000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11487000,,11487000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4696000,,4696000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7774000,,7774000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75392000,,75392000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,143054000,,143054000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246843000,,246843000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74000,,74000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107857000,,107857000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128238000,,128238000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8550000,,8550000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,174000,,174000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58000,,58000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26000,,26000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,247000,,247000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35000,,35000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,777972000,,777972000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11906000,,11906000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32997000,,32997000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,158000,,158000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,385000,,385000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1934298000,,1934298000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,482041000,,482041000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17975000,,17975000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104743000,,104743000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9000,,9000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,374040000,,374040000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287095000,,287095000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1823000,,1823000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35000,,35000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,831005000,,831005000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1492000,,1492000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160086000,,160086000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1456164000,,1456164000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,517000,,517000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,365459000,,365459000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22977000,,22977000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2139000,,2139000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8000,,8000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1428102000,,1428102000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4483000,,4483000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,92000,,92000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7784000,,7784000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,129899000,,129899000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4629000,,4629000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85602000,,85602000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13578000,,13578000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5168083000,,5168083000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17051770000,,17051770000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2268000,,2268000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18595000,,18595000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17108000,,17108000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3385000,,3385000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15000,,15000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4267000,,4267000,0
+H5,2017,2017,2017,5,0,0,X,376,Israel,ISR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4161011000,,4161011000,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,1000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,1000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2000,2000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2000,2000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,502000,502000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9000,9000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,293000,293000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4000,4000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107000,107000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,214000,214000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63000,63000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,529000,529000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4382000,4382000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,987000,987000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,186000,186000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40000,40000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69115976000,69115976000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135514000,135514000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,148311000,148311000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39241000,39241000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,532664000,532664000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1916000,1916000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2079000,2079000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52000,52000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39000,39000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4098719000,4098719000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2326000,2326000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2076000,2076000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,215182000,215182000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1230000,1230000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,86,Br. Indian Ocean Terr.,IOT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13000,13000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4416000,4416000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11000,11000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97667000,97667000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4712000,4712000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1557000,1557000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,121000,121000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2940000,2940000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11000,11000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,299331000,299331000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107104000,107104000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68886000,68886000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9000,9000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6527398000,6527398000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9000,9000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14581000,14581000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6000,6000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4784000,4784000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26802000,26802000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3413000,3413000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,368162000,368162000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,572932000,572932000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282425000,282425000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56000,56000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9000,9000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,188000,188000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6378000,6378000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4653000,4653000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57033000,57033000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19674000,19674000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40000,40000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,260495000,260495000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1755717000,1755717000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,114000,114000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,194000,194000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7168000,7168000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4721171000,4721171000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1906000,1906000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,295000,295000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3237000,3237000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,322657000,322657000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4000,4000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11000,11000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,537000,537000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,340000,340000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1912430000,1912430000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,272132000,272132000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12937000,12937000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48184000,48184000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,868524000,868524000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2777895000,2777895000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,385000,385000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,409000,409000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2081544000,2081544000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6019000,6019000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282161000,282161000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5870000,5870000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1138812000,1138812000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16000,16000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16000,16000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50786000,50786000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7000,7000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44647000,44647000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,178743000,178743000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22357000,22357000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252000,252000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14489000,14489000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9000,9000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10000,10000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34641000,34641000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,174000,174000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2198000,2198000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,194346000,194346000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88000,88000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,878331000,878331000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,226000,226000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2152000,2152000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1806000,1806000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,317000,317000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37000,37000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15508000,15508000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2924207000,2924207000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1236000,1236000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13544000,13544000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196000,196000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3439000,3439000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,205895000,205895000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79378000,79378000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,556000,556000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2385000,2385000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23035000,23035000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108000,108000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6718000,6718000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89430000,89430000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,435390000,435390000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,211055000,211055000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,213923000,213923000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1232168000,1232168000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55000,55000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,350000,350000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66000,66000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84000,84000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4250000,4250000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18518000,18518000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5640000,5640000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1853884000,1853884000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1534137000,1534137000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,245614000,245614000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,598801000,598801000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,322957000,322957000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73250000,73250000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90000,90000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1717406000,1717406000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119000,119000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100000,100000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,806479000,806479000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5503817000,5503817000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,623881000,623881000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4000,4000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106000,106000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,387000,387000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2895949000,2895949000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6478000,6478000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,114427000,114427000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4706000,4706000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65295000,65295000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4306655000,4306655000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9854000,9854000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2370000,2370000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8381000,8381000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,725000,725000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8087035000,8087035000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5000,5000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,164304000,164304000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75000,75000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3112760000,3112760000,,0
+H5,2017,2017,2017,5,0,0,M,376,Israel,ISR,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3000,3000,,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,,1000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,,1000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139000,,139000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16497000,,16497000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61906412000,,61906412000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,185022000,,185022000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156002000,,156002000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,528413000,,528413000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78864000,,78864000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120000,,120000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8352000,,8352000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,480000,,480000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2176979000,,2176979000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3091000,,3091000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1749000,,1749000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4952000,,4952000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1155203000,,1155203000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40919000,,40919000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4381000,,4381000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24842000,,24842000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48000,,48000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7727000,,7727000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,777557000,,777557000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56495000,,56495000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108166000,,108166000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4794376000,,4794376000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80771000,,80771000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1922000,,1922000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267000,,267000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40182000,,40182000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22918000,,22918000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153000,,153000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,762171000,,762171000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,184187000,,184187000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96337000,,96337000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26509000,,26509000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27696000,,27696000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5421000,,5421000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25000,,25000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14641000,,14641000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21622000,,21622000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2562000,,2562000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57105000,,57105000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1581798000,,1581798000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,194000,,194000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,571000,,571000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19068000,,19068000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1786021000,,1786021000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33545000,,33545000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22553000,,22553000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23920000,,23920000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,762000,,762000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,639576000,,639576000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20238000,,20238000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4189997000,,4189997000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,138599000,,138599000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4282000,,4282000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34788000,,34788000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106292000,,106292000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,969975000,,969975000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3677000,,3677000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8332000,,8332000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1136367000,,1136367000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44038000,,44038000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71536000,,71536000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53919000,,53919000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,972387000,,972387000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12000,,12000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10000,,10000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33270000,,33270000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16411000,,16411000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27000,,27000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38519000,,38519000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,270000,,270000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5260000,,5260000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5000,,5000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1377000,,1377000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3235000,,3235000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142320000,,142320000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,365236000,,365236000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,547163000,,547163000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9600000,,9600000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4895000,,4895000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24000,,24000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6000,,6000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3213000,,3213000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2095000,,2095000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2272169000,,2272169000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124000,,124000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64714000,,64714000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3631000,,3631000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15000,,15000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,241437000,,241437000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54593000,,54593000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17291000,,17291000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1745000,,1745000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8813000,,8813000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79398000,,79398000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,161192000,,161192000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,266747000,,266747000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7000,,7000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26000,,26000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157463000,,157463000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140164000,,140164000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,675188000,,675188000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2550000,,2550000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9612000,,9612000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,370000,,370000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26000,,26000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2146323000,,2146323000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,529657000,,529657000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23876000,,23876000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136241000,,136241000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,413484000,,413484000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,214904000,,214904000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2011000,,2011000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,877360000,,877360000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173369000,,173369000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1358256000,,1358256000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,381286000,,381286000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26000,,26000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64000,,64000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3699000,,3699000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1916512000,,1916512000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1186000,,1186000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6702000,,6702000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,166781000,,166781000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4111000,,4111000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,112184000,,112184000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10945000,,10945000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4409682000,,4409682000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3465757000,,3465757000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16781286000,,16781286000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14121000,,14121000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29247000,,29247000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8220000,,8220000,0
+H5,2018,2018,2018,5,0,0,X,376,Israel,ISR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51599000,,51599000,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,1000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,1000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,1000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1000,1000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2000,2000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2000,2000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2000,2000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3000,3000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3000,3000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76584110000,76584110000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70000,70000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2448000,2448000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2567000,2567000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10000,10000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,297000,297000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,237686000,237686000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3290000,3290000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,327569000,327569000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,183053000,183053000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,411605000,411605000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134317000,134317000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5727000,5727000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,725000,725000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5228000,5228000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4973000,4973000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,318000,318000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3109412000,3109412000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13000,13000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,380733000,380733000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,906000,906000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39000,39000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110623000,110623000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8493000,8493000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168000,168000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107421000,107421000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51034000,51034000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,268000,268000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,341832000,341832000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,112000,112000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76000,76000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97674000,97674000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73000,73000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168985000,168985000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10465960000,10465960000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83000,83000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,325000,325000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301000,301000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32768000,32768000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10453000,10453000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43257000,43257000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2408000,2408000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,137289000,137289000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,950454000,950454000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,331000,331000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,224119000,224119000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9303000,9303000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11859000,11859000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1220000,1220000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2368000,2368000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82973000,82973000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38000,38000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19100000,19100000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30000,30000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,275108000,275108000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1671832000,1671832000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10000,10000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1017000,1017000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10025000,10025000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,306000,306000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,239000,239000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4668080000,4668080000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4556000,4556000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68000,68000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,412856000,412856000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6000,6000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8188000,8188000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151000,151000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17000,17000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,122000,122000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2360000,2360000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1338233000,1338233000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2850000,2850000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,461425000,461425000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177367000,177367000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,628584000,628584000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,586000,586000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15779000,15779000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3015771000,3015771000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2729542000,2729542000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36356000,36356000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10418000,10418000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79620000,79620000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,289000,289000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1552588000,1552588000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,742000,742000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43000,43000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46459000,46459000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62000,62000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69763000,69763000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1637000,1637000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,870000,870000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1327000,1327000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27539000,27539000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44000,44000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,303764000,303764000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,332000,332000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20151000,20151000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,192000,192000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3316000,3316000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,428717000,428717000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1028205000,1028205000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77000,77000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7162000,7162000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29000,29000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15000,15000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1045000,1045000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,800000,800000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69000,69000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216000,216000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64248000,64248000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1457827000,1457827000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45000,45000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20964000,20964000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1051000,1051000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119000,119000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5049000,5049000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95000,95000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1839000,1839000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20846000,20846000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107000,107000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200267000,200267000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212000,212000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104790000,104790000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11786000,11786000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99845000,99845000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,728661000,728661000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,289551000,289551000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,393572000,393572000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4672413000,4672413000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187000,187000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267000,267000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88000,88000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6089000,6089000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31684000,31684000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,310000,310000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244000,244000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1955800000,1955800000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,699570000,699570000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,335586000,335586000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,946326000,946326000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,220640000,220640000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20000,20000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93156000,93156000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1127000,1127000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1567781000,1567781000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58000,58000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105000,105000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,442000,442000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,405966000,405966000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1825205000,1825205000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182000,182000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31000,31000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,815727000,815727000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17160000,17160000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6212376000,6212376000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142000,142000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,155000,155000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14797000,14797000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,671572000,671572000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6206000,6206000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,553937000,553937000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2136327000,2136327000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10131000,10131000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2838034000,2838034000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9582000,9582000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10249855000,10249855000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134000,134000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4424000,4424000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,552000,552000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110000,110000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139409000,139409000,,0
+H5,2018,2018,2018,5,0,0,M,376,Israel,ISR,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4000,4000,,0

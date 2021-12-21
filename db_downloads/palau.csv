@@ -1,0 +1,584 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,153508450,153508450,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3481,3481,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,199863,199863,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40,40,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,455,455,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14375,14375,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,216932,216932,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10861,10861,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47,47,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,412,412,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,429,429,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,203,203,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2500,2500,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2556,2556,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1717608,1717608,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,214,214,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,537372,537372,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,185,185,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,161049,161049,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37418,37418,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,135476,135476,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50,50,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10,10,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61199,61199,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20155,20155,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7994217,7994217,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36776,36776,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,560,560,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26161,26161,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3640,3640,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,45637,45637,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,384,384,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,385,385,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2133,2133,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,233336,233336,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1500,1500,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7310972,7310972,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,1,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52,52,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2593,2593,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2971463,2971463,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,155,155,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39745,39745,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,630739,630739,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5550,5550,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,153341,153341,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66643,66643,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27055,27055,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13074,13074,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19964673,19964673,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28867,28867,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,172629,172629,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28410,28410,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20,20,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,80,80,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11107944,11107944,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1995,1995,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6,6,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3951,3951,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68161,68161,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7674065,7674065,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2294,2294,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,68207,68207,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26,26,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10,10,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3029,3029,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3064,3064,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41,41,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,743995,743995,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4529,4529,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,592,592,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33088,33088,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,202381,202381,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46073,46073,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17528,17528,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,352,352,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1174,1174,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,108,108,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7630,7630,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,189,189,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,395,395,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27824,27824,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,468,468,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,206,206,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4663,4663,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,244,244,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73,73,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46102,46102,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6718379,6718379,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17465526,17465526,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17118,17118,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,182995,182995,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10157,10157,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15281,15281,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5293,5293,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,114,114,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,355828,355828,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,767598,767598,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,545,545,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10,10,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34626,34626,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5339,5339,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24537,24537,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,486202,486202,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64445290,64445290,,0
+H4,2016,2016,2016,5,0,0,M,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19527,19527,,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6539681,,6539681,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,90100,,90100,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7660,,7660,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27615,,27615,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,253629,,253629,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,112512,,112512,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2784,,2784,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,123963,,123963,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92572,,92572,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47518,,47518,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11815,,11815,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11480,,11480,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31625,,31625,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,350,,350,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,575562,,575562,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,151,,151,0
+H4,2016,2016,2016,5,0,0,X,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5150346,,5150346,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157813256,,157813256.84,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16533115,,16533115.7,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139876416,,139876416.24,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1403724,,1403724.9,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90507,,90507.37,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,20,Andorra,AND,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31048,,31048.34,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,20,Andorra,AND,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36657,,36657.7,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,20,Andorra,AND,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22801,,22801.33,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,606,,606.09,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,32,Argentina,ARG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,606,,606.09,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1889121,,1889121.58,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,36,Australia,AUS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,937466,,937466.03,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,36,Australia,AUS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,947708,,947708.87,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,36,Australia,AUS,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3946,,3946.68,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3594,,3594.14,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,40,Austria,AUT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3594,,3594.14,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7558,,7558.56,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,44,Bahamas,BHS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7558,,7558.56,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9283,,9283.43,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1304,,1304.46,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7978,,7978.97,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,154454,,154454.53,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,56,Belgium,BEL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134521,,134521.33,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,56,Belgium,BEL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19933,,19933.2,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2436,,2436.43,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,76,Brazil,BRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,840,,840.7,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,76,Brazil,BRA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1595,,1595.73,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175,,175.25,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175,,175.25,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10,,10,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10,,10,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11517,,11517.73,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168,,168.8,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11348,,11348.93,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190,,190,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,104,Myanmar,MMR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190,,190,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4726,,4726.5,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,116,Cambodia,KHM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,422,,422,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,116,Cambodia,KHM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4304,,4304.5,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1050,,1050,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,120,Cameroon,CMR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1050,,1050,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74583,,74583.93,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,124,Canada,CAN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48244,,48244.7,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,124,Canada,CAN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15029,,15029.91,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,124,Canada,CAN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11309,,11309.32,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,500,,500,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,500,,500,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72,,72.95,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72,,72.95,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,478,,478.49,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,152,Chile,CHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,478,,478.49,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4358,,4358.87,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,233,Estonia,EST,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4358,,4358.87,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19246,,19246.18,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,268,Georgia,GEO,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19228,,19228.93,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,268,Georgia,GEO,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17,,17.25,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,218,Ecuador,ECU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,219,,219,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,219,,219,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,212,Dominica,DMA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,350,,350,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,350,,350,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,208,Denmark,DNK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12894,,12894.14,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,208,Denmark,DNK,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5665,,5665.05,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18559,,18559.19,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,204,Benin,BEN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,570,,570.1,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,570,,570.1,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,203,Czechia,CZE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23,,23.52,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23,,23.52,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,191,Croatia,HRV,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5004,,5004.21,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5004,,5004.21,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,170,Colombia,COL,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,677,,677.05,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,170,Colombia,COL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9,,9.42,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,686,,686.47,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,156,China,CHN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169,,169.74,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,156,China,CHN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10879461,,10879461.29,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,156,China,CHN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,566193,,566193.8,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11445824,,11445824.83,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,246,Finland,FIN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,412,,412.07,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,412,,412.07,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,242,Fiji,FJI,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5448,,5448,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,242,Fiji,FJI,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43064,,43064.43,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48512,,48512.43,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86542,,86542.05,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,251,France,FRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85985,,85985.92,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,251,France,FRA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,556,,556.13,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15046,,15046.31,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,266,Gabon,GAB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14025,,14025.97,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,266,Gabon,GAB,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1020,,1020.34,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1388,,1388.22,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,270,Gambia,GMB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2,,2,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,270,Gambia,GMB,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1298,,1298.72,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,270,Gambia,GMB,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87,,87.5,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1489,,1489.69,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,300,Greece,GRC,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1489,,1489.69,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53932,,53932,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,304,Greenland,GRL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53932,,53932,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125229,,125229.44,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,276,Germany,DEU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82377,,82377.09,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,276,Germany,DEU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42852,,42852.35,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,647,,647.68,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,647,,647.68,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6173262,,6173262.11,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1954393,,1954393.86,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4191780,,4191780.43,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27087,,27087.82,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,753,,753.64,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,320,Guatemala,GTM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,753,,753.64,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12,,12,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12,,12,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,286,,286.46,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,340,Honduras,HND,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60,,60,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,340,Honduras,HND,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,226,,226.46,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2898104,,2898104.58,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,653517,,653517.26,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2244587,,2244587.32,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,225,,225,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,348,Hungary,HUN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95,,95,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,348,Hungary,HUN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,130,,130,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,363082,,363082.92,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,360,Indonesia,IDN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27093,,27093.79,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,360,Indonesia,IDN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,335989,,335989.13,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282,,282.36,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,372,Ireland,IRL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,184,,184.93,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,372,Ireland,IRL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97,,97.43,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195,,195.52,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,376,Israel,ISR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195,,195.52,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,329572,,329572.76,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,380,Italy,ITA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125613,,125613.36,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,380,Italy,ITA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203959,,203959.4,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,239061,,239061.88,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233361,,233361.45,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5700,,5700.43,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3753,,3753.86,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,388,Jamaica,JAM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,710,,710,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,388,Jamaica,JAM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3043,,3043.86,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,400,Jordan,JOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,118874,,118874.29,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18038675,,18038675.25,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1634611,,1634611.67,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19792161,,19792161.21,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,174986,,174986.08,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,404,Kenya,KEN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71504,,71504.59,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,404,Kenya,KEN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103481,,103481.49,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11542347,,11542347.71,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,291499,,291499.43,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11250848,,11250848.28,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8966,,8966.94,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,422,Lebanon,LBN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8966,,8966.94,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76100,,76100,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,428,Latvia,LVA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76100,,76100,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23,,23.36,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,440,Lithuania,LTU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23,,23.36,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30964,,30964.95,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5346,,5346.15,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25618,,25618.8,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,209122,,209122.89,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,458,Malaysia,MYS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19308,,19308.8,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,458,Malaysia,MYS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,189814,,189814.09,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6209,,6209.28,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,466,Mali,MLI,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63,,63.02,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,466,Mali,MLI,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6146,,6146.26,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24922,,24922.92,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,484,Mexico,MEX,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24882,,24882.94,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,484,Mexico,MEX,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39,,39.98,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10369662,,10369662.63,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1808156,,1808156,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8561338,,8561338.65,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,167,,167.98,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25320,,25320.49,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,496,Mongolia,MNG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25320,,25320.49,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1119,,1119,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,504,Morocco,MAR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1119,,1119,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18,,18.25,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,524,Nepal,NPL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18,,18.25,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,229020,,229020.71,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,213764,,213764.28,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15256,,15256.43,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5544,,5544.6,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,531,Curaçao,CUW,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4509,,4509,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,531,Curaçao,CUW,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1035,,1035.6,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,999938,,999938.53,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,554,New Zealand,NZL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,376720,,376720.59,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,554,New Zealand,NZL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,621576,,621576.04,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,554,New Zealand,NZL,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1641,,1641.9,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,353,,353.66,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,562,Niger,NER,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,562,Niger,NER,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,333,,333.66,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70408,,70408.62,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,579,Norway,NOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70408,,70408.62,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47877,,47877.18,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10231,,10231.46,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29640,,29640.73,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8004,,8004.99,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106568,,106568.01,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106548,,106548.01,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,515,,515,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,515,,515,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,710,,710.15,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,586,Pakistan,PAK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,710,,710.15,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10650,,10650.48,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,191,,191.48,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10459,,10459,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14,,14,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14,,14,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45815,,45815.52,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,699,India,IND,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24878,,24878.12,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,699,India,IND,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20937,,20937.4,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,686,Senegal,SEN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1622,,1622,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1622,,1622,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,193,,193.36,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1682,,1682.46,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1875,,1875.82,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,642,Romania,ROU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,389,,389.34,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,389,,389.34,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,620,Portugal,PRT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,783,,783.34,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,783,,783.34,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,616,Poland,POL,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,724,,724.28,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,616,Poland,POL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13999,,13999.08,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,616,Poland,POL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,667,,667.26,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15390,,15390.62,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,608,Philippines,PHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4780210,,4780210.07,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,608,Philippines,PHL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1577982,,1577982.14,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6358192,,6358192.21,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24094230,,24094230.67,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94316,,94316.44,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23990415,,23990415.44,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9498,,9498.79,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,740,Suriname,SUR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25,,25,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25,,25,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,729,Sudan,SDN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113,,113.4,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113,,113.4,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,724,Spain,ESP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51,,51.28,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,724,Spain,ESP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7369,,7369.81,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7421,,7421.09,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12605,,12605.33,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12605,,12605.33,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,710,South Africa,ZAF,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,310,,310.88,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,710,South Africa,ZAF,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2128,,2128.44,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2439,,2439.32,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,705,Slovenia,SVN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67,,67.83,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,705,Slovenia,SVN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87,,87.83,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,234503,,234503.41,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28237,,28237.3,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,262740,,262740.71,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,703,Slovakia,SVK,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31824,,31824.54,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31824,,31824.54,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,752,Sweden,SWE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,355946,,355946.78,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,752,Sweden,SWE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8239,,8239.3,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,364186,,364186.08,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,677556,,677556.25,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,215799,,215799.34,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,452931,,452931.28,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8825,,8825.63,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1063122,,1063122.42,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,764,Thailand,THA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93891,,93891.02,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,764,Thailand,THA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,969231,,969231.4,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1070,,1070.64,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,772,Tokelau,TKL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1070,,1070.64,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2446,,2446.61,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1142,,1142.14,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1304,,1304.47,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,416,,416.99,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,788,Tunisia,TUN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,416,,416.99,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23893,,23893.49,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,792,Turkey,TUR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16044,,16044.7,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,792,Turkey,TUR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7848,,7848.79,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16,,16,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,800,Uganda,UGA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16,,16,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11330,,11330.38,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,804,Ukraine,UKR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4248,,4248.7,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,804,Ukraine,UKR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7022,,7022.87,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,804,Ukraine,UKR,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58,,58.81,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,250055,,250055.14,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,249599,,249599.99,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160,,160.34,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,294,,294.81,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56562845,,56562845.54,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4466848,,4466848,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50908654,,50908654.94,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1187342,,1187342.6,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,199691,,199691.58,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,401,,401.15,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,198946,,198946.83,0
+H4,2017,2017,2017,5,0,0,M,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,9200,"Postal consignments, mail or courier shipment",TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,343,,343.6,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,534390,,534390,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,36,Australia,AUS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,534390,,534390,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,404,Kenya,KEN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14500,,14500,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14500,,14500,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,198283,,198283.74,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10860,,10860.22,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187423,,187423.52,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25000,,25000,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,554,New Zealand,NZL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25000,,25000,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,401600,,401600.84,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1097507,,1097507.85,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1499108,,1499108.69,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20004,,20004.92,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,795,,795,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,903600,,903600.97,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28277,,28277,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,931877,,931877.97,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4437211,,4437211.79,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1982548,,1982548.07,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6419759,,6419759.86,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,540147,,540147.64,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45344,,45344.8,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,494802,,494802.84,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,137019,,137019.1,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60453,,60453.15,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76565,,76565.95,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,470,,470,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,591,Panama,PAN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,470,,470,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9652,,9652.4,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9652,,9652.4,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13882,,13882.11,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13882,,13882.11,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19209,,19209.92,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2495423,,2495423.29,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190567,,190567.94,0
+H4,2017,2017,2017,5,0,0,X,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2304855,,2304855.35,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,154412826,,154412826.68,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99788,,99788.23,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1882907,,1882907.01,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,130584,,130584.51,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4678,,4678.03,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,0,,0.4,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2206,,2206.31,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153348,,153348.69,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13439,,13439.57,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38,,38.81,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1123,,1123.23,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58,,58.25,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3987,,3987.38,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81,,81,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63917,,63917.73,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149,,149.9,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75952,,75952.93,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2932,,2932.46,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57454,,57454.83,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79,,79.31,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,901,,901.2,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,231951,,231951.12,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55,,55.5,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,805195,,805195.28,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,239,South Georgia and the South Sandwich Islands,SGS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,154,,154.8,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,232,,232.93,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200,,200,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,584,,584,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,906,,906.54,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,116,,116.52,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,527,,527.8,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,889,,889,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8806854,,8806854.64,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27838,,27838,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,527988,,527988.21,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22,,22.67,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2312,,2312.92,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7337322,,7337322.11,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7462,,7462.15,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60,,60.51,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15971,,15971.31,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4412,,4412.13,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,590,,590.7,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1609269,,1609269.94,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,121857,,121857.35,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12417,,12417.78,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,602472,,602472.38,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71003,,71003.6,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11542,,11542.46,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15586309,,15586309.13,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23,,23,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4782,,4782,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15852085,,15852085.78,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,464,,464.45,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4902,,4902.51,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26577,,26577.46,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1320,,1320,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,138,,138,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7460,,7460.6,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,594838,,594838.67,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9131,,9131.56,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2692,,2692.5,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24882,,24882.42,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30,,30,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,170218,,170218.59,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53,,53,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13057,,13057.93,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50,,50,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8762461,,8762461.74,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1544546,,1544546.58,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51438,,51438.36,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78335,,78335.7,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5060,,5060.43,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,213718,,213718.98,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,615,,615,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,963,,963.05,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,658,,658.62,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1443,,1443.76,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,118,,118.01,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6139351,,6139351.85,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10,,10,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4188,,4188.96,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233,,233.62,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1033,,1033.94,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,453,,453.5,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,374,,374.14,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2452,,2452.38,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6881,,6881.7,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113243,,113243.46,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26282981,,26282981.5,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40986,,40986.2,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,500068,,500068.17,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,202234,,202234,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,283,,283.56,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4000,,4000,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1368,,1368.22,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,226,,226.8,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51187,,51187.49,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,332390,,332390.26,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1012304,,1012304.78,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1810,,1810.8,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,510,,510.93,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9293,,9293.9,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29776,,29776.1,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1322,,1322.61,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128773,,128773.6,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,198758,,198758.13,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53673277,,53673277.89,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1823,,1823.46,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145,,145.16,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20,0
+H5,2018,2018,2018,5,0,0,M,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18739,,18739.61,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8620908,,8620908.05,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1760,,1760,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15985,,15985,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10000,,10000,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10073,,10073.99,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40184,,40184,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9653,,9653.42,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200,,200,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6656858,,6656858.71,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7665,,7665,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6820,,6820.5,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,167618,,167618.8,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,387,,387,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,285705,,285705.86,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,401086,,401086.35,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6830,,6830.5,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2317,,2317,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,226206,,226206.75,0
+H5,2018,2018,2018,5,0,0,X,585,Palau,PLW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,771555,,771555.17,0

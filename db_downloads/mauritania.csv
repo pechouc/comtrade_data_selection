@@ -1,0 +1,670 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2173837838,2173837838,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3225,3225,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,10,Antarctica,ATA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17370,17370,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3084607,3084607,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10641,10641,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13236487,13236487,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1021144,1021144,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43711,43711,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31655,31655,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13807806,13807806,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,90874,90874,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,35518,35518,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,204546,204546,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2406,2406,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32990818,32990818,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5205,5205,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15988,15988,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2738106,2738106,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,33610,33610,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4552,4552,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,199045793,199045793,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,396821,396821,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2327,2327,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5850621,5850621,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3766,3766,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6982,6982,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,149222,149222,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1253231,1253231,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,193898731,193898731,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104,104,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,652,652,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3010,3010,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8553,8553,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,160381,160381,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4181066,4181066,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12297,12297,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2193,2193,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,484629,484629,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,143789615,143789615,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1570,1570,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1134712,1134712,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,135022,135022,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,732400,732400,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6525205,6525205,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47470950,47470950,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1142103,1142103,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,302534,302534,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,589,589,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1411247,1411247,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11708,11708,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6119887,6119887,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,137412,137412,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,489518,489518,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9315,9315,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18430961,18430961,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,153425,153425,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1842,1842,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,185,185,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12069,12069,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9243506,9243506,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3454,3454,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,64022353,64022353,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,300,300,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,59636189,59636189,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,320214,320214,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,297139,297139,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47950,47950,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,395066,395066,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24236,24236,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22721,22721,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6527,6527,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15855674,15855674,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,245214,245214,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104669,104669,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,651026,651026,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1124460,1124460,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,144189,144189,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,130155,130155,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3148785,3148785,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,176089,176089,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,93936,93936,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,137171409,137171409,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,288435,288435,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36265,36265,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,403,403,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,153805856,153805856,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,108054223,108054223,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14550,14550,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,274862,274862,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6015,6015,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,32604,32604,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3244508,3244508,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76415,76415,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,183018,183018,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,285418,285418,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,309155,309155,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23270545,23270545,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3734742,3734742,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7196615,7196615,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,219025,219025,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,688062,688062,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,736586,736586,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2608,2608,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7211597,7211597,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5738585,5738585,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21627,21627,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,166061,166061,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16465,16465,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16043978,16043978,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16455899,16455899,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25268652,25268652,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,327200,327200,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8103594,8103594,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4389492,4389492,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13151705,13151705,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83134068,83134068,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,698,698,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1290573,1290573,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2409557,2409557,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18611049,18611049,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5152328,5152328,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,85036,85036,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17782302,17782302,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1946,1946,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2489,2489,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,258378547,258378547,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8846943,8846943,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49310788,49310788,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,716,716,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73247,73247,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14468233,14468233,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5336219,5336219,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23255849,23255849,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62192,62192,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6967,6967,,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36474,,36474,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,69098,,69098,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,292102931,292102931,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,204031,204031,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,176867,176867,,0
+H4,2016,2016,2016,5,0,0,M,478,Mauritania,MRT,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73314,73314,,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1622761598,,1622761598,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34079,,34079,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145,,145,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,299736,,299736,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79529,,79529,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1891,,1891,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17205,,17205,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1016325,,1016325,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29,,29,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7915250,,7915250,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,273730,,273730,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1140,,1140,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54273831,,54273831,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3088466,,3088466,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27224704,,27224704,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,291,,291,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,291,,291,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,578793,,578793,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17291,,17291,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,54588025,,54588025,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10190633,,10190633,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4386499,,4386499,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1043423,,1043423,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,537321,,537321,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,454,,454,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2702,,2702,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,66954511,,66954511,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,122604190,,122604190,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4834,,4834,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12332,,12332,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,256685,,256685,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26253573,,26253573,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,687631,,687631,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1198055,,1198055,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,836619,,836619,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12593,,12593,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,503988,,503988,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1100,,1100,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1455,,1455,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,231167,,231167,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3054,,3054,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9588187,,9588187,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,775633,,775633,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,387997,,387997,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56782,,56782,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22614,,22614,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7623124,,7623124,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1164,,1164,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67318842,,67318842,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,746592,,746592,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1023601,,1023601,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18444286,,18444286,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145,,145,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,78384725,,78384725,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1455,,1455,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,87,,87,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2814057,,2814057,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2702350,,2702350,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3255429,,3255429,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17463693,,17463693,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145,,145,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3552513,,3552513,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,599495794,,599495794,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1163658,,1163658,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1638197,,1638197,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,194784,,194784,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2000762,,2000762,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15598238,,15598238,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14997,,14997,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,259234,,259234,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38755,,38755,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,219711307,,219711307,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2189853,,2189853,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1504322,,1504322,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7338470,,7338470,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2419042,,2419042,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15986505,,15986505,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2150340,,2150340,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1475141,,1475141,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1686289,,1686289,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,60121,,60121,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,276324,,276324,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7681,,7681,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1159,,1159,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,620256,,620256,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,144488501,,144488501,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1947,,1947,0
+H4,2016,2016,2016,5,0,0,X,478,Mauritania,MRT,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3037358,,3037358,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35058,35058.494,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41523,41523.501,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,205669,205669.661,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6810221,6810221.459,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18471,18471.738,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21648335,21648335.66,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10511,10511.07,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3522418198,3522418198.294,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7893455,7893455.21,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1285406,1285406.765,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3814897,3814897.109,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,208761,208761.04,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,229417196,229417196,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24033371,24033371.084,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36197493,36197493.854,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1624472,1624472.236,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2245,2245.67,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,270238,270238.264,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79867,79867.788,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10371570,10371570.626,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55,55.751,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145374,145374.127,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1280900,1280900.804,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9421020,9421020.256,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1234,1234.586,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30,30.663,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1672,1672.518,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,562599,562599.355,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9696,9696.877,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14698,14698.623,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,278,278.753,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162136479,162136479.445,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,330630,330630.65,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111981,111981.36,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7376857,7376857.392,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19034,19034.074,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1393,1393.765,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,161603,161603.355,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173949071,173949071.777,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72073,72073.233,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,261233,261233.051,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73290,73290.313,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32924382,32924382.422,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,186023,186023.088,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109916766,109916766.303,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5109002,5109002.2,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2978721,2978721.713,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,391339,391339.093,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74,74.636,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,860068,860068.958,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62579,62579.352,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,772568,772568.076,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35100083,35100083.74,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113805,113805.977,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1215275,1215275.839,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63331777,63331777.989,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5035691,5035691.05,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1463637,1463637.718,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71674397,71674397.761,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,558052,558052.699,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,112602,112602.617,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,583747,583747.531,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,636858965,636858965.35,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31428,31428.687,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52600,52600.858,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,316942,316942.682,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,176,176.852,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,255143,255143.502,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,441701,441701.473,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90148,90148.202,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195434,195434.578,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2784,2784.742,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17285693,17285693.146,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1177216,1177216.551,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24916,24916.922,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,482824,482824.815,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169020,169020.474,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,328790,328790.014,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108016517,108016517.45,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,764105,764105.734,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,209156,209156.713,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216186241,216186241.732,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70200876,70200876.767,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106723,106723.006,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42097,42097.947,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3732,3732.823,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,658073,658073.122,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,276160279,276160279.715,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8041749,8041749.632,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22122920,22122920.436,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76093,76093.838,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76746,76746.546,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96,96.61,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12344810,12344810.824,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2868673,2868673.521,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,121208,121208.801,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9175924,9175924.691,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95264688,95264688.755,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7357054,7357054.497,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17150970,17150970.268,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1289994,1289994.49,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175,175.397,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23357025,23357025.591,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55919925,55919925.184,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,237806,237806.278,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7179,7179.507,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16673686,16673686.8,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11442243,11442243.558,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63498,63498.211,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177761099,177761099.986,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35838008,35838008.845,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7359454,7359454.218,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3928571,3928571.623,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96332,96332.529,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16449221,16449221.24,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3646564,3646564.556,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13896,13896.938,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,313831842,313831842.943,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8542309,8542309.608,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22255,22255.06,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61452736,61452736.231,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18005,18005.752,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50076595,50076595.257,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9469527,9469527.133,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25267589,25267589.622,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8572,8572.276,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,150967160,150967160.363,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,502919,502919.902,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11219591,11219591.907,,0
+H4,2017,2017,2017,5,0,0,M,478,Mauritania,MRT,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1298,1298.292,,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1989430771,,1989430771.15,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139,,139.731,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64156,,64156.753,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,367130,,367130.674,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139,,139.731,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1061,,1061.952,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11393,,11393.474,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1211015,,1211015.641,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7,,7.587,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1700973,,1700973.898,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3877392,,3877392.56,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119343,,119343.613,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13839,,13839.294,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,192979,,192979.966,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,698317324,,698317324.794,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,677968,,677968.325,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3365960,,3365960.276,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139,,139.731,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,376904,,376904.54,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9112,,9112.692,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2366600,,2366600.024,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8441033,,8441033.881,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,950047,,950047.086,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22961,,22961.994,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24617544,,24617544.628,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,588142,,588142.501,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29965,,29965.485,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98656574,,98656574.415,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3864086,,3864086.832,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9245908,,9245908.705,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,749727,,749727.223,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66390,,66390.379,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2115805,,2115805.237,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83,,83.838,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78526,,78526.071,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1117,,1117.844,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11160,,11160.644,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,101136173,,101136173.416,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60584296,,60584296.424,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142531467,,142531467.352,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61647,,61647.741,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4248,,4248.198,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17604186,,17604186.149,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1117,,1117.844,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,743895,,743895.839,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,549942,,549942.507,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94103,,94103.601,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1416038,,1416038.003,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1397,,1397.305,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18125,,18125.111,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8749712,,8749712.509,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1193693,,1193693.645,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,129972,,129972.448,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111753,,111753.33,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2827703,,2827703.478,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1,,1.397,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15841,,15841.577,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38582528,,38582528.392,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3859073,,3859073.758,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2794,,2794.61,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20441,,20441.295,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,514,,514.907,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27122944,,27122944.757,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3843,,3843.081,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95725652,,95725652.883,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3737,,3737.995,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2085683,,2085683.703,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,416527,,416527.368,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139,,139.731,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28273461,,28273461.392,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3811001,,3811001.662,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1397,,1397.305,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,230994985,,230994985.151,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3716,,3716.831,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,838,,838.383,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,306403048,,306403048.928,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,382319,,382319.242,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2317298,,2317298.13,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2857,,2857.712,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6606530,,6606530.208,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1786582,,1786582.883,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35868124,,35868124.208,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2716,,2716.811,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2949846,,2949846.953,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139,,139.731,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1012332,,1012332.485,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16489,,16489.554,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1242584,,1242584.167,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18524,,18524.922,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139,,139.731,0
+H4,2017,2017,2017,5,0,0,X,478,Mauritania,MRT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23972,,23972.388,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3634,3634.38,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,942240,942240.57,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,207326,207326.02,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1854880,1854880.89,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11630,11630.31,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28859528,28859528.81,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52,52.03,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,242239546,242239546.75,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,347229508,347229508.66,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3155,3155.31,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10023,10023.95,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,128321,128321.12,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,267996,267996.81,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30685,30685.67,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11182901,11182901.3,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,358632,358632.53,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23302,23302.94,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4622,4622.38,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13383204,13383204.29,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11630,11630.31,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1673744,1673744.23,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,179545,179545.16,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2021,2021.38,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,584941,584941.32,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,458260456,458260456.94,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70747341,70747341.51,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72639593,72639593.49,,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,137634,,137634.46,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1071887,,1071887.03,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,1347,1347.68,,4
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1001,,1001.94,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,654166489,,654166489.4,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2713812,,2713812.32,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4034881,,4034881.18,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26255483,,26255483.57,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,800670,,800670.55,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,249642,,249642.29,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,84,,84.36,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,66546709,,66546709.74,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,703,,703,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27393588,,27393588.8,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12326,,12326.48,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24630458,,24630458.02,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,281,,281.2,4
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13310780,,13310780.25,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3477412,,3477412.68,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17976758,,17976758.4,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1260037,,1260037.59,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5838821,,5838821.77,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44383412,,44383412.76,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30178246,,30178246.2,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29567,29567.14,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,210124,210124.64,,4
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1708247,,1708247.47,4
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1560,,1560.13,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8417,,8417.88,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21182,,21182.98,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,221008,,221008.01,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,186859309,,186859309.61,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,995534,,995534.14,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,272049,,272049.69,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16651888,16651888.88,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6760450,6760450.56,,4
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1996,,1996.56,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140,,140.6,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,2051854542,,2051854542.97,4
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,193300475,,193300475.38,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1701772,,1701772.77,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140,,140.6,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37598,,37598.96,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,314,,314.22,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140,,140.6,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9320729,,9320729.55,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19265,,19265.77,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1616974,,1616974.28,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53729,,53729.88,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14063,,14063.85,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7083061,,7083061.31,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30537,,30537.8,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,843,,843.62,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,853034,,853034.16,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,615017,,615017.46,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17185,,17185.11,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6232353,,6232353.22,4
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18322,,18322.32,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34878383,,34878383.14,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,124,,124.85,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,137032290,,137032290.08,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1445993,,1445993.22,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83165406,83165406.13,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4164,4164.95,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7807,7807.48,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19528,19528.26,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14914,14914.96,,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42,,42.51,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21059,,21059.79,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,675,,675.72,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2858789,,2858789.52,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3970326,,3970326.75,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,69836927,,69836927.15,4
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2952,,2952.67,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7684257,,7684257.47,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23183936,,23183936.23,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1391361,,1391361.11,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,93998592,,93998592.68,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,130809,,130809.71,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,817330,,817330.69,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1129254,,1129254.64,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,779772,,779772.41,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12645770,,12645770.37,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,241619,,241619.65,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,257497,,257497.87,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,783492,,783492.14,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9515639,,9515639.61,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,281,,281.2,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,309999516,,309999516.88,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,643930,,643930.66,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,796,Turks and Caicos Isds,TCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3020,,3020.73,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1192949,,1192949.32,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,198745289,198745289.48,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16294,16294.55,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7320,7320.73,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,34763618,34763618.49,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,0,3183164116,3183164116.27,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25954250,25954250.9,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120460,120460.28,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5209,5209.26,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1059750,1059750.77,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5419,5419.26,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,155418,155418.48,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,482941,482941.05,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7569592,7569592.45,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27437,27437.15,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2073,2073.38,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6362975,6362975,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,84,84.37,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38730579,38730579.12,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,493401,493401.24,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4500,4500.15,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,116982433,116982433.07,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,207676,207676.33,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2739078,2739078.95,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17842,17842.45,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30028,30028.75,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1505479,1505479.08,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33391362,33391362.18,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4007,4007.66,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1616209,1616209.05,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12540576,12540576.55,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6483,6483.03,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5188,5188.94,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,349942036,349942036.15,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1990348,1990348.55,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2849784,2849784.01,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10434823,10434823.75,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45846,45846.14,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,196377,196377.36,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8715519,8715519.13,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70371,70371.5,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29388,29388.15,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4387793,4387793.41,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6217989,6217989.05,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61492754,61492754.69,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,155,155.54,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12505486,12505486.02,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73,73.47,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10778355,10778355.83,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62852,62852.46,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,725742,725742.54,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26053888,26053888.06,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,313945,313945.49,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,860955,860955.33,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1896681,1896681.69,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,138292867,138292867.33,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,427716,427716.01,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,818198,818198.12,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,339853,339853.51,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23146740,23146740.49,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,158443757,158443757.39,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8064,8064.53,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39760,39760.26,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,184863428,184863428.15,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,58100,58100.74,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,500,Montserrat,MSR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3352,3352.55,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26543812,26543812.1,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4118115,4118115.97,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,472827,472827.61,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2035909,2035909.81,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42715146,42715146.07,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,196982,196982.27,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,84,84.37,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,101,101.25,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67404,67404.36,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,881630,881630,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83051,83051.75,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19562,19562.65,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,214208,214208.38,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39410,39410.49,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,280473,280473.52,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3986454,3986454.49,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,220617,220617.24,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,311889,311889.74,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,651,651.66,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,351482,351482.69,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5977245,5977245.08,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,325967,325967.28,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1893,1893.15,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,126,126,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1275556,1275556.78,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3876,3876.77,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32682195,32682195.64,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,550053,550053.15,,4
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,95426,95426.17,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,368405,368405.15,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21493703,21493703.99,,0
+H4,2018,2018,2018,5,0,0,M,478,Mauritania,MRT,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,190578191,190578191.4,,4
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1292645,,1292645.97,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,667957,,667957.12,0
+H4,2018,2018,2018,5,0,0,X,478,Mauritania,MRT,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1209,,1209.19,0

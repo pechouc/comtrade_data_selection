@@ -1,0 +1,1089 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2539588,,2539588,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50225271,,50225271,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24092,,24092,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23171896,,23171896,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91983,,91983,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8226863,,8226863,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1002234,,1002234,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,454899,,454899,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5613562,,5613562,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,92954,,92954,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22764851,,22764851,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98877,,98877,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,768519,,768519,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4047450,,4047450,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4412,,4412,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15951128,,15951128,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1430030,,1430030,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18436,,18436,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38660,,38660,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,400723,,400723,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7955,,7955,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1385237,,1385237,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2459647,,2459647,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68889612,,68889612,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53703,,53703,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2982,,2982,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,686155,,686155,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15195,,15195,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1758283,,1758283,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77969,,77969,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11616911,,11616911,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142702,,142702,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1352457,,1352457,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1890604,,1890604,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11572220,,11572220,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2633851,,2633851,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1114370,,1114370,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2187768,,2187768,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,965845,,965845,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125074,,125074,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,130969,,130969,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1097764,,1097764,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3418,,3418,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5558036,,5558036,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90150,,90150,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,456178845,,456178845,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,166295,,166295,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2432,,2432,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,305912,,305912,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72543,,72543,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36894626,,36894626,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,169747,,169747,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,581293,,581293,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3032864,,3032864,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19570079,,19570079,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30870914,,30870914,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,234463,,234463,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98438,,98438,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,328404,,328404,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282823,,282823,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,280448,,280448,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301146,,301146,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190874,,190874,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8268385,,8268385,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5002732,,5002732,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90117902,,90117902,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2751263,,2751263,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32691,,32691,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24116044,,24116044,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59465765,,59465765,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2551592,,2551592,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1593,,1593,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3698165,,3698165,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1846,,1846,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,332160,,332160,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2866938,,2866938,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7306528,,7306528,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93147,,93147,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21774,,21774,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1358042,,1358042,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19641501,,19641501,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107532,,107532,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,379825,,379825,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5856581,,5856581,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1098516,,1098516,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9423376,,9423376,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,525408,,525408,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7844613,,7844613,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12599332,,12599332,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2599532,,2599532,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9800670,,9800670,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156726,,156726,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104296,,104296,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41440,,41440,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9217,,9217,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1712,,1712,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,239235,,239235,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,912,,912,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58314,,58314,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6850567,,6850567,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,254383,,254383,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,577,"Other Africa, nes",F19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,552501,,552501,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,763266464,,763266464,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1832,,1832,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177916,,177916,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,585,Palau,PLW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10349,,10349,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3891268,,3891268,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22615,,22615,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,562094,,562094,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1605090,,1605090,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5716389,,5716389,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160013,,160013,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6028,,6028,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1388726,,1388726,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,796087,,796087,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2873,,2873,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3923814,,3923814,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79379,,79379,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21313,,21313,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15991,,15991,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56028,,56028,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,165681069,,165681069,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,163359,,163359,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287994,,287994,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15706891,,15706891,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100079791,,100079791,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124835,,124835,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42989958,,42989958,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1033941,,1033941,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18839456,,18839456,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79446,,79446,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,308655,,308655,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21233814,,21233814,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8033593,,8033593,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175949,,175949,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1891558,,1891558,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,227660421,,227660421,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252,,252,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,505534,,505534,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2093518,,2093518,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,170545715,,170545715.99,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5619859,,5619859,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72992872,,72992872,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,464716,,464716,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9900553,,9900553,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,429257,,429257,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10512681,,10512681,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3167596,,3167596,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25022652473,,25022652473.8,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3216242,,3216242,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30818251,,30818251,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36921059,,36921059.99,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111680724,,111680724,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,358876112,,358876112,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59442687,,59442687,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,962976598,,962976598.96,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8848494,,8848494,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136305912,,136305912,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,370,,370,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25774300,,25774300,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,250905471,,250905471,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,662591089,,662591089,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1325878933,,1325878933,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,691482329,,691482329,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1921849677,,1921849677.98,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37568220,,37568220,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160800842,,160800842,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31197580,,31197580,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17186037,,17186037,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48606699,,48606699,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,586503853,,586503853,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,143877174,,143877174,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,316559139,,316559139,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4334926,,4334926,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19742207,,19742207,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2470355274,,2470355274.89,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149673,,149673,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16563623,,16563623,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10436522,,10436522,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41196827,,41196827,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,783461759,,783461759,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32124488,,32124488,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8558212,,8558212,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2278247766,,2278247766,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69464834,,69464834,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83256831,,83256831,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3371118603,,3371118603.99,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95318783,,95318783,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106716257,,106716257,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22760244,,22760244,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29717042,,29717042,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,330928876,,330928876,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1188476558,,1188476558,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,116648026,,116648026,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8174608,,8174608,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84958794,,84958794,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19812884,,19812884,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,675441474,,675441474,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1063901492,,1063901492,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1286070145,,1286070145,0
+H4,2016,2016,2016,5,0,0,X,440,Lithuania,LTU,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124140189,,124140189,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27391399189,27391399189.67,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301687278,301687278,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,868514350,868514350,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65644867,65644867,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,774286523,774286523,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15967139,15967139,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,784256814,784256814.99,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,487039000,487039000,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,486962299,486962299,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,916720172,916720172,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,684187705,684187705,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,937341292,937341292,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3354418498,3354418498.93,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,232137587,232137587,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107172491,107172491,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22567764,22567764,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1494957205,1494957205,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42045478,42045478,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2200677980,2200677980.85,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73883538,73883538,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4658719,4658719,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57190760,57190760,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1328078013,1328078013.96,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,379901013,379901013,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3013975336,3013975336.94,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50946702,50946702,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3793242752,3793242752,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46390196,46390196,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,540113541,540113541,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1180045124,1180045124,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97419946,97419946,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17817702,17817702,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,222757521,222757521,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,748414055,748414055,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,350567875,350567875,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1293,1293,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,542556,542556,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50835,50835,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168616,168616,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39260,39260,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13,13,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3485691,3485691,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26373805,26373805,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2990905,2990905,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,750707,750707,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9827,9827,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2021416,2021416,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2335132,2335132,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6,6,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,724804,724804,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,262,262,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1474260,1474260,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2454,2454,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24981986,24981986,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15878,15878,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,496,496,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1910436,1910436,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1259,1259,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2006445,2006445,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15619193,15619193,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4501398,4501398,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,226402,226402,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44525,44525,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2262,2262,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2174790,2174790,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,210,210,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12673547,12673547,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9781840,9781840,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,295,295,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11863386,11863386,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,736010,736010,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12132716,12132716,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27121,27121,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,84932,84932,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,345363,345363,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4686482,4686482,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8195,8195,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8,8,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21035607,21035607,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73717,73717,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,550,550,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48071923,48071923,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42679,42679,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,344,344,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61956,61956,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,268,268,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7385,7385,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2457,2457,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12486950,12486950,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8448277,8448277,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24238927,24238927,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4611640,4611640,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9801,9801,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75705,75705,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,482,482,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,237516,237516,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,337354192,337354192,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,283845,283845,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5890,5890,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10785646,10785646,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,163,163,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,181441160,181441160,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,615739,615739,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24067,24067,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12338,12338,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6292,6292,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,377,377,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4914093,4914093,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8796253,8796253,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4611574,4611574,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,279304,279304,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1101,1101,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196845,196845,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7587515,7587515,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100422,100422,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12917157,12917157,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8855904,8855904,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252133,252133,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,176542,176542,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50556,50556,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70,70,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8306,8306,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14111400,14111400,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2687,2687,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40900,40900,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45873,45873,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,184,184,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4944,4944,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21706548,21706548,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1452,1452,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2406,2406,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2813319,2813319,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2588914,2588914,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3706025,3706025,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69119346,69119346,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8529,8529,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,358,358,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2879,2879,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7170,7170,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124700,124700,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103071552,103071552,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11733594,11733594,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106,106,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49416755,49416755,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2410134,2410134,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,161816917,161816917,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23620737,23620737,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90453664,90453664,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175247,175247,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45489,45489,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29763,29763,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7479113,7479113,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5171846,5171846,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104787,104787,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156737312,156737312,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,829802,829802,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,826334,826334,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2364877,2364877,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9262832,9262832,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5721075,5721075,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,839,Special Categories,XX ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115332552,115332552,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1592,1592,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2,2,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2336,2336,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,827213,827213,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4109980,4109980,,0
+H4,2016,2016,2016,5,0,0,M,440,Lithuania,LTU,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98020,98020,,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9914124,,9914124,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3385023,,3385023,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31077,,31077,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,456802,,456802,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34290613,,34290613,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31580772,,31580772,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,458939,,458939,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,403577,,403577,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4328398,,4328398,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75012,,75012,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,875599,,875599,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9992,,9992,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4127497,,4127497,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16314,,16314,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75282,,75282,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3402,,3402,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54849,,54849,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,674953,,674953,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5294,,5294,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3699531,,3699531,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124619,,124619,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62595,,62595,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1794,,1794,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,319019,,319019,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2166710,,2166710,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2498574,,2498574,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,542796,,542796,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1235494,,1235494,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33297385,,33297385,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19396839,,19396839,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2749611,,2749611,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,879824,,879824,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2595518,,2595518,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1454519,,1454519,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12705,,12705,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11262,,11262,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6777966,,6777966,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104038,,104038,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50970,,50970,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58803,,58803,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,120142,,120142,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33703910,,33703910,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,243933,,243933,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,934577,,934577,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4365979,,4365979,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1849918,,1849918,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,272190,,272190,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107597,,107597,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,165,,165,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,746688,,746688,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,372941,,372941,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173264,,173264,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,219584,,219584,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,489680,,489680,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8033606,,8033606,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2418864,,2418864,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,738438,,738438,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4153634,,4153634,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2180076,,2180076,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1227043,,1227043,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6207726,,6207726,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100594,,100594,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16800876,,16800876,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1741339,,1741339,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,680151,,680151,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8683819,,8683819,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9043123,,9043123,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,527867,,527867,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3317280,,3317280,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5635018,,5635018,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,822671,,822671,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,795535,,795535,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42510727,,42510727,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,490684,,490684,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,911720,,911720,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11849782,,11849782,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1735169,,1735169,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1766963,,1766963,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25009,,25009,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3132,,3132,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,235104,,235104,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,269300,,269300,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60895,,60895,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13250137,,13250137,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,851587,,851587,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10987,,10987,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,577,"Other Africa, nes",F19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,520592,,520592,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13019,,13019,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12029252,,12029252,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28390,,28390,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1315379,,1315379,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2447337,,2447337,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3079935,,3079935,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70253,,70253,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2509,,2509,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3075663,,3075663,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40256,,40256,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36081,,36081,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37595,,37595,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,598661,,598661,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1045,,1045,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2827,,2827,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,194936164,,194936164,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2363981,,2363981,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27857,,27857,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,443602,,443602,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16831205,,16831205,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3571,,3571,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,248968,,248968,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7218,,7218,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9659300,,9659300,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77335,,77335,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,981218,,981218,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5120104,,5120104,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,657764,,657764,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2624677,,2624677,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6998985,,6998985,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2376402,,2376402,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113565346,,113565346,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,197286,,197286,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7577295,,7577295,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24867,,24867,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,617841,,617841,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2355033,,2355033,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29349549370,,29349549370.81,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,144367634,,144367634,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37402302,,37402302,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46359911,,46359911,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142518431,,142518431,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39905461,,39905461,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,450215091,,450215091,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27150004,,27150004,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64666065,,64666065,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1136018178,,1136018178.98,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,798063,,798063,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48164293,,48164293,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3288407,,3288407,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9692722,,9692722,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,202222437,,202222437.99,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9783227,,9783227,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,334276922,,334276922,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,732676492,,732676492,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,536329,,536329,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1411829803,,1411829803,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,497695567,,497695567,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,736242152,,736242152,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2124885643,,2124885643.99,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35026869,,35026869,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38330127,,38330127,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,200938450,,200938450,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41004105,,41004105,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7762742,,7762742,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6780139,,6780139,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87430553,,87430553,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56054226,,56054226,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,670518125,,670518125,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133116314,,133116314,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,472678716,,472678716.99,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93371479,,93371479,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2180056,,2180056,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46188604,,46188604,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2809566824,,2809566824.94,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,360524,,360524,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14941050,,14941050,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20052659,,20052659,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14292621,,14292621,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13275285,,13275285,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19375561,,19375561,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1027041875,,1027041875,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76185908,,76185908,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,845423421,,845423421,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6325274,,6325274,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2364155492,,2364155492,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78692074,,78692074,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99792408,,99792408.99,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4449006578,,4449006578.93,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19131358,,19131358,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67063391,,67063391,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,215996229,,215996229,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99503888,,99503888,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39778431,,39778431,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56452996,,56452996,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,356563899,,356563899,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1405747271,,1405747271,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160573988,,160573988,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40666369,,40666369,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10286423,,10286423,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151013308,,151013308,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,441256839,,441256839,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11699351,,11699351,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,400939,,400939,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,837840049,,837840049,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29610039,,29610039,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1025775436,,1025775436,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1550585367,,1550585367,0
+H5,2017,2017,2017,5,0,0,X,440,Lithuania,LTU,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,148558272,,148558272,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85665,85665,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29346,29346,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1492,1492,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1350651,1350651,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29723,29723,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195263,195263,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2531247,2531247,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47413070,47413070,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3148700,3148700,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,731284,731284,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2174602,2174602,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1969396,1969396,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3963,3963,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,355108,355108,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1630,1630,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,478,478,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4780,4780,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9646009,9646009,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25301501,25301501,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30,30,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2888258,2888258,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,742352888,742352888,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,946089,946089,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3190,3190,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2792,2792,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11752083,11752083,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4910545,4910545,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,258,258,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,384,384,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,197,197,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7500426,7500426,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1446,1446,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30427116,30427116,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55782,55782,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151,151,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38404,38404,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11676225,11676225,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57635,57635,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,423307,423307,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1084999,1084999,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5458,5458,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32323035,32323035,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39288,39288,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4021,4021,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57693581,57693581,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,293825,293825,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,765607,765607,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3017,3017,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,178,178,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,932,932,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6849,6849,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6318414,6318414,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20119114,20119114,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4545610,4545610,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1184,1184,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31328475,31328475,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,563302,563302,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1009777498,1009777498,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,327350,327350,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,581937,581937,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12819886,12819886,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31469,31469,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,138373,138373,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17668,17668,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22042,22042,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,899,899,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31965833,31965833,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,309,309,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2872771,2872771,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2876,2876,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3051271,3051271,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,506096,506096,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8982184,8982184,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,302567,302567,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9474661,9474661,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18488953,18488953,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5598840,5598840,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2229550,2229550,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,321884,321884,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,159479,159479,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50183,50183,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12934980,12934980,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,242756,242756,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16689271,16689271,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,580,N. Mariana Isds,MNP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,419,419,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,380,380,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20562686,20562686,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2368,2368,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,127,127,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3542582,3542582,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2508991,2508991,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6128014,6128014,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78624961,78624961,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160,160,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2030,2030,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,251646,251646,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,328,328,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,247520299,247520299,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7399,7399,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12289580,12289580,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80,80,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2060822,2060822,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28079257,28079257,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12681,12681,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49256,49256,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,367,367,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14183,14183,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1845260,1845260,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17600594,17600594,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15552328,15552328,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,349077,349077,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,395777,395777,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,510913,510913,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2432191,2432191,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15270364,15270364,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,839,Special Categories,XX ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99594261,99594261,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2162632,2162632,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4207,4207,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1260631,1260631,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7537100,7537100,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2579,2579,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2366,2366,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30978718199,30978718199.5,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,341004717,341004717,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1015573915,1015573915,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75782607,75782607,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20381465,20381465,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,929395701,929395701.95,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,800577,800577,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15042821,15042821,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,617587236,617587236,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,501747194,501747194,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,974784346,974784346.97,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,795777863,795777863,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1173893252,1173893252.98,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3743606235,3743606235.89,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18550005,18550005,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,249295708,249295708,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151042523,151042523,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1596313026,1596313026.99,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43734862,43734862,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,204684204,204684204,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2185963432,2185963432.82,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9975001,9975001,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63744557,63744557,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1551223730,1551223730,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,507696162,507696162,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3182748109,3182748109.97,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54048669,54048669,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4059444334,4059444334.99,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50649126,50649126,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,174645953,174645953,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99668830,99668830,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44156343,44156343,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,637013981,637013981,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1203644727,1203644727.99,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79064141,79064141,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3466449,3466449,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182750433,182750433,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,268140143,268140143,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,967694689,967694689.95,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,416835020,416835020,,0
+H5,2017,2017,2017,5,0,0,M,440,Lithuania,LTU,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267619,267619,,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3223457,,3223457,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,328489,,328489,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15543150,,15543150,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35114,,35114,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17987996,,17987996,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1201518,,1201518,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7097921,,7097921,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27659103,,27659103,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27301820,,27301820,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,206862,,206862,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61220,,61220,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8796,,8796,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,473875,,473875,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6713523,,6713523,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,174365,,174365,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,116126,,116126,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,167734,,167734,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3915,,3915,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,514607,,514607,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1650023,,1650023,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3563287,,3563287,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9291,,9291,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46265,,46265,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2921483,,2921483,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40199,,40199,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1378685,,1378685,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,227388,,227388,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1294656,,1294656,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2697640,,2697640,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8448719,,8448719,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66629,,66629,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3707894,,3707894,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1190886,,1190886,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,253357,,253357,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44923,,44923,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1414718,,1414718,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10030562,,10030562,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,164103,,164103,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233788,,233788,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,265432,,265432,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48304,,48304,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,466856,,466856,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1206929,,1206929,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3554195,,3554195,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20763073,,20763073,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,303793,,303793,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1096267,,1096267,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7595,,7595,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,554947,,554947,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,548213,,548213,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,372229,,372229,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,304983,,304983,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75703,,75703,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13815694,,13815694,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6254781,,6254781,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8913741,,8913741,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7820385,,7820385,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1164292,,1164292,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12635291,,12635291,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23021336,,23021336,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38282,,38282,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55209474,,55209474,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5347439,,5347439,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,561,,561,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156896,,156896,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17077482,,17077482,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233845,,233845,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,334548,,334548,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45902687,,45902687.99,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1128579,,1128579,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1171583,,1171583,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1243349,,1243349,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5359886,,5359886,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1132484,,1132484,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3703921,,3703921,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14283036,,14283036,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1782139,,1782139,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18944495,,18944495,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2051601,,2051601,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2321622,,2321622,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6776,,6776,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160668,,160668,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,534,Saint Maarten,SXM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,320153,,320153,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,509092,,509092,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35546,,35546,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,205325,,205325,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12879,,12879,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,577,"Other Africa, nes",F19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,352963,,352963,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,931479815,,931479815,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4447,,4447,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26195792,,26195792,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55130,,55130,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,784526,,784526,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7212696,,7212696,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2816075,,2816075,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,449780,,449780,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1450,,1450,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3330848,,3330848,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,220780,,220780,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45007,,45007,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,456803,,456803,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68251,,68251,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57085,,57085,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,240913,,240913,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195736867,,195736867,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2005779,,2005779,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,751417,,751417,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13922,,13922,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25584,,25584,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,624852,,624852,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27705,,27705,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,818779,,818779,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,151248,,151248,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16318,,16318,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1317143,,1317143,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3279027,,3279027,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1269079,,1269079,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3396853,,3396853,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9421608,,9421608,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,537082,,537082,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3315487,,3315487,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,837,Bunkers,X1 ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156966362,,156966362,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3210228,,3210228,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,566366,,566366,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3216671,,3216671,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1642956,,1642956,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32576,,32576,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,559872,,559872,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1183544,,1183544,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33334576736,,33334576736.83,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9679408,,9679408,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187225892,,187225892,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30709035,,30709035,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72578417,,72578417,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173998320,,173998320,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,518404831,,518404831,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21045152,,21045152,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85601569,,85601569,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1271305780,,1271305780,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55262628,,55262628,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14901030,,14901030,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,222728974,,222728974,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2769405,,2769405,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56342398,,56342398,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17193598,,17193598,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,355720907,,355720907,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,837776723,,837776723,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1639108482,,1639108482,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,594474229,,594474229,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,835554964,,835554964,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32467217,,32467217,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2460238358,,2460238358,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57746819,,57746819,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42103680,,42103680,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,268913048,,268913048,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51194582,,51194582,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,131229162,,131229162,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56587015,,56587015,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,727449028,,727449028,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,363814241,,363814241,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,443399118,,443399118.99,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10662815,,10662815,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88675889,,88675889,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3267453613,,3267453613.93,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15192922,,15192922,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29883891,,29883891,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22988400,,22988400,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37388051,,37388051,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28977031,,28977031,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,623384,,623384,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1121866061,,1121866061,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13842194,,13842194,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70020075,,70020075,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6310672,,6310672,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2749510012,,2749510012,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99052527,,99052527,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128057383,,128057383.99,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4665591141,,4665591141.95,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20297827,,20297827,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60774748,,60774748,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,444081308,,444081308,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126355811,,126355811,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27480655,,27480655,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52093157,,52093157,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41681425,,41681425,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,364172229,,364172229,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1615173161,,1615173161,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,179507575,,179507575,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31680545,,31680545,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15523741,,15523741,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60554764,,60554764,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,272057253,,272057253,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1020205568,,1020205568.99,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56591697,,56591697,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1272812754,,1272812754.99,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1675452328,,1675452328,0
+H5,2018,2018,2018,5,0,0,X,440,Lithuania,LTU,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,210527953,,210527953,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17490,17490,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,977401,977401,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72159,72159,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36013,36013,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,809,809,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1598,1598,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3632834,3632834,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35314990,35314990,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156861,156861,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6659441,6659441,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3452034,3452034,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10406,10406,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1229579,1229579,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,400,400,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13275368,13275368,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1520,1520,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,710086,710086,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91536070,91536070,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4775931,4775931,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,901247653,901247653,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,994062,994062,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,569,569,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,501,501,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4303914,4303914,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99663,99663,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17516862,17516862,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,815111,815111,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21,21,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6259926,6259926,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29461507,29461507,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1683,1683,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,564,564,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19176365,19176365,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,305213,305213,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3102,3102,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,111039,111039,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34641,34641,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,234,Faeroe Isds,FRO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2048359,2048359,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,399941,399941,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2990,2990,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40249682,40249682,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252,252,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,373356,373356,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,292,Gibraltar,GIB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,129682,129682,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64428796,64428796,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157596,157596,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,999637,999637,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5521,5521,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13670,13670,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7866,7866,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142304,142304,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9627846,9627846,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17239615,17239615,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1621,1621,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4128383,4128383,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,191888,191888,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,921,921,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,975682638,975682638,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,789267,789267,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28941,28941,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1569325,1569325,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14,14,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53814802,53814802,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,118960,118960,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140,140,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5955,5955,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1221,1221,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,958469,958469,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,670,670,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1517,1517,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27988774,27988774,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13584083,13584083,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2020,2020,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98,98,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4386635,4386635,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132762,132762,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,184124,184124,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8552147,8552147,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,499,Montenegro,MNE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113937,113937,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10035534,10035534,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,710916,710916,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,340235,340235,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,214824,214824,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55624,55624,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11897834,11897834,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1039767,1039767,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,474993,474993,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26234581,26234581,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4266,4266,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91157,91157,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45058,45058,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3591893,3591893,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7943635,7943635,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,652,Saint Barthélemy,BLM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39495,39495,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26118,26118,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,662,Saint Lucia,LCA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,582,582,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,637397,637397,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,591274441,591274441,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4915,4915,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33444608,33444608,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27771153,27771153,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7920,7920,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43676,43676,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69931,69931,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,123,123,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27639426,27639426,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3818,3818,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132270,132270,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,305437,305437,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142064,142064,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2757189,2757189,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22826902,22826902,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1511575,1511575,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,839,Special Categories,XX ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196662805,196662805,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,147,147,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1322920,1322920,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9690680,9690680,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1670507,1670507,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,441,441,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36501414404,36501414404.61,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2820839,2820839,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,386552658,386552658,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1168989031,1168989031,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28020436,28020436,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35439306,35439306,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1009313530,1009313530,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37579077,37579077,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,665756562,665756562,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,587117784,587117784,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1119950207,1119950207.99,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,908365108,908365108.99,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1234115859,1234115859,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4371636246,4371636246.9,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16085495,16085495,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287796302,287796302,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,165244325,165244325,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25605269,25605269,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1780829404,1780829404,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55211413,55211413,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94864751,94864751,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2612841618,2612841618.92,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14485987,14485987,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70871963,70871963,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1801409765,1801409765,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,499519506,499519506,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3875306,3875306,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4203085673,4203085673.93,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107889014,107889014,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105908058,105908058,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5172731877,5172731877.99,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54830609,54830609,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5083753,5083753,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,201900070,201900070,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,129289153,129289153,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63568706,63568706,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,682836188,682836188,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1369241324,1369241324.97,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78057197,78057197,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3000825,3000825,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,207357164,207357164,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,289105046,289105046,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1009472221,1009472221.92,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,482525067,482525067,,0
+H5,2018,2018,2018,5,0,0,M,440,Lithuania,LTU,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,308037,308037,,0
