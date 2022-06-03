@@ -1,488 +1,810 @@
 Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,69802,,69802.05,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77,,77.34,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13223,,13223.99,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4381,,4381.56,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8608,,8608.02,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2404947,,2404947.96,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18901,,18901.67,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41696,,41696.48,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,429,,429.97,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2156828,,2156828.2,4
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,445,,445.04,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1064154,,1064154.62,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20375,20375.04,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,314045,314045.2,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1959106,1959106.62,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2732694,2732694.18,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12851914,12851914.13,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,723,723.55,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4270113,4270113.33,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,966479,966479.94,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2942,2942.15,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1137421594,1137421594.461,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2774182,2774182.72,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90524,90524.89,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42958710,42958710.25,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99867945,99867945.68,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5451,5451.31,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3500158,3500158,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1417,1417.8,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7211023,7211023.65,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4881,4881.04,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8650207,8650207.6,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3783,3783.33,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3169984,3169984.35,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17905,17905.51,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,774,774.96,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,189,189.66,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1490034,1490034.58,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1055508,1055508.04,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24822,24822.46,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1485252104,1485252104.471,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,116770,116770.83,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,226320,226320,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,208,208.42,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1680594,1680594.14,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1304021,1304021.08,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,863407,863407.08,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18361628,18361628.92,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,758515,758515.68,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20,20.98,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16582,16582.32,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1503,1503.72,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2103694,2103694.13,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17880264,17880264.78,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1854,1854.14,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1012731,1012731.1,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72047842,72047842.53,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1546,1546.67,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35327,35327.84,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,153758,153758.15,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62497,62497.24,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36622,36622.3,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2531810,2531810.69,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46329,46329.74,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,26734,26734.62,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12477,12477.62,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,119972,119972.65,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,491698,491698.37,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50,50.54,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7964501,7964501.1,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,847735,847735.56,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83976,83976.12,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25351,25351.02,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88046,88046.71,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,76,76.26,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1211370,1211370.57,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,127,127.91,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74,74.07,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3698167,3698167.14,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13631476,13631476.73,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21861,21861.49,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1788,1788.7,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5654616,5654616.79,,4
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,501539,501539.17,,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4588760,,4588760.2,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2446,,2446.39,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8014,,8014.65,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,397,,397.12,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1041527,,1041527.41,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,555703,,555703.16,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,612,Pitcairn,PCN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,92,,92.06,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36,,36.34,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20,,20.54,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90826,,90826.05,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2645,,2645.71,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5,,5.22,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2088,,2088.93,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,184,,184.86,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125276,,125276.03,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3389,,3389.22,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12457,,12457.64,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36661,,36661.67,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15148,,15148.44,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23107,,23107.21,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2964702,,2964702.46,4
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,736761,,736761.8,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2845,,2845.21,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,404680,,404680.81,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,353209,,353209.27,4
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,600243,,600243.48,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27434,,27434.2,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,118886,,118886.12,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61338,,61338.16,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5060,,5060.96,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3483,,3483.7,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,581,United States Minor Outlying Islands,UMI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,115200,,115200.23,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1205,,1205.05,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,356647,,356647.11,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41190,,41190.68,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,258546,,258546.32,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,313649,,313649.38,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,290454,,290454.47,4
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19187,,19187.17,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65863,,65863.85,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,676458,,676458.28,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136,,136.93,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,342231,,342231.91,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,638298740,,638298740.379,4
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,211544,,211544.42,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50635,,50635.16,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1787,,1787.7,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,575243,,575243.7,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,197743,,197743.91,4
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3763,,3763.49,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,186813,,186813.37,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31,,31.88,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,114460,114460.26,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22325,22325.05,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68832,68832.42,,0
-H4,2016,2016,2016,5,0,0,M,426,Lesotho,LSO,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53496,53496.69,,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,87806,,87806.16,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,258742,,258742.47,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,317441856,,317441856.2,4
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,283868,,283868.88,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1004368,,1004368.33,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7003,,7003.97,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44702,,44702.3,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53111,,53111.2,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8458897,,8458897.93,4
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8729,,8729.8,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18573,,18573.64,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,115,,115.99,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,288158101,,288158101.15,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49,,49.28,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41,,41.61,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,625558,,625558.75,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,556712,,556712.55,0
-H4,2016,2016,2016,5,0,0,X,426,Lesotho,LSO,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11233,,11233.24,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2065571364,2065571364.857,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1163247,1163247.749,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39156,39156.313,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,221757,221757.737,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149852,149852.72,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3121430,3121430.165,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,556470,556470.251,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3027961,3027961.511,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12894,12894.436,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4911,4911.256,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,201022,201022.012,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,322815,322815.044,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,0,0.985,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21367,21367.311,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1542,1542.57,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4355,4355.717,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,460,460.371,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,761716,761716.66,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,306551987,306551987.201,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2048162,2048162.535,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10144,10144.988,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9458,9458.837,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72,72.558,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2304193,2304193.867,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46609,46609.258,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13483910,13483910.046,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,225,225.103,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,92218,92218.563,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,690893,690893.721,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2363684,2363684.732,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,966572,966572.606,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,317135,317135.643,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2,2.053,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33734150,33734150.681,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47431,47431.36,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32008,32008.289,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4649789,4649789.178,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,498129,498129.873,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21766,21766.54,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51,51.648,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,237,237.255,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,443,443.275,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43221,43221.436,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,395710,395710.959,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1072294,1072294.438,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,448732,448732.036,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,314662,314662.139,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109368944,109368944.993,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,261700,261700.097,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5624,5624.274,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,366776,366776.102,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1124,1124.855,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1914560,1914560.494,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36951,36951.014,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99,99.052,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3990,3990.531,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57367,57367.899,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3240684,3240684.65,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53033,53033.376,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1685,1685.255,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1662,1662.722,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6137,6137.544,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1353372,1353372.8,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135,135.34,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2818,2818.748,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52451738,52451738.231,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1146030,1146030.427,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10667446,10667446.621,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1461144260,1461144260.717,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9622182,9622182.026,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1296678,1296678.658,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,810929,810929.431,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2768,2768.659,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,666295,666295.708,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1906514,1906514.318,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1051460,1051460.018,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,316,316.543,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1267047,1267047.252,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11155,11155.183,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75,75.781,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4878012,4878012.9,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2326,2326.549,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8025518,8025518.017,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,297,297.095,,0
-H5,2017,2017,2017,5,0,0,M,426,Lesotho,LSO,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14188777,14188777.351,,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,673150837,,673150837.674,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5408,,5408.447,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2226,,2226.384,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4181,,4181.498,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4,,4.503,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73353,,73353.417,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51,,51.779,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26865,,26865.136,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8348,,8348.979,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,528,,528.673,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,474,,474.868,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28058,,28058.048,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,383303,,383303.355,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14494,,14494.491,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,375,,375.211,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7382,,7382.299,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,129066,,129066.943,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5407064,,5407064.143,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10150,,10150.038,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145,,145.582,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1876,,1876.057,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72775,,72775.792,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1719044,,1719044.73,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16642,,16642.877,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216642,,216642.759,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36,,36.02,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,683395,,683395.809,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5928075,,5928075.372,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10063,,10063.845,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1844,,1844.539,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7282,,7282.182,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,143992,,143992.531,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27477,,27477.263,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5674,,5674.772,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22081,,22081.322,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,122506,,122506.274,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5044,,5044.342,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,362,,362.047,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106690,,106690.801,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,381078,,381078.992,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99276,,99276.581,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9099,,9099.247,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140840,,140840.266,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187,,187.606,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,430318,,430318.056,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7384,,7384.641,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,398301,,398301.042,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1580770,,1580770.106,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,312558,,312558.6,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,673263,,673263.532,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,122352,,122352.716,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,654633,,654633.134,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,649303,,649303.894,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,896705,,896705.874,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,74411,,74411.902,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69036,,69036.791,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29794,,29794.111,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5192,,5192.926,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37,,37.521,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30,,30.017,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,601,,601.614,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12710,,12710.661,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2241,,2241.269,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96596,,96596.864,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2949,,2949.072,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126821,,126821.928,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,331175582,,331175582.908,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,232,,232.906,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,315,,315.178,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,543,,543.616,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25197,,25197.472,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63345,,63345.962,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5542,,5542.7,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,165689,,165689.015,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11,,11.256,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11417695,,11417695.463,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,306000665,,306000665.861,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1122937,,1122937.747,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,154303,,154303.625,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,652079,,652079.422,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3677,,3677.072,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15382,,15382.437,0
-H5,2017,2017,2017,5,0,0,X,426,Lesotho,LSO,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,378142,,378142.941,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19521,0,19521.15,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4750,0,4750.95,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,0,0,0.53,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,713345,0,713345.44,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2239314,0,2239314.61,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,95,0,95.47,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,242,0,242.58,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3319,0,3319.37,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13505,0,13505,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5260,0,5260.39,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1473,0,1473.43,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,269682,269682.52,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7675528,7675528.29,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3142731,3142731.34,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3583163,3583163.64,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23094,23094.18,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,274,274.1,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7146,7146.25,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1095280,1095280.1,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7121205,7121205.55,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,758527,758527.1,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,315320,315320.61,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,361,361.11,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8617791,8617791.55,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63184,63184.95,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1470,1470.97,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24600,24600.16,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,291,291.1,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,681,681.09,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,485,485.92,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33485259,33485259.62,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,313711,313711.93,0,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33,0,33.04,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,506272,0,506272.65,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17267,0,17267.46,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,944131,0,944131.03,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25634,0,25634.78,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6097706,0,6097706.22,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53366,0,53366,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,91364,0,91364.52,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,801,0,801.99,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5829,0,5829.437,4
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2937,0,2937.78,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,763387,0,763387.99,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,366302,0,366302.64,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,209,0,209.43,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,698,0,698.37,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,489568,489568.19,0,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,58,0,58.74,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,688970,0,688970.1,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2107999,2107999.79,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,510,510.83,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,84574093,84574093.02,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,150,150.32,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1675,1675.76,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,760211,760211.62,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5704,5704.29,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,107919,107919.73,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2568610,2568610.68,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2579,2579.14,0,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,665723,0,665723.34,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15896582,15896582.2,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,138474,138474.42,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2500833,2500833.6,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,901298,901298.21,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,415,415.17,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,308139,308139.06,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2418,2418.65,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11527,11527.53,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25852565,25852565.93,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,818235316,818235316.944,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24583,24583.15,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30564,30564.29,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,94195,94195.6,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,193,193,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,753,753.18,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,477836,477836.89,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,76160792,76160792,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1114704952,1114704952.424,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,201,201.42,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13735,13735.46,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,412256,412256.85,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1569056,1569056.42,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,557320,557320.14,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16803,16803.65,0,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,141177,0,141177.02,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2,0,2.66,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1793,0,1793.51,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4689,0,4689.69,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,238,0,238.69,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3635,0,3635.51,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3286,0,3286.64,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99,0,99.12,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3815,0,3815.08,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,464969,0,464969.455,4
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18768,0,18768.93,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14557,0,14557.07,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,197423,0,197423.18,4
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1138,0,1138.39,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2184,0,2184.64,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,140313,0,140313.8,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1788943,0,1788943.19,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1,0,1.31,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,234449,0,234449.86,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11317,0,11317.91,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22954,0,22954.91,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3682800,0,3682800.82,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21893,21893.18,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,190,190.61,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,128211,128211.2,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,509526,509526.26,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28158,28158.77,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7519093,7519093.19,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3745,3745.22,0,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17222,0,17222.77,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,521094,0,521094.05,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21756,0,21756.74,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25834,0,25834.26,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,706099639,0,706099639.782,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,125721,125721.9,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1722,1722.27,0,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,204467,0,204467.12,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62593,0,62593.42,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,255487615,0,255487615.22,4
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,246674710,0,246674710.1,4
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,298,0,298.93,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42357,0,42357.75,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,217295,0,217295.39,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,43,0,43.54,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52670,0,52670.34,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,298259,0,298259.03,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2712794,0,2712794.01,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23395,0,23395.13,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25463,0,25463.7,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74733,0,74733.36,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,104,104.13,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1697505,1697505.34,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5087,5087.14,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,654,Saint Helena,SHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1546,1546.35,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,919,919.66,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20524,20524.45,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,907272,907272.41,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,121464,121464.06,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,81563,81563.26,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,113726,113726.52,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,303533,303533.85,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,279262,279262.21,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,210220,210220.15,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,47102,47102.16,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,97772,97772.91,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,234255,234255.39,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61592,61592.11,0,4
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1845513,1845513.39,0,0
-H4,2018,2018,2018,5,0,0,M,426,Lesotho,LSO,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13045,13045.12,0,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,235627,0,235627.28,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9,0,9.31,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45403446,0,45403446.3,4
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,120,0,120.39,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22254,0,22254.63,4
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,58639,0,58639.81,0
-H4,2018,2018,2018,5,0,0,X,426,Lesotho,LSO,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,133946851,0,133946851.38,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2065571364,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673150837,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1163247,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5408,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39156,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,683395,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221757,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149852,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216642,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3121430,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16642,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556470,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1719044,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3027961,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72775,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12894,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4911,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1876,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201022,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10150,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322815,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5407064,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,0,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129066,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306551987,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28058,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,474,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8348,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26865,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4355,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1542,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73353,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2048162,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4181,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2226,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10144,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143992,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9458,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7282,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21367,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,761716,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1844,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10063,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2304193,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5928075,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46609,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27477,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5674,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22081,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13483910,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383303,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14494,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92218,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122506,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,690893,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5044,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2363684,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,362,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,966572,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7382,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317135,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106690,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33734150,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381078,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47431,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99276,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32008,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9099,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4649789,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140840,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498129,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21766,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,237,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43221,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430318,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,395710,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7384,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1072294,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398301,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448732,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1580770,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314662,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312558,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109368944,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673263,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261700,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122352,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5624,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,366776,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,654633,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1124,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1914560,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,649303,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36951,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,896705,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3990,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74411,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57367,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3240684,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69036,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29794,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53033,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5192,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1685,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1662,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6137,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,601,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1353372,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12710,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2818,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2241,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52451738,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96596,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1146030,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2949,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10667446,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126821,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1461144260,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,331175582,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9622182,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1122937,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1296678,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,315,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,810929,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11417695,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2768,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,666295,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1906514,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1051460,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165689,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,316,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1267047,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5542,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11155,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63345,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25197,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,543,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4878012,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,652079,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2326,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154303,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8025518,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306000665,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3677,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15382,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297,,,0
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14188777,,,0
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378142,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1485252104,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,638298740,,,4
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,429,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1490034,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1055508,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,600243,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24822,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116770,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1064154,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3698167,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36661,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226319,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2156828,,,4
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1012731,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15148,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26734,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69802,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12477,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211544,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114460,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4588760,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72047842,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,676458,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22325,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13223,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27434,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2446,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83976,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50635,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1304021,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23107,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4381,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46329,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342231,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118886,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119972,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,758515,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8014,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1680594,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2964702,,,4
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1787,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8608,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3763,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17880264,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,736761,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1546,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2645,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35327,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186813,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153758,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2845,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2103694,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7964501,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61338,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,491698,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1503,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18361628,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5060,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3483,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,863407,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2404947,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36622,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18901,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53496,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1854,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41190,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16582,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,258546,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,847735,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,404680,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62497,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2531810,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1041527,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68832,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,575243,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99867945,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,353209,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197743,,,4
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,313649,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41696,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3169984,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,555703,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,445,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290454,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2088,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17905,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19187,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5451,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25351,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115200,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7211023,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65863,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125276,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4881,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53111,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,774,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88046,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2942,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90524,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3389,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1205,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42958710,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90826,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1211370,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12457,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8650207,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356647,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3783,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1137421594,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317441856,,,4
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3500158,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1004368,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,966479,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2774182,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8458897,,,4
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1417,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1959106,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8729,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2732694,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13631476,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,258742,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,501539,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18573,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87806,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21861,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1788,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4270113,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,625558,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,723,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556712,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5654616,,,4
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288158101,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11233,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7003,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20375,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12851914,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44702,,,0
+H4,2016,2016,2016,0,0,1,Import,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314045,,,0
+H4,2016,2016,2016,0,0,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283868,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1114704952,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706099639,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,713345,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128211,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,665723,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97772,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,412256,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,688970,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1569056,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133946851,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,279262,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1788943,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28158,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24600,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16803,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52670,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,681,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,557320,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2712794,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303533,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76160791,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2239314,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,801,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3319,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11317,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23395,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13505,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,919,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234255,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13735,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,313711,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17222,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5260,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,509526,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235627,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3635,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121464,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477836,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1473,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20524,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2937,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,907272,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3682800,,,4
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63184,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3286,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1470,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25463,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8617791,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5829,,,4
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21893,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210220,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,506272,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,760211,,,4
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2568610,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,901298,,,4
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47102,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2579,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33485259,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74733,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1793,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24583,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3815,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81563,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4689,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113726,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19521,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308139,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18768,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,361,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,763387,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,758527,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17267,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,315320,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,521094,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14557,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107919,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,944131,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,366302,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84574093,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,464969,,,4
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30564,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21756,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1697505,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298259,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197423,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2184,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2418,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25834,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1138,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3745,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7519093,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22254,,,4
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5704,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4750,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11527,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140313,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5087,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23094,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,0,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,274,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7146,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1546,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94195,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1675,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42357,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25852565,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217295,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1095280,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7121205,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58639,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,818235316,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246674710,,,4
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3583163,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53365,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,489568,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61592,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6097706,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269682,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138474,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62593,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1845513,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3142731,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141177,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13045,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2107999,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1722,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25634,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22954,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2500833,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204467,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,510,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234449,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7675528,,,4
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255487615,,,4
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15896582,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91364,,,0
+H4,2018,2018,2018,0,0,1,Import,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125721,,,0
+H4,2018,2018,2018,0,0,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45403446,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1364300937,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,646049194,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10136,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3049,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17371,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,554337,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152919,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,372,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6201860,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47068,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1132194,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111317921,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,892596,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2647929,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52700,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46975,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12612,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157017,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3558768,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1104569,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96025,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84153048,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17753293,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26665,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,838,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299375,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1942,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1348886,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3025,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1247,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1353477,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6101,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670283,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4880983,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10478,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4528,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7341,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54760,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4013,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16084,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68122,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15573860,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1282767,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247904,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291397,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2264,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233721,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1389096,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,423246,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25097288,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204202,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15270,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1024,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183903,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63174,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261992,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26220,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17705,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322277,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12637,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,563846,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,500898,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,550166,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329289,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2253710,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83596104,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,729069,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23670,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1347583,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45004,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2688723,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,533729,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7211,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1366,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,417520,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3374,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31763,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8451,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7613956,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3394,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,0,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24595,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96324,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20929,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13865,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7589,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68729,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3250,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35634394,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142804,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,799697,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5553894,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39014,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5256,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1049054941,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241771044,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4643013,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17740,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8237937,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19525,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,915,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2138451,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6968997,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,529491,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17378,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,533887,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1746262,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2549,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1263918,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143026,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2478549,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127057,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1453,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133114,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128808,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10323,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1834330,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,903107,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10156,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1081675,,,0
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1865675,,,4
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245932879,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8901188,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27144,,,4
+H4,2019,2019,2019,0,0,1,Import,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1788309,,,0
+H4,2019,2019,2019,0,0,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52527,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1493836265,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,832777085,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101594,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227195,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,590848,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170669,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2592221,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,480926,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1472404,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272572791,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,570,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193988,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2404086,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27840,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46119,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57189,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19545,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,382,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212946,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4596421,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71192,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4242,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127043078,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,971686,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13353,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6195,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47525,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102175,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,360968,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24324,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194831,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,366916,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13503,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3437330,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1516,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55395,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6336,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1077411,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8466504,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48222,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4075,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7187,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21539513,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,659827,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34401,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6100,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,810339,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,976762,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275279,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,391,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252115,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,699585,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56532378,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3101,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26625919,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81890,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74273,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1325,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193188,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52166,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272735,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3284,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9839,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3106,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96935,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26983,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6662,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516317,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,368858,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1543877,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245292,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,846,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4176718,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82511173,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281984,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1844057,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3437,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3824896,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311007,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,526272,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,995,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4039,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66846,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6740340,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18691,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7016,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70460,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1622825,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1583,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77606,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148104,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,788,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48740771,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351502,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1196389,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5304,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9006566,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20719,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2025,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1061472701,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277862908,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2252274,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,339446,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,994915,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16799,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3487439,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7415815,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109921,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69412,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12920,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2678526,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,517,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27621,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2878070,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64235,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1503425,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8014,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67200,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2577,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25972,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1623483,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,721096,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7758,,,0
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,591989,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3471121,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245636440,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12,,,0
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11331467,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187711,,,4
+H4,2020,2020,2020,0,0,1,Import,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178215,,,4
+H4,2020,2020,2020,0,0,2,Export,426,Lesotho,LSO,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,513,,,4

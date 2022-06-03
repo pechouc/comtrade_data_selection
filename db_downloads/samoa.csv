@@ -1,749 +1,483 @@
 Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,349840565,349840565,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,261,261,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,296621,296621,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36129464,36129464,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,77572,77572,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,506156,506156,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11476,11476,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,312,312,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2311,2311,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,544,544,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63,63,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,559535,559535,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20540,20540,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,133835,133835,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10436,10436,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44277,44277,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49231830,49231830,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13119,13119,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2212,2212,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2713,2713,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7327,7327,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46788,46788,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22867685,22867685,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,542,542,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52405,52405,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,163421,163421,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1982876,1982876,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25171,25171,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,141,141,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6568403,6568403,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5951641,5951641,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11782,11782,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1563,1563,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,322615,322615,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,40117,40117,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1576557,1576557,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,646399,646399,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58,58,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,636,636,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,277,277,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18244991,18244991,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8471308,8471308,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12611,12611,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2151,2151,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14445,14445,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,446025,446025,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,661,661,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,182703,182703,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1725774,1725774,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83676385,83676385,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,96589,96589,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,88149,88149,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,128268,128268,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,555,555,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,276363,276363,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1052887,1052887,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1088,1088,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1291210,1291210,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3324462,3324462,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51104068,51104068,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,125857,125857,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,293985,293985,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8323,8323,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,307869,307869,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,523869,523869,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,126524,126524,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11499592,11499592,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1733,1733,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,176776,176776,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3116,3116,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2851,2851,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1057290,1057290,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28995,28995,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1040339,1040339,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37173157,37173157,,0
-H4,2016,2016,2016,5,0,0,M,882,Samoa,WSM,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19919,19919,,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56040486,,56040486,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20124170,,20124170,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6183,,6183,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,164,,164,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,145938,,145938,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1783579,,1783579,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7953,,7953,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2136,,2136,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,798996,,798996,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14446910,,14446910,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1652192,,1652192,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25,,25,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21460,,21460,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2530,,2530,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,786232,,786232,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2953460,,2953460,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,398,,398,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,84591,,84591,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11377,,11377,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,307185,,307185,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10,,10,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5350,,5350,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24486,,24486,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,81,,81,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6697724,,6697724,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,975,,975,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,156,,156,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4140,,4140,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3814,,3814,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,349,,349,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8,,8,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,631101,,631101,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,162,,162,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6808,,6808,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9500,,9500,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8,,8,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1651493,,1651493,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42827,,42827,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28391,,28391,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2,,2,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9,,9,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56563,,56563,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3740933,,3740933,0
-H4,2016,2016,2016,5,0,0,X,882,Samoa,WSM,876,Wallis and Futuna Isds,WLF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,122,,122,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,356189844,356189844.917,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,803570,803570.236,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37395168,37395168.316,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203609,203609.458,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52534,52534.875,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1247,1247.263,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4190,4190.883,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,914094,914094.341,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22222,22222.629,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19029,19029.557,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141836,141836.139,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5395,5395.055,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24759,24759.06,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69507,69507.14,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32261765,32261765.509,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4252,4252.949,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73,73.927,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,868,868.538,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1042176,1042176.984,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20729673,20729673.852,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3759,3759.579,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2118099,2118099.251,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13260965,13260965.787,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85,85.391,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4114363,4114363.243,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1204124,1204124.299,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173,173.154,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3439,3439.362,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15209974,15209974.918,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1319449,1319449.675,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6755566,6755566.175,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,336,336.03,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2955344,2955344.006,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19968,19968.068,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,542083,542083.031,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,630,630.55,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,260771,260771.264,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18759,18759.152,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12376,12376.96,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94074842,94074842.629,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70027,70027.393,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20588,20588.734,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,262566,262566.848,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,961902,961902.268,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30595,30595.302,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83,83.414,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,449674,449674.482,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58975099,58975099.968,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4702017,4702017.825,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76170,76170.015,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18604,18604.973,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,211651,211651.635,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,998516,998516.058,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75349,75349.312,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8654776,8654776.107,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26128,26128.084,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73816,73816.622,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1401,1401.441,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1346734,1346734.887,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3969387,3969387.006,,0
-H4,2017,2017,2017,5,0,0,M,882,Samoa,WSM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39693663,39693663.305,,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9319,,9319.15,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44401814,,44401814.197,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11821433,,11821433.421,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79,,79.137,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9516657,,9516657.215,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8178,,8178.788,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119,,119.101,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,367338,,367338.781,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,506999,,506999.406,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,127845,,127845.5,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1779079,,1779079.94,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126,,126.619,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6879,,6879.758,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,260,Fr. South Antarctic Terr.,ATF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7,,7.914,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6463,,6463.498,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108985,,108985.223,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5897,,5897.274,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30571,,30571.337,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50784,,50784.459,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1593651,,1593651.339,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1028,,1028.778,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47390,,47390.677,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,166525,,166525.59,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7,,7.914,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2389223,,2389223.877,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46,,46.295,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,941,,941.728,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39,,39.568,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22258,,22258.808,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8735118,,8735118.797,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,239,,239.389,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,551,,551.979,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,458,,458.993,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125194,,125194.418,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39,,39.568,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,647,,647.735,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1266,,1266.98,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,386796,,386796.937,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39,,39.568,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4872,,4872.057,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7545,,7545.298,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3624132,,3624132.274,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140789,,140789.115,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2513397,,2513397.43,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29550,,29550.472,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,263212,,263212.954,0
-H4,2017,2017,2017,5,0,0,X,882,Samoa,WSM,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79,,79.137,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,362883715,362883715.503,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1742359,1742359.835,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35934890,35934890.496,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,152,Chile,CHL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142671,142671.797,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,144,Sri Lanka,LKA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14188,14188.456,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,124,Canada,CAN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42519,42519.014,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,116,Cambodia,KHM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7175,7175.154,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,90,Solomon Isds,SLB,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1690,1690.362,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,76,Brazil,BRA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,596355,596355.89,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,56,Belgium,BEL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,455856,455856.533,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,50,Bangladesh,BGD,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90536,90536.339,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,40,Austria,AUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100953,100953.156,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32745752,32745752.389,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,184,Cook Isds,COK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96,96.956,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,203,Czechia,CZE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246,246.447,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,208,Denmark,DNK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19281,19281.173,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,304,Greenland,GRL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63594,63594.845,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,276,Germany,DEU,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,879526,879526.659,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,258,French Polynesia,PYF,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4531,4531.066,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,251,France,FRA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55779,55779.238,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,246,Finland,FIN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2359,2359.399,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20796986,20796986.674,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,360,Indonesia,IDN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4760997,4760997.364,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,372,Ireland,IRL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203,203.183,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,376,Israel,ISR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,446,446.54,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,352,Iceland,ISL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,904,904.668,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,348,Hungary,HUN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95,95.025,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17725766,17725766.374,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,380880,380880.716,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15446283,15446283.618,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,404,Kenya,KEN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4242,4242.515,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,408,Dem. People's Rep. of Korea,PRK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1870787,1870787.166,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6993994,6993994.009,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,458,Malaysia,MYS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2712469,2712469.573,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,548,Vanuatu,VUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,178150,178150.083,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,540,New Caledonia,NCL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9601,9601.765,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,531,Curaçao,CUW,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2133,2133.425,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,528,Netherlands,NLD,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,197585,197585.382,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,516,Namibia,NAM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2994,2994.444,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,490,"Other Asia, nes",S19,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,939632,939632.235,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98743750,98743750.004,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,566,Nigeria,NGA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2595,2595.416,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,586,Pakistan,PAK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140819,140819.198,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,699,India,IND,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2213980,2213980.846,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,608,Philippines,PHL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,328289,328289.061,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,598,Papua New Guinea,PNG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133810,133810.531,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67044038,67044038.827,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,704,Viet Nam,VNM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1316597,1316597.615,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,710,South Africa,ZAF,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61822,61822.978,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,724,Spain,ESP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,127384,127384.761,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,752,Sweden,SWE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105588,105588.517,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,757,Switzerland,CHE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,422118,422118.825,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,764,Thailand,THA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10367379,10367379.244,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,776,Tonga,TON,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,188848,188848.498,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,784,United Arab Emirates,ARE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22364,22364.848,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,792,Turkey,TUR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,357540,357540.511,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,438517,438517.576,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,834,United Rep. of Tanzania,TZA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3737,3737.647,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,0,World,W00,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35940010,35940010.639,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,517433,517433.45,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,16,American Samoa,ASM,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,491765,491765.134,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,16,American Samoa,ASM,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40,40.559,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,16,American Samoa,ASM,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,190,190.822,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,16,American Samoa,ASM,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1495,1495.677,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,16,American Samoa,ASM,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23941,23941.257,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34857875,34857875.411,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,123306,123306.801,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36647,36647.556,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,369372,369372.658,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30259405,30259405.416,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1811410,1811410.886,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,360,Indonesia,IDN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50048,50048.386,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,554,554.312,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,504721,504721.357,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,548,Vanuatu,VUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76988,76988.336,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1538881,1538881.749,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4011,4011.133,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,36,Australia,AUS,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82526,82526.821,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93062,93062.998,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,40,Austria,AUT,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244,244.129,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,40,Austria,AUT,40,Austria,AUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,92818,92818.869,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,128810,128810.134,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,50,Bangladesh,BGD,50,Bangladesh,BGD,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90536,90536.339,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,50,Bangladesh,BGD,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32294,32294.179,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,50,Bangladesh,BGD,699,India,IND,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5979,5979.617,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,506803,506803.793,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,56,Belgium,BEL,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2425,2425.067,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,56,Belgium,BEL,56,Belgium,BEL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,455856,455856.533,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,56,Belgium,BEL,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21839,21839.12,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,56,Belgium,BEL,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26683,26683.073,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1028753,1028753.63,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,76,Brazil,BRA,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,193,193.913,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,76,Brazil,BRA,76,Brazil,BRA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,581635,581635.913,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,76,Brazil,BRA,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,360117,360117.386,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,76,Brazil,BRA,764,Thailand,THA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110,110.862,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,76,Brazil,BRA,776,Tonga,TON,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38603,38603.678,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,76,Brazil,BRA,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48091,48091.877,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4967,4967.176,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,84,Belize,BLZ,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4967,4967.176,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1690,1690.362,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,90,Solomon Isds,SLB,90,Solomon Isds,SLB,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1690,1690.362,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,314,314.818,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,96,Brunei Darussalam,BRN,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,314,314.818,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7792,7792.429,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,116,Cambodia,KHM,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,617,617.276,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,116,Cambodia,KHM,116,Cambodia,KHM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7175,7175.154,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55532,55532.405,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,124,Canada,CAN,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4745,4745.838,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,124,Canada,CAN,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3687,3687.43,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,124,Canada,CAN,124,Canada,CAN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42519,42519.014,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,124,Canada,CAN,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,652,652.041,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,124,Canada,CAN,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2032,2032.22,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,124,Canada,CAN,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1895,1895.863,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1606,1606.925,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,136,Cayman Isds,CYM,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1606,1606.925,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14786,14786.031,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,144,Sri Lanka,LKA,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,597,597.575,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,144,Sri Lanka,LKA,144,Sri Lanka,LKA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14188,14188.456,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,355187,355187.679,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,152,Chile,CHL,152,Chile,CHL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86624,86624.48,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,152,Chile,CHL,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58057,58057.905,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,152,Chile,CHL,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,210505,210505.294,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43148324,43148324.844,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,234068,234068.769,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,234833,234833.217,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,152,Chile,CHL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56047,56047.317,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108016,108016.288,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32198033,32198033.418,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5372530,5372530.201,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,478,478.215,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33665,33665.473,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,548,Vanuatu,VUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22367,22367.938,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,932688,932688.077,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,490,"Other Asia, nes",S19,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33529,33529.116,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,528,Netherlands,NLD,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,510,510.276,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2088421,2088421.259,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,598,Papua New Guinea,PNG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25407,25407.962,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,608,Philippines,PHL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1687,1687.658,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1141384,1141384.42,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,757,Switzerland,CHE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7101,7101.374,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,764,Thailand,THA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53306,53306.659,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,776,Tonga,TON,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4117,4117.746,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,784,United Arab Emirates,ARE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19842,19842.052,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3454,3454.117,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,156,China,CHN,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,576833,576833.292,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96,96.956,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,184,Cook Isds,COK,184,Cook Isds,COK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96,96.956,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2347,2347.424,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,188,Costa Rica,CRI,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2347,2347.424,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,928,928.617,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,203,Czechia,CZE,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,585,585.214,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,203,Czechia,CZE,203,Czechia,CZE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246,246.447,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,203,Czechia,CZE,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96,96.956,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29336,29336.818,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,208,Denmark,DNK,208,Denmark,DNK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19281,19281.173,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,208,Denmark,DNK,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10055,10055.645,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13994,13994.543,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,238,Falkland Isds (Malvinas),FLK,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13994,13994.543,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24581553,24581553.212,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3137539,3137539.192,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26608,26608.521,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19644413,19644413.649,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,321446,321446.495,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,978392,978392.357,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,354576,354576.584,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22976,22976.715,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,776,Tonga,TON,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,767,767.539,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,242,Fiji,FJI,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94832,94832.161,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13902,13902.222,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,246,Finland,FIN,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4366,4366.897,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,246,Finland,FIN,246,Finland,FIN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2359,2359.399,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,246,Finland,FIN,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7175,7175.926,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,122228,122228.693,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,251,France,FRA,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,402,402.118,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,251,France,FRA,251,France,FRA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46960,46960.463,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,251,France,FRA,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,775,775.264,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,251,France,FRA,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,364,364.262,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,251,France,FRA,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3122,3122.302,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,251,France,FRA,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27283,27283.739,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,251,France,FRA,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43320,43320.545,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4531,4531.066,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,258,French Polynesia,PYF,258,French Polynesia,PYF,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4531,4531.066,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,202,202.411,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,266,Gabon,GAB,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,202,202.411,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1107684,1107684.955,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117773,117773.724,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,40,Austria,AUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5688,5688.361,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,276,Germany,DEU,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,877682,877682.557,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43,43.65,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97979,97979.185,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14,14.292,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,276,Germany,DEU,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8503,8503.185,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,304,Greenland,GRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63594,63594.845,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,304,Greenland,GRL,304,Greenland,GRL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63594,63594.845,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,135979,135979.494,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90,90.003,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70267,70267.061,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109184,109184.399,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7798295,7798295.314,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5739274,5739274.223,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,360,Indonesia,IDN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12424,12424.701,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,987378,987378.778,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,695416,695416.273,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16496,16496.093,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,352,Iceland,ISL,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62,62.191,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,352,Iceland,ISL,352,Iceland,ISL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,904,904.668,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,352,Iceland,ISL,360,Indonesia,IDN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15529,15529.234,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13034,13034.251,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12393,12393.798,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22852,22852.333,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95,95.025,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,348,Hungary,HUN,348,Hungary,HUN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95,95.025,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,699,India,IND,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5199,5199.331,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,165679,165679.801,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203,203.183,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,108502,108502.229,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105915,105915.31,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,360,Indonesia,IDN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4601555,4601555.601,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9356,9356.478,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117457,117457.747,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5886836,5886836.713,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287792,287792.997,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,485377,485377.22,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,372,Ireland,IRL,372,Ireland,IRL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203,203.183,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17465,17465.657,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,376,Israel,ISR,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196,196.617,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,376,Israel,ISR,376,Israel,ISR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,446,446.54,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,376,Israel,ISR,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16822,16822.5,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,479728,479728.259,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,380,Italy,ITA,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28336,28336.739,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,380,Italy,ITA,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51,51.762,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,380,Italy,ITA,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,337909,337909.368,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,380,Italy,ITA,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113430,113430.391,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8335,8335.539,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,388,Jamaica,JAM,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4223,4223.201,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,388,Jamaica,JAM,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4112,4112.338,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17301762,17301762.116,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11055,11055.338,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21718,21718.601,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1849,1849.509,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,109629,109629.394,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34974,34974.963,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,552876,552876.584,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,528,Netherlands,NLD,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30224,30224.49,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,408,Dem. People's Rep. of Korea,PRK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66568,66568.815,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,387,387.825,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7021,7021.028,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,707836,707836.725,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25699,25699.99,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,408,Dem. People's Rep. of Korea,PRK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1490891,1490891.077,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1516591,1516591.068,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8543,8543.358,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5,5.408,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,648,648.178,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,388414,388414.338,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1465456,1465456.462,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,404,Kenya,KEN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4242,4242.515,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,392,Japan,JPN,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15255224,15255224.053,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35923,35923.28,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,410,Rep. of Korea,KOR,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14834,14834.702,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91,91.935,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,417,Kyrgyzstan,KGZ,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91,91.935,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1392,1392.926,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,442,Luxembourg,LUX,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1392,1392.926,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3984079,3984079.844,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,71140,71140.827,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182335,182335.428,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216,216.317,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,353963,353963.557,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89256,89256.593,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,458,Malaysia,MYS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2627126,2627126.77,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,528,Netherlands,NLD,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2404,2404.98,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,372797,372797.418,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100637,100637.565,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,764,Thailand,THA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145840,145840.453,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,458,Malaysia,MYS,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38359,38359.936,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93740,93740.147,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,484,Mexico,MEX,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,942,942.524,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,484,Mexico,MEX,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90386,90386.463,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,484,Mexico,MEX,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2411,2411.161,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1438669,1438669.865,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17114,17114.528,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27906,27906.036,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2598,2598.507,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,206,206.274,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,475527,475527.849,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,490,"Other Asia, nes",S19,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,865168,865168.24,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39909,39909.305,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9103,9103.464,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,490,"Other Asia, nes",S19,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1135,1135.664,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69,69.144,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,496,Mongolia,MNG,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69,69.144,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14511,14511.386,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,516,Namibia,NAM,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14361,14361.509,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,516,Namibia,NAM,699,India,IND,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149,149.877,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,142025,142025.164,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,528,Netherlands,NLD,528,Netherlands,NLD,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133486,133486.828,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,528,Netherlands,NLD,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8538,8538.336,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2133,2133.425,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,531,Curaçao,CUW,531,Curaçao,CUW,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2133,2133.425,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,535,Bonaire,BES,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3435,3435.576,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,535,Bonaire,BES,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3435,3435.576,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9353,9353.001,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,540,New Caledonia,NCL,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173,173.826,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,540,New Caledonia,NCL,540,New Caledonia,NCL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9179,9179.175,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,744935,744935.456,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,548,Vanuatu,VUT,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,238291,238291.969,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,548,Vanuatu,VUT,548,Vanuatu,VUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65440,65440.877,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,548,Vanuatu,VUT,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,441202,441202.609,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,90477259,90477259.597,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62825,62825.375,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246586,246586.176,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,149363,149363.714,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,411251,411251.606,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1397335,1397335.573,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,360,Indonesia,IDN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81439,81439.442,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4160,4160.623,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36275,36275.954,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,93428,93428.032,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,458,Malaysia,MYS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70566,70566.815,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,490,"Other Asia, nes",S19,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40934,40934.879,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,516,Namibia,NAM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2994,2994.444,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,540,New Caledonia,NCL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,422,422.59,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,548,Vanuatu,VUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44,44.036,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87653995,87653995.61,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,598,Papua New Guinea,PNG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1687,1687.272,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,608,Philippines,PHL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,918,918.574,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,704,Viet Nam,VNM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35677,35677.606,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,764,Thailand,THA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13947,13947.803,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32,32.061,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,554,New Zealand,NZL,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173371,173371.411,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3455,3455.662,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,566,Nigeria,NGA,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,860,860.246,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,566,Nigeria,NGA,566,Nigeria,NGA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2595,2595.416,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,574,Norfolk Isds,NFK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22,22.018,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,574,Norfolk Isds,NFK,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22,22.018,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141099,141099.637,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,586,Pakistan,PAK,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,221,221.339,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,586,Pakistan,PAK,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59,59.101,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,586,Pakistan,PAK,586,Pakistan,PAK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,140819,140819.198,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,238,238.335,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,591,Panama,PAN,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,238,238.335,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,300556,300556.465,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,598,Papua New Guinea,PNG,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105536,105536.756,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,598,Papua New Guinea,PNG,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31738,31738.708,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,598,Papua New Guinea,PNG,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56616,56616.308,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,598,Papua New Guinea,PNG,598,Papua New Guinea,PNG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106664,106664.694,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,816174,816174.784,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,608,Philippines,PHL,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15893,15893.496,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,608,Philippines,PHL,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16151,16151.531,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,608,Philippines,PHL,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107098,107098.873,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,608,Philippines,PHL,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,330171,330171.018,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,608,Philippines,PHL,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21460,21460.952,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,608,Philippines,PHL,608,Philippines,PHL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,325398,325398.913,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83,83.823,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,616,Poland,POL,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,83,83.823,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2777428,2777428.759,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41731,41731.389,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21502,21502.284,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17586,17586.176,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9731,9731.556,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,408,Dem. People's Rep. of Korea,PRK,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,313327,313327.273,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28860,28860.148,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,528,Netherlands,NLD,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8157,8157.464,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,131487,131487.056,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,598,Papua New Guinea,PNG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50,50.603,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,699,India,IND,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2202652,2202652.022,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,699,India,IND,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2342,2342.789,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,66919874,66919874.87,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9587,9587.859,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,170241,170241.77,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55992,55992.465,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,276,Germany,DEU,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1844,1844.101,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,389054,389054.79,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,242607,242607.877,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,633679,633679.822,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65393824,65393824.574,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,704,Viet Nam,VNM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13647,13647.277,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,702,Singapore,SGP,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9394,9394.333,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180018,180018.52,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,703,Slovakia,SVK,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180018,180018.52,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3483910,3483910.413,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49984,49984.264,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22759,22759.24,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24720,24720.77,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,478429,478429.585,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,249314,249314.473,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,870232,870232.372,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,704,Viet Nam,VNM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1267272,1267272.732,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,704,Viet Nam,VNM,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,521196,521196.977,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76,76.483,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,706,Somalia,SOM,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76,76.483,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63676,63676.736,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,710,South Africa,ZAF,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1853,1853.758,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,710,South Africa,ZAF,710,South Africa,ZAF,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61822,61822.978,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,180721,180721.55,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,724,Spain,ESP,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25852,25852.185,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,724,Spain,ESP,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21532,21532.8,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,724,Spain,ESP,724,Spain,ESP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,127384,127384.761,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,724,Spain,ESP,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5951,5951.804,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,184,184.256,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,740,Suriname,SUR,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,184,184.256,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132073,132073.043,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,752,Sweden,SWE,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20801,20801.186,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,752,Sweden,SWE,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5683,5683.34,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,752,Sweden,SWE,752,Sweden,SWE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105588,105588.517,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,416329,416329.258,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,757,Switzerland,CHE,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,426,426.067,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,757,Switzerland,CHE,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,193,193.14,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,757,Switzerland,CHE,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,692,692.6,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,757,Switzerland,CHE,757,Switzerland,CHE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,415017,415017.451,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11427880,11427880.852,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,320558,320558.823,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2231,2231.927,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301182,301182.625,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,308910,308910.159,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,325293,325293.845,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40937,40937.583,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,764,Thailand,THA,764,Thailand,THA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10128765,10128765.89,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,172463,172463.653,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,776,Tonga,TON,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27104,27104.119,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,776,Tonga,TON,776,Tonga,TON,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145359,145359.534,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134997,134997.956,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,784,United Arab Emirates,ARE,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132475,132475.16,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,784,United Arab Emirates,ARE,784,United Arab Emirates,ARE,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2522,2522.796,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,784875,784875.277,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,792,Turkey,TUR,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79453,79453.189,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,792,Turkey,TUR,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,189753,189753.938,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,792,Turkey,TUR,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157772,157772.26,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,792,Turkey,TUR,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,355,355.378,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,792,Turkey,TUR,792,Turkey,TUR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,357540,357540.511,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,940,940.592,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,818,Egypt,EGY,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,940,940.592,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,666713,666713.727,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102324,102324.837,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,366,366.194,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,251,France,FRA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8818,8818.776,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,937,937.888,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3456,3456.821,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133724,133724.777,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43800,43800.305,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,826,United Kingdom,GBR,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,373284,373284.131,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36968903,36968903.716,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,156,China,CHN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,119520,119520.87,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,36,Australia,AUS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,243422,243422.156,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,40,Austria,AUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2445,2445.926,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,76,Brazil,BRA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14719,14719.977,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,16,American Samoa,ASM,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,623736,623736.972,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,242,Fiji,FJI,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18427,18427.88,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,344,"China, Hong Kong SAR",HKG,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36629,36629.401,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,380,Italy,ITA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5028,5028.209,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,392,Japan,JPN,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6653,6653.675,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,410,Rep. of Korea,KOR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12600,12600.458,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,458,Malaysia,MYS,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14775,14775.988,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,528,Netherlands,NLD,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22801,22801.344,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,548,Vanuatu,VUT,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13308,13308.896,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,702,Singapore,SGP,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54126,54126.346,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,764,Thailand,THA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25407,25407.576,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,826,United Kingdom,GBR,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,61,61.419,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,834,United Rep. of Tanzania,TZA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3737,3737.647,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,608,Philippines,PHL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,283,283.916,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2074390,2074390.792,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,860,Uzbekistan,UZB,554,New Zealand,NZL,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2328,2328.11,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2328,2328.11,,0
-H4,2018,2018,2018,5,0,0,M,882,Samoa,WSM,842,USA,USA,842,USA,USA,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33676824,33676824.27,,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46101305,,46101305.352,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12290205,,12290205.421,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4969451,,4969451.407,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,706,,706.963,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5893,,5893.553,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19,,19.337,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,90,Solomon Isds,SLB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6146,,6146.869,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8675,,8675.384,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,136,Cayman Isds,CYM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58,,58.011,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,559119,,559119.09,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,184,Cook Isds,COK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,179986,,179986.768,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1637286,,1637286.988,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2889,,2889.732,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,258,French Polynesia,PYF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,332,,332.598,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7644,,7644.718,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,316022,,316022.303,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,296,Kiribati,KIR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5173,,5173.827,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96,,96.685,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173274,,173274.484,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76,,76.962,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19,,19.337,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30,,30.939,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77,,77.348,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1544998,,1544998.099,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246685,,246685.747,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,444833,,444833.508,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81,,81.989,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3371026,,3371026.908,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6261,,6261.344,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38,,38.674,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20,,20.497,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5920,,5920.238,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,548,Vanuatu,VUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4254,,4254.156,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8160501,,8160501.989,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,570,Niue,NIU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77,,77.348,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,584,Marshall Isds,MHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19,,19.337,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10405,,10405.279,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160,,160.111,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7168,,7168.253,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38,,38.674,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51,,51.05,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,607623,,607623.817,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1,,1.934,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,317,,317.128,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11,,11.989,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7177,,7177.535,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,166084,,166084.186,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6357708,,6357708.994,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,776,Tonga,TON,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,195418,,195418.526,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,266190,,266190.28,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,798,Tuvalu,TUV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,618,,618.786,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,154,,154.697,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39997,,39997.962,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4457068,,4457068.862,0
-H4,2018,2018,2018,5,0,0,X,882,Samoa,WSM,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,37198,,37198.727,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,349840565,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56040486,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,261,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,296621,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14446910,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36129464,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20124170,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,77572,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10436,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44277,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,506156,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11476,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6183,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,312,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2311,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,544,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,559535,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,164,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20540,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,133835,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49231830,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,798996,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13119,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,145938,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2212,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2713,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7327,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46788,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22867685,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1783579,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,542,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52405,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7953,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163421,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2136,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1982876,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,307185,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5350,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25171,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6568403,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24486,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5951641,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,81,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11782,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1563,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,322615,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,40117,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18244991,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1652192,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1576557,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21460,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,646399,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2530,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,636,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,277,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8471308,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,786232,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12611,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1725774,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2953460,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2151,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,14445,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,398,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,446025,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,661,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84591,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,182703,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11377,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83676385,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6697724,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,96589,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,88149,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,975,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,128268,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,555,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,276363,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4140,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1052887,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3814,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1088,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,349,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1291210,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51104068,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,631101,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,125857,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3324462,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,162,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,293985,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8323,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,307869,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6808,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,523869,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,126524,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9500,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11499592,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1733,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1651493,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,176776,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,42827,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3116,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2851,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28391,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1057290,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28995,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1040339,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56563,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,37173157,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3740933,,,0
+H4,2016,2016,2016,0,0,2,Export,882,Samoa,WSM,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,122,,,0
+H4,2016,2016,2016,0,0,1,Import,882,Samoa,WSM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19919,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,356189844,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,44401814,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,803570,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11821433,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,79,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37395168,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9516657,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203609,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52534,,,0
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9319,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1247,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4190,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,914094,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22222,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8178,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19029,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141836,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5395,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367338,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24759,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69507,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32261765,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,506999,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4252,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127845,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,868,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20729673,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1779079,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3759,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2118099,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6879,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6463,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1042176,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108985,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5897,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13260965,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30571,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4114363,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50784,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3439,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1204124,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15209974,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1593651,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1028,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1319449,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6755566,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47390,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2955344,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166525,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19968,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542083,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2389223,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,630,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260771,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18759,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22258,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12376,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,941,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94074842,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8735118,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70027,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,239,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20588,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30595,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262566,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,551,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,449674,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,458,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125194,,,0
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,961902,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,647,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58975099,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,386796,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4702017,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76170,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18604,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211651,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4872,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7545,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,998516,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75349,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1266,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8654776,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26128,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3624132,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73816,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29550,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1401,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263212,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1346734,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3969387,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140789,,,4
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39693663,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2513397,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,362883715,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,46101305,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,517433,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12290205,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34857875,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4969451,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93062,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,128810,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5893,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,506803,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1028753,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4967,,,0
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1690,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6146,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,314,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7792,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55532,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8675,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1606,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14786,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355187,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,43148324,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,559119,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,96,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179986,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2347,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,928,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29336,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13994,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24581553,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1637286,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13902,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,122228,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2889,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4531,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7644,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1107684,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,316022,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5173,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,63594,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7798295,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173274,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,16496,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5886836,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,203,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17465,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,479728,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8335,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17301762,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1544998,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1516591,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246685,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,707836,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444833,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1392,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3984079,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93740,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1438669,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3371026,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14511,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6261,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142025,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2133,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3435,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9353,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5920,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,744935,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4254,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,90477259,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8160501,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3455,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141099,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,300556,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10405,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,816174,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7168,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2777428,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66919874,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,607623,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180018,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3483910,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63676,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,180721,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132073,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416329,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7177,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11427880,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166084,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6357708,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172463,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195418,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134997,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266190,,,0
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,784875,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,618,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,940,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,666713,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39997,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,36968903,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4457068,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2328,,,0
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37198,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,390681506,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49272482,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1165237,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15311732,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35584116,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4039212,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80334,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48736,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16966,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4557,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,669696,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6446,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4970,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41465,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124044,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56683,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75455,,,0
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147353,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47681955,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,669449,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4407,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392886,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7112,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74172,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12760,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24881613,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1258828,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50197,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78871,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191867,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,79299,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267140,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194095,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,606,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155427,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17304,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19778071,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184158,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4159155,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25927,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92670,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141001,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5239,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,77,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15126155,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2136401,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1711821,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62328,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7873815,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416415,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3537832,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5193,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1723964,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3087926,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1541,,,0
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114565,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263130,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1993,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57579,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,723051,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103080643,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7864785,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28964,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,26278,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20,,,0
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1500,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4678,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14058,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,803,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219707,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2036,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,755829,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90,,,0
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1287,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,176,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9852,,,0
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48028,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4273053,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65781680,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,781749,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1890228,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30460,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10575,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,435490,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3243,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18918,,,0
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1891176,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24783,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10737011,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,907962,,,0
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4280595,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111904,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213037,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,832,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2806,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77656,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30776,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53703,,,0
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1712,,,0
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3808,,,0
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,924381,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47507,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34424317,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6308834,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75,,,0
