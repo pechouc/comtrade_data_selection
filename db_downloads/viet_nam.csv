@@ -1,0 +1,1164 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236868822761,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243698698324,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3776666,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191847246,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21929392,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39987291,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216943907,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2484730,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2452493678,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,401097046,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3750818428,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3965869089,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291022813,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4078873211,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61228393,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,752292457,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470846153,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2410477848,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2386679531,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2059376968,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36668434,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18464297,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52532507,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36060005,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157812370,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,702069961,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81481332,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5488179,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,968798501,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3791860146,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192917250,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26723871,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,857121287,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3013846048,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97640104,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204217652,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306761235,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,781673157,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65516135491,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41366458747,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23186756,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380342731,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380180689,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5777499,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41756336,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184318846,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38538074,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77205899,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49345943,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41324032,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141733874,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156481342,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323770276,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,373520218,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45224120,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80277570,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35003875,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125421234,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9191125,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42535767,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234994818,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164682666,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1347408799,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3701139630,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3811993248,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6873195900,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294588580,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278261181,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69011198,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251783616,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1540180851,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7957597076,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244330579,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,401168028,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4220811,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4326740,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4936839719,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3533690964,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91133,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,379157200,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1792201842,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147232088,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420656558,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,779841908,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1772538548,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2890292659,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,798160044,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182446858,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19040860754,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18833674920,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58488577,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209358771,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5901560,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39278109,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47582218378,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18240594872,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2603844977,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77051420,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,436715566,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,595202779,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9491872,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178126966,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23877624,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68855720,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31382711,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93042508,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7450364909,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4064629590,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24408445,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74478024,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1124619181,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2239575584,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13230912787,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3151439849,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37377281,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185920904,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75740701,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64916365,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,764282947,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7085098926,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,532005837,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,504180668,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,389635283,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115451428,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288365805,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115070008,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172581581,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,403741938,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28714902,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265019411,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22491685,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24861069,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83595395,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250166285,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1256533635,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3464941933,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266614509,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1334961737,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115593691,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398619645,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291254582,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79836993,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71474392,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146825029,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2131103969,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2446399702,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1482411179,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332498513,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28174713,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25860051,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4147017644,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6543813993,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4526710267,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3195876740,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43237957,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1028174941,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65551340,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291472842,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387211554,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,724456247,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,514251753,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2629158090,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344572441,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1157248463,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,690433200,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171462856,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12042818662,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5267503718,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48313507,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111222851,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468494404,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5225283374,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10686702,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38177271,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285710681,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1413135898,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17778075,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3184763,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145849560,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251699593,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36546805,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,439986855,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,959846389,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5779270899,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297164949,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50656123,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12755720231,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47580105780,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57079871,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54349134,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29709238,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24786861,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3884988,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20774980,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3050437799,,,0
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3726026689,,,0
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253442015854,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264610322649,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3258638,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187035947,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44032254,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42685244,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,997160,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2022859,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3249418345,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,554281282,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4477511081,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3495325162,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342147100,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3265952692,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72473827,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,693878278,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,562969852,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2552275643,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2748586796,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2147859727,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192138693,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66627611,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49889586,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58397150,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231421970,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,721494364,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90587018,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7531079,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,902384888,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4311011850,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210159537,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43646258,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,866148818,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3967143949,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78587004,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,248770339,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288895004,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,942181133,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75586137813,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41434238020,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16474441,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,492448103,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,414951738,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19527339,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33986645,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102764498,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32058773,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84131910,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44786552,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36868284,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122924630,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,207829820,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244557933,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336735438,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15840133,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83187446,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14534531,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95060282,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25903574,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31898524,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,248263043,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119549201,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1601597606,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3705665613,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3698442259,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6560243273,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292746350,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271657171,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103874577,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272476120,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1322309158,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7161561214,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337594552,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,408226462,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3264767,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8299221,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5709675795,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3369982785,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8540,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,382012484,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2497413319,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147907702,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,382232576,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,774298811,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1884181263,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3439949265,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,700088543,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272995751,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19532763155,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20426601608,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24082111,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241235685,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10277369,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38140118,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46941929498,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19729245459,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3646897970,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61657660,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462856520,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,702545475,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15162805,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204511693,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25701332,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117461993,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45674132,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51030694,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7285159757,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3789343112,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27209147,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10185393,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,642586896,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2829015252,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15180871602,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4404371054,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22468575,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195597449,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98615797,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63354828,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,661857321,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6882619868,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,553163899,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542653827,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383618917,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127114377,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314209609,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129542867,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159995923,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358298840,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4037508,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337493766,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28525135,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50715519,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81403522,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341370014,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1579854902,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3734029201,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299158693,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1500932485,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104475877,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,395080492,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179876230,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133261203,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67535565,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193902030,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1835113094,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2667593147,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1185155736,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,349964636,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41312673,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52562502,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4517047796,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6675949031,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4071580587,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3174304977,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44464730,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,912881012,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69566801,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342235202,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329703191,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,800100530,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,541029390,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2707380043,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,373287044,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1185836391,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,747816786,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1561706269,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11676079697,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5050229682,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60138926,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105803921,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,386974701,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4785303281,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14785893,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21441261,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,352837405,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1140412274,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14905474,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2547191,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124154784,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247573043,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32920246,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,458520261,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,869154089,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5760277924,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226838660,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58627417,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14376810729,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61403966393,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44862161,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57926216,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21628053,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36894271,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4852242,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20531400,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3353568471,,,0
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4310807060,,,0
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261309451920,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,281441457236,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2808278,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148083765,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9066304,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19254628,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257169560,,,0
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3653396,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3385261886,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,566403078,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4676699018,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3622276263,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298139966,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2882272731,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85931289,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,693109137,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,473938894,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2313678776,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2908309400,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1824202388,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276867150,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16457246,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60502504,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58192246,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218881141,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,633261187,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77455105,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8362453,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1178895983,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4221095951,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153313619,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24670633,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,725954282,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4358867171,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49081449,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214600093,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265330347,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1017951286,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84197786487,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48879761897,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16071329,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460337478,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326863224,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5086624,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34305687,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110535823,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25705754,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50414029,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61310234,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38075654,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129568531,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425653573,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203726574,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295003772,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13223008,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61863256,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22642840,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112647027,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16418605,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48865980,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196611335,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140794183,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1503444058,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3262023202,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3355860741,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6638896625,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227729006,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,363464760,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77872445,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259099817,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1112001628,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10435730603,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371270296,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,925032812,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4972647,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2929954,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5388244382,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2823619833,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1138903,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298687689,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4088604927,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172679001,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,896708707,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,683230099,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1513136241,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3102293467,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,644378625,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266910265,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20276830753,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19269479104,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31112072,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262562836,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17816036,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91811731,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46861783193,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19125191194,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3201786414,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62990964,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456751145,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569114514,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26127044,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209926025,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18371020,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104306159,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45842234,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64895549,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6575868152,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3387832900,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39012554,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14079606,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,517329015,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3157097247,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16704271393,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4319555205,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20103813,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160397941,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103722121,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53462391,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,656815964,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6995473585,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,557325504,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498795796,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,365955130,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134956890,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311608779,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216793059,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116754398,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396858656,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10497707,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,309230053,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28603154,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54556247,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87368981,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303199905,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1753715136,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3563388565,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,340163242,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1773430601,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94773342,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375632019,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174417569,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375896424,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68111709,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220067605,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2065498842,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2849201366,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1149169255,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,439156687,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17145813,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38806701,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4482095787,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5234076826,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3657095959,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3009332682,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46939563,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1164815685,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76700028,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283970551,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,714235621,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,681142093,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,526329304,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2129146756,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337242735,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1126650841,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,631247973,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269394016,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10945070378,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4904499747,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41848260,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174478464,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,419424116,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3916799528,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10460768,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25721963,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276302523,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,980123215,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7339788,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2942306,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205659241,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284456451,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67927290,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447233209,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,688809404,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4951457261,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182417286,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37928518,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13763931186,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77072438528,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38023359,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60094795,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18831423,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40585059,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1200671,,,4
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22016283,,,4
+H5,2020,2020,2020,0,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1942465333,,,0
+H5,2020,2020,2020,0,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2733975034,,,0
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,174978350264,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176580786634,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2608738,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271244601,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33659,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17511468,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12212363,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38735684,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104946369,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5138595,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2672225009,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,368616899,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2442138403,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2864858060,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,350978464,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2631290421,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122182,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55722882,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11043163,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18148147,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52445566,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,554678742,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,475977030,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1967240011,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29997391,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15752785,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35252634,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58621,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1722310359,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1332352708,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15338198,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25703415,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70509470,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20052296,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171026537,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44629943,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88827489,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461627012,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92017324,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2540937,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,728828029,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2199398046,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186244181,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21305623,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,395470765,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2652547172,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26260484,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2230030,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103561319,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186731886,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231738091,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,805234359,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50037690971,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21950444543,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9104146,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,325094038,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81957495,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1689387,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48515656,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8323034,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26184337,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210318734,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32069434,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45577977,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35567084,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38122909,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104587870,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146173879,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66826817,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15865696,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,331763529,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283030069,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3584112,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74911502,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10105175,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132203292,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2562432,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19144718,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6275901,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30777526,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4480847,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19837379,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224836602,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106566502,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1159793333,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3024879064,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,457,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26608227,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57145191,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8082985,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12992859,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18710760,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10214334,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4536342,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2850215353,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5960516080,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202545763,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290732998,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12034384,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6045968,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50398209,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188620564,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,642420,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38626572,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142047613,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12479051,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1635709,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19778827,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,872877,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12826616,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1500283905,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6088076565,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173160070,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93331658,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9615650,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,872377,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2992477586,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2617850586,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1026830840,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112291632,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,688268618,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,554091166,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1427002190,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3264814560,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,702960806,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120941799,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1634416,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11425791,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15098322647,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14671488768,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55873927,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141927817,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7690904,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127630126,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4230351,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58315245,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32193121477,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11406058033,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110359430,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73260714,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347112506,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477757435,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,597742,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60374166,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11649576,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8529346,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152301640,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1387837,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36253024,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1374,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19935212,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28040369,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48345055,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22736648,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31624136,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11342548,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8030885,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3785092,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12021804,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5174313152,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3341986324,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1022301,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9655310,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44460079,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4691234,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36603235,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72725371,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13208089,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11000678,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63779295,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29939988,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,483937123,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1888365829,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11241779147,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2272039956,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39293889,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19073376,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13658255,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175812439,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28651574,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72292753,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45963871,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28864606,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180655,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33714925,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,676890745,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6011626551,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1900150,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11142723,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356851767,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,359910904,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,325147,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22594323,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235769582,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71353127,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263697733,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117747723,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128842006,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,435625445,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12692574,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259531613,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37859489,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129223525,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46804789,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26691188,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76490395,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277474580,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1060165372,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2219874628,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191745166,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,597612619,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50616589,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292071784,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70648132,,,0
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133119,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10639,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47296198,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181283041,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30353515,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168391260,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97208588,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1136832982,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1616085663,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1165277420,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394082586,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22249739,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26868975,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3109309,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17223552,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2745534609,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2687193236,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4768529248,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2419889198,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32312802,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416720716,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35298640,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264509642,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149497970,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,868783019,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16370714,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15396530,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,451389936,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2293647298,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,919657,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24560419,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311064861,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,914702530,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,552194598,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593483299,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150697,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32193143,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8855140203,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3690731565,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29618284,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48538238,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3075981,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9530049,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,450368926,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4999552550,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8671317,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42420229,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171383644,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1328764249,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75944916,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188512967,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21480441,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292881950,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,724366687,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4898076612,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145534804,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28575800,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8712155926,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38473176751,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64707311,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,715089,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41916352,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49652696,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27772147,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9657682,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1497624,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18757585,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2597,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19352292,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77757518,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15475094,,,4
+H4,2016,2016,2016,0,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1464256359,,,4
+H4,2016,2016,2016,0,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1128895058,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,213215299139,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215118606999,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4931698,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,280663914,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22074283,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30879228,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37603973,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250897399,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1318719,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2552952090,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,481211682,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3200104364,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3271003401,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303077895,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3705272826,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41258913,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12598058,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19899770,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53963393,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,868728520,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447439672,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2250572313,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38015626,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32382,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1837885294,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2039516277,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17979369,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16794232,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51655655,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21525054,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71115625,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38286566,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127543096,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,701397284,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94340430,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7130983,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1032587520,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2762308779,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205911526,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21651122,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,799306195,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2709237805,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46192447,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128930,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91159529,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224826301,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282885293,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,998629684,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58532566128,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35394308576,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17049197,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,465921638,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219543833,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1547873,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24690515,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15438166,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39601511,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140477727,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29067462,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60586625,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44556580,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39320335,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112921776,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150838050,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205693383,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19194395,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321435455,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341686541,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31493973,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78685230,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35482472,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133943536,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25958241,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32448186,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41774248,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14336030,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9425540,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34706463,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6945065,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21499718,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292767590,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164886454,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1319758185,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3372882802,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2012670,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37249130,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86177978,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6269268,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2882066,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14532216,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23378005,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4441374,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3203719407,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6353565104,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322841783,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266832461,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9929139,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6044068,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65564450,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270303983,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2223935,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91868996,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150052925,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13197026,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2761893,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23167930,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6772550,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20103882,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1664884074,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7574306658,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147901547,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206581791,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3656304782,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2858867978,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1381463526,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107994900,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344962113,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,711419293,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1650004163,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2734907503,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,904701653,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126168468,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2615748,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11903503,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16916805840,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16792127679,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48867527,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201458806,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11733319,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117123415,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2982187,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33741270,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46943333875,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14807156028,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287976842,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62369205,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,370609265,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,518346360,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410996,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68988209,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8063759,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157980452,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2745407,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36742271,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1440,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18386640,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25739627,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60214626,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28296142,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35792281,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17596637,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5933005,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8611983,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8487721,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5945345613,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4204340138,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45012310,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30512812,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24416989,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12825289,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15632759,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3296897,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64807743,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31515077,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,787519948,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2338388980,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12709684812,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2568268599,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53518841,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14405847,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13120744,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155555966,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107630137,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71943833,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74080770,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40852956,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146323,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44127476,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670419656,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7098906923,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4648347,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12458286,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,502212372,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,457240053,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5156524,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21795350,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371627920,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63771875,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,272348,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238402513,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115364743,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13132643,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1314382,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130320384,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,494681854,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30010939,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,325012084,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36974191,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255508607,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20257869,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38739221,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117133427,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330439013,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1158332458,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2833417324,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229591613,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,774505357,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62027786,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330621499,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65836734,,,0
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290029,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202294,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23968463,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138253251,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52839169,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85373373,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119562997,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1392329626,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2165650057,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1308620395,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,431924434,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31517785,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38643655,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8582618,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11797448,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1150963,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18521988,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3954591765,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3756251064,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5318586745,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2979172320,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35614454,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,703322243,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42689538,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286203515,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242305836,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,750597503,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15669279,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12561856,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,501779917,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2515755458,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3551558,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37379644,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12991065,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1744463,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,340941983,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,970572120,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,628835814,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240127173,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516155,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40922209,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10702322299,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4800868768,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57697286,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92835071,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12836394,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7985486,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569834178,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5026907572,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10876804,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39691804,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222985195,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1901763843,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109497949,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246108056,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25423090,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320986656,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,747140499,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5415115561,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347265335,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29014130,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9342939333,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41549714669,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122195194,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,573984,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48922999,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69632921,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35866908,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8354710,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1223285,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19987632,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4434819,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24812110,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139471238,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2940926,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1983905331,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2365339224,,,4

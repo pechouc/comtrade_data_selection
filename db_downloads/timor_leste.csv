@@ -1,341 +1,121 @@
 Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,32,Argentina,ARG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4169,4169.75,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4169,4169.75,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,24,Angola,AGO,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23750,23750,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23750,23750,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,16,American Samoa,ASM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2110,2110.11,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2110,2110.11,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,9300,Self propelled goods,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12560807,12560807.31,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,9100,Pipelines and cables,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89599,89599.95,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8350094,8350094.14,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1105388,1105388.93,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,553245370,553245370.34,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12696041,12696041.74,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,588047302,588047302.41,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14901531,14901531.45,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,36,Australia,AUS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,556790,556790.7,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,36,Australia,AUS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14344740,14344740.75,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252896,252896.32,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,40,Austria,AUT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3037,3037.56,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,40,Austria,AUT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,249858,249858.76,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,320837,320837.76,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,307573,307573.62,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13264,13264.14,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12080815,12080815.46,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,56,Belgium,BEL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38591,38591.73,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,56,Belgium,BEL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,749294,749294.42,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,56,Belgium,BEL,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216,216,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,56,Belgium,BEL,0,World,W00,C00,All CPCs,9300,Self propelled goods,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11292713,11292713.31,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15164471,15164471.85,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,76,Brazil,BRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5996,5996.34,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,76,Brazil,BRA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15158475,15158475.51,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156163,156163.97,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156163,156163.97,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32297,32297.02,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32297,32297.02,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4495,4495.41,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,116,Cambodia,KHM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2177,2177,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,116,Cambodia,KHM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2318,2318.41,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,542978,542978.83,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,124,Canada,CAN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,510746,510746.31,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,124,Canada,CAN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32232,32232.52,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,430,430.66,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,85,85.1,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,345,345.56,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28760,28760.61,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,152,Chile,CHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28760,28760.61,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31500,31500.87,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,196,Cyprus,CYP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,191,191.92,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,196,Cyprus,CYP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31308,31308.95,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62107,62107.46,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,203,Czechia,CZE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3608,3608,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,203,Czechia,CZE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58499,58499.46,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1242280,1242280.13,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,208,Denmark,DNK,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,321657,321657.92,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,208,Denmark,DNK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,780998,780998.21,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,208,Denmark,DNK,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139624,139624,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,838,838,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,838,838,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1427,1427,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1427,1427,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,88937280,88937280.28,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,156,China,CHN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1958122,1958122.12,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,156,China,CHN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86977241,86977241.16,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,156,China,CHN,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1917,1917,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107,107.2,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,166,Cocos Isds,CCK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107,107.2,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,792985,792985.52,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,242,Fiji,FJI,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13478,13478.71,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,242,Fiji,FJI,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,779506,779506.81,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14113,14113.3,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,246,Finland,FIN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12058,12058.75,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,246,Finland,FIN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1724,1724.55,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,246,Finland,FIN,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,330,330,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1792451,1792451.32,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,251,France,FRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,105547,105547.5,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,251,France,FRA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1672249,1672249.82,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,251,France,FRA,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14654,14654,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1985,1985.18,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,266,Gabon,GAB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1985,1985.18,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1666,1666.53,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,268,Georgia,GEO,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1666,1666.53,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2582430,2582430.52,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,276,Germany,DEU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,267970,267970.92,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,276,Germany,DEU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2314425,2314425.1,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,276,Germany,DEU,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34,34.5,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2437,2437.11,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,300,Greece,GRC,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2437,2437.11,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,316,Guam,GUM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49437,49437.53,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,316,Guam,GUM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,727,727.53,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,316,Guam,GUM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48710,48710,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59437168,59437168.76,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,260012,260012.2,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59067127,59067127.56,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,110029,110029,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,406,406.45,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,348,Hungary,HUN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62,62.48,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,348,Hungary,HUN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,343,343.97,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1988,1988.1,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,352,Iceland,ISL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1988,1988.1,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,187494893,187494893.87,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,620158,620158.13,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177165632,177165632,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,167934,167934.3,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8273075,8273075.44,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,9300,Self propelled goods,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1268094,1268094,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,559860,559860.91,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,364,Iran,IRN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,559860,559860.91,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76628,76628.53,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,372,Ireland,IRL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19079,19079.63,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,372,Ireland,IRL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56901,56901.9,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,372,Ireland,IRL,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,647,647,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46426,46426.76,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,376,Israel,ISR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5175,5175,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,376,Israel,ISR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1347,1347.01,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,376,Israel,ISR,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39904,39904.75,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,388,Jamaica,JAM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3972,3972.85,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3972,3972.85,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,380,Italy,ITA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,356645,356645.12,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,380,Italy,ITA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,113303,113303.19,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,469948,469948.31,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11072898,11072898.47,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,392,Japan,JPN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177898,177898.89,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,392,Japan,JPN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10869897,10869897.38,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,392,Japan,JPN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25102,25102.2,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3658,3658,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3658,3658,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5968253,5968253.54,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246733,246733.75,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5721519,5721519.79,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,271,271.36,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,271,271.36,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,598,598.84,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,440,Lithuania,LTU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,598,598.84,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,224842,224842.7,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,350,350.75,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,446,"China, Macao SAR",MAC,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,224491,224491.95,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15839155,15839155.87,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,292760,292760.44,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15531445,15531445.43,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14950,14950,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33,33,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,470,Malta,MLT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,33,33,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38802,38802.93,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,484,Mexico,MEX,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20596,20596.88,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,484,Mexico,MEX,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18102,18102.05,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,484,Mexico,MEX,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104,104,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2901128,2901128.61,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,158668,158668.7,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2742459,2742459.91,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2494,2494.86,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,504,Morocco,MAR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2494,2494.86,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9064,9064,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9064,9064,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15868,15868,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,524,Nepal,NPL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15868,15868,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2517414,2517414.3,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,96825,96825.6,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2330339,2330339.75,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,649,649,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,9100,Pipelines and cables,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89599,89599.95,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9472,9472,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9472,9472,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1633100,1633100.02,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,315778,315778.85,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1317321,1317321.17,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18127,18127.12,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,579,Norway,NOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18127,18127.12,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,772771,772771.51,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,586,Pakistan,PAK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,772771,772771.51,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1278696,1278696.03,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,608,Philippines,PHL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8855,8855.85,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,608,Philippines,PHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1267955,1267955.18,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,608,Philippines,PHL,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1885,1885,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4735,4735.81,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,616,Poland,POL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4037,4037,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,616,Poland,POL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,698,698.81,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11492,11492.07,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11492,11492.07,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,642,Romania,ROU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,86,86,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,642,Romania,ROU,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,702,702,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,788,788,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1345,1345.5,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,624,Guinea-Bissau,GNB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1345,1345.5,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,620,Portugal,PRT,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7174,7174.91,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,620,Portugal,PRT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7097791,7097791.91,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,620,Portugal,PRT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,978228,978228.25,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8083195,8083195.07,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4427042,4427042.13,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,699,India,IND,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,934748,934748.71,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,699,India,IND,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3489835,3489835.82,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,699,India,IND,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2457,2457.6,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,703,Slovakia,SVK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25,25,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25,25,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,702,Singapore,SGP,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1835,1835,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,702,Singapore,SGP,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76399,76399,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,702,Singapore,SGP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,75879365,75879365.79,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,702,Singapore,SGP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1040802,1040802.68,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76998402,76998402.47,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38895026,38895026.82,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2330017,2330017.06,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36034470,36034470.53,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,530539,530539.23,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107883,107883,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,705,Slovenia,SVN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107883,107883,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,464661,464661.67,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,710,South Africa,ZAF,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64188,64188,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,710,South Africa,ZAF,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,400473,400473.67,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,291686,291686.17,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,724,Spain,ESP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4962,4962.92,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,724,Spain,ESP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,286723,286723.25,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,668,668,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,729,Sudan,SDN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,668,668,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77957,77957.4,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,77957,77957.4,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,247888,247888.76,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,752,Sweden,SWE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,143468,143468.95,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,752,Sweden,SWE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104419,104419.81,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1366241,1366241.43,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,757,Switzerland,CHE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,147131,147131.95,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,757,Switzerland,CHE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1219109,1219109.48,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17675754,17675754.77,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,764,Thailand,THA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9236,9236.5,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,764,Thailand,THA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17666518,17666518.27,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81,81.8,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,772,Tokelau,TKL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81,81.8,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,936215,936215,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,425,425.75,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,935789,935789.25,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,101077,101077.11,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,792,Turkey,TUR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3303,3303.74,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,792,Turkey,TUR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,97773,97773.37,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13680,13680,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,804,Ukraine,UKR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10708,10708,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,804,Ukraine,UKR,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2972,2972,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,114984,114984.21,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,818,Egypt,EGY,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,114984,114984.21,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1085130,1085130.74,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65521,65521.06,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,990597,990597.68,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,29012,29012,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7481344,7481344.68,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,842,USA,USA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,772114,772114.85,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,842,USA,USA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6708456,6708456.83,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,842,USA,USA,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,773,773,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233291,233291.95,,0
-H2,2017,2017,2017,5,0,0,M,626,Timor-Leste,TLS,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,233291,233291.95,,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24174262,,24174262.76,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,430544,,430544.64,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23361606,,23361606.7,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87780,,87780,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,0,World,W00,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,294331,,294331.42,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1436925,,1436925.99,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,36,Australia,AUS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,150365,,150365.89,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,36,Australia,AUS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1286560,,1286560.1,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,396500,,396500,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,56,Belgium,BEL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,396500,,396500,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6838,,6838,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,76,Brazil,BRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6838,,6838,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73650,,73650,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73650,,73650,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19494,,19494.42,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,124,Canada,CAN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17854,,17854.32,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,124,Canada,CAN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1640,,1640.1,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2051519,,2051519.01,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,156,China,CHN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1099,,1099.85,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,156,China,CHN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2050419,,2050419.16,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11250,,11250,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,208,Denmark,DNK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11250,,11250,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1888,,1888.28,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,242,Fiji,FJI,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1888,,1888.28,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,300,,300,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,246,Finland,FIN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,300,,300,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76,,76,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,251,France,FRA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,76,,76,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3299412,,3299412.88,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,276,Germany,DEU,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3299412,,3299412.88,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,559259,,559259.52,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,450,,450,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,558809,,558809.52,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6135752,,6135752.62,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8492,,8492.65,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5745148,,5745148.55,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,3100,Railway,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87780,,87780,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,360,Indonesia,IDN,0,World,W00,C00,All CPCs,3200,Road,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,294331,,294331.42,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73584,,73584,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,380,Italy,ITA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73584,,73584,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,800716,,800716.53,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,392,Japan,JPN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24053,,24053.94,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,392,Japan,JPN,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,776662,,776662.59,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,479089,,479089.49,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40932,,40932.31,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,438157,,438157.18,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,419,,419.32,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,419,,419.32,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,475,,475,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,422,Lebanon,LBN,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,475,,475,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91435,,91435.89,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12054,,12054.24,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,458,Malaysia,MYS,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79381,,79381.65,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,573942,,573942.5,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,573942,,573942.5,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,582,,582.75,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,528,Netherlands,NLD,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,582,,582.75,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,241423,,241423.35,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22457,,22457.47,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,554,New Zealand,NZL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,218965,,218965.88,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36508,,36508.5,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,579,Norway,NOR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36508,,36508.5,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11350,,11350,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,586,Pakistan,PAK,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11350,,11350,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2362,,2362.5,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,598,Papua New Guinea,PNG,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2362,,2362.5,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11446,,11446.52,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,608,Philippines,PHL,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1520,,1520,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,608,Philippines,PHL,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9926,,9926.52,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,974169,,974169.73,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,620,Portugal,PRT,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6849,,6849.73,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,620,Portugal,PRT,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,967320,,967320,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,292711,,292711.65,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,699,India,IND,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3011,,3011.65,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,699,India,IND,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,289700,,289700,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,699330,,699330.75,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,702,Singapore,SGP,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41672,,41672.48,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,702,Singapore,SGP,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,657658,,657658.27,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,437419,,437419.6,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,537,,537.55,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,436882,,436882.05,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3243,,3243,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,764,Thailand,THA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,193,,193,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,764,Thailand,THA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3050,,3050,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16000,,16000,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16000,,16000,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36288,,36288,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,818,Egypt,EGY,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36288,,36288,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2836,,2836.38,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2836,,2836.38,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5390335,,5390335.58,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,842,USA,USA,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40987,,40987.83,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,842,USA,USA,0,World,W00,C00,All CPCs,2100,Sea,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5349347,,5349347.75,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5725,,5725,0
-H2,2017,2017,2017,5,0,0,X,626,Timor-Leste,TLS,894,Zambia,ZMB,0,World,W00,C00,All CPCs,1000,Air,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5725,,5725,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,588047302,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24174262,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2110,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,23750,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4169,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14901531,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1436925,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,252896,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,320837,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12080815,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,396500,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15164471,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6838,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,156163,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73650,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32297,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4495,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,542978,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19494,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,430,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,28760,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,88937280,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2051519,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,107,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,31500,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,62107,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1242280,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11250,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,838,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1427,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,792985,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1888,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14113,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,300,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1792451,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,76,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1985,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1666,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2582430,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3299412,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2437,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,49437,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,59437168,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,559259,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,406,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1988,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,187494893,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6135752,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,559860,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,76628,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,46426,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,469948,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,73584,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3972,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11072898,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,800716,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3658,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5968253,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,479089,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,271,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,419,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,475,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,598,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,224842,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15839155,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,91435,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,33,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38802,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2901128,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,573942,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2494,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9064,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,15868,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2517414,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,582,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,9472,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1633100,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,241423,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18127,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36508,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,772771,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11350,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2362,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1278696,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11446,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4735,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8083195,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,974169,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1345,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,788,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11492,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4427042,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,292711,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,76998402,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,699330,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,25,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38895026,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,437419,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,107883,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,464661,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,291686,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,668,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77957,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,247888,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1366241,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,17675754,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3243,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,772,Tokelau,TKL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,81,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,936215,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,16000,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,101077,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13680,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,114984,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36288,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1085130,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2836,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7481344,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5390335,,,0
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5725,,,0
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,233291,,,0

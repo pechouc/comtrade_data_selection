@@ -1,490 +1,815 @@
 Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28,28,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7481383,7481383,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16909271,16909271.9,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2104617,2104617,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11496,11496,0,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15249,0,15249,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24921604,0,24921604,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1049415,0,1049415,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,194859505,0,194859505,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8966148,0,8966148,4
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,45345357,0,45345357,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,153305,0,153305,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,929863,0,929863,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70179,0,70179,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,586457,0,586457,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,223515,0,223515,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54086,0,54086,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33630206,33630206,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3233,3233,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1806111,1806111,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23806844,23806844,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,985863622,985863622.52,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25181256,25181256,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,595194,595194,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1189763,1189763,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,159567,159567,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28319,28319,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,186755,186755,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,498853,498853,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12727390,12727390,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2977118,2977118,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53800,53800,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4344491,4344491,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3031462923,3031462923.96,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13515740,13515740,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,159208,159208,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24902764,24902764,0,4
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27815,0,27815,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86065,0,86065,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1422953,0,1422953,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,107890,0,107890,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,39048318,0,39048318,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,135549,135549,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,215174,215174,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4312939,4312939,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6635,6635,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21511267,21511267,0,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,261004,0,261004,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,302543,0,302543,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35640023,0,35640023,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30297865,0,30297865,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,85729,0,85729,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200764988,0,200764988,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5000,0,5000,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,899320312,0,899320312,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1069,1069,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,420806,420806,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6704532,6704532,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,553246,553246,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6412733,6412733,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,773,773,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11250193,11250193,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,337211,337211,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,841304897,841304897.4,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1469834,1469834,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2808,2808,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11529,11529,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10105800,10105800,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,169943,169943,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18908172,18908172,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90397,90397,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1016797,1016797,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2358520,2358520,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,306,306,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10038,10038,0,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,70229,0,70229,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,99308649,0,99308649,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,119903,0,119903,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10725,10725,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13409655,13409655,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4140,4140,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,339760,339760,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8854704,8854704,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,646,Rwanda,RWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30,30,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74037,74037,0,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1508641,0,1508641,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14451,0,14451,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31635,0,31635,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,74971351,0,74971351,4
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1142,0,1142,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2047734,0,2047734,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44044998,0,44044998,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3220,0,3220,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3838994,0,3838994,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12655022,0,12655022,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3413298,3413298,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27544508,27544508,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13619,13619,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,611704,611704,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,568,"Other Europe, nes",E19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14701,14701,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25,25,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3790278,3790278,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,274200,274200,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,85294,85294,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1536,1536,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,44,44,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6559895,6559895,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12940963,12940963,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22530,22530,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,75128736,75128736,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,343813,343813,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,92132435,92132435,0,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50602769,0,50602769,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20141,0,20141,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1033959,1033959,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,58357558,58357558,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,670456,670456,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1155766,1155766,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,124,124,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1587264,1587264,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1844021,1844021,0,4
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3438783,3438783,0,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14623867,0,14623867,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,384919,0,384919,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35324,0,35324,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10000,0,10000,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5121739,0,5121739,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,331200,0,331200,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24497,0,24497,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,640605,0,640605,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18029,0,18029,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2146942,0,2146942,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,200,0,200,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3093265,3093265,0,4
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4248,0,4248,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25976,0,25976,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1166057,0,1166057,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,119,119,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8137386,8137386,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9922,9922,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,275,275,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5974248,5974248,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4919681,4919681,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,184531,184531,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2455395,2455395,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7716092,7716092,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46500,46500,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,792531,792531,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,193212,193212,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13351,13351,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,317833,317833,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,866566,866566,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100,100,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88923,88923,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3448,3448,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,186,186,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,481082304,481082304.14,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145491,145491,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17397,17397,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2490,2490,0,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,162116,0,162116,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,31380,0,31380,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3188,0,3188,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5200,0,5200,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6972,0,6972,0
-H3,2016,2016,2016,5,0,0,X,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,114098,0,114098,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,114545124,114545124,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1084484,1084484,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,257288,257288,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,143608,143608,0,0
-H3,2016,2016,2016,5,0,0,M,762,Tajikistan,TJK,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,264414,264414,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79297,79297,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,216094,216094,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2785974,2785974,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,246482,246482,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30398954,0,30398954,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1508373,0,1508373,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,366,366,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15317250,15317250,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23410423,23410423,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,356098,356098,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37496429,37496429,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3893632,3893632,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9111139,9111139,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,98069868,0,98069868,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,69334176,69334176.5,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1489628,0,1489628,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3512749,0,3512749,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4840,0,4840,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49340652,0,49340652,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,811102,0,811102,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24643712,0,24643712,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57080763,0,57080763,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100747,0,100747,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,166841,0,166841,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19700,0,19700,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,30404,0,30404,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1184949,0,1184949,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,248940,0,248940,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,69670,0,69670,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2488548,0,2488548,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,983825951,0,983825951,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7380613,7380613,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145265,145265,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65764,65764,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,463230,463230,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36728,36728,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17768670,17768670.33,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61442927,61442927,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,556182373,556182373.2,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2517569,2517569,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36986084,36986084,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4857520,4857520,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2774084281,2774084281.72,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,65,65,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1111,1111,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11381,11381,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8348662,8348662,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3483,3483,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,260837,260837,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,211016,0,211016,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15997037,0,15997037,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,547495,547495,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,252926,252926,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20865,20865,0,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,91235,0,91235,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1141,0,1141,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50,0,50,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24891,0,24891,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2468150,0,2468150,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1566049,0,1566049,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9500,0,9500,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,748355,0,748355,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49069,0,49069,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,578,578,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13141,13141,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2141795,2141795,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,702762,702762,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86,86,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5348626,5348626,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2364938,2364938,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54436,54436,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7536045,7536045,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3228985,3228985,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,646320,646320,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,903854860,903854860.05,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24637969,24637969,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33084,33084,0,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,180219,0,180219,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,163800,0,163800,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1043817,0,1043817,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3086,0,3086,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14839,14839,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,233226896,0,233226896,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1269125,1269125,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4546500,4546500,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1206,1206,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,674219,674219,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10417,10417,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5000,0,5000,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22000,0,22000,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,142600,0,142600,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17263174,0,17263174,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13965,0,13965,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32067455,0,32067455,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23497624,23497624,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3844405,3844405,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35380738,0,35380738,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37249765,37249765,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23307179,23307179,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4265921,4265921,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,229,229,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5493,5493,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,148,148,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,514287231,514287231,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1824,1824,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,698418,698418,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,262974,262974,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,888526,888526,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,940987,940987,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100318,100318,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,319,319,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,663263,663263,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,12,Algeria,DZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3254,3254,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4003368,4003368,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48812171,48812171,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,107912,107912,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,230296,230296,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3638781,3638781,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,647736,647736,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15911100,15911100,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1424,1424,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,804775,804775,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29115961,29115961,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1084,1084,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1733052,1733052,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,571002,571002,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1798723,1798723,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2052435,2052435,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18306,18306,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32970,32970,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19494,19494,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,105368195,105368195.64,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,795460,795460,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,24955,0,24955,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3651598,0,3651598,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7017590,7017590,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1677830,1677830,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,71,71,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,138118,138118,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,324338424,0,324338424,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10525758,0,10525758,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1780034,1780034,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,961037,961037,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,409446,409446,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,118572,118572,0,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,447798,0,447798,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,440075,0,440075,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3716,0,3716,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,91165,0,91165,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,170661,0,170661,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,943,0,943,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,15211712,0,15211712,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,320025,0,320025,0
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17818,0,17818,4
-H4,2017,2017,2017,5,0,0,X,762,Tajikistan,TJK,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16731620,0,16731620,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,148600,148600,0,0
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4446521,4446521,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2033581,2033581,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,106250594,106250594,0,4
-H4,2017,2017,2017,5,0,0,M,762,Tajikistan,TJK,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6799304,6799304,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46576814,46576814,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52443600,52443600,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,107557,107557,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,27550384,27550384,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,533897220,533897220.28,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2216172,2216172,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,407416,407416,0,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17330,0,17330,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,786434,0,786434,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4934381,0,4934381,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,783,0,783,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57075659,0,57075659,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18119,0,18119,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,376478,376478,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,475589,475589,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40092,40092,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6784433,6784433,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,96,Brunei Darussalam,BRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88,88,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,765201,765201,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,63480,63480,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,297187,297187,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7143264,7143264,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,486,486,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36978957,36978957,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5503881,5503881,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,235128,235128,0,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,299973595,0,299973595,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2656674,0,2656674,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,82395,0,82395,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37891,0,37891,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,322962,322962,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,415706,415706,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,967937392,967937392,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1474575,1474575,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23158899,23158899,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1859188,1859188,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,42310188,42310188,0,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,264417,0,264417,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,305154,0,305154,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16117508,0,16117508,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1571787,1571787,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64376629,64376629,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21803,21803,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,100018,100018,0,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,927500,0,927500,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,446349,0,446349,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1523,0,1523,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52646,52646,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,660,Anguilla,AIA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,130433,130433,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,48488043,48488043.5,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10164131,10164131,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1504305,1504305,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,580395,580395,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,546437,546437,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12902288,12902288,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1791660,1791660,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,217,217,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,116046,116046,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1448428,1448428,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,17280,17280,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,368,368,0,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,73010,0,73010,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2250,0,2250,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1062047,0,1062047,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8879251,0,8879251,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,475476,475476,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,49328,49328,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1765840,1765840,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,178652,178652,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20492918,20492918,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,156138,156138,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35990862,35990862,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,594154338,594154338,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7036792,7036792,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4358,4358,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32014,32014,0,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16656640,0,16656640,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,606464,0,606464,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,25750,25750,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9066730,9066730,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2714,2714,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2694334,2694334,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,649,649,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,16778706,16778706,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8340952,8340952,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,215401,215401,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,520,Nauru,NRU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,936,936,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1484933,1484933,0,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,945570,0,945570,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,134403,0,134403,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3141648475,3141648475.12,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1219694,1219694,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3234077,3234077,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4902722,4902722,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3836465,3836465,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12059476,12059476,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,751366,751366,0,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5,0,5,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33875,0,33875,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,28752451,0,28752451,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,178392,0,178392,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,805374,0,805374,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10045,0,10045,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13500,0,13500,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72344257,0,72344257,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,554246,554246,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9081280,9081280,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5242291,5242291,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,446654,446654,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,62089833,62089833,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,257,257,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,97033425,97033425.33,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2637777,2637777,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,41077,41077,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35224657,35224657.01,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,176330,176330,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52061,52061,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,127216,127216,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2918378,2918378,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72453,72453,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,106775,106775,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,724,724,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3438873,3438873,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,29746,29746,0,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14320865,0,14320865,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10103386,0,10103386,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,276524323,0,276524323,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,555020,0,555020,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1443360,0,1443360,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136751,0,136751,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2278084,0,2278084,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,33107,0,33107,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1980,0,1980,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,263529,263529,0,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1073858043,0,1073858043,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12697054,12697054,0,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3126,0,3126,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1639914,0,1639914,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2984678,0,2984678,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,35145648,0,35145648,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3283156,0,3283156,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40817,40817,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,106381,106381,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,9068,9068,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1188827,1188827,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52769,52769,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5517,5517,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1173,1173,0,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,124914742,124914742,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5464643,5464643,0,4
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,126263414,126263414,0,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1100,0,1100,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,55233052,0,55233052,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,46398,0,46398,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,155268720,0,155268720,4
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,589082,0,589082,0
-H4,2018,2018,2018,5,0,0,X,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,123047,0,123047,0
-H4,2018,2018,2018,5,0,0,M,762,Tajikistan,TJK,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,23259615,23259615,0,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2774084281,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,983825951,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,571002,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98069868,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3254,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1111,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79297,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2785974,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49069,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1677830,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,547495,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5000,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2517569,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170661,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2052435,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216094,,,0
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69670,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7017590,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91235,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11381,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4857520,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252926,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3651598,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,663263,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100747,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36986084,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2488548,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22000,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1798723,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1141,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138118,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148600,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556182373,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35380738,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32970,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14839,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246482,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1424,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54436,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3228985,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,943,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,940987,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7536045,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1733052,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1269125,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4446521,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180219,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2033581,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163800,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106250594,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211016,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1206,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,961037,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1084,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262974,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17818,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1780034,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,888526,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61442927,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30398954,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356098,,,0
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3512749,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,804775,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698418,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,50,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17768670,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15997037,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15317250,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29115961,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1043817,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,514287231,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324338424,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20865,,,0
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24891,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,366,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100318,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15911100,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24955,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37496429,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10525758,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4840,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2364938,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2468150,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8348662,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,440075,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3893632,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3716,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,646320,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,702762,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49340652,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463230,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1566049,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18306,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,811102,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19700,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1824,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36728,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5348626,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24643712,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,674219,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33084,,,0
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3086,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24637969,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16731620,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10417,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3483,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65764,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6799304,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142600,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19494,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5493,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,647736,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91165,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,903854860,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32067455,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145265,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1184949,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9111139,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9500,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23410423,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,248940,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107912,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260837,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2141795,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30404,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,795460,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230296,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4546500,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3638781,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320025,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7380613,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1489628,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4265921,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23307179,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17263174,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13141,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105368195,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233226896,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48812171,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1508373,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37249765,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447798,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,578,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118572,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13965,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3844405,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,748355,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23497624,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15211712,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409446,,,0
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69334176,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57080763,,,4
+H4,2017,2017,2017,0,0,1,Import,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4003368,,,4
+H4,2017,2017,2017,0,0,2,Export,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166841,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3141648475,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1073858043,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127216,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72344257,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2714,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40817,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63480,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6784433,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82395,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2694334,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1791660,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2918378,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4358,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1219694,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1523,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322962,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7036792,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2278084,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41077,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1100,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12902288,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,475476,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4934381,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,765201,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,649,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136751,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35224657,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3283156,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25750,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9066730,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176330,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52061,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,594154338,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57075659,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72453,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9068,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49328,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106775,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4902722,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33107,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1571787,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8340952,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1980,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3234077,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134403,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2216172,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16778706,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37891,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2637777,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446349,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97033425,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,606464,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40092,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1765840,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297187,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123047,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1448428,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263529,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62089833,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35145648,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116046,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1062047,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,580395,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,546437,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18119,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35990862,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16117508,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64376629,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,805374,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,533897220,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299973595,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32014,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106381,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27550384,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,783,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48488043,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14320865,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21803,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33875,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1474575,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8879251,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10164131,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73010,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415706,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7143264,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5517,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215401,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1504305,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16656640,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,475589,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,927500,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100018,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52769,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,936,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5242291,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28752451,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446654,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107557,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52443600,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10103386,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17280,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156138,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9081280,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264417,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376478,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3126,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1188827,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,967937392,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55233052,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130433,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,945570,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2250,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3836465,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178392,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52646,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20492918,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10045,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235128,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17330,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,751366,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1859188,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1443360,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1484933,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178652,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,486,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5464643,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,724,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5503881,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46398,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12059476,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1639914,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3438873,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23158899,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2656674,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29746,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124914742,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276524323,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46576814,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,589082,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36978957,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305154,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,368,,,0
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13500,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,407416,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23259615,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2984678,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1173,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42310188,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,786434,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,554246,,,0
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126263414,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155268720,,,4
+H4,2018,2018,2018,0,0,1,Import,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12697054,,,4
+H4,2018,2018,2018,0,0,2,Export,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,555020,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3327281572,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,891973123,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224491,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39439605,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12948,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52534,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5792945,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4743710,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378647,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2546347,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3200,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2136112,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4234038,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,372581,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5320,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7086349,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20954811,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96301,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48448,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5554422,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15000,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270964,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6811259,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3876266,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122946,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26416239,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2079394,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2047,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25000,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7312500,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5267192,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6000,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197934,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388995,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,605467573,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55419207,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42456,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70045,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14930,,,0
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1656121,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2003,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128033,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4600,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4019595,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,328902,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1574760,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124347,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8272656,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6700,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1525,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182369,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2408827,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5587372,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265679,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2326313,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4855145,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76039202,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,965443,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23124,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35759,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1588768,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1880,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84808,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62470,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2263677,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25417,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,886989,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2286,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46229795,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18134748,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120125,,,0
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,709654,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,648323,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3100,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,483432,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34501198,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10982065,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,638,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1199,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66852246,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1204860,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,739334529,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218378957,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79650,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33888522,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14550,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24895,,,0
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1075,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41441823,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11259613,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1305,,,0
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15352,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1172715,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12758249,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12747328,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292683,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65076,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4311922,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,774,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2290,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,747,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,434194,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536771,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195000,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312026,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174595,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87801,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,316,,,0
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4500,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4035,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5820896,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4566826,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170768,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17636,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45894599,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10395480,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24304,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10108015,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387611,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72900,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1056185,,,0
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9226,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3321995,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1009127560,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44304513,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,580786,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265377,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52248,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,755022,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,139,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24197152,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64781,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418869,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1613447,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2646935,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2382288,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1590306,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,271312,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2459066,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73247,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3740457,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38705,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8879972,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1249925,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2066927,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21666334,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,939775,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8006,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143476532,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233797876,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11924787,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260041,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37629379,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,660899,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476417,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57548,,,0
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3153462,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1859021,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44371637,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1145963,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169949159,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171975085,,,4
+H4,2019,2019,2019,0,0,1,Import,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7909974,,,4
+H4,2019,2019,2019,0,0,2,Export,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,740115,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3139015903,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,717905650,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884293,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69395174,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26580,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47171,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6238991,,,0
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50641,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6951188,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137279,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26753776,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1638991,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4005122,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233029,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88141,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15000,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3659024,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32118370,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30386,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1044149,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6722581,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,728811,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16815,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38058,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52348388,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2061307,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,412434,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7668136,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,555823,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57847,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,438392050,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34411308,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23920,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53313,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20906,,,0
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4404946,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10083,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75389,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3544014,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302196,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1945299,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8044013,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,313708,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3116125,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6608593,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32524,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2204217,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13265896,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91080266,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,328623,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26135,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284673,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1132,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18539,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5471,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1481810,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10920,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1315775,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48359417,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9356324,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42009,,,0
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,732744,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,936398,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461296,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18092,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22803651,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15409272,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2762,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2841,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47020385,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1494424,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,757570795,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152213624,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18464,,,0
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2420,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37920,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108743,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53462915,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20440,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91166,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27114645,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9812332,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,369,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3758468,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10094117,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10526237,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19410,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15493,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2888508,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206280,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193194,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,339388,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83425,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,591,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15309609,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1300210,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,489593,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307686,,,0
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,842,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11552045,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14242742,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10744,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92746,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7618261,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,839483,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265913,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,981465,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,843812,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,932593044,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41032620,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9868,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265142,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1054929,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24135,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39697183,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7065,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193013,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1254853,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1096,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2729771,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1454985,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1671390,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,487175,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53460,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4346133,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139550,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5424156,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6788118,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1141865,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1976951,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14841701,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3450089,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1355,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119616821,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203032297,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7783815,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26555793,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375020,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6103,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,573893,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42279,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5357516,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1370117,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38044999,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102876,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72798,,,0
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238446960,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82372334,,,4
+H4,2020,2020,2020,0,0,1,Import,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7643240,,,4
+H4,2020,2020,2020,0,0,2,Export,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,561478,,,4
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3031462923,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,899320312,,,4
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317833,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74971351,,,4
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10725,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13409655,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35324,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,866566,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193212,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10000,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7481383,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18029,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1536,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1016797,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264414,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5000,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4344491,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70179,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13351,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7716092,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46500,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215174,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2047734,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,792531,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54086,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18908172,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2146942,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2808,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1033959,,,4
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90397,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135549,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,841304897,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44044998,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184531,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53800,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85294,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88923,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3790278,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107890,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1469834,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6559895,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3448,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257288,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,586457,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2455395,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12727390,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223515,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2977118,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6972,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58357558,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1049415,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,274200,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3220,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,339760,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114098,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4919681,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498853,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75128736,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39048318,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4140,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3838994,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337211,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186755,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20141,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12940963,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12655022,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25976,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10105800,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11250193,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1166057,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,481082304,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194859505,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22530,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4248,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169943,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13515740,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31635,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16909271,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8966148,,,4
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11529,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9922,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1189763,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5121739,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8137386,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1508641,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2104617,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5974248,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343813,,,4
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,611704,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45345357,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670456,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261004,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17397,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,773,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10038,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4312939,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14623867,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,595194,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14701,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1155766,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25181256,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30297865,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6635,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2490,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28319,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159567,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6412733,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153305,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11496,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85729,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1142,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,553246,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162116,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,985863622,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50602769,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74037,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302543,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,929863,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145491,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27815,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6704532,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14451,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13619,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23806844,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31380,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159208,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,331200,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420806,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3188,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2358520,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15249,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1587264,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143608,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1844021,,,4
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1084484,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86065,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8854704,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99308649,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1806111,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24497,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21511267,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24921604,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114545124,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200764988,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92132435,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1422953,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27544508,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,384919,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1069,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3413298,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5200,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3093265,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,640605,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24902764,,,4
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119903,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3233,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33630206,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35640023,,,0
+H3,2016,2016,2016,0,0,1,Import,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3438783,,,0
+H3,2016,2016,2016,0,0,2,Export,762,Tajikistan,TJK,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70229,,,0
