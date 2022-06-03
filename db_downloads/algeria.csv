@@ -1,602 +1,602 @@
 Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46935,46935,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,807656,807656,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50030,50030,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,637419,637419,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,187528,187528,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,119977,119977,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47090683586,47090683586,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1334976414,1334976414,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16486469,16486469,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,351572047,351572047,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20445,20445,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,85782922,85782922,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18719745,18719745,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,109109,109109,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19,19,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,64,Bhutan,BTN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,745,745,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4451644,4451644,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,280323,280323,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,58999,58999,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,605129456,605129456,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,884,884,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1209131627,1209131627,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56141,56141,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,260991899,260991899,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,172765,172765,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,90575,90575,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1604878,1604878,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5626809,5626809,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8980696,8980696,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,211982,211982,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,519569927,519569927,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,24637,24637,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2599727,2599727,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11060,11060,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7905810,7905810,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8409854958,8409854958,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5971462,5971462,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,202569,202569,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1304316,1304316,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,180,Dem. Rep. of the Congo,COD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,940,940,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1686881,1686881,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51212286,51212286,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2108230,2108230,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31532718,31532718,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16823,16823,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,190304363,190304363,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138722064,138722064,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6196,6196,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,425484,425484,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138357945,138357945,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1997663,1997663,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12481,12481,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29280339,29280339,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63569,63569,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10607,10607,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1489074,1489074,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3153,3153,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,227310313,227310313,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4773926390,4773926390,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19894,19894,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,790298,790298,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7546,7546,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2015566,2015566,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3024539114,3024539114,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,845301,845301,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,267692527,267692527,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,34870,34870,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,310569,310569,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,352436,352436,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1097,1097,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6979898,6979898,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,103303,103303,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,10509388,10509388,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,156052548,156052548,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,709027,709027,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,22462032,22462032,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,146763,146763,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,189664101,189664101,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,166155669,166155669,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4645652697,4645652697,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,119653628,119653628,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,476429725,476429725,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7479179,7479179,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,147906528,147906528,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,909805,909805,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2325811,2325811,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1091889240,1091889240,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17052744,17052744,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,748147,748147,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27803,27803,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43791505,43791505,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,133412,133412,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63871172,63871172,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13749992,13749992,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,183,183,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76506917,76506917,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26368691,26368691,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,964990,964990,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1333175,1333175,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,141004,141004,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,61102,61102,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29391380,29391380,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,231433,231433,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,146535225,146535225,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1383987,1383987,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,272205015,272205015,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,112029286,112029286,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,912,912,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2235173,2235173,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,269640559,269640559,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,25369,25369,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,74626536,74626536,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,343342,343342,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,746295582,746295582,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,215273,215273,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,108,108,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,390905060,390905060,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28559,28559,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4916,4916,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1324394,1324394,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53073301,53073301,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1575,1575,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26953742,26953742,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,291504,291504,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16731791,16731791,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,28178643,28178643,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12953114,12953114,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,459095919,459095919,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79060933,79060933,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,610529615,610529615,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,569571967,569571967,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,588411409,588411409,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11286,11286,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,50979,50979,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,124908,124908,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,115,115,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,646461202,646461202,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,889157,889157,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,74388976,74388976,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2995759,2995759,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23636,23636,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,940504052,940504052,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,57364379,57364379,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,51090477,51090477,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,434023097,434023097,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,123612740,123612740,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62051802,62051802,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3999225,3999225,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3566098160,3566098160,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7086978,7086978,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1119578,1119578,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,463539828,463539828,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,291559432,291559432,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,23185994,23185994,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53177987,53177987,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,172991756,172991756,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,216761,216761,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27802,27802,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,324338043,324338043,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,430990686,430990686,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1935230607,1935230607,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,252967805,252967805,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,703476,703476,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3866222,3866222,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,476060577,476060577,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,763486415,763486415,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8498710,8498710,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2317414036,2317414036,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,157181,157181,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,57668112,57668112,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,439281,439281,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21096369,21096369,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,733,733,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43436,43436,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1388,1388,,0
-H4,2016,2016,2016,5,0,0,M,12,Algeria,DZA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,241301,241301,,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29992101470,,29992101470,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91,,91,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8052475,,8052475,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6933326,,6933326,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1197,,1197,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,147405,,147405,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44147377,,44147377,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,175839636,,175839636,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,377962,,377962,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,44528533,,44528533,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,127896,,127896,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,869958,,869958,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75,,75,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47878,,47878,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,987319127,,987319127,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,71,,71,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1616165310,,1616165310,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2405984,,2405984,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43,,43,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75,,75,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36620,,36620,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,407353,,407353,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1300743241,,1300743241,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,289450,,289450,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8253,,8253,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,333398312,,333398312,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,84,,84,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52368,,52368,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,91,,91,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3737583,,3737583,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,217862466,,217862466,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1317052,,1317052,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15886,,15886,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104366,,104366,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,843,,843,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1143,,1143,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3265511,,3265511,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7463,,7463,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,859566,,859566,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9565096,,9565096,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,286,,286,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3424138889,,3424138889,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5487,,5487,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,668171,,668171,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,359233,,359233,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,63438404,,63438404,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2479339,,2479339,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2323538,,2323538,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31208,,31208,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,429806,,429806,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116,,116,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,360140,,360140,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8826067,,8826067,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,161448983,,161448983,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,80832,,80832,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,327410539,,327410539,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2667,,2667,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8019957,,8019957,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76,,76,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,163749378,,163749378,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,55650442,,55650442,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5208346000,,5208346000,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,220861,,220861,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17862064,,17862064,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,186781,,186781,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,31053244,,31053244,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,48251,,48251,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,297,,297,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,102365589,,102365589,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,875,,875,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3393439,,3393439,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,234525491,,234525491,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,998891,,998891,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,56347710,,56347710,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38522385,,38522385,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18605,,18605,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49518583,,49518583,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,499056202,,499056202,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26332,,26332,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1470836701,,1470836701,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,76773,,76773,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,310775,,310775,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8021055,,8021055,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4808608,,4808608,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67633,,67633,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27855,,27855,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,38161,,38161,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,16249534,,16249534,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,848679063,,848679063,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1750980,,1750980,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,62577,,62577,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7604700,,7604700,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7741689,,7741689,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,336,,336,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4666,,4666,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,582447,,582447,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8068600,,8068600,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2208485,,2208485,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,52818824,,52818824,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,479791365,,479791365,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,511482426,,511482426,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,195,,195,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,291242,,291242,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3058457,,3058457,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,567276,,567276,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,998270,,998270,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92109430,,92109430,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5465765,,5465765,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,17195,,17195,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,150427674,,150427674,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1232070,,1232070,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4198,,4198,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3879164211,,3879164211,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,728,South Sudan,SSD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19868078,,19868078,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,20028665,,20028665,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,603483129,,603483129,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1344187409,,1344187409,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3283563,,3283563,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,286544884,,286544884,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1061292522,,1061292522,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6303195,,6303195,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3866104442,,3866104442,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,21152,,21152,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5795230,,5795230,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83,,83,0
-H4,2016,2016,2016,5,0,0,X,12,Algeria,DZA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,67561,,67561,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46053015989,46053015989.108,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,4,Afghanistan,AFG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11461,11461.09,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,463440,463440.71,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1208,1208.37,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,221532,221532.97,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,28,Antigua and Barbuda,ATG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7617,7617.99,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6652,6652.95,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1518397240,1518397240.8,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,42027662,42027662.06,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,344723317,344723317.47,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,536,536.52,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34966260,34966260.88,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24463027,24463027.41,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,51,Armenia,ARM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2052,2052.79,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,52,Barbados,BRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,568,568.16,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,633999819,633999819.92,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,60,Bermuda,BMU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,278,278.22,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,68,Bolivia (Plurinational State of),BOL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31832,31832.8,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6652625,6652625.31,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,72,Botswana,BWA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16868,16868.77,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1374143265,1374143265.61,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,163001,163001.12,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,143065815,143065815.28,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,581476,581476.17,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,108,Burundi,BDI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,675064,675064.55,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1633017,1633017.69,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5576686,5576686.9,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18394236,18394236.13,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,603423448,603423448.37,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2810906,2810906.49,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,235125,235125.75,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2131636,2131636.15,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,148,Chad,TCD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91412,91412.93,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,152,Chile,CHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8910314,8910314.24,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8317843904,8317843904.2,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,903720,903720.43,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1033324,1033324.18,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,822270,822270.05,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21875712,21875712.59,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1119181,1119181.05,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2844618,2844618.25,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,222763177,222763177.439,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6422,6422.64,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136644804,136644804.96,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,212,Dominica,DMA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4574,4574.9,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,634055,634055.28,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64277845,64277845.37,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,628,628.98,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1355239,1355239.02,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17064,17064.07,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,222,El Salvador,SLV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1410768,1410768.71,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,242,Fiji,FJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,862,862.2,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,238,Falkland Isds (Malvinas),FLK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,91715,91715.53,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30152453,30152453.9,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,175185533,175185533.09,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4297507760,4297507760.38,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16827,16827.42,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1439588,1439588,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,748,748.89,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,275,State of Palestine,PSE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1906655,1906655.42,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1998530,1998530.74,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3223254958,3223254958.52,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,166295107,166295107.23,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182,182.01,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,709220,709220.54,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1437696,1437696.49,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,332,Haiti,HTI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1019002,1019002.37,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,340,Honduras,HND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,252064,252064.72,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3859947,3859947.84,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,115910130,115910130.6,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,561028,561028.99,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,253311342,253311342.73,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19605546,19605546.05,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94892,94892.64,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246967183,246967183.62,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3754996554,3754996554,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,80619352,80619352.55,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,388,Jamaica,JAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1810,1810.81,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,437834261,437834261.95,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12343874,12343874.34,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104936146,104936146.04,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,615795,615795.27,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,408,Dem. People's Rep. of Korea,PRK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1195589,1195589.69,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,418,Lao People's Dem. Rep.,LAO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26556,26556.5,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1689707794,1689707794.94,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15304758,15304758.77,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2607904,2607904.08,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,40164540,40164540.88,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2394,2394.32,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21423425,21423425.01,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4186,4186.19,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287062,287062.64,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,397795082,397795082.52,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24123811,24123811.42,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,613815,613815.54,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1047566,1047566.83,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,156580302,156580302.28,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79843,79843.89,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,226191,226191.82,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2019075,2019075.29,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,275175,275175.49,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,305711,305711.38,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139642124,139642124.11,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,126035410,126035410.8,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,496,Mongolia,MNG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35812,35812.47,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,171028,171028.68,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,261412065,261412065.97,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,81175532,81175532.18,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,304033,304033.55,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,405,405.92,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,702616338,702616338.01,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,145,145.99,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,542403256,542403256.83,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,23422,23422.12,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,136915,136915.77,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1943813,1943813.74,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21504355,21504355.24,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,583,FS Micronesia,FSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3837,3837.82,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13172385,13172385.74,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57779258,57779258.73,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95996,95996.03,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24924879,24924879.2,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19916524,19916524.74,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,458385594,458385594.87,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,404789765,404789765.01,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51182866,51182866.65,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,623391029,623391029.44,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1220642767,1220642767.66,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,659,Saint Kitts and Nevis,KNA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6310,6310.16,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,670,Saint Vincent and the Grenadines,VCT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67,67.81,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,674,San Marino,SMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,516172,516172.14,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1702770,1702770.76,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,530648717,530648717.52,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,59757432,59757432.69,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,690,Seychelles,SYC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3694361,3694361.02,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24143,24143.36,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,73665833,73665833.21,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,983916008,983916008.21,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52105734,52105734.51,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,457328750,457328750.35,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60168384,60168384.88,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4064,4064.41,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,39807972,39807972.58,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,690773,690773.66,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,251528,251528.7,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9142423,9142423.11,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3130601442,3130601442.91,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,314213085,314213085.6,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,340271832,340271832.1,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32862761,32862761.97,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82717614,82717614.03,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,125750565,125750565.19,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14197662,14197662.74,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6002,6002.17,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,219468111,219468111.51,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,329586788,329586788.2,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,362372,362372.43,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9092099,9092099.77,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2007924083,2007924083.36,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,602963697,602963697,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,420708233,420708233.09,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,583736290,583736290.279,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1486057,1486057.74,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,894,Zambia,ZMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,455658,455658.98,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,883,883.86,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2135,2135.57,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,24313027,24313027.34,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,191147,191147.62,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117269783,117269783.91,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72749,72749.26,,0
-H5,2017,2017,2017,5,0,0,M,12,Algeria,DZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1841536597,1841536597.08,,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,168709194,,168709194.47,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1205752,,1205752.73,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16864309,,16864309.6,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,222685,,222685.58,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,24,Angola,AGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,67417,,67417.68,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22031007,,22031007.76,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,35191117416,,35191117416.1,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,98335,,98335.2,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82113,,82113.56,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,120,Cameroon,CMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,299661,,299661.91,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,760437,,760437.14,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,140,Central African Rep.,CAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2327,,2327.85,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,132,Cabo Verde,CPV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,787768,,787768.16,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,668028060,,668028060.3,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3575797,,3575797.01,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,353580410,,353580410.97,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,196,Cyprus,CYP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14959889,,14959889,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,116,Cambodia,KHM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44004,,44004,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,460557,,460557.23,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,718872,,718872.43,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,84,Belize,BLZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48706,,48706.53,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2127962683,,2127962683.83,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46,,46.68,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,920587020,,920587020.85,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,691612131,,691612131.24,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1778988,,1778988.87,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,174,Comoros,COM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1233,,1233.96,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,134119,,134119.04,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,901250,,901250.61,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,372400,,372400.44,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,204,Benin,BEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1754146,,1754146.04,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,53167,,53167.35,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,214,Dominican Rep.,DOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13628564,,13628564.6,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16272,,16272.91,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,226,Equatorial Guinea,GNQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,196621,,196621.97,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15191921,,15191921.24,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,232,Eritrea,ERI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1117676,,1117676.24,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,218252341,,218252341.81,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,985,,985.21,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4431261656,,4431261656.51,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,262,Djibouti,DJI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1907,,1907.56,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,266,Gabon,GAB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,117244,,117244.78,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,503288,,503288.98,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,270,Gambia,GMB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1030979,,1030979.6,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14045034,,14045034.35,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,288,Ghana,GHA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15727101,,15727101.17,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,427922489,,427922489.6,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,308,Grenada,GRD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1348,,1348.41,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,63804,,63804.4,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,324,Guinea,GIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5669743,,5669743.04,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,328,Guyana,GUY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31613,,31613.55,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,636308,,636308.94,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48232,,48232.86,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301518727,,301518727.22,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103,,103.57,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,443886,,443886.34,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3329646,,3329646.3,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5629479666,,5629479666.15,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6354070,,6354070.67,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,249454629,,249454629.83,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58743,,58743.41,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,132845583,,132845583.08,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,666894,,666894.77,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,892179503,,892179503.96,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,79914018,,79914018.52,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,49085655,,49085655.73,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,430,Liberia,LBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,231689,,231689.53,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,434,Libya,LBY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18939685,,18939685.72,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15616,,15616.38,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2655,,2655.44,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,454,Malawi,MWI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,799,,799.23,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,103660472,,103660472.54,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15829,,15829.35,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,466,Mali,MLI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1185368,,1185368.44,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,102242068,,102242068.45,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,478,Mauritania,MRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,50067724,,50067724.09,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,58175,,58175.46,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11006722,,11006722.02,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,52568778,,52568778.36,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,498,Rep. of Moldova,MDA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,112,,112.83,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,450367682,,450367682.95,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,146985,,146985.68,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1903436666,,1903436666.7,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25592,,25592.34,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,330447,,330447.23,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,566,Nigeria,NGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,325371,,325371.49,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32376307,,32376307.43,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82815,,82815.54,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12947985,,12947985.76,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107179990,,107179990.86,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21609125,,21609125.62,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,955803705,,955803705.96,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3313490,,3313490.21,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18439,,18439.85,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6294570,,6294570.41,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,678,Sao Tome and Principe,STP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,45599,,45599.36,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3962457,,3962457.98,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,686,Senegal,SEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,27076584,,27076584.91,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,231,,231.53,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,901066,,901066.18,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,871523976,,871523976.44,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,331869437,,331869437.65,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2415397,,2415397.69,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2432566,,2432566.74,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,706,Somalia,SOM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43547,,43547.91,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,456142,,456142.73,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,716,Zimbabwe,ZWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,72,,72.09,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4103370763,,4103370763.76,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18069966,,18069966.57,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6347314,,6347314.34,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,30606789,,30606789.15,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,760,Syria,SYR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6536266,,6536266.71,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34177078,,34177078.98,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,203445235,,203445235.91,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,768,Togo,TGO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19111891,,19111891.12,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,48196052,,48196052.41,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,753421527,,753421527.8,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1837059428,,1837059428.48,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10169231,,10169231.66,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,456827553,,456827553.65,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1606169601,,1606169601.69,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3463406,,3463406.82,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3467906168,,3467906168.12,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20438723,,20438723.38,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,232446,,232446.86,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31932,,31932.58,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1718301,,1718301.96,0
-H5,2017,2017,2017,5,0,0,X,12,Algeria,DZA,854,Burkina Faso,BFA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,335011,,335011.77,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46053015989,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35191117416,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11461,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463440,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22031007,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1208,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221532,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67417,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7617,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6652,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222685,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1518397240,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16864309,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42027662,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168709194,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344723317,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82113,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34966260,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98335,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24463027,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1205752,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2052,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,568,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,633999819,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,920587020,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31832,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6652625,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16868,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1374143265,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2127962683,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163001,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48706,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143065815,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718872,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,581476,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,675064,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1633017,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460557,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5576686,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44004,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18394236,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299661,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,603423448,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,668028060,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2810906,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,787768,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235125,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2327,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2131636,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,760437,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91412,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8910314,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8317843904,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,691612131,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,903720,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1778988,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1233,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1033324,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134119,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,822270,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,901250,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21875712,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3575797,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1119181,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,353580410,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2844618,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14959889,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222763177,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,372400,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6422,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1754146,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136644804,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53167,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4574,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,634055,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13628564,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64277845,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16272,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1410768,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17064,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196621,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1355239,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15191921,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,628,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117676,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30152453,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218252341,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91715,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,862,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175185533,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,985,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4297507760,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4431261656,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1907,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16827,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117244,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1439587,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,503288,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,748,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1030979,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1906655,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3223254958,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14045034,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1998530,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15727101,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166295107,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,427922489,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1348,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,709220,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63804,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1437696,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5669743,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31613,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1019002,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252064,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3859947,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,636308,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115910130,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48232,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,561028,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253311342,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301518727,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19605546,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94892,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443886,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246967183,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3329646,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3754996553,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5629479666,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80619352,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6354070,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1810,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437834261,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249454629,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12343874,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58743,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104936146,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132845583,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,615795,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,666894,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1195589,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1689707794,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,892179503,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15304758,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79914018,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2607904,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26556,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40164540,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49085655,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2394,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21423425,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4186,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231689,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287062,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18939685,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397795082,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24123811,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15616,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,613815,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2655,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1047566,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,799,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156580302,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103660472,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79843,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15829,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226191,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1185368,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2019075,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102242068,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275175,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50067724,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305711,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58175,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139642124,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11006722,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126035410,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52568778,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35812,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171028,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261412065,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,450367682,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81175532,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146985,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304033,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,405,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,702616338,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1903436666,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542403256,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25592,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23422,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136915,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330447,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1943813,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,325371,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21504355,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32376307,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3837,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24924879,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82815,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95996,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12947985,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57779258,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13172385,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19916524,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107179990,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,458385594,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21609125,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,404789765,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,955803705,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51182866,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3313490,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623391029,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18439,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1220642767,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6294570,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6310,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516172,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45599,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,530648717,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3962457,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1702770,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27076584,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59757432,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3694361,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24143,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,901066,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,983916008,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,871523976,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73665833,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,331869437,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52105734,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,457328750,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2415397,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60168384,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2432566,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4064,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43547,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39807972,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456142,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,690773,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3130601442,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4103370763,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9142423,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18069966,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251528,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314213085,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6347314,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,340271832,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30606789,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32862761,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6536266,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82717614,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34177078,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125750565,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203445235,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14197662,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19111891,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6002,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219468111,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48196052,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329586788,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753421527,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2007924083,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1837059428,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9092099,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,602963696,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10169231,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,362372,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,420708233,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456827553,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583736290,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1606169601,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1486057,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3463406,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1841536597,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3467906168,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72749,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335011,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117269783,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1718301,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191147,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31932,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24313027,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2135,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,883,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232446,,,0
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455658,,,0
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20438723,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47090683586,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29992101470,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,46935,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,807656,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8052475,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50030,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,637419,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6933326,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,187528,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1197,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119977,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,147405,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1334976414,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44147377,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16486469,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,175839636,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,351572047,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,377962,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20445,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,44528533,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,85782922,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,127896,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18719745,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,869958,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,109109,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,47878,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,605129456,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,987319127,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,884,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,745,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,58999,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4451644,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,71,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,280323,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1209131627,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1616165310,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56141,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,260991899,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2405984,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,172765,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,90575,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1604878,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,75,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5626809,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,36620,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8980696,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,407353,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,519569927,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1300743241,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,211982,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,289450,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,24637,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2599727,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8253,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11060,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,15886,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7905810,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8409854958,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,333398312,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5971462,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,84,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,202569,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1304316,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52368,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,940,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1686881,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,91,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51212286,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3737583,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2108230,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,217862466,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31532718,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3265511,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,190304363,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7463,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16823,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1317052,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138722064,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,859566,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6196,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,425484,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,9565096,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,138357945,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,286,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1997663,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12481,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,104366,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1489074,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3153,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29280339,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,843,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63569,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10607,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,227310313,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1143,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4773926390,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3424138889,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19894,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5487,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,790298,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,668171,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7546,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,359233,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2015566,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3024539114,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63438404,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,845301,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2479339,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,267692527,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,161448983,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,34870,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,310569,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,80832,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,352436,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2323538,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1097,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31208,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6979898,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,103303,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,10509388,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,429806,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,156052548,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,116,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,709027,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,189664101,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,327410539,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,22462032,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2667,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146763,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,360140,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,166155669,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8826067,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4645652697,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5208346000,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,119653628,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8019957,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,476429725,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,163749378,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7479179,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,147906528,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,55650442,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,909805,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3393439,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2325811,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1091889240,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,234525491,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17052744,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,220861,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,748147,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27803,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43791505,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17862064,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,133412,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,63871172,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,13749992,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,186781,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,183,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,31053244,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76506917,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,48251,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26368691,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,297,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,964990,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1333175,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,146535225,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,102365589,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,141004,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,875,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,61102,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,998891,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,29391380,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,56347710,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,231433,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38522385,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1383987,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,18605,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,272205015,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,49518583,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,112029286,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,52818824,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,912,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2235173,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,269640559,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,499056202,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,25369,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74626536,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26332,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,343342,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,746295582,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1470836701,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,215273,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,108,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,390905060,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,76773,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28559,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4916,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,310775,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1324394,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8021055,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53073301,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4808608,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1575,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,26953742,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67633,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,291504,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27855,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,28178643,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16731791,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,12953114,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,38161,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,459095919,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,16249534,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,610529615,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,848679063,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,79060933,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1750980,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,569571967,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62577,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,588411409,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8068600,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,11286,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2208485,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,50979,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,124908,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,115,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,646461202,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7604700,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,889157,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7741689,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,74388976,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,336,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2995759,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4666,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23636,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,582447,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,940504052,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,479791365,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57364379,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,511482426,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,51090477,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,195,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,434023097,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,567276,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,123612740,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,998270,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,62051802,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,291242,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3999225,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3566098160,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3879164211,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,7086978,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,19868078,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1119578,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,463539828,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3058457,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,291559432,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,92109430,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,23185994,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5465765,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,53177987,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,17195,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,172991756,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,150427674,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,216761,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1232070,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,27802,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,4198,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,324338043,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,20028665,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,430990686,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,603483129,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1935230607,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1344187409,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3866222,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,252967805,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3283563,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,703476,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,476060577,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,286544884,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,763486415,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1061292522,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,8498710,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,6303195,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,2317414036,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,3866104442,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,157181,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21152,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,57668112,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,5795230,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,439281,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,21096369,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,83,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,733,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,43436,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,1388,,,0
+H4,2016,2016,2016,0,0,1,Import,12,Algeria,DZA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,241301,,,0
+H4,2016,2016,2016,0,0,2,Export,12,Algeria,DZA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,,,,,,,67561,,,0

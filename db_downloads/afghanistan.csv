@@ -1,537 +1,677 @@
 Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2929680,2929680,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,92359,92359,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,8376636,8376636,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1008152,1008152,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5554109,5554109,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79799,79799,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,14688487,14688487,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6534140413,6534140413,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6702967,6702967,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,910629,910629,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,2177939,2177939,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1092707519,1092707519,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6187,6187,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,181537,181537,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1028242,1028242,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4881,4881,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,231,Ethiopia,ETH,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,42300,42300,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,29431042,29431042,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3305,3305,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,391661,391661,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1278763,1278763,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,461879,461879,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,49578,49578,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,105739,105739,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,225488,225488,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5401786,5401786,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18870,18870,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,36756177,36756177,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1265139067,1265139067,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,6817689,6817689,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,251,251,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5421330,5421330,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,621624666,621624666,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,920428,920428,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,47257432,47257432,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,41151951,41151951,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,84290,84290,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1516701,1516701,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1426863,1426863,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,264863333,264863333,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,462,Maldives,MDV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,106212,106212,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1126732,1126732,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,248690628,248690628,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5064012,5064012,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5070599,5070599,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,767294,767294,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,65440,65440,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,138792029,138792029,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9820457,9820457,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,15673,15673,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5559442,5559442,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,399272,399272,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,57734429,57734429,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,680311,680311,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1852642,1852642,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,80281,80281,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1198759334,1198759334,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,314221,314221,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3379764,3379764,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,282616,282616,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,37491,37491,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,152876873,152876873,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3395513,3395513,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5398693,5398693,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,79680632,79680632,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,200385452,200385452,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18528893,18528893,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,78319073,78319073,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,355401308,355401308,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,73432839,73432839,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18558,18558,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,399144420,399144420,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,882,Samoa,WSM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7878569,7878569,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,1,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5634849,5634849,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,609340,609340,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,7995003,7995003,,0
-H2,2016,2016,2016,5,0,0,M,4,Afghanistan,AFG,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1807,1807,,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,596455337,,596455337,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,455832,,455832,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,177188,,177188,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1231243,,1231243,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,19538,,19538,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,609003,,609003,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4754161,,4754161,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5495,,5495,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,488068,,488068,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1408046,,1408046,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,18822947,,18822947,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,11184770,,11184770,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,104030,,104030,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,53128,,53128,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,39057,,39057,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1029,,1029,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,283316886,,283316886,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4511,,4511,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,13410,,13410,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,116409,,116409,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3486361,,3486361,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1138002,,1138002,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,4405604,,4405604,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,5432,,5432,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,136779,,136779,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,83282,,83282,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,3988416,,3988416,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1367950,,1367950,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,469702,,469702,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,27000,,27000,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,893702,,893702,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12565,,12565,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,9368012,,9368012,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,230037526,,230037526,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,75276,,75276,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43068,,43068,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,607844,,607844,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,70677,,70677,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,46083,,46083,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,43348,,43348,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,26433,,26433,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,12147012,,12147012,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1754656,,1754656,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,478,,478,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1312089,,1312089,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,411764,,411764,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1,,1,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1721,,1721,0
-H2,2016,2016,2016,5,0,0,X,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,,-1,N/A,,,,1689800,,1689800,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,32620,0,32620.63,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,142292,0,142292.75,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,870069,0,870069,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2489035,0,2489035.78,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1011406,0,1011406.88,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1200,0,1200.69,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4027,0,4027.23,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,76379,0,76379,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,68184,0,68184.93,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,18112758,0,18112758.66,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,513064,0,513064.72,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,165,0,165.23,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,64546,0,64546.26,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1433204,0,1433204.12,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,88675,0,88675.48,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,67507,0,67507,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,84516747,84516747.66,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,60648758,60648758.83,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,560528301,560528301.99,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,192777108,192777108,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,220475,220475.61,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,688,Serbia,SRB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,77009,77009.42,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,111577376,111577376.46,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,983645,983645.64,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,76929512,76929512.11,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2227811,2227811.48,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3266810,3266810.77,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4845,4845.54,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,789,789.48,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,57642,57642.71,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1823,1823.66,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1965898,1965898.31,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,188,Costa Rica,CRI,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,19740,19740.48,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1667999,1667999.79,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,268,Georgia,GEO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,364,364.89,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61249290,61249290.33,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,123630,123630.93,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,276824,276824.92,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1212563808,1212563808.43,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6238783,6238783.88,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,352,Iceland,ISL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3400,3400.39,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12224606,12224606.8,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14092179,14092179.61,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20033975,20033975.46,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,553813,553813.32,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,166793,166793.69,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11992,11992.63,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4797,4797.94,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,258838561,258838561.59,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,61092972,61092972.44,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3676561,3676561.87,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,273117,273117.96,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,995,995.8,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,381,381.99,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2631439,2631439.48,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,52644,52644.23,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3938192,3938192.01,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22154920,22154920.9,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,148927239,148927239.78,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,413179649,413179649.19,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6688661,6688661.11,0,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,831926771,0,831926771.77,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,83957030,83957030.09,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7743618,7743618.49,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4449650,4449650.02,0,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,600415,0,600415.16,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,239523,0,239523.89,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1689237,1689237.36,0,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,58650,0,58650.26,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1717902,0,1717902.25,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,80465,80465.91,0,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,11711475,0,11711475.65,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,72898,72898.03,0,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,236790,0,236790.75,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,117958,0,117958.76,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4865421,0,4865421.87,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,14563223,0,14563223.43,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,10108,0,10108.01,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,13436,0,13436.09,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3784261,0,3784261.77,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,21713,0,21713.16,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,416641,0,416641.6,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,79370,0,79370.96,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3411029,0,3411029.15,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3100187,0,3100187.37,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,54029,0,54029.2,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7199,0,7199.01,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,357201296,0,357201296.92,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,217129,0,217129.75,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,210273,0,210273.9,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1034801,0,1034801.9,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6016,0,6016.14,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,38127,0,38127.72,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,145860,0,145860.38,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,40680,0,40680.63,0
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108836,0,108836.04,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1492940,0,1492940.61,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,356139528,0,356139528.05,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5904179,0,5904179.83,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,2876046,0,2876046.69,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90351,0,90351.67,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,86752,0,86752.43,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,12962004,0,12962004.3,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,22006682,0,22006682.62,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1377122,0,1377122.08,4
-H2,2017,2017,2017,5,0,0,X,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3663,0,3663.41,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,36131410,36131410.2,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,437414935,437414935.84,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,866770014,866770014.13,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,955819,955819.14,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,37837,37837.37,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7618139,7618139.01,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1005469,1005469.27,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,108901759,108901759.72,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,494011,494011.58,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,266702,266702.02,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,133531,133531.83,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,90501,90501.77,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6824,6824,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,354037193,354037193.67,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,20184,20184.96,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1282510,1282510.41,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7222774,7222774.07,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1293224713,1293224713.83,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,136932,136932.1,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,918080,918080.04,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,508,Mozambique,MOZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1688,1688.75,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1720064,1720064.58,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1620,1620.96,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4713488,4713488.54,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,686912,686912.36,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,203931,203931.79,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,53040,53040.15,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4158594,4158594.48,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3884593,3884593.08,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3367953,3367953.65,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4252799,4252799.13,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,265893,265893.05,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4252778,4252778.63,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,5582549,5582549.59,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,1179297873,1179297873.12,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,936989,936989.5,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6664274,6664274.31,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,50,50.46,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,322799,322799.04,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,8897,8897.41,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,218,Ecuador,ECU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,4814,4814.87,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,941017,941017.2,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,7792600111,7792600111.74,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,6688295,6688295.97,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,682,682.55,0,0
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,3286729,3286729.87,0,4
-H2,2017,2017,2017,5,0,0,M,4,Afghanistan,AFG,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,0,0,167634,167634.33,0,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,764751,,764751.79,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34055,,34055.31,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,374221,,374221.99,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25717,,25717.45,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25862,,25862.1,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104412,,104412.52,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13719,,13719.93,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,875241399,,875241399.13,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1321612,,1321612.62,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28407583,,28407583.58,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7327,,7327.18,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5581,,5581.16,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1228017,,1228017.36,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,534920,,534920.69,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5340072,,5340072.48,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,941724,,941724.2,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10143,,10143.58,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54029,,54029.2,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19508634,,19508634.35,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13190079,,13190079.73,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,279918,,279918.22,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162888,,162888.95,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4442887,,4442887,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2796480,,2796480.73,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87852,,87852.98,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15111,,15111.29,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1396108,,1396108.77,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,511762,,511762.2,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1256,,1256.28,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,255374,,255374.95,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,378244208,,378244208.32,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6604192,,6604192.14,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1665685,,1665685.22,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298841,,298841.96,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10765,,10765.09,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13304,,13304.68,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,414888,,414888.85,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,334,,334.58,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141134,,141134.4,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104,,104.82,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51170,,51170.19,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,899942,,899942.27,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60309,,60309.88,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,359437858,,359437858.13,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,106232,,106232.68,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4412,,4412.45,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3449016,,3449016.56,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32620,,32620.63,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14265354,,14265354.08,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4027,,4027.23,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21007467,,21007467,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1540376,,1540376.84,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1752132,,1752132.26,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2218408,,2218408.98,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26415,,26415.25,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60365,,60365.37,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,893430,,893430.25,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17388,,17388.12,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,177837,,177837.28,0
-H4,2018,2018,2018,5,0,0,DX,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1065,,1065.03,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7406590324,7406590324.75,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,8,Albania,ALB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,536,536.86,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,16,American Samoa,ASM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2103594,2103594.85,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,20,Andorra,AND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,889,889.86,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3247735,3247735.24,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,32,Argentina,ARG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212325,212325.76,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10984774,10984774.56,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4577343,4577343.12,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,212173,212173.97,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,50,Bangladesh,BGD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6278789,6278789.38,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11181046,11181046.63,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2071047,2071047.8,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,100,Bulgaria,BGR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,362322,362322.87,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4260922,4260922.13,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10182011,10182011.21,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,144,Sri Lanka,LKA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,460615,460615.91,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1165931751,1165931751.97,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,178,Congo,COG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7599,7599.7,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,191,Croatia,HRV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,173936,173936.28,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,192,Cuba,CUB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1117,1117.67,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1335105,1335105.52,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1233395,1233395.14,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,233,Estonia,EST,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1627039,1627039.01,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,304722,304722.64,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7406892,7406892.76,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,65545243,65545243.85,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,300,Greece,GRC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,216866,216866.66,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,320,Guatemala,GTM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,330101,330101.83,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,336,Holy See (Vatican City State),VAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9337,9337.5,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,676766,676766.84,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,877012,877012.08,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,43014438,43014438.7,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1264167476,1264167476.21,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10189,10189.47,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,372,Ireland,IRL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5360011,5360011.16,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,376,Israel,ISR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5332,5332.33,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9167960,9167960.3,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,384,Côte d'Ivoire,CIV,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,182,182.18,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,404,Kenya,KEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,82231431,82231431.66,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,512422,512422.37,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,790753847,790753847.33,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,414024682,414024682.39,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,482933,482933.19,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,435729,435729.24,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,70295698,70295698.04,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,533,Aruba,ABW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1062991,1062991.19,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,540,New Caledonia,NCL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7273,7273.61,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3632652,3632652.7,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,426,Lesotho,LSO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12,12.91,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,428,Latvia,LVA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8276,8276.98,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,440,Lithuania,LTU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5922505,5922505.14,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,442,Luxembourg,LUX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3466,3466.92,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,450,Madagascar,MDG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10264,10264.28,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,282337211,282337211.03,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,470,Malta,MLT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,466,466.47,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,480,Mauritius,MUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124885,124885.45,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,706247,706247.94,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5124803,5124803.19,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,504,Morocco,MAR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,44489,44489.03,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6819826,6819826.24,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46658,46658.28,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1695814,1695814.56,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,558,Nicaragua,NIC,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2062,2062.38,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,562,Niger,NER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1955,1955.79,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,56960,56960.63,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4446773,4446773.82,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,516,Namibia,NAM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11340,11340.03,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,524,Nepal,NPL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1919,1919.21,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5259515,5259515.89,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,694,Sierra Leone,SLE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139,139.08,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1086851107,1086851107.92,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,402,402.36,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,604,Peru,PER,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5620,5620.9,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,133502,133502.28,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4131775,4131775.61,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41458,41458.21,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,246,246.86,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,360491,360491.44,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,157697023,157697023.6,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,64908881,64908881.44,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,705,Slovenia,SVN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32,32.75,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2728141,2728141.74,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,354282140,354282140.22,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3438004,3438004,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,361716,361716.66,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16840042,16840042.42,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,772,Tokelau,TKL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,657,657.29,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,382728,382728.73,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,729,Sudan,SDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,301207,301207.45,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4892893,4892893.83,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5327859,5327859.74,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95767331,95767331.08,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99847,99847.52,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,124299466,124299466.23,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,41688,41688.79,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,78832638,78832638.24,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,385417082,385417082.44,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5024134,5024134.32,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,807,North Macedonia,MKD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2414,2414.32,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1477608,1477608.37,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4654858,4654858.64,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,834,United Rep. of Tanzania,TZA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5985,5985.14,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,55027632,55027632.97,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,553948708,553948708.71,,0
-H4,2018,2018,2018,5,0,0,M,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99701125,99701125.61,,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2501,,2501.1,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,564,,564.82,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7499,,7499.91,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,221,,221.53,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1239,,1239.56,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5541,,5541.4,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,580,,580.01,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104543,,104543.78,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,94357,,94357.11,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62342,,62342.47,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,31791,,31791.8,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2488,,2488.37,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,864744,,864744.96,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,413,,413.47,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,245715,,245715.63,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,760581,,760581.01,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,244646,,244646.1,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3471,,3471.94,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,369,,369.36,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9263097,,9263097.24,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3941986,,3941986.83,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1500559,,1500559.14,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1013141,,1013141.41,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89136,,89136.42,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5382,,5382.54,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,153596,,153596.29,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25331,,25331.95,0
-H4,2018,2018,2018,5,0,0,RX,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,100348,,100348.33,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,884504496,,884504496.37,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,31,Azerbaijan,AZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13719,,13719.93,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,36,Australia,AUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,764751,,764751.79,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,40,Austria,AUT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104412,,104412.52,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,48,Bahrain,BHR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25862,,25862.1,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25717,,25717.45,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,104,Myanmar,MMR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,374221,,374221.99,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,112,Belarus,BLR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,34055,,34055.31,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,124,Canada,CAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1321981,,1321981.98,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28410084,,28410084.68,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,564,,564.82,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,203,Czechia,CZE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7327,,7327.18,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,208,Denmark,DNK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5581,,5581.16,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,246,Finland,FIN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1228017,,1228017.36,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,538392,,538392.63,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,276,Germany,DEU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5584718,,5584718.58,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,941724,,941724.2,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,348,Hungary,HUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10143,,10143.58,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,360,Indonesia,IDN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,54029,,54029.2,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,364,Iran,IRN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,20269215,,20269215.36,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,368,Iraq,IRQ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13190079,,13190079.73,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,380,Italy,ITA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,279918,,279918.22,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,162888,,162888.95,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,398,Kazakhstan,KAZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4450386,,4450386.91,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,400,Jordan,JOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2796480,,2796480.73,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,414,Kuwait,KWT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,87852,,87852.98,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,260826,,260826.92,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,422,Lebanon,LBN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1396108,,1396108.77,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,511762,,511762.2,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,512,Oman,OMN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1256,,1256.28,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,255374,,255374.95,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,554,New Zealand,NZL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,141134,,141134.4,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,579,Norway,NOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,748,,748.05,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,586,Pakistan,PAK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,379108953,,379108953.28,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,616,Poland,POL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,414888,,414888.85,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,620,Portugal,PRT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13304,,13304.68,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,634,Qatar,QAT,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13253,,13253.46,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,642,Romania,ROU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,298841,,298841.96,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,643,Russian Federation,RUS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1665685,,1665685.22,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,682,Saudi Arabia,SAU,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6604192,,6604192.14,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,699,India,IND,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,359469649,,359469649.93,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60309,,60309.88,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,703,Slovakia,SVK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,62342,,62342.47,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,704,Viet Nam,VNM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,994299,,994299.38,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,710,South Africa,ZAF,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,104543,,104543.78,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,51750,,51750.2,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,748,Eswatini,SWZ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5646,,5646.22,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,107472,,107472.24,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4633,,4633.98,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,762,Tajikistan,TJK,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7391003,,7391003.39,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,764,Thailand,THA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32620,,32620.63,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,784,United Arab Emirates,ARE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15765913,,15765913.22,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,788,Tunisia,TUN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4027,,4027.23,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,792,Turkey,TUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22020608,,22020608.41,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,795,Turkmenistan,TKM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,982566,,982566.67,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,800,Uganda,UGA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17388,,17388.12,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,804,Ukraine,UKR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,183219,,183219.82,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,818,Egypt,EGY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1065,,1065.03,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1693973,,1693973.13,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1777464,,1777464.21,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,860,Uzbekistan,UZB,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2318757,,2318757.31,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,887,Yemen,YEM,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26415,,26415.25,0
-H4,2018,2018,2018,5,0,0,X,4,Afghanistan,AFG,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,60365,,60365.37,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7406590324,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884504496,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9263097,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,536,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2103594,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,889,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3247735,,,0
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13719,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212325,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10984774,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,764751,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4577343,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104412,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212173,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25862,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6278789,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11181046,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25717,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2071047,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,362322,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,374221,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4260922,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34055,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10182011,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1321981,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,369,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460615,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1165931751,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28410084,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2501,,,0
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,564,,,0
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,564,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7599,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173936,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1335105,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7327,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1233395,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5581,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1627039,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304722,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1228017,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7406892,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,538392,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3471,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65545243,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5584718,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244646,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216866,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330101,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9337,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,676766,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,941724,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,877012,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10143,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43014438,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54029,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1264167476,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20269215,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,760581,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10189,,,0
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13190079,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5360011,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5332,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9167960,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,279918,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,414024682,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162888,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,790753847,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4450386,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7499,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,512422,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2796480,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82231431,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70295698,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,435729,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87852,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,482933,,,0
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260826,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,245715,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3632652,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1396108,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8276,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5922505,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3466,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10264,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282337211,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,511762,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,466,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124885,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,706247,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5124803,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44489,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4446773,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1256,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11340,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1919,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6819826,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255374,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46658,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1062991,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7273,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1695814,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141134,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2062,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1955,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56960,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,748,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,413,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1086851107,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,379108953,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,864744,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,402,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5620,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133502,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4131775,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,414888,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41458,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13304,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246,,,0
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13253,,,0
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2488,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,360491,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298841,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157697023,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1665685,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5259515,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6604192,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,139,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354282140,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,359469649,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31791,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3438004,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60309,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,361716,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62342,,,0
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62342,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64908881,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,994299,,,0
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94357,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,382728,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104543,,,0
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104543,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2728141,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51750,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,580,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301207,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4892893,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5646,,,0
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5541,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5327859,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107472,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1239,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99847,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4633,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95767331,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7391003,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3941986,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16840042,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32620,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,657,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124299466,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15765913,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1500559,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41688,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4027,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78832638,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22020608,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1013141,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,385417082,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,982566,,,0
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89136,,,0
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17388,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5024134,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183219,,,0
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5382,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2414,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1477608,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1065,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4654858,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1693973,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153596,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5985,,,4
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55027632,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1777464,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25331,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,553948708,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2318757,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100348,,,0
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26415,,,0
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99701125,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60365,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8568013876,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,870488512,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6655196,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,614220,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122809,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48473684,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62547,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257396,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15133928,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1134984,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1331310,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380039,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1703,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205869,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69308,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7617401,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312758,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7042551,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61454,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4602578,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121456,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,300902,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50286444,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13464,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4196,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11502438,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1377671,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136220,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,767793,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3509,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1192426517,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31001901,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5497,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,490593,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165213,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1400790,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1145,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15742750,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5417,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10266,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718081,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,505141,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,920817,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11729349,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338655,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4852698,,,0
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7594,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89702137,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11704679,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,565,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5930182,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430017,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1174203,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,297382,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1102012,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17401,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38099074,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142389,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1247167949,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15053035,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433235,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2624,,,0
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14500216,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11188087,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,626,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14756095,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,491212,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,475,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229796432,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14043,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522236550,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3195615,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291516,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,899346,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1415174,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57243766,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66375745,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66979,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42010,,,0
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326553,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16867,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233224,,,0
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188379,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39981,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11148,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3092547,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1114707,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1414,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115016,,,0
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16276,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91435,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5587102,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5779,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203256,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4043,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320757539,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100314,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,640774,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4918319,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2999429,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164653,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34151,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32031,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11270,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2210799,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7474,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6174,,,0
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12755,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26283,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1523,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13935878,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283034,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18384,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,483928,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1680615,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5190,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132940,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4953,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1102989064,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298635063,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,590916,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226253,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5095175,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124519,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,419386,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8443,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50553,,,0
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6431,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39958,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306075,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260518342,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2021828,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9657,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4530037,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9426171,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44451,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,874,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,453695604,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410135570,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2320,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2278312,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70584,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,300733,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74361805,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,438220,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3026,,,0
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79329,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136117,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40498,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3286940,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388566,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,427088,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5239092,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16937,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5199630,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307092,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272091,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10820,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119466543,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5084962,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2706469,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13665737,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3440,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20452,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,544,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154010057,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24944870,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1395465,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291170122,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25152196,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40545,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,690214115,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1174517,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275742,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4187070,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100121,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2522,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1422376,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13372,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18912311,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1690918,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2588,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4323,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,783751664,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3006283,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,638,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433352855,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2077578,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,800147,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191576,,,4
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2619,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119030237,,,4
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6534140413,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,596455337,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14688487,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79799,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5554109,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,455832,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,910629,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2929680,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177188,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1008152,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1231243,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8376636,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,92359,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19538,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6702967,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,609003,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2177939,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1092707519,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4754161,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6187,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181537,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1028242,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5495,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4881,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42300,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105739,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,225488,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488068,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5401786,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1408046,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18870,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29431042,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4405604,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3305,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,391661,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1278763,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461879,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5432,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49578,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36756177,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1265139067,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18822947,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11184770,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6817689,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5421330,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,136779,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248690628,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83282,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,621624666,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3988416,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,920428,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1367950,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47257432,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,41151951,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84290,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1516701,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469702,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1426863,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27000,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264863333,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104030,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,106212,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1126732,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5064012,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5070599,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53128,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,767294,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39057,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65440,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1029,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1198759334,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,283316886,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314221,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3379764,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4511,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,282616,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13410,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37491,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116409,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,138792029,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3486361,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9820457,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1138002,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15673,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152876873,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230037526,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5559442,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75276,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399272,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43068,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57734429,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,607844,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,680311,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70677,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1852642,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46083,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80281,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3395513,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43348,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5398693,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26433,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79680632,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,893702,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18528893,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12565,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,200385452,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9368012,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78319073,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12147012,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,355401308,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1754656,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5634849,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,478,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,609340,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1721,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7995003,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1689800,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1807,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73432839,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1312089,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18558,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,399144420,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,411764,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7878569,,,0
+H2,2016,2016,2016,0,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H2,2016,2016,2016,0,0,2,Export,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,7792600111,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,831926771,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6688295,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,682,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3286729,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,167634,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12224606,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,600415,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3367953,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,239523,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,322799,,,0
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,58650,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4252799,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,10108,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14092179,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,68184,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4252778,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,265893,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,50,,,0
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,236790,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5582549,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13436,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,20033975,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1717902,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,553813,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1179297873,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11711475,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,19740,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,8897,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1965898,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,936989,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,117958,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,4814,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1667999,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,123630,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3784261,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6664274,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,513064,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,364,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61249290,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4865421,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,37837,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,165,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,276824,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,941017,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,64546,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,955819,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,21713,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3400,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,36131410,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,54029,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1212563808,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,18112758,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90501,,,0
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,14563223,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7618139,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,133531,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6238783,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,416641,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,437414935,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,79370,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,866770014,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3411029,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1005469,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3100187,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,76929512,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,108901759,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,494011,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7199,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,266702,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2227811,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1034801,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,6824,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,20184,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3266810,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6016,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4845,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,789,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,354037193,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,145860,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,918080,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1282510,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7222774,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,136932,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,1688,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1720064,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,1620,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1823,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4713488,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,217129,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,531,Curaçao,CUW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,57642,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,203931,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,686912,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,40680,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,53040,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1293224713,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,357201296,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4797,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,220475,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4158594,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,210273,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,166793,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,38127,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,11992,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,108836,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,192777108,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1492940,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3884593,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,5904179,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,77009,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,995,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,258838561,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,356139528,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3676561,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,273117,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,61092972,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2876046,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,381,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,52644,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,88675,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2631439,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,90351,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,729,Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,72898,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3938192,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,3663,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,7743618,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,86752,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,983645,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1200,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,111577376,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1433204,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22154920,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,32620,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,148927239,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,12962004,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,80465,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4027,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,84516747,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,22006682,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,413179649,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1377122,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,4449650,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,142292,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1689237,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,6688661,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,870069,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,60648758,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,2489035,,,4
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,560528301,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1011406,,,0
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,76379,,,0
+H2,2017,2017,2017,0,0,1,Import,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,83957030,,,4
+H2,2017,2017,2017,0,0,2,Export,4,Afghanistan,AFG,899,"Areas, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,67507,,,0

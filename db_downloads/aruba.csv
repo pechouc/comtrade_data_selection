@@ -1,98 +1,141 @@
 Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1117122531,1117122531.19,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,44,Bahamas,BHS,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,901364,901364.44,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,476502,476502.52,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14347015,14347015.6,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17022453,17022453.3,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15181208,15181208.21,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1618671,1618671.37,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,344,"China, Hong Kong SAR",HKG,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1242111,1242111.2,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8442236,8442236.52,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15159457,15159457.47,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6631888,6631888.47,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,46168,46168.13,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,99635099,99635099.33,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,593290,593290.78,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,287868,287868,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6815682,6815682.83,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,18320524,18320524.36,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,600,Paraguay,PRY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2864938,2864938.5,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,688192,688192.99,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21640466,21640466.29,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,488900220,488900220.98,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,526995,526995.86,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14443396,14443396.81,,0
-H4,2016,2016,2016,5,0,0,M,533,Aruba,ABW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,381336777,381336777.23,,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3176590,,3176590.9,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5525308,,5525308.81,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1034543,,1034543.72,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,32917,,32917.3,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,22709720,,22709720.46,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1908570,,1908570.57,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8122973,,8122973.75,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2531392,,2531392.22,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1080659,,1080659.2,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,150837,,150837.93,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,780577,,780577.31,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,68574,,68574.26,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,95396491,,95396491.22,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,597420,,597420.97,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,9651344,,9651344.9,0
-H4,2016,2016,2016,5,0,0,X,533,Aruba,ABW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,38025058,,38025058.92,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1194654491,1194654491.488,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15176101,15176101.344,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21233227,21233227.473,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16582942,16582942.695,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1612765,1612765.851,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,8370555,8370555.395,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,6746713,6746713.57,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5571958,5571958.162,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,57825,57825.117,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,139771213,139771213.646,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,13664029,13664029.867,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,26703796,26703796.289,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5970064,5970064.152,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,160965,160965.3,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,752,Sweden,SWE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1596,1596.647,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1966508,1966508.172,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1687701,1687701.018,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,19607607,19607607.995,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,597653867,597653867.709,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,858,Uruguay,URY,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2415789,2415789.002,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,21247436,21247436.445,,0
-H4,2017,2017,2017,5,0,0,M,533,Aruba,ABW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,288451825,288451825.638,,0
-H4,2017,2017,2017,5,0,0,X,533,Aruba,ABW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,89079346,,89079346.823,0
-H4,2017,2017,2017,5,0,0,X,533,Aruba,ABW,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10557891,,10557891.413,0
-H4,2017,2017,2017,5,0,0,X,533,Aruba,ABW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10673820,,10673820.977,0
-H4,2017,2017,2017,5,0,0,X,533,Aruba,ABW,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,701438,,701438.833,0
-H4,2017,2017,2017,5,0,0,X,533,Aruba,ABW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2360334,,2360334.834,0
-H4,2017,2017,2017,5,0,0,X,533,Aruba,ABW,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,17307999,,17307999.395,0
-H4,2017,2017,2017,5,0,0,X,533,Aruba,ABW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,47477861,,47477861.372,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1257869571,1257869571.425,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,56,Belgium,BEL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,3302,3302.792,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,76,Brazil,BRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14615380,14615380.334,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,156,China,CHN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,28662948,28662948.598,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,15234083,15234083.444,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,251,France,FRA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,609985,609985.796,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,392,Japan,JPN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,11910219,11910219.377,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,7121467,7121467.055,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,484,Mexico,MEX,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2073445,2073445.001,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,490,"Other Asia, nes",S19,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5143,5143.015,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,137288448,137288448.687,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,10524574,10524574.108,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,591,Panama,PAN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,25711243,25711243.045,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,724,Spain,ESP,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,5711689,5711689.951,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,740,Suriname,SUR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1547,1547.485,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,757,Switzerland,CHE,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1264844,1264844.199,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,780,Trinidad and Tobago,TTO,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,1468673,1468673.17,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,826,United Kingdom,GBR,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,16849035,16849035.328,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,678767529,678767529.135,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,4468303,4468303.274,,0
-H4,2018,2018,2018,5,0,0,M,533,Aruba,ABW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,295577707,295577707.63,,0
-H4,2018,2018,2018,5,0,0,X,533,Aruba,ABW,0,World,W00,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,69762736,,69762736.871,0
-H4,2018,2018,2018,5,0,0,X,533,Aruba,ABW,170,Colombia,COL,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,14632449,,14632449.601,0
-H4,2018,2018,2018,5,0,0,X,533,Aruba,ABW,528,Netherlands,NLD,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2812149,,2812149.741,0
-H4,2018,2018,2018,5,0,0,X,533,Aruba,ABW,531,Curaçao,CUW,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,527121,,527121.582,0
-H4,2018,2018,2018,5,0,0,X,533,Aruba,ABW,842,USA,USA,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,12519250,,12519250.425,0
-H4,2018,2018,2018,5,0,0,X,533,Aruba,ABW,862,Venezuela,VEN,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,2841937,,2841937.998,0
-H4,2018,2018,2018,5,0,0,X,533,Aruba,ABW,899,"Areas, nes",_X ,0,World,W00,C00,All CPCs,0,All MOTs,TOTAL,All Commodities,-1,N/A,0,-1,N/A,0,,,36429827,,36429827.524,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117122531,,,4
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95396491,,,4
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,901364,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476502,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68574,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14347015,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17022453,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,780577,,,4
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15181208,,,4
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22709720,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1618671,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32917,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1242111,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8442236,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15159457,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6631888,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1034543,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46168,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3176590,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99635099,,,4
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8122973,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6815682,,,4
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5525308,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18320524,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2531392,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2864938,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593290,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1080659,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287868,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,688192,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150837,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21640466,,,4
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,488900220,,,4
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1908570,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,526995,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,597420,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14443396,,,0
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9651344,,,0
+H4,2016,2016,2016,0,0,1,Import,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381336777,,,4
+H4,2016,2016,2016,0,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38025058,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1194930129,,,4
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88833337,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21259242,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27180790,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27861792,,,4
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17749629,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15096948,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14658568,,,0
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4705810,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154973718,,,4
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8626832,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15209566,,,4
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8424713,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33044164,,,0
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3843745,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10674139,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16883187,,,0
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,520145,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13168180,,,0
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662804832,,,4
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18898563,,,4
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348570,,,0
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11891172,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182114997,,,4
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13824154,,,4
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1255956119,,,4
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69470374,,,4
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25679468,,,0
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35065642,,,4
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25959846,,,4
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14908474,,,4
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13622055,,,0
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24615105,,,0
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410535,,,0
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158797675,,,4
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8813693,,,0
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16189135,,,0
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9547719,,,4
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33595947,,,4
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1679031,,,0
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2465111,,,0
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17055365,,,0
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,817583,,,0
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14075704,,,0
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,713508859,,,4
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20226306,,,4
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,989349,,,0
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5401297,,,0
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175326203,,,4
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6676382,,,4
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1313806452,,,4
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78642939,,,4
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24470560,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43224043,,,4
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30631657,,,4
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6197523,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12750469,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17384241,,,0
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,649429,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169480567,,,4
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6411071,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15888148,,,4
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13438423,,,4
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38430232,,,4
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5172524,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11180224,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21185226,,,0
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,821167,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14890141,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698274865,,,4
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24510023,,,0
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,854989,,,0
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14054430,,,0
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216016072,,,4
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6533356,,,4
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,939368007,,,4
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65929725,,,4
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20846728,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34048101,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26844804,,,4
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9544519,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4471257,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9229982,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324770,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144967875,,,4
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5450682,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14966738,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15322131,,,4
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34488112,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1757653,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12572914,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8759469,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299368,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6836521,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,492931273,,,4
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19659185,,,4
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1431575,,,0
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7077517,,,0
+H4,2020,2020,2020,0,0,1,Import,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128404228,,,4
+H4,2020,2020,2020,0,0,2,Export,533,Aruba,ABW,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5062320,,,0
