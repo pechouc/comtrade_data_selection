@@ -1,0 +1,67 @@
+anguilla.csv --> No data
+asean.csv --> Ok
+bangladesh.csv --> No data 
+belgium_luxembourg.csv --> No data, not useful
+bhutan.csv --> No data
+bonaire.csv --> No data
+british_virgin_islands.csv --> No data
+cayman_islands.csv --> No data
+chad.csv --> No data
+cook_islands.csv --> No data
+cuba.csv --> No data
+curacao.csv --> No data
+czechoslovakia.csv --> No data, not useful
+democratic_republic_of_korea.csv --> No data
+djibouti.csv --> No data
+dominica.csv --> No data
+east_west_pakistan.csv --> No data, not useful
+equatorial_guinea.csv --> No data
+eritrea.csv --> No data
+faeroe_islands.csv --> No data
+falkland_islands.csv --> No data
+french_guiana.csv --> No data
+fs_micronesia.csv --> No data
+gabon.csv --> No data
+gibraltar.csv --> No data
+guadeloupe.csv --> No data
+guinea_bissau.csv --> No data
+haiti.csv --> No data
+india_excl_sikkim.csv --> No data, not useful
+liberia.csv --> No data
+marshall_islands.csv --> No data
+martinique.csv --> No data
+mayotte.csv --> No data
+montserrat.csv --> No data
+n_mariana_islands.csv --> No data
+netherlands_antilles.csv --> No data
+netherlands_antilles_and_aruba.csv --> No data
+new_caledonia.csv --> No data
+papua_new_guinea.csv --> No data
+peninsula_malaysia.csv --> No data
+reunion.csv --> No data
+ryukyu_island.csv --> No data
+sabah.csv --> No data
+saint_barthelemy.csv --> No data
+saint_helena.csv --> No data
+saint_kitts_nevis_and_anguilla.csv --> No data
+saint_maarten.csv --> No data
+saint_pierre_and_miquelon.csv --> No data
+san_marino.csv --> No data
+sarawak.csv --> No data
+serbia_and_montenegro.csv --> No data
+somalia.csv --> No data
+south_african_customs_union.csv --> No data
+south_sudan.csv --> No data
+syria.csv --> No data
+tokelau.csv --> No data
+tonga.csv --> No data
+trinidad_and_tobago.csv --> No data
+turkmenistan.csv --> No data
+turks_and_caicos.csv --> No data
+tuvalu.csv --> No data
+us_before_1981.csv --> No data, not useful
+us_virgin_islands.csv --> No data
+vanuatu.csv --> No data
+vatican.csv --> No data
+venezuela.csv --> No data
+wallis_and_futuna.csv --> No data
