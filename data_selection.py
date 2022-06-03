@@ -24,7 +24,7 @@ def get_selected_data():
     data = pd.concat(dataframes, axis=0)
 
     # We focus on imports and re-imports
-    data = data[data['Trade Flow'].isin(['M', 'RM'])].copy()
+    data = data[data['Trade Flow'].isin(['Import', 'Re-Import'])].copy()
 
     # We eliminate the records with World as a partner
     data = data[data['Partner'] != 'World'].copy()
@@ -34,13 +34,13 @@ def get_selected_data():
     data = data[data['Reporter ISO'] != data['Partner ISO']].copy()
 
     # We do not differentiate based on the 2nd partner and thus select World as a 2nd partner
-    data = data[data['2nd Partner'] == 'World'].copy()
+    # data = data[data['2nd Partner'] == 'World'].copy()
 
     # We do not differentiate based on transport mode and thus focus on "All MOTs"
-    data = data[data['Mode of Transport Code'] == 0].copy()
+    # data = data[data['Mode of Transport Code'] == 0].copy()
 
     # We do not differentiate based on customs procedures and thus select records for any customs procedure
-    data = data[data['Customs Proc. Code'] == 'C00'].copy()
+    # data = data[data['Customs Proc. Code'] == 'C00'].copy()
 
     # In some cases (in fact, for Georgia in 2018), the same trade flows are presented under several classifications
     # (H4 and H5, where H stands for the Harmonized System); in such cases, we only retain records with H5
