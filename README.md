@@ -28,7 +28,7 @@ Since these data files were downloaded one by one, they might be subject to mist
 
 - As mentioned above, checks are run to assess the quality of the data thereby gathered. These are presented in the `database_checks.ipynb` notebook. They notably involve checking the number of records in the different files, matching the names of the files with the associated reporter country or checking the consistency of the different files with each reporter country's total imports and re-imports;
 
-- `data_selection.py`, that can be run from the command line, encapsulates the selection of the relevant information in this overall dataset. In essence, it consists in gathering the different datasets and concatenating them in a single DataFrame, focusing on imports and re-imports in which I am ultimately interested, and restricting the resulting table to the variables of interest. Its output is the `selected_comtrade_data.csv` file. Please note that **the latter will be overwritten if you run the Python script from the commande line**;
+- `data_selection.py`, that can be run from the command line, encapsulates the selection of the relevant information in this overall dataset. In essence, it consists in gathering the different datasets and concatenating them in a single DataFrame and restricting the resulting table to the variables of interest. Its output is the `selected_comtrade_data.csv` file. Please note that **the latter will be overwritten if you run the Python script from the commande line**;
 
 - Eventually, the `notes` folder contains some text files that have been useful when gathering these data.
 
