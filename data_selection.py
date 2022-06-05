@@ -23,6 +23,19 @@ def get_selected_data():
 
     data = pd.concat(dataframes, axis=0)
 
+    # We identify "Other Asia, nes" as Taiwan both among the reporters and the partners
+    data['Reporter'] = data['Reporter'].map(lambda x: {'Other Asia, nes': 'Taiwan'}.get(x, x))
+    data['Reporter ISO'] = data.apply(
+        lambda row: 'TWN' if row['Reporter'] == 'Taiwan' else row['Reporter ISO'],
+        axis=1
+    )
+    data['Partner'] = data['Partner'].map(lambda x: {'Other Asia, nes': 'Taiwan'}.get(x, x))
+    data['Partner ISO'] = data.apply(
+        lambda row: 'TWN' if row['Partner'] == 'Taiwan' else row['Partner ISO'],
+        axis=1
+    )
+
+
     # We focus on imports and re-imports
     # data = data[data['Trade Flow'].isin(['Import', 'Re-Import'])].copy()
 
