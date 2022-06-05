@@ -24,7 +24,7 @@ def get_selected_data():
     data = pd.concat(dataframes, axis=0)
 
     # We focus on imports and re-imports
-    data = data[data['Trade Flow'].isin(['Import', 'Re-Import'])].copy()
+    # data = data[data['Trade Flow'].isin(['Import', 'Re-Import'])].copy()
 
     # We eliminate the records with World as a partner
     data = data[data['Partner'] != 'World'].copy()
